@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“咦？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180623T100145Z" creationid="Ceti" creationdate="20180623T100145Z">
+        <seg>"Eh?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哦……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085708Z" creationid="Ceti" creationdate="20180623T085708Z">
@@ -1514,6 +1522,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084533Z" creationid="Lilly" creationdate="20180609T084533Z">
         <seg>Ling Xiao nodded. “Go on, I’m listening.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄点点头，“玄龟一族的人都有这个特性，他们很喜欢拖时间，除非到最后一刻，否则绝不会出现，对了，上次我们在北阳城遇到的方迟尧，他的契约妖兽似乎就是通灵玄龟。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180623T100140Z" creationid="Ceti" creationdate="20180623T100140Z">
+        <seg>Ling Xiao nodded, "Those from the Black Tortoise Clan have this characteristic. They like to stall for time and absolutely will not appear unless it's the last moment. Oh yes, Fang ChiYao who we previously met in BeiYang City seemed to have a Physic Black Tortoise (通灵玄龟) as his contracted demon beast."</seg>
       </tuv>
     </tu>
     <tu>
