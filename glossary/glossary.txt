@@ -32,3 +32,27 @@
 安桥	An Qiao
 空间符	teleportation talisman
 灵晶	spirit gem
+丹师工会	Mage Association
+驭兽工会	Beast Transfiguration Guild/Association
+闭关	secluded cultivation 
+本命契约	lifebound contract
+灵晶	Spirit gems
+晋级	advance
+识海	sea of consciousness
+人境	Man Realm
+地境	Earth Realm
+天境	Sky Realm
+日境	Sun Realm
+月境	Moon Realm
+星境	Star Realm
+辰境	Celestial Realm
+灵境	Spiritual Realm
+皇境	Imperial Realm
+帝境	Emperor Realm
+神境	Divine Realm
+圣境	Sacred Realm
+妖凰族	Demon Phoenix Clan
+姬凤	Ji Feng
+麒麟族	Qilin Clan
+太白	Tai Bai
+苍盟盟主	Head of the Cang Alliance
