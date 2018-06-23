@@ -2264,8 +2264,8 @@
       <tuv lang="ZH-CN">
         <seg>广场说话的声音霎时安静了下来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180623T125831Z" creationid="Ceti" creationdate="20180623T125831Z">
-        <seg>The sounds of chattering instantly quietened in the plaza/</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180623T140504Z" creationid="Ceti" creationdate="20180623T125831Z">
+        <seg>The sounds of chattering instantly quietened in the plaza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3818,6 +3818,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090251Z" creationid="Lilly" creationdate="20180609T090048Z">
         <seg>Now the Teng and Chai families were preparing to gang up on Ling Xiao. Though this was a very dirty move to make, it was common in a free-for-all. Too bad for this talent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>眼前这名老者可是真正站在通天大陆顶端的强者，就算姬凤他们有族人在背后撑腰，他们也不可能得罪游震天。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180623T140500Z" creationid="Ceti" creationdate="20180623T140500Z">
+        <seg>This elderly man before their eyes</seg>
       </tuv>
     </tu>
     <tu>
