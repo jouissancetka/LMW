@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄面色不变：“拒绝人身攻击。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180623T142011Z" creationid="Ceti" creationdate="20180623T142011Z">
+        <seg>Ling Xiao's expression had no change, "Personal attacks are rejected/denied." (拒绝人身攻击)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄：“呵呵……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084816Z" creationid="Lilly" creationdate="20180609T084816Z">
@@ -3194,6 +3202,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093147Z" creationid="Lilly" creationdate="20180609T093147Z">
         <seg>Watching the pill slowly form in his cauldron, You XiaoMo lifted his hand to wipe off some sweat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默看着凌霄说：“每次你毫不犹豫的给我介绍赤血家族的人时，我就会觉得你才是赤血家族的人。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180623T141847Z" creationid="Ceti" creationdate="20180623T141847Z">
+        <seg>You XiaoMo looked at Ling Xiao and said, "Every time you introduce a member of the Vermillion Blood Clan to me without the slightest hesitation, I will feel that you're the one from the Vermillion Blood Clan."</seg>
       </tuv>
     </tu>
     <tu>
