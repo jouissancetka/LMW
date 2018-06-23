@@ -31,3 +31,4 @@
 通天大陆	TongTian Continent
 安桥	An Qiao
 空间符	teleportation talisman
+灵晶	spirit gem
