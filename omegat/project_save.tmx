@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你若不愿意，那便算了，我可不想无缘无故惹一身骚。”银戈作势要走。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180626T132215Z" creationid="Ceti" creationdate="20180626T132215Z">
+        <seg>"If you're not willing, then we can forget it. I dont wish to attract a whole lot of trouble for no reason." Yin Ge turned and was about to walk away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你说什么，还要付一个积分？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T120650Z" creationid="Lilly" creationdate="20180616T120650Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T145925Z" creationid="Lilly" creationdate="20180609T145919Z">
         <seg>"Got it, Uncle."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“等等！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180626T132241Z" creationid="Ceti" creationdate="20180626T132241Z">
+        <seg>"Hold on!"</seg>
       </tuv>
     </tu>
     <tu>
