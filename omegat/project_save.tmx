@@ -176,8 +176,8 @@
       <tuv lang="ZH-CN">
         <seg>“你——”麟昊武怒指着他，眼睛却瞪着凌霄：“不要以为你朋友是麒麟族就可以在本少爷面前嚣张，惹恼了我，就算他回到麒麟族，我也有办法让他在麒麟族过不下去。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180627T130744Z" creationid="Ceti" creationdate="20180627T130744Z">
-        <seg>	"You - " Lin HaoWu pointed at him in fury, yet his eyes were staring at Ling Xiao. "Don't think that just because your friend is from the Qilin Clan you can run rampant in front of this young master. If you offend me, even if  </seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180627T130912Z" creationid="Ceti" creationdate="20180627T130744Z">
+        <seg>"You - " Lin HaoWu pointed at him in fury, yet his eyes were staring at Ling Xiao. "Don't think that just because your friend is from the Qilin Clan you can run rampant in front of this young master. If you offend me, I still have ways to make his life difficult in the Qilin Clan even if he returns back to the Qilin Clan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3146,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T122409Z" creationid="Lilly" creationdate="20180616T122409Z">
         <seg>You XiaoMo almost coughed out blood. What a ripoff!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默差点笑喷了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180627T130906Z" creationid="Ceti" creationdate="20180627T130906Z">
+        <seg>You XiaoMo nearly burst out in laughter.</seg>
       </tuv>
     </tu>
     <tu>
