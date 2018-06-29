@@ -2726,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>拿到储物袋的游单瞥了他一眼：“还不快走？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T025950Z" creationid="Lilly" creationdate="20180629T025950Z">
+        <seg>You Dan glanced at him after receiving the bags. "Why aren't you leaving yet?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>据颜辉后来提起，他说反应最剧烈的人&lt;t0/&gt;就数安桥&lt;t1/&gt;。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T095447Z" creationid="Lilly" creationdate="20180616T095447Z">
@@ -3000,8 +3008,16 @@
       <tuv lang="ZH-CN">
         <seg>游单外貌很老，身材却十分魁梧健壮，他走过来上下打量了游小默一眼，方道：“把东西都给我，你可以走了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180628T040414Z" creationid="Lilly" creationdate="20180628T040414Z">
-        <seg>You Dan looked very old, but he had a well-built physique. He walked over and scrutinized You XiaoMo for a moment before saying, "Give me what you've taken and you can leave."</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T030022Z" creationid="Lilly" creationdate="20180628T040414Z">
+        <seg>You Dan looked very old, but he had a well-built physique. He walked over and scrutinized You XiaoMo for a moment before saying, "Give me what you have and you can leave."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游单站在原地看着他的身影走下第八层，这才转身回九层。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T030057Z" creationid="Lilly" creationdate="20180629T030057Z">
+        <seg>You Dan stood there, watching his figure disappear to the eighth floor before returning to the ninth floor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3146,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085807Z" creationid="Ceti" creationdate="20180623T085807Z">
         <seg>You XiaoMo discovered, in addition to Qiao WuXing and Jiu Ye, this birthday banquet was basically the realm of the youngsters (年轻人的天下). Could it be that the head of the Cang Alliance actually intended to let his little disciple make more close friends?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默只好往回走。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T030007Z" creationid="Lilly" creationdate="20180629T030007Z">
+        <seg>You XiaoMo could only go back the way he came.</seg>
       </tuv>
     </tu>
     <tu>
