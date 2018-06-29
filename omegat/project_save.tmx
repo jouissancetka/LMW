@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不用”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062036Z" creationid="Lilly" creationdate="20180629T062036Z">
+        <seg>"I don't need to."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不要闹事，这里可是苍盟的地盘。”老者的声音在他耳边淡淡的响起。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T042530Z" creationid="Ceti" creationdate="20180623T042530Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T083439Z" creationid="Ceti" creationdate="20180623T083439Z">
         <seg>"Other people are totally ignoring you. This is truly shameful!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“什么”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062040Z" creationid="Lilly" creationdate="20180629T062040Z">
+        <seg>"What?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“就算不小心，也没人能奈何得了我。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062051Z" creationid="Lilly" creationdate="20180629T062051Z">
+        <seg>"Even if I'm not careful, no one can take me on."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“就这样？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T123541Z" creationid="Lilly" creationdate="20180616T123541Z">
@@ -610,6 +634,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180626T134555Z" creationid="Ceti" creationdate="20180626T134541Z">
         <seg>"Got it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我知道了，你也要小心。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062030Z" creationid="Lilly" creationdate="20180629T062030Z">
+        <seg>"Got it. You be careful, too."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1490,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T132335Z" creationid="Ceti" creationdate="20180627T132335Z">
         <seg>Do you think that he's blind?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>以我估计，关在第十层的人应该是三个人以下，比较好找，这一层只能硬闯，等我们顺利救出风迟云后，我会负责吸引两兄弟的注意力，到时利用空间的&lt;t0/&gt;移动性先离开&lt;t1/&gt;禁地，并通知&lt;t2/&gt;银戈他们&lt;t3/&gt;。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062022Z" creationid="Lilly" creationdate="20180629T062011Z">
+        <seg>"My guess is that there'll be three or less people imprisoned on the tenth floor, so it'll be easy to look through them. After we successfully save Feng ChiYun, I'll distract the two brothers and you use your dimension to leave first and inform Yin Ge and the others."</seg>
       </tuv>
     </tu>
     <tu>
