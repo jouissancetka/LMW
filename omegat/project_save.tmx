@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那个……”游小默打断他的话，“我接下来几个月应该会在中天的逍遥院里，如果你想见我，只要花一枚空间符就随时能见到我了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180630T045805Z" creationid="Ceti" creationdate="20180630T045732Z">
+        <seg>“That...”, You XiaoMo interrupted him, “I'm going to be in ZhongTian's XiaoYao Academy for the next few months. If you want to see me, you can see me at any time by using a teleportation talisman.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那个玄色一族来了没有？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T091758Z" creationid="Ceti" creationdate="20180623T091758Z">
@@ -2074,6 +2082,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T082854Z" creationid="Lilly" creationdate="20180609T082733Z">
         <seg>Half a month ago, the geezer had said he needed to go somewhere, he didn’t specify where exactly or when he would return, but he had yet to come back. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>卫白：“……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180630T045813Z" creationid="Ceti" creationdate="20180630T045813Z">
+        <seg>Wei Bai, "... ..."</seg>
       </tuv>
     </tu>
     <tu>
