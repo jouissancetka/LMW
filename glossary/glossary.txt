@@ -165,3 +165,4 @@ xx 家	xx Family/Clan
 风迟云	Feng ChiYun
 银戈	Yin Ge
 麟昊武	Lin HaoWu
+灵丹	magic pill
