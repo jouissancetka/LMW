@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“利用这只蛊可以控制风迟云的行动，所以我们怀疑这只是母蛊，风迟云体内那只应该是子蛊，不过我们用了很多种办法吧子蛊引出来，动静太大，子蛊会不安，反会对宿体造成生命威胁。”展雨轩解释道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180630T082650Z" creationid="Ceti" creationdate="20180630T082650Z">
+        <seg>"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“别哭，他不喜欢你是他的损失，你可是驭兽工会的天心大小姐，追你的人多的是，我们不能让别人看不起是不是？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T150316Z" creationid="Lilly" creationdate="20180609T150316Z">
@@ -3876,6 +3884,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T122531Z" creationid="Lilly" creationdate="20180621T122531Z">
         <seg>You XiaoMo took a card and wrote down his name and that level ten pill.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默探头，“这只蛊有什么作用？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180630T082646Z" creationid="Ceti" creationdate="20180630T082646Z">
+        <seg>You XiaoMo extend his head out/stretched his neck over, "What's the purpose of this Gu?"</seg>
       </tuv>
     </tu>
     <tu>
