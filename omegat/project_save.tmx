@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“嘎嘎嘎！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100831Z" creationid="Ceti" creationdate="20180701T100831Z">
+        <seg>'Hey!!'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“多谢。”游小默拿回玉瓶，顿了顿又问：“请问你们楼里有卖制作空间符的黑玉吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T112418Z" creationid="Lilly" creationdate="20180621T112418Z">
@@ -1050,6 +1058,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T113443Z" creationid="Lilly" creationdate="20180621T113443Z">
         <seg>"We definitely have black jade, but since it's very rare, it'll be expensive."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“？？？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100649Z" creationid="Ceti" creationdate="20180701T100649Z">
+        <seg>"???"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2528,6 +2544,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>可是不对啊！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100751Z" creationid="Ceti" creationdate="20180701T100751Z">
+        <seg> But not right!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>台下在一片寂静之后，霎时响起一阵&lt;t0/&gt;阵&lt;t1/&gt;窃窃私语的声音，在他们看来，凌霄完全可以算是这次大赛的一匹黑马了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T091328Z" creationid="Lilly" creationdate="20180609T091328Z">
@@ -2572,6 +2596,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T091631Z" creationid="Lilly" creationdate="20180609T091631Z">
         <seg>The name list made people unsure about how to react.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>吞金兽和金翅虫仰起头，不解的看着变成化石的主人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100714Z" creationid="Ceti" creationdate="20180701T100714Z">
+        <seg>The swallowing beast and the golden-winged insect looked up and looked at the owner of the fossil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>吞金兽笑得前俯后仰，蠢主人果然也怕大人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100845Z" creationid="Ceti" creationdate="20180701T100845Z">
+        <seg>The swallowing gold beast laughs and leans forward. The stupid master is also afraid of adults.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3818,6 +3858,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默一掌劈在他头上，不爽的喊道：“笑屁啊，有什么好笑的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100856Z" creationid="Ceti" creationdate="20180701T100856Z">
+        <seg>You Xiaomo squatted on his head and shouted uncomfortably: 'Laughter, what a funny thing.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默一脸为难。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084128Z" creationid="Lilly" creationdate="20180609T084128Z">
@@ -3830,6 +3878,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T025515Z" creationid="Lilly" creationdate="20180616T025515Z">
         <seg>You XiaoMo didn't like people who concealed their intentions when speaking. Like Ling Xiao said, he wasn't all that intelligent, so he couldn't beat others with brain, so he felt more at ease interacting with people who were straight forwards, and he might even gain a sense of superiority if the other was even more stupid than he was.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默不死心又试了一次，结果还是一样，明明石头是亮着的，但是过几秒又被掐断了，立刻坐实了他的猜测。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100722Z" creationid="Ceti" creationdate="20180701T100722Z">
+        <seg>You Xiaomo did not give up and tried again. The result was the same. The stone was bright, but after a few seconds it was cut off, and he immediately took his guess.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3926,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T095236Z" creationid="Ceti" creationdate="20180701T094336Z">
         <seg>You XiaoMo had overheard that Jiang Liu wanted that dragon blood to refine a kind of magic pill. It was said to be a unusual magic pill that was for the soul and was very important to him, so he had to be the first in the selection trials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默像被雷劈到似的，一脸难以置信，凌霄竟然主动掐断与他的联系？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100703Z" creationid="Ceti" creationdate="20180701T100703Z">
+        <seg>Yu Xiaomo was like a thunder, and his face was unbelievable. Ling Xiao unexpectedly cut off his contact with him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,6 +4022,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T094940Z" creationid="Lilly" creationdate="20180629T094940Z">
         <seg>You XiaoMo opened his mouth in shock. He was about to speak when Ling Xiao abruptly sent the man into his pocket dimension and quickly said, "Let's go."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默后知后觉的发现这个事实，他都忘了是因为那件乌龙事件才会与凌霄分开的，要是被他找到，他的下场恐怕不会太好，想想就一阵胆寒，看来近期不能与凌霄联系。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100742Z" creationid="Ceti" creationdate="20180701T100742Z">
+        <seg>After discovering this fact, Xiao Ming discovered that he had forgotten that the oolong incident would be separated from Ling Xiaoyu. If he were found by him, he might not be too good in the end. If he thinks about it, he would be afraid to see it. You can't contact Ling Xiao in the near future.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4346,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默正准备收起传音石的动作又停了下来，凌霄现在应该很想找到他才对，所以不可能会主动掐断与他的联系，除非……凌霄已经知道他在哪里。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100802Z" creationid="Ceti" creationdate="20180701T100802Z">
+        <seg>You Xiaomo is preparing to put away the sound of the stone and stopped. Ling Xiao should now want to find him right, so it is impossible to take the initiative to cut off his contact, unless... Ling Xiao already knows where he is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默求助看向乔无星。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T135714Z" creationid="Lilly" creationdate="20180609T135714Z">
@@ -4334,6 +4414,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100246Z" creationid="Ceti" creationdate="20180701T094429Z">
         <seg>You XiaoMo scratched his head in agitation, and suddenly remembered that it had already been a day since he had last tried to contact Ling Xiao with a transmission stone. When he thought of this, he immediately fished out the transmission stone and tried it without hoping for anything... ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默用传音石继续默默的呼唤凌霄，大有你不接我就不罢休的架势，希望这种坚持能够将功抵过，凌霄能看在他这么坚定不移的份上从轻发落。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100818Z" creationid="Ceti" creationdate="20180701T100818Z">
+        <seg>You Xiaomu used the voice stone to continue to silently call Ling Xiao, and there is a posture that you will not give up if you don’t pick me up. I hope that this kind of persistence can make a difference. Ling Xiao can see that he is so steadfast in his unshakable share. .</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4654,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T051434Z" creationid="Lilly" creationdate="20180613T051434Z">
         <seg>You XiaoMo said, "This isn't called having a silver tongure, it's just stating the truth."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默赶紧平复激动的心情，拿好传音石，张口准备先来一句问好，闪烁的传音石突然就暗了下去……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100643Z" creationid="Ceti" creationdate="20180701T100643Z">
+        <seg>You Xiaomo quickly calmed down the excitement and took the sound stone. Zhangkou was ready to say hello first, and the flashing stone suddenly darkened...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5126,6 +5222,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T040804Z" creationid="Lilly" creationdate="20180613T040804Z">
         <seg>Seeing this, everyone's expressions twisted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>看来凌霄在生气……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100730Z" creationid="Ceti" creationdate="20180701T100730Z">
+        <seg>It seems that Ling Xiao is angry...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6188,6 +6292,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T083210Z" creationid="Lilly" creationdate="20180609T083210Z">
         <seg>This breakthrough was achieved in even less time than the one from four to five; usually the higher one’s level, the harder cultivation becomes, but with the old geezer’s pointers, his cultivation speed saw much improvement. Now, he no longer need both hands to help with the refining process of pills, and instead, like how the old geezer used a cauldron to refine pills, he could do it through releasing his soul power.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这真是个不好的预感！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100809Z" creationid="Ceti" creationdate="20180701T100809Z">
+        <seg>This is really a bad feeling!</seg>
       </tuv>
     </tu>
     <tu>
