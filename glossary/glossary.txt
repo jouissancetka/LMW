@@ -164,3 +164,4 @@ xx 家	xx Family/Clan
 麟昊武	Lin HaoWu
 灵丹	magic pill
 绵绵山	Amaranthine Mountain
+传音石	transmission stone
