@@ -165,3 +165,4 @@ xx 家	xx Family/Clan
 灵丹	magic pill
 绵绵山	Amaranthine Mountain
 传音石	transmission stone
+金翅虫	Golden Winged Insect
