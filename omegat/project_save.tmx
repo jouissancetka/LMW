@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>两只金翅虫围着他们一个劲的幸灾乐祸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T122710Z" creationid="Ceti" creationdate="20180701T122710Z">
+        <seg>The two Golden Winged Insect surrounded them and continuously took joy in calamity and delight in disaster. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>为了关押这里的人，赤血家族也算下了血本，因为级别越高的玄铁越不容易得到。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T053818Z" creationid="Lilly" creationdate="20180629T053818Z">
@@ -2610,8 +2618,8 @@
       <tuv lang="ZH-CN">
         <seg>吞金兽的笑声戛然而止。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100916Z" creationid="Ceti" creationdate="20180701T100916Z">
-        <seg>The laughter of the swallowing beast stopped.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T122608Z" creationid="Ceti" creationdate="20180701T100916Z">
+        <seg>The laughter of the Metal Swallowing Beast abruptly ceased.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3868,8 +3876,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默一掌劈在他头上，不爽的喊道：“笑屁啊，有什么好笑的。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100856Z" creationid="Ceti" creationdate="20180701T100856Z">
-        <seg>You Xiaomo squatted on his head and shouted uncomfortably: 'Laughter, what a funny thing.'</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T122525Z" creationid="Ceti" creationdate="20180701T100856Z">
+        <seg>You XiaoMo gave him a head-chop with his hand, shouted in a bad mood, "Laugh my ass, what's so funny!?"</seg>
       </tuv>
     </tu>
     <tu>
