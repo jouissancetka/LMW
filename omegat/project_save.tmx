@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你撒谎。”男人轻描淡写的道，“最后一句是真的，但前面都是假的吧，那十人明明问的是将你送到村子的青年的事情，老头，都这么大岁数了，撒谎可不好。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075856Z" creationid="Ceti" creationdate="20180701T075856Z">
+        <seg>'You lied.' The man said in a down-to-earth manner, 'The last sentence is true, but the front is all fake. The ten people clearly asked about the youth who sent you to the village. The old man is so old. It is not good to lie.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你是在眶我吗？”银戈不悦地道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180625T142001Z" creationid="Ceti" creationdate="20180625T142001Z">
@@ -1090,6 +1098,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T042507Z" creationid="Ceti" creationdate="20180623T042507Z">
         <seg>Sorry but he didn't hear it!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不想，翁公神情突然多了一丝微妙的戒备。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075754Z" creationid="Ceti" creationdate="20180701T075754Z">
+        <seg>I don't want to, Weng Gong's expression suddenly has a hint of subtle alert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4834,6 +4850,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>男人笑着反问道：“这就是你对待救命恩人的态度？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075825Z" creationid="Ceti" creationdate="20180701T075825Z">
+        <seg>The man smiled and asked: 'Is this your attitude towards the savior?'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>男子嘴角勾起一抹狂傲，“好了，是选择留下一只手和一条腿，还是把命交代在这里，选吧。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T052551Z" creationid="Lilly" creationdate="20180613T052551Z">
@@ -5231,6 +5255,22 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>翁公却没有丝毫意外，“不管怎么说，仙师确实救了老朽一命。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075724Z" creationid="Ceti" creationdate="20180701T075724Z">
+        <seg>Weng Gong was not surprised in the slightest, "Regardless, Sir Immortal did save this old fogey's life."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>翁公镇定的说道：“仙师，实不相瞒，老朽也不知道他们为何找上门来，在这之前，老朽从未与他们见过面。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075852Z" creationid="Ceti" creationdate="20180701T075852Z">
+        <seg>Wenggong calmly said: 'The immortal teacher, really does not contradict each other, the old age does not know why they came to the door, before this, the old has never met with them.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老实巴交的程向荣立刻附和的点点头。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T133353Z" creationid="Lilly" creationdate="20180609T133353Z">
@@ -5451,6 +5491,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T040121Z" creationid="Lilly" creationdate="20180613T040121Z">
         <seg>When he landed, One-Eyed Scarface used the ball of right foot as a pivot point, swiftly readjusting his position and, with a push, shot out at You XiaoMo like a bullet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>虽然他做得很隐秘，但黑衣男人却注意到了，本来他只是随口一问而已，见他露出这种反应，顿时觉得有点意思。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075811Z" creationid="Ceti" creationdate="20180701T075759Z">
+        <seg>Although he was very secretive, the man in black noticed that he had just asked him a word. Seeing this reaction, he felt a little bit interesting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6516,6 +6564,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T150026Z" creationid="Ceti" creationdate="20180626T153251Z">
         <seg>Lin HaoWu choked and he speedily rebutted, "I can tell just by looking at you when you were eating. I had never seen someone who eats as disgustingly as you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣男人没有回话，准备走人的时候突然又停住了，偏头看着翁公，“你不过是一介普通人，玉仙城的人为何会找你？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075752Z" creationid="Ceti" creationdate="20180701T075752Z">
+        <seg>The man in black didn't answer. When he was ready to leave, he suddenly stopped. He looked at Weng Gong. 'You are just an ordinary person. Why do people in Yuxian City look for you?'</seg>
       </tuv>
     </tu>
     <tu>
