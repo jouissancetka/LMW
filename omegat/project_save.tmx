@@ -264,8 +264,8 @@
       <tuv lang="ZH-CN">
         <seg>“你撒谎。”男人轻描淡写的道，“最后一句是真的，但前面都是假的吧，那十人明明问的是将你送到村子的青年的事情，老头，都这么大岁数了，撒谎可不好。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T075856Z" creationid="Ceti" creationdate="20180701T075856Z">
-        <seg>'You lied.' The man said in a down-to-earth manner, 'The last sentence is true, but the front is all fake. The ten people clearly asked about the youth who sent you to the village. The old man is so old. It is not good to lie.'</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082240Z" creationid="Ceti" creationdate="20180701T075856Z">
+        <seg>"You're lying." The man mildly commented, "The last sentence is true, but the front part is all false. Those ten people were clearly asking about the youth who sent you to the village. Old fellow, you're already so old, it's not good to lie."</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T135158Z" creationid="Lilly" creationdate="20180609T135158Z">
         <seg>"Where are you going?" Tian Xin asked, seeing that he seemed to intend to head out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你都听到了？”翁公还以为他是突然出现的，没想到他竟然在他们说话的时候就已经在了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082307Z" creationid="Ceti" creationdate="20180701T082307Z">
+        <seg>'Have you heard that?' Weng Gong thought he was suddenly appearing. He didn't expect him to be there when they spoke.</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“没有。”翁公矢口否认。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082435Z" creationid="Ceti" creationdate="20180701T082435Z">
+        <seg>'No.' Wenggong denied it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“混账东西，你们是什么人？”声音的主人顿时怒了，充满怒气的威压从上面铺天盖地的袭来，一道黑色的身影出现在他们前方。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T075849Z" creationid="Lilly" creationdate="20180629T075849Z">
@@ -938,6 +954,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T091758Z" creationid="Ceti" creationdate="20180623T091758Z">
         <seg>"Not a single one from that black colored clan came?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那么，那个青年做了什么事让玉仙城的人惦记上他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082318Z" creationid="Ceti" creationdate="20180701T082318Z">
+        <seg>'So, what did the young man do to make the people of Yuxian City remember him?'</seg>
       </tuv>
     </tu>
     <tu>
@@ -4818,6 +4842,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>玉仙城才刚遭逢大难，作为大公子却跑到这种偏远的地方来，据他所知，星罗城再过不久就要举办选拔赛，这个时候他不应该出现在这里才对，除非有什么东西比选拔赛更重要。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082411Z" creationid="Ceti" creationdate="20180701T082411Z">
+        <seg>Yuxian City has just been in great difficulty. As a big son, he ran to such a remote place. As far as he knows, Star Luocheng will hold a trial in the near future. At this time, he should not appear here unless there is anything. Things are more important than trials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>现在，很多地方都在讨论一件事。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T031233Z" creationid="Lilly" creationdate="20180616T031233Z">
@@ -4850,10 +4882,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>男人知道，谜团和他们口中的青年有关。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082428Z" creationid="Ceti" creationdate="20180701T082428Z">
+        <seg>Men know that the mystery is related to the youth in their mouths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>男人笑着反问道：“这就是你对待救命恩人的态度？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T081432Z" creationid="Ceti" creationdate="20180701T075825Z">
         <seg>The man smiled and asked in reply, "Is this the attitude you have towards your savior?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>男人问了自己比较感兴趣的问题。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082402Z" creationid="Ceti" creationdate="20180701T082402Z">
+        <seg>The man asked questions that he was more interested in.</seg>
       </tuv>
     </tu>
     <tu>
