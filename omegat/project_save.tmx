@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144131Z" creationid="Lilly" creationdate="20180707T144131Z">
+        <seg>"..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“一切安好”银戈淡淡的&lt;t0/&gt;说道，“其实我父亲本来是打算亲自过来的，他人也已经到了北阳城，但因为突然发生一些事情，所以不得不改变计划，还望傅盟主见谅！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T142542Z" creationid="Lilly" creationdate="20180707T142542Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T083722Z" creationid="Lilly" creationdate="20180609T083722Z">
         <seg>“Oh, so it’s…you. Is there anything you want?” You XiaoMo smiled with a hint of awkwardness. He vaguely recalled that incident, but had forgotten her appearance. At that time, she was probably still a level five mage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“原来这就是你的计划。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144102Z" creationid="Lilly" creationdate="20180707T144102Z">
+        <seg>"So that was your plan."</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我没夸奖你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144125Z" creationid="Lilly" creationdate="20180707T144125Z">
+        <seg>"I didn't."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我看看”凌霄将玉盒递给游小默。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T012555Z" creationid="Ceti" creationdate="20180630T083658Z">
@@ -810,6 +834,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T150714Z" creationid="Lilly" creationdate="20180609T150714Z">
         <seg>"Can I really meet that person?" Tian Xin looked up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我知道。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144128Z" creationid="Lilly" creationdate="20180707T144128Z">
+        <seg>"I know."</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“知道了也不会有问题。”凌霄解释道：“银戈的父亲早就知道自己的儿子要去赤血家族救人，现在银戈把他拿出来当挡箭牌，就算九头蛇皇知道了，他也只会帮儿子隐瞒。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144055Z" creationid="Lilly" creationdate="20180707T144055Z">
+        <seg>"Even if he finds out, it won't matter." Ling Xiao explained. "Yin Ge's father knew since before that his son wanted to go to the ChiXue Family to save someone. Now that Yin Ge has brought him out as a shield, then even if the Nine Headed Snake King knew, he'd only help cover for his son."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“知道了，大叔。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T145925Z" creationid="Lilly" creationdate="20180609T145919Z">
@@ -1058,6 +1098,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T073546Z" creationid="Lilly" creationdate="20180629T073546Z">
         <seg>"Who said you could come up? Get out!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“过奖”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144120Z" creationid="Lilly" creationdate="20180707T144120Z">
+        <seg>"No need to compliment me."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2466,6 +2514,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T091656Z" creationid="Lilly" creationdate="20180629T091656Z">
         <seg>A strange smile appeared on Ling Xiao's face and, pushing off with the balls of his feet, he charged forwards and quickly arrived in front of You Shuang, not letting even a sliver of his overwhelmingly powerful presence leak. The other's shocked face was immediately magnified. Due to his miscalculation, he didn't have time to dodge at all. A fist, flashing with purple and red flames impacted with his fragile abdomen harshly...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄补充道：“不过游震天是个多疑的人，近日不做些奇怪的举动，等他回赤血城就没事了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144343Z" creationid="Lilly" creationdate="20180707T144343Z">
+        <seg>Ling Xiao supplemented, "However, You ZhenTian is a suspicious person. We can't do anything out too attention grabbing while he's still here. It'll be fine once he goes back to ChiXue City."</seg>
       </tuv>
     </tu>
     <tu>
