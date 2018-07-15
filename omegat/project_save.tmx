@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这位公子，胡话还是莫说为好。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180715T054007Z" creationid="Lilly" creationdate="20180715T054007Z">
+        <seg>"Young Gentleman, it's best if you don't sprout nonsense."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这是什么东西？”游小默好奇的问道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T072947Z" creationid="Lilly" creationdate="20180616T072947Z">
@@ -2096,8 +2104,8 @@
       <tuv lang="ZH-CN">
         <seg>他们都是凡人，对气运这种东西是一头雾水，所以都是&lt;t0/&gt;秉&lt;t1/&gt;着宁可信其有，不可信其无的信念。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180715T052153Z" creationid="Lilly" creationdate="20180715T052153Z">
-        <seg>They were all normal people, </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180715T053938Z" creationid="Lilly" creationdate="20180715T052153Z">
+        <seg>They were all normal people, and didn't know much about things like destiny, and operated on the idea of if there is then there is, if there isn't then never mind.</seg>
       </tuv>
     </tu>
     <tu>
