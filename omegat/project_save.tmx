@@ -4274,10 +4274,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>村民们顿时面面相觑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180715T035152Z" creationid="Lilly" creationdate="20180715T035152Z">
+        <seg>The immediately looked at each other.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>村长是一个四五十岁的中年人，看起来很憨厚，他代表大家走了出去，毕恭毕敬的走到&lt;t0/&gt;游小默面前&lt;t1/&gt;。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T034040Z" creationid="Lilly" creationdate="20180715T034040Z">
         <seg>The village head was a middle aged man of about forty or fifty and had an honest, straightforwards look about him, walking towards You XiaoMo respectfully.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>村长虽然对&lt;t0/&gt;游小默“高价收购”&lt;t1/&gt;四字很动心，但他更多的是考虑到胡村的安危，他们只是一介凡人，斗不过清风门。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180715T034957Z" creationid="Lilly" creationdate="20180715T034957Z">
+        <seg>Though the village head was tempted by You XiaoMo's "but it all at a high price", he was more worried about the safety of the people in Hu Village. They were only normal people and couldn't fight the QingFeng Sect.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,6 +5558,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T051434Z" creationid="Lilly" creationdate="20180613T051434Z">
         <seg>You XiaoMo said, "This isn't called having a silver tongure, it's just stating the truth."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默说：“这件事我已经听老伯说过，我听说胡村十年来一直受清风门的压迫，如果给你们机会搬离这里，你们愿意吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180715T035117Z" creationid="Lilly" creationdate="20180715T035117Z">
+        <seg>You XiaoMo said, "Your elder has already told me. I hear that the Hu Village has been oppressed by the QingFeng Sect for ten years. If I give you all a chance to leave this place, will you be willing?"</seg>
       </tuv>
     </tu>
     <tu>
