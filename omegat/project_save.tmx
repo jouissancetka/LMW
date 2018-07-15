@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“诸位若肯把灵草卖给我，我愿意以五百株二级灵草一枚灵晶的价格收购，另外我需要你们的田地，一亩田地加上没有成熟的灵草，我可以给大家一百枚灵晶。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180715T072426Z" creationid="Lilly" creationdate="20180715T072426Z">
+        <seg>"If you are willing to sell me your magic herbs, I'm willing to buy them at a price of one spirit gem per five hundred level 2 magic herbs. In addition, I need your fields. I'll buy one acre of farmland plus the immature magic herbs for one hundred spirit gems."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“谁准你们擅自上来的，滚下去！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T073546Z" creationid="Lilly" creationdate="20180629T073546Z">
