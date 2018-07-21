@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“他应该还在这里，你立刻带人找一找。”唐中华没有太大的意外，那个人的速度不错，实力似乎和他不相上下，而且是有备而来，恐怕没那么容易抓到。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111323Z" creationid="Ceti" creationdate="20180721T111323Z">
+        <seg>'He should be here, you will immediately find someone to look for.' Tang Zhonghua did not have much surprise, the speed of that person is good, the strength seems to be comparable to him, and it is well prepared, I am afraid it is not so easy to catch To.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“他是游青云，游震天的二孙子，据说是赤血家族年轻一辈最厉害的人，他应该才是游震天真正宠爱的孙子，听闻游震天对他的要求非常严格，是不是听他去出危险的任务，所以很多人才会以为游震天不喜欢这个孙子。”对赤血家族的成员非常了解的凌霄见他在看游青云便解释道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T141714Z" creationid="Ceti" creationdate="20180623T141714Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085708Z" creationid="Ceti" creationdate="20180623T085708Z">
         <seg>"Oh... ..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“唐先生，您怎么会在这里？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111251Z" creationid="Ceti" creationdate="20180721T111251Z">
+        <seg>'Mr. Tang, how are you here?'</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,8 +1048,8 @@
       <tuv lang="ZH-CN">
         <seg>“是！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180616T123545Z" creationid="Lilly" creationdate="20180616T123545Z">
-        <seg>"Yup!"</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111328Z" creationid="Lilly" creationdate="20180616T123545Z">
+        <seg>"Yes!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,6 +1450,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T100649Z" creationid="Ceti" creationdate="20180701T100649Z">
         <seg>"???"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111411Z" creationid="Ceti" creationdate="20180721T111411Z">
+        <seg>......</seg>
       </tuv>
     </tu>
     <tu>
@@ -3440,6 +3464,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>唐中华说：“我是追着小偷过来的，你们有没有看到可疑的人影？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111301Z" creationid="Ceti" creationdate="20180721T111301Z">
+        <seg>Tang Zhonghua said: 'I am chasing the thief. Have you seen suspicious people?'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>唔，他好像叫江流！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T124736Z" creationid="Ceti" creationdate="20180701T122838Z">
@@ -3788,6 +3820,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180721T102815Z" creationid="Ceti" creationdate="20180721T102133Z">
         <seg>The guards did not chase them, but they had already notified Cheng Zhu and informed his of the direction that You XiaoMo escaped in. If he made himself an easy target (瓮中捉鳖), it would be difficult to escape unscathed from the city lord's mansion without any fuss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>守卫队长皱眉思索了一下，摇摇头，“这个……小人并未看到什么可疑的人影。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111312Z" creationid="Ceti" creationdate="20180721T111312Z">
+        <seg>The guard captain frowned and thought about it, shaking his head. 'This...the villain has not seen any suspicious figures.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>守卫队长立刻将他的队伍分成了三小队，每队五人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111340Z" creationid="Ceti" creationdate="20180721T111340Z">
+        <seg>The guard captain immediately divided his team into three teams of five.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4302,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T133539Z" creationid="Ceti" creationdate="20180630T034415Z">
         <seg>Wei Bai hastily asked Fu CangQiong (傅苍穹) to bring him over upon knowing that they were about to leave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>心里刚闪过这个念头，一队十五人的守卫突然冲进院子，守卫队长看到唐中华立刻走上来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111240Z" creationid="Ceti" creationdate="20180721T111240Z">
+        <seg>My heart just flashed this thought, a team of fifteen guards suddenly rushed into the yard, the guard captain saw Tang Zhonghua immediately came up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,6 +4878,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T140238Z" creationid="Ceti" creationdate="20180701T125503Z">
         <seg>Jiang Liu immediately appeared to have suffered a thundershock (如遭雷蛰), it's really him! It was really You XiaoMo's the most admired Older Senior Brother, Fang ChenLe. Otherwise, why would he smile at him? But why did Fang ChenLe appear in the TongTian Continent?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>没人注意到，一名身穿城主府守卫青盔甲的人突然从某个黑暗的角落走出来，悄无声息的跟上队伍。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111401Z" creationid="Ceti" creationdate="20180721T111401Z">
+        <seg>No one noticed that a man wearing the guardian's armor in the city's main house suddenly came out from a dark corner and quietly followed the team.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,6 +6382,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T092928Z" creationid="Lilly" creationdate="20180609T092928Z">
         <seg>As the competition commenced, the rowdy stadium became silent. Occasionally, you could hear the rattle of cauldrons in front of the participants. Not even half the time had passed and some had already failed on the distillation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>然后指示他们分别去什么地方搜，这才分开，唐中华自己也寻着最有可能逃走的方向追了过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111349Z" creationid="Ceti" creationdate="20180721T111349Z">
+        <seg>Then they instructed them to go to somewhere to search separately. This was separated. Tang Zhonghua himself also pursued the direction that was most likely to escape.</seg>
       </tuv>
     </tu>
     <tu>
