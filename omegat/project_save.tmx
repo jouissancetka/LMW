@@ -5834,6 +5834,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默觉得他已经够小心了，但是当他的脚放在某块瓦片上，瞬间发出‘咔嚓’的声响时，心里忍不住咒骂起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T100914Z" creationid="Ceti" creationdate="20180721T100914Z">
+        <seg>You Xiaomei felt that he was careful enough, but when his feet were placed on a certain tile and the sound of ‘咔嚓’ sounded instantly, he couldn’t help but curse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默觉得自己被欺骗了，“上次我问另一个人，她没说需要一个积分啊。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T121819Z" creationid="Lilly" creationdate="20180616T120712Z">
@@ -6388,8 +6396,8 @@
       <tuv lang="ZH-CN">
         <seg>瓦片这种东西得轻拿轻放，不然&lt;t0/&gt;稍微碰撞就会发出声响，在寂静的夜里声音还会扩大几倍。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T095737Z" creationid="Ceti" creationdate="20180721T095737Z">
-        <seg>瓷砖 This kind of thing has to be light and light, otherwise it will make a sound when it is slightly collided, and the sound will expand several times in the silent night.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T100857Z" creationid="Ceti" creationdate="20180721T095737Z">
+        <seg>Things like tiles had to be gently handled. If not, it would make a sound just with a slight collision, and the sound would be magnified several times in the silent night.</seg>
       </tuv>
     </tu>
     <tu>
