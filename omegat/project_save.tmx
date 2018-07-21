@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“什么人？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T101833Z" creationid="Ceti" creationdate="20180721T101833Z">
+        <seg>"Who is it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“他们是我朋友。”&lt;t0/&gt;银戈冷淡&lt;t1/&gt;地回道，要不是游震天身份特殊，他连一个字都不想回他。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T143905Z" creationid="Lilly" creationdate="20180707T143905Z">
@@ -2142,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>什么破瓦片，质量明显不过关！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T101829Z" creationid="Ceti" creationdate="20180721T101829Z">
+        <seg>What kind of broken tile is this? The quality obviously could not pass the QC!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>今年的比赛项目和去年不同，虽然也是&lt;t0/&gt;测试丹师的&lt;t1/&gt;灵魂，但今年是借用了甲级学区的学生平时训练的方法，所以对所有参赛者而言，他们都是第一次。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093930Z" creationid="Lilly" creationdate="20180609T093930Z">
@@ -3940,6 +3956,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T124731Z" creationid="Lilly" creationdate="20180707T124731Z">
         <seg>Even though You ZhenTian didn't want anyone knowing of Feng ChiYun's existence, he didn't have any other choice. Since that person had taken the jade box, they knew Feng ChiYun's situation. He couldn't help but suspect that the possessor of the ChiXue family heirloom and his companions had set their eyes on the ChiXue Family long ago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>屋下的人已经被屋顶的动静给惊动了，包括正好回来的唐中华，他的反应比守卫还要迅速，不用一秒就飞上屋顶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T102000Z" creationid="Ceti" creationdate="20180721T102000Z">
+        <seg>The people inside the house had been alarmed by the movement on the roof, including Tang ZhongHua who had just returned. His reaction was even faster than the guards, and he flew onto the roof in less than a second.</seg>
       </tuv>
     </tu>
     <tu>
