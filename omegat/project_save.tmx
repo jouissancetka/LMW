@@ -5954,6 +5954,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默转头看一眼前方茂密的林子，林子黑漆漆的看起来没几个人，但闯进去就真的变成瓮中捉鳖，犹豫了下还是拐向一处人迹较少的建筑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180721T105940Z" creationid="Ceti" creationdate="20180721T105940Z">
+        <seg>You Xiaomu turned his head and looked at the dense forest in front. There seemed to be few people in the inky darkness of the forest, but he would really become a fish in the barrel (瓮中捉鳖) if he burst in. After hesitating for a moment, and he turned into the direction of a building with fewer signs of people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默转过身看向老者。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180628T040246Z" creationid="Lilly" creationdate="20180628T040246Z">
