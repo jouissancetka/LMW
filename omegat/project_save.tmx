@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这是……金翅虫？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180722T075205Z" creationid="Ceti" creationdate="20180722T075153Z">
+        <seg>"This is... ...the Golden Winged Insect?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这是什么东西？”游小默好奇的问道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T072947Z" creationid="Lilly" creationdate="20180616T072947Z">
@@ -4130,8 +4138,8 @@
       <tuv lang="ZH-CN">
         <seg>就在这时，一直安静匍匐在他头顶的小乓突然飞了起来，以迅雷不及掩耳之势迅速的咬了星罗城主的手指一口，伤口很小，但是星罗城主却惨叫一声，捂着流血不止的手指迅速的往后退。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180722T064446Z" creationid="Ceti" creationdate="20180722T064446Z">
-        <seg>At this moment, the small pong, which had been quietly squatting on his head, suddenly flew up, and quickly bit the star of the city’s main finger with a rush of lightning. The wound was small, but the owner of the city was screaming. With your bloody fingers, you quickly stepped back.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180722T075140Z" creationid="Ceti" creationdate="20180722T064446Z">
+        <seg>Just at this moment, Xiao Ping, who had been quietly perching on his head suddenly flew up, and bit down onto the Starfall City Lord's finger with a lightning-fast snap (以迅雷不及掩耳之). The bite wound was very small, yet the Starfall City Lord released a miserable shriek as he pressed onto his finger which was continuously bleeding/tried to staunch the bleeding in his finger and rapidly retreated.</seg>
       </tuv>
     </tu>
     <tu>
