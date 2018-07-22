@@ -171,3 +171,4 @@ xx 家	xx Family/Clan
 星罗城	Starfall City
 城主	City Master
 小乒	Xiao Ping
+小乓	Xiao Pang
