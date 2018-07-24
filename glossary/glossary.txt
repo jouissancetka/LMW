@@ -172,3 +172,4 @@ xx 家	xx Family/Clan
 城主	City Master
 小乒	Xiao Ping
 小乓	Xiao Pang
+轮回丹	Samsara Pill
