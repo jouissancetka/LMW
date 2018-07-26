@@ -175,3 +175,4 @@ xx 家	xx Family/Clan
 轮回丹	Samsara Pill
 储物袋	magic bag
 领域	domain
+花姑	Hua Gu
