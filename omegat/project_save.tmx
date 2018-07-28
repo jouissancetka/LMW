@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“……原来你在鄙视和轻视我啊，罪加一等。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180728T162702Z" creationid="Ceti" creationdate="20180728T162702Z">
+        <seg>"...So you had been despising and holding me in contempt ah, your sin has risen by a grade."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“一切安好”银戈淡淡的&lt;t0/&gt;说道，“其实我父亲本来是打算亲自过来的，他人也已经到了北阳城，但因为突然发生一些事情，所以不得不改变计划，还望傅盟主见谅！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T142542Z" creationid="Lilly" creationdate="20180707T142542Z">
@@ -170,6 +178,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T042530Z" creationid="Ceti" creationdate="20180623T042530Z">
         <seg>"Don't make a fuss, this is the Cang Association's territory." The elderly man's voice faintly resounded beside his ears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不该不经你的同意就用湖里的灵水。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180728T162450Z" creationid="Ceti" creationdate="20180728T162450Z">
+        <seg>"I should not have used the spiritual water in the lake without your permission."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不该鄙视和轻视你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180728T162558Z" creationid="Ceti" creationdate="20180728T162558Z">
+        <seg>"I should not have despised and held you in contempt."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1506,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144120Z" creationid="Lilly" creationdate="20180707T144120Z">
         <seg>"No need to compliment me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“还有呢？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180728T162456Z" creationid="Ceti" creationdate="20180728T162456Z">
+        <seg>"And?"</seg>
       </tuv>
     </tu>
     <tu>
