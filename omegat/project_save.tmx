@@ -4008,6 +4008,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>因为楼层越高，人数就越少，三十层楼的人架起来还没有第十层楼的多。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180728T084632Z" creationid="Ceti" creationdate="20180728T084632Z">
+        <seg>This was because, the higher the level, the fewer the people. The total number of people on level thirty were lesser than the total number of people on the tenth level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>因为每三个月才有一次比赛，所以积分对很多人是至关重要的，否则，花完就要重新等上三个月，意味着白白浪费了三个月，所以如无必要，没人愿意没事消费积分。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T123049Z" creationid="Lilly" creationdate="20180616T122739Z">
