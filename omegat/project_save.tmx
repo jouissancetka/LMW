@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“为什么不是你母亲？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180728T065030Z" creationid="Ceti" creationdate="20180728T065030Z">
+        <seg>"Why couldn't it be from your mother?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“为什么？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T120707Z" creationid="Lilly" creationdate="20180621T120707Z">
@@ -8993,6 +9001,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T094736Z" creationid="Lilly" creationdate="20180609T094736Z">
         <seg>This answer wasn’t enough to satisfy Teng ZiXin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这件事他父亲的那位亲信并没有告诉他，或者连他也不知道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180728T065011Z" creationid="Ceti" creationdate="20180728T065011Z">
+        <seg>His father's trusted aide had also not told him about this matter. Perhaps he did not know of this as well.</seg>
       </tuv>
     </tu>
     <tu>
