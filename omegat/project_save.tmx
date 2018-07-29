@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不错，不过你别想骗本域主，你在传音石上做了手脚以为我不知道，其实你根本就没有同伙！”星&lt;t0/&gt;罗城主&lt;t1/&gt;冷笑道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030629Z" creationid="Lilly" creationdate="20180726T030629Z">
+        <seg>"That's right, but don't think you can trick me. Don't think I don't know you did something to your transmission stone, in reality you don't have an accomplice!" The City Master of Starfall City laughed coldly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“为什么不是你母亲？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T065030Z" creationid="Ceti" creationdate="20180728T065030Z">
@@ -326,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“他既然不顾我的死活，不仁不义，那就不要怪我无情，我跟他之间有联系，可以约他到一个地方见面。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015746Z" creationid="Lilly" creationdate="20180726T015746Z">
+        <seg>"If he doesn't care about my life, refusing to help me, then don't blame me for being cruel. I have a way to contact him, and can get him to meet up with me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“他是游青云，游震天的二孙子，据说是赤血家族年轻一辈最厉害的人，他应该才是游震天真正宠爱的孙子，听闻游震天对他的要求非常严格，是不是听他去出危险的任务，所以很多人才会以为游震天不喜欢这个孙子。”对赤血家族的成员非常了解的凌霄见他在看游青云便解释道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T141714Z" creationid="Ceti" creationdate="20180623T141714Z">
@@ -414,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你别问那么多，我在星罗城的城主府，十万火急啊！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025200Z" creationid="Lilly" creationdate="20180726T025200Z">
+        <seg>"Don't ask so much. I'm in Starfall City's City Master estate, it's an emergency!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你听错了。”凌霄面无表情的说道，“刚刚只有有只狗在叫而已，不用理它。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085704Z" creationid="Ceti" creationdate="20180623T085704Z">
@@ -442,6 +466,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T061754Z" creationid="Lilly" creationdate="20180711T061754Z">
         <seg>"You're here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你笑什么？”游小默皱起眉，&lt;t0/&gt;魔音脑脑&lt;t1/&gt;的笑声。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030046Z" creationid="Lilly" creationdate="20180726T030046Z">
+        <seg>"What are you laughing at?" You XiaoMo frowned at this strange laughter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +522,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180626T153735Z" creationid="Ceti" creationdate="20180626T153709Z">
         <seg>"Who did you say is sick?!" Lin HaoWu stood up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你这是什么意思？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030131Z" creationid="Lilly" creationdate="20180726T030131Z">
+        <seg>"What do you mean?</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +626,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T150316Z" creationid="Lilly" creationdate="20180609T150316Z">
         <seg>"Don't cry. It's his loss if he doesn't like you. You're Lady Tian Xin of the Beast Transfiguration Guild. There are plenty of people pursuing you. You can't let others see you like this, no?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“十万火急？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025210Z" creationid="Lilly" creationdate="20180726T025204Z">
+        <seg>"An emergency?</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,10 +758,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“呵呵……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024642Z" creationid="Lilly" creationdate="20180726T024642Z">
+        <seg>"Heh..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“呵呵，麒麟族和妖凰族每次见面总是这么热闹。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085734Z" creationid="Ceti" creationdate="20180623T085734Z">
         <seg>"Hehe, every time I see the Qilin Clan and the Demon Phoenix Clan, they're always so lively."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“呵，这个时候就承认是我夫人？”凌霄发出意义不明的笑声。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025547Z" creationid="Lilly" creationdate="20180726T025547Z">
+        <seg>"Heh, so now you admit you're my wife?" Ling Xiao gave a ambiguous laugh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我看，你是想叫你的同伙来救你吧。”星&lt;t0/&gt;罗城主眼睛&lt;t1/&gt;直勾勾的看着他，一语便道破他的想法。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015843Z" creationid="Lilly" creationdate="20180726T015843Z">
+        <seg>"I think you just want your accomplice to come and save you." Starfall City's City Master stared at him, easily seeing through his schemes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我真的能遇到吗？”&lt;t0/&gt;天心仰起头&lt;t1/&gt;。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T150714Z" creationid="Lilly" creationdate="20180609T150714Z">
@@ -1170,6 +1242,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T054212Z" creationid="Ceti" creationdate="20180728T054212Z">
         <seg>"So the truth is?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“所以？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015503Z" creationid="Lilly" creationdate="20180726T015503Z">
+        <seg>"And?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“跑啊，你再跑啊！”星&lt;t0/&gt;罗城主&lt;t1/&gt;冷笑着说道，现在反倒不着&lt;t2/&gt;怎着&lt;t3/&gt;动手了，本来以他的实力是不需要召唤出领域，但他有自己的私心，而且游小默确实滑溜得像条蚯蚓。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015222Z" creationid="Lilly" creationdate="20180726T015222Z">
+        <seg>"Well? Go on, run!" Starfall City's City Master sneered. Now, he didn't seem so anxious to act. Originally, he didn't need to summon his Territory to deal with You XiaoMo, but he had ulterior motives and You XiaoMo really was too good at slipping away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“过奖”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T144120Z" creationid="Lilly" creationdate="20180707T144120Z">
@@ -1610,6 +1698,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T082917Z" creationid="Ceti" creationdate="20180701T082318Z">
         <seg>"So, what did that youth do to make the people of Immortal Jade City keep thinking about him?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那你就慢慢等着。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025711Z" creationid="Lilly" creationdate="20180726T025711Z">
+        <seg>"Then hang on."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>不过，游小默觉得他底气足了，看向星&lt;t0/&gt;罗城主&lt;t1/&gt;的眼神顿时变成了不知死活和幸灾乐祸，“城主大人，你知不知道你的领域里还有一个……哎哟！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T031325Z" creationid="Lilly" creationdate="20180726T031325Z">
+        <seg>However, You XiaoMo felt secure with Ling Xiao backing him, and he immediately gazed at the City Master with reckless courage and delight. "City Master, did you know that, in your Territory, there's a... Ouch!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>不远处，滕梓心震惊的看着这一幕，只觉得一阵晕头转身，脑袋竟然糊涂了起来，刚刚的自信一下子被打击得体无完肤。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093706Z" creationid="Lilly" creationdate="20180609T093706Z">
@@ -2518,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>五秒后，一道谈笑声在他耳边响起。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024708Z" creationid="Lilly" creationdate="20180726T024708Z">
+        <seg>Five seconds later, a light laughter sounded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>五秒后，游小默的身影，哦不，是侍女的身影又出现在八层的楼梯转角处，那里刚好可以遮挡住守卫的视线，因为这些人都看到他被游单赶下来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T030534Z" creationid="Lilly" creationdate="20180629T030534Z">
@@ -2610,6 +2722,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180722T105551Z" creationid="Lilly" creationdate="20180722T105551Z">
         <seg>After some contemplation, he had managed to figure out what Jiang Liu wanted to do. He had a good idea, but luck was important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他&lt;t0/&gt;怕星罗城主&lt;t1/&gt;会听到他们的谈话，所以话不敢说得太白。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024903Z" creationid="Lilly" creationdate="20180726T024903Z">
+        <seg>Afraid that the City Master would hera their words, he couldn't be too straightforwards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2762,6 +2882,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T091509Z" creationid="Lilly" creationdate="20180609T091509Z">
         <seg>Could he back down? !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他被耍了！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030956Z" creationid="Lilly" creationdate="20180726T030956Z">
+        <seg>He was being toyed with!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄最后一句话说完，传音石的光芒就暗淡了下去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025730Z" creationid="Lilly" creationdate="20180726T025730Z">
+        <seg>With that, the light from the transmission stone faded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄正经八百的道：“你就当没有，有的话就是惊喜了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T133142Z" creationid="Ceti" creationdate="20180724T123436Z">
@@ -3636,6 +3772,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084816Z" creationid="Lilly" creationdate="20180609T084816Z">
         <seg>Ling Xiao: “Heheh…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>几乎所有人都在注视着战圈，他却悄无声息的来到游小默后方，所有吵杂的声音仿佛在这一刻禁止了，这是星&lt;t0/&gt;罗城主&lt;t1/&gt;的领域。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T014553Z" creationid="Lilly" creationdate="20180726T014553Z">
+        <seg>Almost everyone was surveying the battle, but he crept silently behind You XiaoMo. All the background noise seemed to have suddenly been sealed away. This was the Territory of Starfall City's City Master.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4472,6 +4616,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>好家伙，把他骗得团团转！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T031209Z" creationid="Lilly" creationdate="20180726T031209Z">
+        <seg>Damnit, this guy really had him fooled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>好歹我们也算未识一场。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084004Z" creationid="Lilly" creationdate="20180609T084004Z">
@@ -5162,6 +5314,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>我不是说了我同伙会把偷走的东西拿过来换我，你不也听到了。”游小默脑门浮现一个问号，难道他没听到他跟凌霄的对话，虽然对话怪，但不是可以证明他确实有‘同伙’。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030249Z" creationid="Lilly" creationdate="20180726T030249Z">
+        <seg>Didn't I just say my accomplice will return what we stole to you? You heard me talk to him." A question mark rose in You XiaoMo's mind. Could it be that the other hadn't heard his and Ling Xiao's conversation? Though their conversation was strange, it could prove that he had an accomplice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>我看你明明玩得挺高兴的，从北面跑到西面，真的好有兴致，我看了都好羡慕哦。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025300Z" creationid="Lilly" creationdate="20180726T025300Z">
+        <seg>From what I've see, you seem to be having fun, running from the south wing to the west wing. You seemed to have been enjoying yourself, I'm almost jealous."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>我还说我是苍盟盟主最宠爱的徒弟呢。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T141233Z" creationid="Ceti" creationdate="20180725T123210Z">
@@ -5298,6 +5466,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>收起脸上的情绪，游小默转身露出一抹讨好的笑意，笑眯眯的对星&lt;t0/&gt;罗城主&lt;t1/&gt;说道：“城主大人，我已经跟我朋友说好了，他说很快就会赶过来，到时会把金库的东西原封不动的还给您。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025929Z" creationid="Lilly" creationdate="20180726T025929Z">
+        <seg>Composing himself, You XiaoMo turned with a smile, saying to the City Master, "City Master, sir, I've already talked with my friend. He said he'd get here soon and will return everything we took from the vault."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>敢情她只是试探他们而已。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180726T133459Z" creationid="Ceti" creationdate="20180726T123836Z">
@@ -5378,6 +5554,30 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>星&lt;t0/&gt;罗城主&lt;t1/&gt;一脸不耐烦，“你一个人导演的戏码以为我不知道，真是愚蠢，在我的领域里，你的一举一动都在我的注视下。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030923Z" creationid="Lilly" creationdate="20180726T030923Z">
+        <seg>The City Master seemed irritated. "You think I don't know that this was just an act you did? Foolish. In my territory, I have a full grasp of your every movement."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>星&lt;t0/&gt;罗城主&lt;t1/&gt;冷笑一声，“我不知道你使用了什么手段，但是敢在本城主面前耍手段，你胆子不小，在我的领域内，传音石连种东西跟本不可能起作用，你的戏演得不错嘛。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030353Z" creationid="Lilly" creationdate="20180726T030353Z">
+        <seg>The City Master sneered. "I don't know how you did it, but you are quite daring to try and trick this City Master. In my Territory, transmission stones wouldn't possibly work. Your act wasn't bad."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>星&lt;t0/&gt;罗城主&lt;t1/&gt;止住笑声，阴冷的盯着他道：“你真以为本城主会相信你的鬼话不成？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030123Z" creationid="Lilly" creationdate="20180726T030123Z">
+        <seg>The City Master of Starfall City stopped laughing, coldly eyeing him and saying, "Did you really think that I would believe your lies?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>星&lt;t0/&gt;罗城主哪里&lt;t1/&gt;会放过游小默，在发现偷盗金库的人其实是两只小妖兽后，他就多了一抹心思。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180724T070253Z" creationid="Lilly" creationdate="20180724T070253Z">
@@ -5394,10 +5594,42 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>星&lt;t0/&gt;罗城主眯&lt;t1/&gt;起眼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015303Z" creationid="Lilly" creationdate="20180726T015303Z">
+        <seg>The City Master of Starfall City narrowed his eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>星&lt;t0/&gt;罗域主&lt;t1/&gt;像只老狐狸一样眯着眼睛看了他几秒，突然放声大笑起来，笑声好不得意，甚至还透着一丝凶恶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030025Z" creationid="Lilly" creationdate="20180726T030025Z">
+        <seg>The City Master of Starfall City eyed him like a fox for a few seconds before suddenly beginning to laugh. His laughter wasn't nice at all, but rather malicious.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>星&lt;t2/&gt;罗城主&lt;t3/&gt;已经缓过劲，不停冒着鲜血的手指终于被他止住血，表情&lt;t4/&gt;狰&lt;t5/&gt;拧而贪婪，像盯住猎物一样盯着游小默。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180724T075625Z" creationid="Lilly" creationdate="20180724T075625Z">
+        <seg>Starfall City's City Master had recovered by then, and his wound had finally been closed. His expression was terrifying and greedy, eyes locked onto You XiaoMo like a hunter on it's prey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>星罗城主是一名神境二星的强者，能够管理着一座城，可见他还是有几分本事的，而不只是一个精虫上脑的老头。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T094818Z" creationid="Ceti" creationdate="20180721T165731Z">
         <seg>The City Master of Starfall City was a two-star Divine Realm expert who was able to manage an entire city. It was obvious that he was somewhat skilled and was not just an old man with a brain full of sperm (精虫上脑).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>星罗城主眼中闪过一丝精光，“好，本城主就信你一次。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T020046Z" creationid="Lilly" creationdate="20180726T020046Z">
+        <seg>The eyes of Starfall City's City Master flashed. "Alright, I shall believe you this once."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,6 +5782,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T052736Z" creationid="Lilly" creationdate="20180613T052736Z">
         <seg>Old Lin tried to talk him down. "Young Master Wu, you won't be able to do anything about Old Eagle's interference here. The master would go against Old Eagle for a simple mage. It'll be better to watch and wait. After all, that man isn't here, yet."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>果然，等他回头就看到星&lt;t0/&gt;罗城主&lt;t1/&gt;的身影，轻蔑及看蝼蚁般的眼神，好像他怎么蹦跶都跑不出如来佛祖的手掌心的孙猴子一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015027Z" creationid="Lilly" creationdate="20180726T015027Z">
+        <seg>As expected, whn he looked back, he saw the figure of Starfall City's City Master looking at him with disdain, as if there was no way You XiaoMo could escape.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,6 +5978,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>每个神境强者都能使出属于自己的领域，有了领域的神境强者会比一般的神境强者要强一些，而且领域有一个很好用的功能，他可以将自己的目标圈进来，将其他人隔绝在外并且看不到领域里的情况。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T014842Z" creationid="Lilly" creationdate="20180726T014842Z">
+        <seg>Every Divine level expert could create their own Territory. Those with Territories would be slightly stronger than normal Divine level practitioners, and there was a very useful ability Territories possessed. The user could pull their target inside and isolate them from everyone else, who wouldn't be able to see inside the Territory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>每次看到凌霄战斗的样子，虽然这和他本身的实力有关，但是看到的时候还是觉得&lt;t0/&gt;很&lt;t1/&gt;爽，特别是‘啪啪’的巴掌，他在下面听了都感觉&lt;t2/&gt;特别&lt;t3/&gt;爽，好像是他自己在动手一样。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T091021Z" creationid="Lilly" creationdate="20180609T091021Z">
@@ -5862,6 +6110,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T094537Z" creationid="Ceti" creationdate="20180721T111401Z">
         <seg>No one noticed a man wearing the green armor (青盔甲) of the City Master's mansion guards suddenly walking out from a dark corner and quietly following the team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>没有他的声音，游小默霎时觉得安全感全跑光了，这种空虚的感觉安在是太讨厌了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025801Z" creationid="Lilly" creationdate="20180726T025801Z">
+        <seg>Without the other's voice, You XiaoMo immediately felt insecure. His sort of empty feeling was really the worst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6002,6 +6258,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默&lt;t0/&gt;眨&lt;t1/&gt;眨眼睛：“城主大人，我就算想让他来救我，凭您的实力，我朋友根本不是您的对手啊，反正我现在已经落入您手中插翅难飞，所以您要是相信我，说不定还能拿回金库的宝贝。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T020011Z" creationid="Lilly" creationdate="20180726T020011Z">
+        <seg>You XiaoMo blinked his eyes. "City Master, sir, even if I had him come to save me, with your strength, my friend won't be able to defeat you. I've already fallen into your hands, so if you believe me, you might even get your treasures back."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默&lt;t0/&gt;缓慢的眨了&lt;t1/&gt;下眼。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T095616Z" creationid="Lilly" creationdate="20180609T095616Z">
@@ -6022,6 +6286,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T095325Z" creationid="Ceti" creationdate="20180722T054256Z">
         <seg>You XiaoMo knew that the Metal Swallowing Beast and Xiao Ping had been discovered once he heard this news.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默一听周围什么声音都没有就知道大事不妙。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T014858Z" creationid="Lilly" creationdate="20180726T014858Z">
+        <seg>You XiaoMo knew something was wrong when things went silent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6226,6 +6498,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默努力忽略&lt;t0/&gt;掉心里&lt;t1/&gt;突然冒出来的毛骨悻然，干笑道：“亲爱的，你不要光顾着笑，我就快逃出城主府了，你快来接应我，不然明年的今天就是我的忌日了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024839Z" creationid="Lilly" creationdate="20180726T024839Z">
+        <seg>You XiaoMo did his best to ignore the chill that spread through him, smiling weakly. "Darling, don't just laugh. I'm almost out of the City Master's estate. Hurry and welcome me or else the today of next year will be my memorial."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默单方面认定白衣人和他没有血缘关系，治郁为什么两人长得一模一样，他归咎为血缘遗传的关系，像有的家族，隔了几代才会遗传到祖辈的容貌，这种例子并不是没有。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T133237Z" creationid="Ceti" creationdate="20180630T033854Z">
@@ -6278,6 +6558,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T135025Z" creationid="Ceti" creationdate="20180701T100742Z">
         <seg>You XiaoMo discovered this fact in hindsight. He had forgotten that Ling Xiao and him had separated because of that Black Dragon (乌龙) incident. If he was found by Ling Xiao, he was afraid that he might not come to a good end. You XiaoMo was terrified once he thought about it, it looked like he would not be able to contact Ling Xiao in the near future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默吓得赶紧捂住传音石，回头偷偷看了星&lt;t0/&gt;罗城主&lt;t1/&gt;一眼，见他表情没有异样，这才放下心来，干咳一声。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025125Z" creationid="Lilly" creationdate="20180726T025125Z">
+        <seg>Hearing this, You XiaoMo hurriedly covered the transmission stone stone, discretely glancing at Starfall City's City Master. Seeing that the other's expression hadn't changed, he relaxed a little, coughing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6378,6 +6666,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默差点仰头大笑，宝贝似的捧着传音石，“亲爱的同伙，你在哪里，我好想你哦，一日不见如隔三秋，我都想你好多天了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024638Z" creationid="Lilly" creationdate="20180726T024632Z">
+        <seg>You XiaoMo almost started laughing wildly in delight, holding the transmission stone like a treasure. "My dear accomplice, where are you? I miss you. Every day we're apart is like three years. I've missed you for days."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默差点吐血，真是坑人。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T122409Z" creationid="Lilly" creationdate="20180616T122409Z">
@@ -6462,6 +6758,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085700Z" creationid="Ceti" creationdate="20180623T085700Z">
         <seg>You XiaoMo gave a smile that took joy in calamity and delight in disaster. After he had finished smiling, he suddenly said to Ling Xiao, "Oh yes, I seemed to have heard someone talking to us just now. Did I get it wrong?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默张大嘴巴，有一个答案在他脑海里呼之欲出，半晌，他猛吞一口口水，试探的问道：“你刚刚没听到我在跟我‘同伙’对话吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030810Z" creationid="Lilly" creationdate="20180726T030810Z">
+        <seg>You XiaoMo's jaw dropped. The answer to this mystery was at the recesses of his mind. After a moment, he swallowed thickly and asked, as if testing the waters, "Didn't you hear me speak to my accomplice just now?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7098,6 +7402,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默立刻拿出传音石，差点热泪盈眶，老天爷保佑，这次一定要接通，不然他就真的死定了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T020214Z" creationid="Lilly" creationdate="20180726T020214Z">
+        <seg>You XiaoMo immediately took out his transmission stone, almost tearing up. Dear god, let it work this time, otherwise he might actually die.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默立刻点头，“好，下次我会尽量避开她。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084605Z" creationid="Lilly" creationdate="20180609T084605Z">
@@ -7162,6 +7474,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默糊涂了，“等等，你的意思是说传音石在领域里不能用，那什么情况下才能用，敢不会是我传音的对象也在领域里，就能用了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030526Z" creationid="Lilly" creationdate="20180726T030526Z">
+        <seg>You XiaoMo was confused. "Wait, you mean to say that transmission stones can't be used in Territories? Then when can they be used? Could it only work if the other person was in the Territory, too?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默组织了&lt;t0/&gt;下语言&lt;t1/&gt;说道：“实际上，那个女人你也认识，当初我们去青霜阁卖灵丹时，那个叫青秋的女子，她突然拦住我，说要跟我买灵丹，还让我优惠一些，当时的情况，我没法拒绝，就给她优惠了，我也觉得她很奇怪啊！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084547Z" creationid="Lilly" creationdate="20180609T084547Z">
@@ -7174,6 +7494,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T084833Z" creationid="Ceti" creationdate="20180728T163202Z">
         <seg>You XiaoMo finally experienced the feeling of others ceding territory and paying indemnities to him. It was no wonder that Ling Xiao loved these sort of things so much, turns out that it felt really invigorating. With that concluded, he now had a period of time where he would not need to personally take care of the magic herbs in his dimension. You XiaoMo believed that the Roc would surely do an extremely good job.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默结巴起来，“那，那什么，我&lt;t0/&gt;我&lt;t1/&gt;又不是故意的，你到底要不要来救你夫人？”他就知道凌霄要翻旧账。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025420Z" creationid="Lilly" creationdate="20180726T025420Z">
+        <seg>You XiaoMo began to stutter. "Th-then, I-I didn't do it on purpose. Are you coming to rescue your wife or not?" He knew it; Ling Xiao would definitely bring up these old grudges.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7238,6 +7566,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T032644Z" creationid="Lilly" creationdate="20180715T032644Z">
         <seg>Seeing that they had mostly gathered, You XiaoMo walked out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默见他没反驳，就继续忽悠道：“我跟他兵分两路，他带着我的契约妖兽去金库偷东西，我则去你的房间，他现在应该带着从金库里偷出来的宝贝逃走了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015500Z" creationid="Lilly" creationdate="20180726T015500Z">
+        <seg>Seeing that he had no reply to that, You XiaoMo continued, "I split up with him. He took my contracted demon beasts to steal things from the vault, and I went to your room. He should be out of here with what he had stolen from your vault."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7658,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默转了下眼球子，突然说道：“其实我还有一个同伙。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015253Z" creationid="Lilly" creationdate="20180726T015253Z">
+        <seg>You XiaoMo thought for a moment and suddenly said, "Actually, I have an accomplice."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默转了转眼珠子，他已经在考虑干脆躲进空间。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T101650Z" creationid="Ceti" creationdate="20180722T064350Z">
@@ -7342,6 +7686,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180628T040246Z" creationid="Lilly" creationdate="20180628T040246Z">
         <seg>You XiaoMo turned to look at the elderly man.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默转过身背对着星罗城主，眼瞅瞅的望着开始闪烁的传音石，在他求神拜佛念念有词的时候，闪光突然暗了下去并化为一层淡淡的光芒。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024503Z" creationid="Lilly" creationdate="20180726T024503Z">
+        <seg>You XiaoMo turned so that his back was to the City Master, gazing at the flashing transmission stone . As he was beginning to pray for this to work, the flashing died down into a layer of weak light.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7430,6 +7782,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T071825Z" creationid="Ceti" creationdate="20180728T052320Z">
         <seg>You XiaoMo immediately narrowed his eyes and pushed him back. He lifted a leg and straddled him as he fiercely scowled, "Are you going to spit it out or not? Don't you know that curiosity can kill people?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默顿时蔫了，“好吧，我承认我错了，我以后再也不敢了，你说东我绝对不敢往西，所以你快拿金库的宝贝来救我。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025653Z" creationid="Lilly" creationdate="20180726T025653Z">
+        <seg>You XiaoMo immediately whithered. "Alright, I admit I was wrong. I'll never do it again. If you say east, I won't dare go west, so hurry and come over with the vault treasures to save me."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7646,6 +8006,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090637Z" creationid="Lilly" creationdate="20180609T090637Z">
         <seg>Teng Jiao’s expression shifted just slightly, swinging his fist at the left side of Ling Xiao’s face. The movement was simple and direct with little technique, but it was a powerful strike that even the arena floor below them might not be able to take.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>激动的游小默并没有注意到，星&lt;t0/&gt;罗城主&lt;t1/&gt;嘴角挂着一丝不以为意的冷笑，表情根本就不相信他的说辞，好像看跳梁小丑在演戏一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024402Z" creationid="Lilly" creationdate="20180726T024402Z">
+        <seg>What the excited You XiaoMo didn't realize was that the City Master of Starfall City was smiling coldly at him. He clearly didn't believe what You XiaoMo had said, watching him as if he were like a clown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,6 +8796,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>等他脱险后，他&lt;t0/&gt;一&lt;t1/&gt;定向凌霄忏悔。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024237Z" creationid="Lilly" creationdate="20180726T020314Z">
+        <seg>After he got out of this, he would beg for Ling Xiao's forgiveness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>等凌霄和游小默出来后，十层的出入口已经被堵得水泄不通，八九层的守卫者几乎都聚集在这里了，为首的是游单两兄弟。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T095522Z" creationid="Lilly" creationdate="20180629T095522Z">
@@ -9077,6 +9453,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>被凌霄耍了，原来他早就知道他在&lt;t0/&gt;域主府&lt;t1/&gt;里，并且从头看到尾，传音石之所以能接通，是因为他的人现在就在领域里，但是这货根本就没用&lt;t2/&gt;传音石跟他&lt;t3/&gt;对话，而是直接传音给他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T031143Z" creationid="Lilly" creationdate="20180726T031143Z">
+        <seg>Ling Xiao had tricked him again. The other had known he was in the City Master's estate from the beginning and had watched the entire thing play out. The reason the transmission stone could connect was because the other was in the Territory right now, but this guy wasn't using the transmission stone to speak to him at all, but directly transmitting his voice over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>被圣境强者夸奖，游小默忍不住飘飘然。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T135357Z" creationid="Ceti" creationdate="20180630T055257Z">
@@ -9165,6 +9549,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>话还没说完，他的脑袋就被一只无形的手用力的敲了一下。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T031410Z" creationid="Lilly" creationdate="20180726T031410Z">
+        <seg>He hadn't even finished speaking when an invisible hand cuffed him over the head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>话音一落，有人垂头丧气的退了下去，也有人信心十足的&lt;t0/&gt;走到五&lt;t1/&gt;长老面前，在他面前，摆放着十个测试仪器。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093805Z" creationid="Lilly" creationdate="20180609T093805Z">
@@ -9189,10 +9581,26 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>说到最后一句的时候，他故意加大音量。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025705Z" creationid="Lilly" creationdate="20180726T025705Z">
+        <seg>He raised his voice on purpose at the end.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>说到这，叶长老还特意看了滕梓心一眼。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T094623Z" creationid="Lilly" creationdate="20180609T094623Z">
         <seg>Coming to this, Elder Ye glanced at Teng ZiXin. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>说到这，游小默已经十分确定一件事。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030938Z" creationid="Lilly" creationdate="20180726T030938Z">
+        <seg>With this, You XiaoMo was very certain of one thing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9613,6 +10021,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>这次他知道很可能要栽了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015044Z" creationid="Lilly" creationdate="20180726T015044Z">
+        <seg>This time he knew it was probably over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>这次战绩没有人能想到，不过柴家和滕家确实是在混战中丢尽了脸，不出半天就在学院传遍了，现在人人都在猜测凌霄将会是此次大赛的第一名，一下子水涨船高，走到哪都会有人围观。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T091846Z" creationid="Lilly" creationdate="20180609T091846Z">
@@ -9801,6 +10217,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T095438Z" creationid="Lilly" creationdate="20180609T095438Z">
         <seg>Those who had come in before showed their disbelief at how quickly he managed to recover his movement capabilities. When they got inside, they had almost been pulled to the ground. It took them a lot of effort to stand straight. Yet, he could already walk. No wonder people thought he was one of the possible victors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那人像是听到什么好笑的事情，“城主府啊，哪里的城主府，你什么时候去的，我怎么不知道，逃出城主府又是怎么一回事呀？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025033Z" creationid="Lilly" creationdate="20180726T025033Z">
+        <seg>The other seemed like he had just heard something funny. "City Master's estate, huh? Where, when did you go, how come I don't know? And what's this about escaping?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10145,6 +10569,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180615T052720Z" creationid="Lilly" creationdate="20180615T052720Z">
         <seg>The following day, You XiaoMo didn't see them. Even SheQiu had been chased off by Ling Xiao after most of his injuries healed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>难怪星&lt;t0/&gt;罗城主&lt;t1/&gt;会认为他在说慌！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180726T031157Z" creationid="Lilly" creationdate="20180726T031157Z">
+        <seg>No wonder the City Master of Starfall City would think he was lying!</seg>
       </tuv>
     </tu>
     <tu>
