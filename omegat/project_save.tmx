@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“何事？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T183621Z" creationid="Lilly" creationdate="20180730T183621Z">
+        <seg>"What is it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你——”青年气急。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085636Z" creationid="Ceti" creationdate="20180623T085636Z">
@@ -4792,6 +4800,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>守卫将话转告给侍卫，侍卫立即走进来，“&lt;t0/&gt;禀&lt;t1/&gt;家主，阴阳谷的江流想见您，他说有很重要的事情要告诉您，人现在就在外面。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T183831Z" creationid="Lilly" creationdate="20180730T183831Z">
+        <seg>The guard delivered his message to the housecarl and the housecarl walked inside. "Reporting. Jiang Liu of the YinYang Valley wishes to see you. He says he has some very important information for you and is outside right now."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>守卫没有追上来，但是他们已经去通知成株，并告知游小默逃跑的方向，要是被来个瓮中捉鳖，想黯然无恙的逃出城主府就难了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T093453Z" creationid="Ceti" creationdate="20180721T102133Z">
@@ -4964,6 +4980,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093405Z" creationid="Lilly" creationdate="20180609T093405Z">
         <seg>Just as everyone was looking at Tong YueXu in surprise, another cry of success rang out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在这时，&lt;t0/&gt;城主府一名&lt;t1/&gt;守卫突然急冲冲走进来，不过在门口就被本家的侍卫给拦了下来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T183659Z" creationid="Lilly" creationdate="20180730T183617Z">
+        <seg>That was when a guard of the estate rushed inside, but he was stopped at the door by a housecarl of the main family.</seg>
       </tuv>
     </tu>
     <tu>
