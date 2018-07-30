@@ -926,6 +926,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好像什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212257Z" creationid="Lilly" creationdate="20180730T212257Z">
+        <seg>"Almost like what?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好像在吸引我一样。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212307Z" creationid="Lilly" creationdate="20180730T212307Z">
+        <seg>"Almost like it's trying to lure me in."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“好吧，看在你是赤血家庭的弟子的份上，我就替你传个话，但是……”银戈假装被他的诚意打动。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T143022Z" creationid="Ceti" creationdate="20180626T123141Z">
@@ -1146,6 +1162,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T100345Z" creationid="Ceti" creationdate="20180722T064247Z">
         <seg>"You want to run?" The cold and savage voice of the City Master of Starfall City suddenly rang out in the  night sky and bore through the mind like a devilish tone. His figure simultaneously appeared in the air, coincidentally blocking You XiaoMo's escape route. The anger on his face was extremely obvious as he made his move without any extraneous words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我们不是要回去吗，来这里做什么？”游小默终于忍不住好奇心开口问了，一边往陡峰看下去，高度太吓人了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212211Z" creationid="Lilly" creationdate="20180730T212211Z">
+        <seg>"Weren't we going to go back? What are we doing here?" You XiaoMo asked, unable to hold his curiosity at bay any longer. He looked down the steep sloping sides of the mountain. They were at a terrifying height.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3446,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄将龙血拿出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212219Z" creationid="Lilly" creationdate="20180730T212219Z">
+        <seg>Ling Xiao took out the dragon's blood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄带笑的眼睛划过三人，最后落在江流身上。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180722T105457Z" creationid="Lilly" creationdate="20180722T105457Z">
@@ -3546,6 +3578,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T095055Z" creationid="Lilly" creationdate="20180609T095055Z">
         <seg>The corner of Ling Xiao’s lips curled up, “Not bad.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄摸了摸下巴，“我总感觉这东西有点奇怪，怪像……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212252Z" creationid="Lilly" creationdate="20180730T212252Z">
+        <seg>Ling Xiao stroked his chin. "I feel that this is a little weird. It's almost like..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4384,6 +4424,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>四周到处都是郁郁葱葱的茂密树木，刚好将山峰覆盖得严严实实，因此就算有人从上空飞过，也未必看到他们。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212054Z" creationid="Lilly" creationdate="20180730T212054Z">
+        <seg>They were surrounded by a dense canopy and undergrowth of greenery, so even if someone flew overhead, they probably wouldn't see them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>四灵生来便有突破圣境的资质，所有能与四灵订立本命契约，方迟尧这个的气运一定很强大，当然，气运这种飘渺的东西是不会一直跟着一个人，时间慢慢的流逝，距离宴会开始的时间已经所剩不多，上来的人也越来越少，不过一直没看到赤血家族的人。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T115640Z" creationid="Ceti" creationdate="20180623T115640Z">
@@ -4964,6 +5012,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T131551Z" creationid="Ceti" creationdate="20180724T123336Z">
         <seg>For You XiaoMo, the most precious thing was not the dragon blood but the level eleven and twelve magic herbs that had been dug up in Hu Village (胡村). Although there were not many, they were still an extremely valuable asset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>寻找了将近&lt;t0/&gt;一&lt;t1/&gt;该钟，他们才降落在一处陡峭的山峰。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212002Z" creationid="Lilly" creationdate="20180730T212002Z">
+        <seg>After searching for almost fifteen minutes, they landed on a sharp peak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,6 +7274,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默探头，“这玩意有什么问题？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212232Z" creationid="Lilly" creationdate="20180730T212232Z">
+        <seg>You XiaoMo peeked over. "Is there something wrong with this?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默接过，发现是一张邀请卡。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T091353Z" creationid="Lilly" creationdate="20180616T091353Z">
@@ -8862,6 +8926,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T032936Z" creationid="Lilly" creationdate="20180613T032936Z">
         <seg>Seeing the sword about to split You XiaoMo in half, some more squeamish people covered their eyes in fright. XiaoHei and the others who were watching from the crowd felt like their hearts were going to jump out of their chests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>确定四下无人，凌霄才将游小默放下来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212112Z" creationid="Lilly" creationdate="20180730T212112Z">
+        <seg>After confirming that there was no one around, Ling Xiao set You XiaoMo down.</seg>
       </tuv>
     </tu>
     <tu>
