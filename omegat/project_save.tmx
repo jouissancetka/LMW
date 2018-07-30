@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“夫人，你现在能感应到龙血的位置吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180730T175810Z" creationid="Lilly" creationdate="20180730T175810Z">
+        <seg>"Dear wife, can you sense the position of the dragon's blood?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“好吧，看在你是赤血家庭的弟子的份上，我就替你传个话，但是……”银戈假装被他的诚意打动。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T143022Z" creationid="Ceti" creationdate="20180626T123141Z">
