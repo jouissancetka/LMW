@@ -186,3 +186,4 @@ xx 家	xx Family/Clan
 顶级	pinnacle level
 程荷	Cheng He
 一品彩丹	first grade rainbow pill
+彩丹	rainbow pill
