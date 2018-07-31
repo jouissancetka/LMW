@@ -189,3 +189,4 @@ xx 家	xx Family/Clan
 彩丹	rainbow pill
 丹方	pill recipe
 乾坤丹	Cosmos Pill
+二品彩丹	second grade rainbow pill
