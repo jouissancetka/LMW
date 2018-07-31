@@ -188,3 +188,4 @@ xx 家	xx Family/Clan
 一品彩丹	first grade rainbow pill
 彩丹	rainbow pill
 丹方	pill recipe
+乾坤丹	Cosmos Pill
