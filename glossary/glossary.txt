@@ -191,3 +191,4 @@ xx 家	xx Family/Clan
 乾坤丹	Cosmos Pill
 二品彩丹	second grade rainbow pill
 拂柳幽典	Buddha’s Willow Standard
+精血	Blood Essence
