@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你要试也可以，试不成，我们再来商量则呢么把元素之心抢到手。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180804T072459Z" creationid="Ceti" creationdate="20180804T072429Z">
+        <seg>"You can try it if you want. If you fail, we can then discuss about how we can snatch the Elemental Essence."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你说什么，还要付一个积分？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T120650Z" creationid="Lilly" creationdate="20180616T120650Z">
@@ -7598,6 +7606,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T025908Z" creationid="Lilly" creationdate="20180629T025908Z">
         <seg>You XiaoMo slowly removed his remaining two storage bags and handed them over reluctantly. He had wanted to go and check out the ninth and tenth floors. Feng ChiYun was most likely up there, though he didn't know why they'd put him there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默憋着气，“不试试怎么会知道。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180804T072306Z" creationid="Ceti" creationdate="20180804T072306Z">
+        <seg>You XiaoMo choked with resentment, "How would you know if you don't try?"</seg>
       </tuv>
     </tu>
     <tu>
