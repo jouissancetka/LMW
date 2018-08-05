@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“怎、怎么样？”游小默急忙问道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180805T094310Z" creationid="Ceti" creationdate="20180805T094310Z">
+        <seg>"How, how is it?" You XiaoMo hastily asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“怎么&lt;t0/&gt;个&lt;t1/&gt;吸引法？”游小默一头雾水，一滴血没有意识的血能吸引人，扯谈吧，又不是吸血鬼。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212413Z" creationid="Lilly" creationdate="20180730T212413Z">
@@ -7422,6 +7430,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084410Z" creationid="Lilly" creationdate="20180609T084410Z">
         <seg>You XiaoMo felt slightly uneasy. They weren’t communicating, were they?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默内心忐忑起来，看他的表情似乎不妙啊，难道真的只是玉简的主人在恶作剧，里面其实不是宝贝之类的东西，而是没用的东西？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180805T094239Z" creationid="Ceti" creationdate="20180805T094239Z">
+        <seg>You XiaoMo became apprehensive. Judging from his expression, it doesn't seem good ah. Don't tell me that the owner of the jade drive was playing a practical joke, and what was inside were not actually things like treasures, but something useless?</seg>
       </tuv>
     </tu>
     <tu>
