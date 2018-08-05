@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你在犹豫什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180805T071504Z" creationid="Ceti" creationdate="20180805T071504Z">
+        <seg>"What are you hesitating for?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你撒谎。”男人轻描淡写的道，“最后一句是真的，但前面都是假的吧，那十人明明问的是将你送到村子的青年的事情，老头，都这么大岁数了，撒谎可不好。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T133158Z" creationid="Ceti" creationdate="20180701T075856Z">
@@ -4010,6 +4018,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084642Z" creationid="Lilly" creationdate="20180609T084642Z">
         <seg>Ling Xiao froze for a moment, but You XiaoMo didn’t notice. “Do you think everyone is as dumb as you?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄的声音骤然响起，吓了他一大跳。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180805T071537Z" creationid="Ceti" creationdate="20180805T071537Z">
+        <seg>Ling Xiao's voice suddenly resounded, causing him to jump in fright.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7710,6 +7726,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T072108Z" creationid="Lilly" creationdate="20180715T072108Z">
         <seg>You XiaoMo felt that this old man was really overbearing. This question wouldn't be easy to answer because it had something to do with the problem they had just discussed, so he decided to avoid the question for now, pretending to not hear the old man's words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默悄声走到凌霄身后，见他在聚精会神的摆弄手中的禁制玉简，突然生出一丝恶作剧的心理，直接把清水浇到他身上应该也可以算帮他清洗身体吧。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180805T071444Z" creationid="Ceti" creationdate="20180805T071444Z">
+        <seg>You XiaoMo sneaked up behind Ling Xiao and saw him concentrating his attention on the sealed jade drive he was fiddling with. He was suddenly struck by a mischievous impulse. If he poured water directly on him, it should also be considered as helping him clean his body ba.</seg>
       </tuv>
     </tu>
     <tu>
