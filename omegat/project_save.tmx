@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你这个混蛋，竟然敢骗我。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180805T100050Z" creationid="Ceti" creationdate="20180805T100045Z">
+        <seg>"You bastard, you actually dared to deceive me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你这是什么意思？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030131Z" creationid="Lilly" creationdate="20180726T030131Z">
