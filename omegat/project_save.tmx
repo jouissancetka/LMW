@@ -8970,6 +8970,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默转了一圈，其实有了储物袋和空间后，他基本上不会将东西拿出来摆放在房间里，既不安全又不方便，所以就算真的有人潜进来，也不可能偷走什么。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180806T115620Z" creationid="Ceti" creationdate="20180806T115620Z">
+        <seg>You XiaoMo made a round, actually after having a magic bag and the dimension, he basically did not take things out and arrange them in the room. It was neither safe nor convenient, so even if someone really did sneak in, it was not possible for them to steal anything.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默转了下眼球子，突然说道：“其实我还有一个同伙。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180726T015253Z" creationid="Lilly" creationdate="20180726T015253Z">
