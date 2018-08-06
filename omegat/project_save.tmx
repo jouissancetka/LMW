@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是衣服，你的衣服明显有被踩过的痕迹。”；凌霄指着他们进入空间之前随意扔在地上的衣服。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180806T113944Z" creationid="Ceti" creationdate="20180806T113944Z">
+        <seg>"Its the clothes. There are clear traces that someone had trampled on your clothes." Ling Xiao pointed to the clothes they were strewn all over on the floor before they entered the dimension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111328Z" creationid="Lilly" creationdate="20180616T123545Z">
