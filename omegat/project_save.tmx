@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我怎么知道。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180806T115200Z" creationid="Ceti" creationdate="20180806T115200Z">
+        <seg>"How would I know?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我明白了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T095753Z" creationid="Ceti" creationdate="20180804T095753Z">
@@ -1896,8 +1904,8 @@
       <tuv lang="ZH-CN">
         <seg>“谁知道。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180806T113727Z" creationid="Ceti" creationdate="20180806T113727Z">
-        <seg>"How would I know."</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180806T115227Z" creationid="Ceti" creationdate="20180806T113727Z">
+        <seg>"Who knows."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11123,6 +11131,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084143Z" creationid="Lilly" creationdate="20180609T084143Z">
         <seg>Seeing this, Qing Qiu realized her own brusqueness and fiddled with the strands of hair at her shoulder, disappointed. “Sorry, that was a bit abrupt of me. I need to go now, goodbye!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>解决完衣服，游小默才想起重点，转过身，“你觉得谁会不经我同意就进入我的房间？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180806T115147Z" creationid="Ceti" creationdate="20180806T115147Z">
+        <seg>After packing away the clothes, You XiaoMo then remembered the key point and turned around, "Who do you think would enter my room without my permission?"</seg>
       </tuv>
     </tu>
     <tu>
