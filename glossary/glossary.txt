@@ -196,3 +196,4 @@ xx 家	xx Family/Clan
 修炼所	Cultivation Institute
 巨无霸	Giganticus
 武成	Wu Cheng
+武正	Wu Zheng	武正
