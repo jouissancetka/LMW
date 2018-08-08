@@ -193,5 +193,6 @@ xx 家	xx Family/Clan
 拂柳幽典	Buddha’s Willow Standard
 精血	Blood Essence
 龙族	Dragon Clan
-修炼所	Cultivation Institute	修炼所
+修炼所	Cultivation Institute
 巨无霸	Giganticus
+武成	Wu Cheng
