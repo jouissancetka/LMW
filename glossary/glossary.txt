@@ -197,3 +197,4 @@ xx 家	xx Family/Clan
 巨无霸	Giganticus
 武成	Wu Cheng
 武正	Wu Zheng
+传族之宝	Inheritance Jewel
