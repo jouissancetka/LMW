@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“混账！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180809T110159Z" creationid="Ceti" creationdate="20180809T110159Z">
+        <seg>"Bastards!" (混账)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“游同学，还有半个月就是乙级学区一年一次的比赛，到时请加油哦！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084236Z" creationid="Lilly" creationdate="20180609T084236Z">
@@ -9462,6 +9470,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T182922Z" creationid="Lilly" creationdate="20180730T182922Z">
         <seg>You ZhenTian felt that there were too many uncertainties. He couldn't digest this all and come up with a decision immediately, so he threw it to the back of his mind for now and turned to look at the person next to him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游震天将近段时间发生的所有事情都串起来，再加上江流的证词，终于确信了一件事，游小哈就是游小默，凌默就是凌霄！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180809T110132Z" creationid="Ceti" creationdate="20180809T110132Z">
+        <seg>You ZhenTian put together all the incidents that had happened recently, and with the addition of Jiang Liu's testimony, he was finally convinced that You XiaoHa was You XiaoMo and Ling Mo was Ling Xiao!</seg>
       </tuv>
     </tu>
     <tu>
