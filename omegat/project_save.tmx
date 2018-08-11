@@ -2486,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>万年前，西境却发生了一件轰动的大事。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T083608Z" creationid="Ceti" creationdate="20180811T083608Z">
+        <seg>Ten thousand years ago, a sensational and major event happened in Xi Jing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>三个月后，他的卡里重新攒了不少点数。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T082436Z" creationid="Lilly" creationdate="20180609T082436Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065324Z" creationid="Ceti" creationdate="20180811T065324Z">
         <seg>If you don't speak up, I'll take it as you agreeing. What name should I give you ne?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不过——</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T083513Z" creationid="Ceti" creationdate="20180811T083513Z">
+        <seg>However -</seg>
       </tuv>
     </tu>
     <tu>
