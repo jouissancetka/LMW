@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“两位客人是第一次来吧？”客栈的老板瞧见对方陌生的脸孔立刻猜到了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T133658Z" creationid="Ceti" creationdate="20180811T133658Z">
+        <seg>""Is this the first time that you two are here?" The boss of the tavern (客栈) immediately guessed upon seeing their unfamiliar faces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“为什么不是你母亲？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T065030Z" creationid="Ceti" creationdate="20180728T065030Z">
