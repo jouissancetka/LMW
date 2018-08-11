@@ -6104,6 +6104,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>客栈老板突然压低声音。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T140907Z" creationid="Ceti" creationdate="20180811T140907Z">
+        <seg>The boss of the tavern suddenly lowered his voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>宴会快要结束的时候，银戈假装有事离开。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T134443Z" creationid="Ceti" creationdate="20180625T134836Z">
@@ -11386,8 +11394,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>老板突然脸色一变，变得紧张兮兮起来，“客人不会是想去鬼哭涯吧，小人奉劝你最好不要去，住在鬼哭涯上面的都是些极其残忍的人。”“这事可是有例子的，一千年前，西境有一支实力中上等的妖兽势力，因为同伴被鬼哭涯的天狗杀害，于是他们的头儿带着二十几个手下找上门，结果第二天发生一件骇人听闻的事情。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T140106Z" creationid="Ceti" creationdate="20180811T140106Z">
-        <seg>The boss's expression suddenly changed and became nervous, "Honored Guests, you couldn't be intending of going to the Weeping Ghost Shore right? May this one offer a bit of advice, it's best if you do not go. The ones living on the Weeping Ghost Shore are all extremely cruel people." There are examples of things. A thousand years ago, there was a powerful monster in the West, because the companions were killed by the ghost dog, so their heads came to the door with more than twenty men. The result was second. There was a shocking thing in the sky.'</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T140848Z" creationid="Ceti" creationdate="20180811T140106Z">
+        <seg>The boss's expression suddenly changed and became nervous, "Honored Guests, you couldn't be intending of going to the Weeping Ghost Shore right? May this one offer a bit of advice, it's best if you do not go. The ones living on the Weeping Ghost Shore are all extremely cruel people." "There is an example/case of this. A thousand years ago, there was a powerful demon beast fraction in Xi Jing. Because their companion was killed by the Tiangou of Weeping Ghost Shore, the Fraction Heads knocked on their door with more than twenty men. In the end, a horrifying matter happened the next day."</seg>
       </tuv>
     </tu>
     <tu>
