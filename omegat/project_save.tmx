@@ -6016,6 +6016,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小乌龟不足半岁，灵智尚未完全开启，因此还不能听懂别人的话。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065646Z" creationid="Ceti" creationdate="20180811T065646Z">
+        <seg>The little tortoise was less than half a year old and its gnosis had not opened completely. Thus, it was unable to understand human language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小乌龟还没有名字，莫景说玄龟族的后代出生后都是由族中的长老赐名的，而这只小乌龟出生时不在族中，所以到现在都没有名字。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065036Z" creationid="Ceti" creationdate="20180811T065036Z">
@@ -9246,6 +9254,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084629Z" creationid="Lilly" creationdate="20180609T084629Z">
         <seg>You XiaoMo flushed, pushing him away as he spoke. “By the way, how come you can understand CatQiu?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默自言自语，将小乌龟的龟权忽略得彻底。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065436Z" creationid="Ceti" creationdate="20180811T065436Z">
+        <seg>You XiaoMo muttered to himself, completely ignoring the tortoise rights of the little tortoise.</seg>
       </tuv>
     </tu>
     <tu>
