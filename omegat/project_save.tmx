@@ -5848,6 +5848,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>妖凰族坐落百鸟谷，以百鸟谷为中心方圆万里都是妖凰族的地盘，一般是不允许外来者进驻他们的地盘，除非是依附势力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T073311Z" creationid="Ceti" creationdate="20180811T073311Z">
+        <seg>The Demon Phoenix Clan is located at the Hundred Birds Valley (百鸟谷). With the Hundred Birds Valley as the centre, the perimeter a thousand of miles around was all the territory of the Demon Phoenix Clan. They generally did not allow outsiders to enter their territory, unless it was (依附势力).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>始作俑者们在&lt;t0/&gt;苍盟淡&lt;t1/&gt;定的做客中。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T150538Z" creationid="Lilly" creationdate="20180707T150538Z">
