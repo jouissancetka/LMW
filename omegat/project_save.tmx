@@ -9010,6 +9010,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默点点头，“我听说鬼冢山脉是很多人都避之唯恐的地方，为什么还有这么多人来？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T133809Z" creationid="Ceti" creationdate="20180811T133809Z">
+        <seg>You XiaoMo nodded, "I've hard that the Ghost Tomb Mountain Ranges is a place that many people avoid out of fear. Why are there still so many people here?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默炼丹时，从来不在炉鼎里加灵水，他只会在需要的时候才喝。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093056Z" creationid="Lilly" creationdate="20180609T093048Z">
