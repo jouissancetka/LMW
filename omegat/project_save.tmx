@@ -3870,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>传闻，炼狱是远古时期的战场，里面埋藏着许多大妖兽的骸骨，就像一个森罗地狱，到处弥漫着许多大妖兽死后留下的怨气和戾气。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T084914Z" creationid="Ceti" creationdate="20180811T084914Z">
+        <seg>It was said that </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>但是两族这一代之中，妖凰族却占了上风，导致他每次都会被长辈骂，说他不如姬凤之类的话，搞得他特别窝火，看到姬凤就眼不得掐死她。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T083554Z" creationid="Ceti" creationdate="20180623T083554Z">
@@ -13451,8 +13459,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>鬼哭涯是西境一处极险之地，在西境有炼狱之称。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T084901Z" creationid="Ceti" creationdate="20180811T084901Z">
-        <seg>The Weeping Ghost Shore was an extremely dangerous place in Xi Jing, and was known as the purgatory in Xi Jing.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T084918Z" creationid="Ceti" creationdate="20180811T084901Z">
+        <seg>The Weeping Ghost Shore was an extremely dangerous place in Xi Jing, and was known as the Purgatory in Xi Jing.</seg>
       </tuv>
     </tu>
     <tu>
