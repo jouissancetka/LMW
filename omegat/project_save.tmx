@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“小乌龟，既然你没有名字，我帮你取个名字好不好？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065241Z" creationid="Ceti" creationdate="20180811T065232Z">
+        <seg>"Little tortoise, since you don't have a name, how about I give you one?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“小子，你胆子可真大，竟然敢打伤我哥哥，真是了不起啊！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T050117Z" creationid="Lilly" creationdate="20180613T050117Z">
@@ -2586,6 +2594,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093023Z" creationid="Lilly" creationdate="20180609T093023Z">
         <seg>Don’t blame her for playing dirty, they were enemies. To assure her victory, she would be willing to play dirty any time. Plus, You XiaoMo might have more spiritual water on him, so she was definitely unwilling to lose to him in public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不说话我就当你同意了，取什么名字好呢？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065324Z" creationid="Ceti" creationdate="20180811T065324Z">
+        <seg>If you don't speak up, I'll take it as you agreeing. What name should I give you ne?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8278,6 +8294,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085747Z" creationid="Ceti" creationdate="20180623T085747Z">
         <seg>You XiaoMo leaned towards Ling Xiao and whispered, "Who is this Tai Bai?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默很喜欢给人取名字，但他得知小乌龟没有名字后就打起了主意。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065206Z" creationid="Ceti" creationdate="20180811T065206Z">
+        <seg>You XiaoMo really like to give names to people, so after he knew that the little tortoise did not have a name did this idea strike him.</seg>
       </tuv>
     </tu>
     <tu>
