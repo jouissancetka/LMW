@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“没有。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T143527Z" creationid="Ceti" creationdate="20180811T143527Z">
+        <seg>"I haven't.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“没有。”翁公矢口否认。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T083825Z" creationid="Ceti" creationdate="20180701T082435Z">
