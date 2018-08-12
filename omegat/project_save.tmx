@@ -1184,8 +1184,8 @@
       <tuv lang="ZH-CN">
         <seg>“小乌龟，既然你没有名字，我帮你取个名字好不好？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065241Z" creationid="Ceti" creationdate="20180811T065232Z">
-        <seg>"Little tortoise, since you don't have a name, how about I give you one?</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180812T123515Z" creationid="Ceti" creationdate="20180811T065232Z">
+        <seg>"Little tortoise, how about I give you a name since you don't have one?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8748,8 +8748,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默很喜欢给人取名字，但他得知小乌龟没有名字后就打起了主意。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065206Z" creationid="Ceti" creationdate="20180811T065206Z">
-        <seg>You XiaoMo really like to give names to people, so after he knew that the little tortoise did not have a name did this idea strike him.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180812T123459Z" creationid="Ceti" creationdate="20180811T065206Z">
+        <seg>You XiaoMo really liked to give names to people. An idea struck him after he knew that the little tortoise did not have a name.</seg>
       </tuv>
     </tu>
     <tu>
