@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你看着。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180813T130410Z" creationid="Ceti" creationdate="20180813T130410Z">
+        <seg>"You just watch."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你真的没见过天狗的成员？”游小默赶忙问道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180811T143400Z" creationid="Ceti" creationdate="20180811T143400Z">
