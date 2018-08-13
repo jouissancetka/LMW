@@ -3246,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>为避免惹上麻烦，部分人很惜命的离开了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180813T142359Z" creationid="Ceti" creationdate="20180813T142359Z">
+        <seg>In order to avoid attracting trouble, some people that valued their life left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>之前由于游小默炼丹时连一丝灵魂之力都没有散发出来，所以大家都没办法探测到他炼的灵丹等级，但是现在解放了，几乎所有人都发现了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093548Z" creationid="Lilly" creationdate="20180609T093548Z">
@@ -10604,8 +10612,8 @@
       <tuv lang="ZH-CN">
         <seg>片刻后，那些潜藏在鬼冢山脉的妖兽和人类修炼者一个接一个的出现在现场附近，搜索的灵识也没有间断，当他们‘看到’凌霄制造的状况后，个个倒吸了一口气。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180813T142233Z" creationid="Ceti" creationdate="20180813T141429Z">
-        <seg>After a moment, those demon beasts and human practitioner that were hiding in the Ghost Tomb Mountain Ranges appeared near the scene one after another. Their searching spiritual insight/consciousness (搜索的灵识) was uninterrupted. When they 'saw' the scene created by Ling Xiao, each and every one gasped.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180813T142241Z" creationid="Ceti" creationdate="20180813T141429Z">
+        <seg>After a moment, those demon beasts and human practitioners that were hiding in the Ghost Tomb Mountain Ranges appeared near the scene one after another. Their searching spiritual insight/consciousness (搜索的灵识) was uninterrupted. When they 'saw' the scene created by Ling Xiao, each and every one gasped.</seg>
       </tuv>
     </tu>
     <tu>
