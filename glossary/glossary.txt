@@ -216,3 +216,4 @@ xx 家	xx Family/Clan
 传送	transported
 西境	Eastern Continent
 大哥	dage
+少年	young man
