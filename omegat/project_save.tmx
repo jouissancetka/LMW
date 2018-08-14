@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1616,8 +1616,8 @@
       <tuv lang="ZH-CN">
         <seg>“接下来你要怎么把他们叫出来？”游小默兴奋的看着凌霄，昨晚是他自己说的，不用找也能让天狗的成员自己出现。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180813T130349Z" creationid="Ceti" creationdate="20180813T130349Z">
-        <seg>"How are you going to call them out later?" You XiaoMo excitedly looked at Ling Xiao. Last night, he said it himself, he would be able to let the members of the Tiangous appear on their own even without looking for them.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180814T112559Z" creationid="Ceti" creationdate="20180813T130349Z">
+        <seg>"How are you going to call them out later?" You XiaoMo excitedly looked at Ling Xiao. Last night, he said it himself, he would be able to let the members of the Tengu appear on their own even without looking for them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3682,6 +3682,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T080242Z" creationid="Lilly" creationdate="20180715T080242Z">
         <seg>They had interacted with You XiaoMo before, and it was him who had helped them dig up all the magic herbs in the morning. The old couple decided to trust this good-natured young man.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他们以为是天狗的人制造的，因为这片区是天狗的地盘，而且也就只有他们才有这等本事。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180814T112535Z" creationid="Ceti" creationdate="20180814T112535Z">
+        <seg>tian</seg>
       </tuv>
     </tu>
     <tu>
