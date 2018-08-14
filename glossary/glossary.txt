@@ -212,3 +212,4 @@ xx 家	xx Family/Clan
 莫景	Mo Jing
 天狗	Tengu
 神通	Spiritual Sense
+妖兽	demon beast
