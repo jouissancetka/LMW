@@ -214,3 +214,4 @@ xx 家	xx Family/Clan
 神通	Spiritual Sense
 妖兽	demon beast
 传送	transported
+西境	Eastern Continent
