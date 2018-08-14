@@ -201,7 +201,7 @@ xx 家	xx Family/Clan
 鬼哭涯	Weeping Ghost Shore
 鬼冢山脉	Ghost Tomb Mountain Ranges
 麟古	Lin Gu
-逍遥院	XiaoYao Institution Joui, its been decided to tl it as XiaoYao Institution
+逍遥院	XiaoYao Institution 
 游君其	You JunQi
 妖凰神火	Demon Phoenix Godfire
 灵识	intelligence
