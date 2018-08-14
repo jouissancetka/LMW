@@ -217,3 +217,4 @@ xx 家	xx Family/Clan
 西境	Eastern Continent
 大哥	dage
 少年	young man
+同伴	comrade
