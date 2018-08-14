@@ -213,3 +213,4 @@ xx 家	xx Family/Clan
 天狗	Tengu
 神通	Spiritual Sense
 妖兽	demon beast
+传送	transported
