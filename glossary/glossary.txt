@@ -218,4 +218,3 @@ xx 家	xx Family/Clan
 大哥	dage
 少年	young man
 同伴	comrade
-灵智	spiritual awareness	Intelligence
