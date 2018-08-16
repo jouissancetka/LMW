@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我知道。”游小默扬起手制止他下面的话。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180816T070323Z" creationid="elaine" creationdate="20180816T070323Z">
+        <seg>"I know." You XiaoMo held up his hand to cut him off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我知道了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180626T134555Z" creationid="Ceti" creationdate="20180626T134541Z">
@@ -2150,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“西境到处都覆盖着茂密的树林，想必这里生长着许多灵草吧？”游小默的眼睛终于冒出精光。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180816T070507Z" creationid="elaine" creationdate="20180816T070507Z">
+        <seg>"Dense forests cover all of the Western Continent. Several magic herbs must grow here, right?" You XiaoMo's eyes finally gave off a bright light.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“西面是吗？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T095202Z" creationid="Ceti" creationdate="20180721T170815Z">
@@ -2434,6 +2450,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T052117Z" creationid="Ceti" creationdate="20180728T052117Z">
         <seg>"Then cut the long story short."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那恩公是何意？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180816T070333Z" creationid="elaine" creationdate="20180816T070333Z">
+        <seg>"Then what do you mean?"</seg>
       </tuv>
     </tu>
     <tu>
