@@ -219,3 +219,4 @@ xx 家	xx Family/Clan
 少年	young man
 同伴	comrade
 中天	Zhong Tian
+中心城	Central City
