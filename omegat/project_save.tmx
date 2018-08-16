@@ -14725,5 +14725,16 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">LMW Chapter 517 raw.docx</prop>
+      <prop type="prev">将通灵玄龟的后代交给两个初次见面的陌生人，其实莫景也是下了很大的决心。</prop>
+      <prop type="next">莫景有看到凌霄将邢七一只手臂卸下来的动作。</prop>
+      <tuv lang="ZH-CN">
+        <seg>小主人太重要了，这次他才刚到西境的边缘就被人埋伏，那么在通往玄龟族的路上一定还会有很多敌人在等着他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180816T044430Z" creationid="elaine" creationdate="20180816T044430Z">
+        <seg>The Young Master was too important. This time, he had only reached the edge of the Western Continent (西境//omegat glossary said eastern continent but isn't xi west?) before being ambushed by someone, so there must be even more enemies waiting for him on the road to the Black Turtle Clan.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
