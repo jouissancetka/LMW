@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“小主人在出生的时候，身上就被主人下了一道禁制，那道禁制可以隔绝小主人身上那股与生俱来的强大能量，只要不是十二阶强者，是绝不可能发现小主人的存在，可是邢七却肯定的说出小主人在我身上的事实，所以他一定是事先知道，然后埋伏在这里的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180816T035840Z" creationid="elaine" creationdate="20180816T035840Z">
+        <seg>"When the Young Master was born, Master put a seal (禁制) on him. That seal could isolate the inherently powerful energy that came from the Young Master's body. As long as it isn't a level twelve expert (十二阶强者), there's absolutely no way to discover the Young Master's existence. But Xing Qi will definitely talk about how the Young Master is with me, so he must have known beforehand and then ambushed this place." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“小乌龟，既然你没有名字，我帮你取个名字好不好？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T123515Z" creationid="Ceti" creationdate="20180811T065232Z">
@@ -9326,6 +9334,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T042304Z" creationid="Lilly" creationdate="20180613T042238Z">
         <seg>You XiaoMo rubbed his nose. "Didn't you see what I did?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默摸着下巴，“这么说来，有人背叛你们的可能性非常大。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180816T035905Z" creationid="elaine" creationdate="20180816T035905Z">
+        <seg>You XiaoMo rubbed his chin. "So you're saying that it's very likely that someone betrayed you."</seg>
       </tuv>
     </tu>
     <tu>
