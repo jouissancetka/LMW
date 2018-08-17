@@ -214,9 +214,17 @@ xx 家	xx Family/Clan
 神通	Spiritual Sense
 妖兽	demon beast
 传送	transported
-西境	Eastern Continent
 大哥	dage
 少年	young man
 同伴	comrade
 中天	Zhong Tian
 中心城	Central City
+西境	Xi Jing
+高殷	Gao Yan
+十二阶	level twelve
+十一阶	level eleven
+拱手	obeisance
+拱起手	obeisance
+灵龟族	Mystic Tortoise Clan
+玄明	Xuan Ming
+小乌龟	baby turtle
