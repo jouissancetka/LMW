@@ -228,3 +228,5 @@ xx 家	xx Family/Clan
 灵龟族	Mystic Tortoise Clan
 玄明	Xuan Ming
 小乌龟	baby turtle
+白骨小镇	White Bone Town
+客栈	inn
