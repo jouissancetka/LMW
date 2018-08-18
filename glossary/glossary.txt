@@ -230,3 +230,7 @@ xx 家	xx Family/Clan
 小乌龟	baby turtle
 白骨小镇	White Bone Town
 客栈	inn
+鬼哭涯	Weeping Ghost Shore
+鬼冢山脉	Ghost Tomb Mountain Range
+远古战场	Ancient Battlefield
+走火入魔	Qi deviation
