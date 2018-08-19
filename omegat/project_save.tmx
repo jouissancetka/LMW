@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你可以走了。”凌霄挥手赶人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T033524Z" creationid="yun" creationdate="20180819T033524Z">
+        <seg>"You can leave now." Ling Xiao shooed with his hand. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你听错了。”凌霄面无表情的说道，“刚刚只有有只狗在叫而已，不用理它。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085704Z" creationid="Ceti" creationdate="20180623T085704Z">
@@ -11270,6 +11278,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T032902Z" creationid="yun" creationdate="20180819T032902Z">
         <seg>Owner Wang was taken back for a second before answering, "A few."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>王老板推开门走进去，看到坐在桌边的男人，他亲自将男人要的茶沏好，随后他又将两坛上百年的花雕拿出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T033456Z" creationid="yun" creationdate="20180819T033456Z">
+        <seg>When owner Wang opened the door and stepped inside, he saw the man sitting by the table. He even personally brewed the tea for the man and brought his two jars of hundred year Shaoxing wine. </seg>
       </tuv>
     </tu>
     <tu>
