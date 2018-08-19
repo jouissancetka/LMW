@@ -234,3 +234,4 @@ xx 家	xx Family/Clan
 鬼冢山脉	Ghost Tomb Mountain Range
 远古战场	Ancient Battlefield
 走火入魔	Qi deviation
+丹青	Dan Qing
