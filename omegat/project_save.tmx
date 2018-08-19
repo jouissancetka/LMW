@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好茶好酒都拿过来。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T032926Z" creationid="yun" creationdate="20180819T032926Z">
+        <seg>"Then bring me the high-grade wines and teas."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“如何？”慵懒邪&lt;t0/&gt;魅&lt;t1/&gt;的声音不紧不慢的响起。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T134038Z" creationid="Lilly" creationdate="20180711T134038Z">
@@ -1810,6 +1818,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T095254Z" creationid="Ceti" creationdate="20180721T171427Z">
         <seg>"Yes, City Master!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“是，小人这就去拿。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T032943Z" creationid="yun" creationdate="20180819T032943Z">
+        <seg>"Sure, i'll be right back."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,6 +11246,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180807T132115Z" creationid="Ceti" creationdate="20180806T132314Z">
         <seg>Recorded within the jade drive were the pill recipes of many magic pills. The characters of the pill recipes were ancient, looking just like characters from the Heavenly Soul Scripture that Ling Xiao stole from Qiu Ran. He could comprehend a few characters as he had compared the translation and original text in the past.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>王老板一愣，立即回道：“有点。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T032902Z" creationid="yun" creationdate="20180819T032902Z">
+        <seg>Owner Wang was taken back for a second before answering, "A few."</seg>
       </tuv>
     </tu>
     <tu>
