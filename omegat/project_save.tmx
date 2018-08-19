@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“客人，这是鬼冢山脉的地形图，你们应该很需要。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T061107Z" creationid="yun" creationdate="20180819T061107Z">
+        <seg>"Honorable guests, this is a map of the Ghost Tomb Mountain Ranges, it'll probably come in handy."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“小主人在出生的时候，身上就被主人下了一道禁制，那道禁制可以隔绝小主人身上那股与生俱来的强大能量，只要不是十二阶强者，是绝不可能发现小主人的存在，可是邢七却肯定的说出小主人在我身上的事实，所以他一定是事先知道，然后埋伏在这里的。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T035840Z" creationid="elaine" creationdate="20180816T035840Z">
@@ -4834,6 +4842,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090658Z" creationid="Lilly" creationdate="20180609T090658Z">
         <seg>After kicking Chai Tian to the side, he met Teng Jiao with a fake smile. His smiling eyes seemed like swirling vortexes, drawing you in, the blackness inside revealing a deadly darkness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄将客栈老板送的酒和茶收起来，二人旋即下楼与老板退房，然后离开了白骨小镇。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T060934Z" creationid="yun" creationdate="20180819T060934Z">
+        <seg>Ling Xiao packed up the wine and tea he recieved from the inn owner and the two proceeded downstairs to check out. Then, they left the White Bone Town.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12645,6 +12661,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180818T033728Z" creationid="yun" creationdate="20180818T033728Z">
         <seg>The shopkeeper was pleasently surprised at the undistribed inn, he thought that it would be his inn that got the most damaged. At that time, many saw the man in white and the man in black walking along this street, but in reality, much to their surprise, it was this street that was the least harmed. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老板猜想他们可能真的要去鬼哭涯，这次倒没说什么，以男人的实力，真要找到鬼哭涯估计也能全身而退，不过……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T061026Z" creationid="yun" creationdate="20180819T061026Z">
+        <seg>The owner guessed that they were probably going to the Weeping Ghost Shore and this time didn't say anything. With the man's power, even if they found the Weeping Ghost Shore, they could probably make it out alive but...</seg>
       </tuv>
     </tu>
     <tu>
