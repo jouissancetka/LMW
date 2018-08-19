@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这里是远古战场，远古的大妖兽在这里战斗，导致鬼冢山脉的空间并不稳定，有些地方的空间甚至呈现崩溃的现象。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T063701Z" creationid="yun" creationdate="20180819T063701Z">
+        <seg>"This was the Ancient Battlefield, in ancient times, many greater demon beast fought here, causing the dimension around the Ghost Tomb Mountain Range to be highly unstable. Some places even had a collapse of dimensions." (空间甚至呈现崩溃的现象)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“连心蛊其实还是一大补物，只要两个真心相爱的人分别服下连心蛊，再进行交合，引领连心蛊进行炼化，即可达到难以想象的境界。”凌霄也是偶尔才听到连心蛊的存在。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T014236Z" creationid="Ceti" creationdate="20180630T104442Z">
@@ -9438,6 +9446,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180724T130139Z" creationid="Ceti" creationdate="20180724T123428Z">
         <seg>You XiaoMo stared at him in suspicion (垮下脸), "How are you so sure?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默失望，果然还是得用两只脚。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180819T063729Z" creationid="yun" creationdate="20180819T063729Z">
+        <seg>You XiaoMo was disappointed, at the end of the day, they still had to walk.</seg>
       </tuv>
     </tu>
     <tu>
