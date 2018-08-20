@@ -2558,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那就……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T032708Z" creationid="elaine" creationdate="20180820T032708Z">
+        <seg>"Then let's..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那就祝你马到成功！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T040225Z" creationid="elaine" creationdate="20180816T040225Z">
@@ -10910,6 +10918,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T083339Z" creationid="Ceti" creationdate="20180728T143102Z">
         <seg>You XiaoMo walked towards the spiritual water lake. He came upon a delightful and reassuring (安份) sight of the four demon beasts on the edge of the lake, arranged according to their size, from large to small. His line of sight could not help but move to the spiritual water lake and he crouched down to use his hand to test the water level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默走过去神经兮兮的抱住他的手臂，“可能是我的错觉吧，总觉得有人在看我一样，我们赶紧看I酷妖坟场。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T032705Z" creationid="elaine" creationdate="20180820T032705Z">
+        <seg>You XiaoMo walked over to him and nervously hugged his arm. "It's probably just my imagination, but I keep feeling as if someone is watching me. We should leave the demon beast graveyard quickly."</seg>
       </tuv>
     </tu>
     <tu>
