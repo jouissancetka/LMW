@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我们要怎么过去？”游小默吞吞口水问道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T025607Z" creationid="elaine" creationdate="20180820T025607Z">
+        <seg>"How should we get across?" You XiaoMo swallowed and asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我可以解释的。”游小默咽了咽口水，转头瞪了猫球一眼，你&lt;t0/&gt;个&lt;t1/&gt;臭小子，竟然告状，下次绝对不会再带你出去了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084515Z" creationid="Lilly" creationdate="20180609T084515Z">
@@ -10372,8 +10380,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默看得抽气连连，难怪客栈老板会把妖坟场标注为鬼冢山脉最危险的地方之一，那只黑鹰起码有十阶的修为，竟然连一丁点反抗都没有就被分食了，果然有够恐怖！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180820T025411Z" creationid="elaine" creationdate="20180820T025411Z">
-        <seg>You XiaoMo drew in several breaths as he watched. No wonder the innkeeper (客栈老板) labeled the demon beast graveyard as the most dangerous place in Ghost Tomb Mountain Range. That black hawk had at least </seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T025549Z" creationid="elaine" creationdate="20180820T025411Z">
+        <seg>You XiaoMo drew in several breaths as he watched. No wonder the innkeeper (客栈老板) labeled the demon beast graveyard as the most dangerous place in Ghost Tomb Mountain Range. That black hawk had at least level ten cultivation, but it had been turned into food without the slightest bit of resistance. Indeed, it was extremely terrifying! </seg>
       </tuv>
     </tu>
     <tu>
