@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“要不你给那位古叔传个信，让他出来接我们。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T041805Z" creationid="elaine" creationdate="20180820T041805Z">
+        <seg>"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“要不，我们先去玄龟族？”游小默忍不住提议道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T075316Z" creationid="Ceti" creationdate="20180812T075316Z">
@@ -7002,8 +7010,8 @@
       <tuv lang="ZH-CN">
         <seg>客栈老板给他们的地形图只表明鬼哭崖就在这里，但具体是哪座涯就没有人知道，他们必须靠自己慢慢找。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180820T041608Z" creationid="elaine" creationdate="20180820T041608Z">
-        <seg>The map the innkeeper had given them only marked the Wailing Ghost Cliff as being here, but as for which mountain or cliffside it was, nobody knew. They could only slowly search on their own. </seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T041946Z" creationid="elaine" creationdate="20180820T041608Z">
+        <seg>The map the innkeeper had given them only marked the Weeping Ghost Shore as being here, but as for which mountain or cliffside it was, nobody knew. They could only slowly search on their own. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14156,8 +14164,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>过了沼泽，他们终于到达鬼哭崖。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180820T040231Z" creationid="elaine" creationdate="20180820T040231Z">
-        <seg>After they crossed the swamp, they finally reached the Wailing Ghost Cliff. (鬼哭崖)</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T041915Z" creationid="elaine" creationdate="20180820T040231Z">
+        <seg>After they crossed the swamp, they finally reached the Weeping Ghost Shore. (鬼哭涯)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14668,8 +14676,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>连绵的山峰，陡峭嶙峋，鬼哭崖就在其中，接下来他们要从中找出鬼哭崖。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180820T041349Z" creationid="elaine" creationdate="20180820T041349Z">
-        <seg>The endless mountainpeaks were precipitous and jagged. The Wailing Ghost Cliff was in the middle of all of these, so next, they had to find the Wailing Ghost Cliff.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T041936Z" creationid="elaine" creationdate="20180820T041349Z">
+        <seg>The endless mountainpeaks were precipitous and jagged. The Weeping Ghost Shore was in the middle of all of these, so next, they had to find the Weeping Ghost Shore.</seg>
       </tuv>
     </tu>
     <tu>
