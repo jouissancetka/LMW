@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这还用得着说，当然是从空中。”凌霄说。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T025924Z" creationid="elaine" creationdate="20180820T025924Z">
+        <seg>"Do I really need to say it? Of course it's through the air." Ling Xiao said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这里是远古战场，远古的大妖兽在这里战斗，导致鬼冢山脉的空间并不稳定，有些地方的空间甚至呈现崩溃的现象。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T063701Z" creationid="yun" creationdate="20180819T063701Z">
@@ -4026,6 +4034,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T131028Z" creationid="Ceti" creationdate="20180811T132837Z">
         <seg>The distance from the fringes of Xi Jing to the Ghost Tomb Mountain Ranges was very far.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>从陆地走过去显然不可能，走空中也很危险，刚刚那只黑鹰就是在冲出黑雾后又被强行拉了回去，不过两者一比还是空中的危险系数要低一些。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T025852Z" creationid="elaine" creationdate="20180820T025852Z">
+        <seg>It was impossible to walk across the ground, but it was also very dangerous to go through the air. Just now, that black hawk had been forcefully dragged back in after it had flown out of the black fog. However, after comparing, they realized that the likelihood of danger in the air was still a little lower.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9942,6 +9958,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T062739Z" creationid="yun" creationdate="20180819T062739Z">
         <seg>You XiaoMo laid out the map and clearfully went over it again. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默摸摸鼻子。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180820T025937Z" creationid="elaine" creationdate="20180820T025937Z">
+        <seg>You XiaoMo rubbed his nose.</seg>
       </tuv>
     </tu>
     <tu>
