@@ -2616,8 +2616,8 @@
       <tuv lang="ZH-CN">
         <seg>“那你儿子姓什么？”游小默脱口便问。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180821T010107Z" creationid="elaine" creationdate="20180821T010107Z">
-        <seg>"</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180821T010150Z" creationid="elaine" creationdate="20180821T010107Z">
+        <seg>"Well, what's his surname?" You XiaoMo unwittingly asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,6 +5178,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090946Z" creationid="Lilly" creationdate="20180609T090946Z">
         <seg>Ling Xiao raised one hand and blew away a person with the force of a single palm. A simple technique, but with plenty of power behind it. Those who charged at the front only just entered the fight, but were even more useless than Teng Jiao, getting blown out the ring one after the other. In a flash, all the members of the Teng family and half of the Chai family had been eliminated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄扶额。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180821T010227Z" creationid="elaine" creationdate="20180821T010227Z">
+        <seg>Ling Xiao pressed his hand to his forehead.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9102,6 +9110,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180813T125311Z" creationid="Ceti" creationdate="20180813T125252Z">
         <seg>You JunQi had actually long realized that he was his son. Yet he did not say as such, and wanted to seize the opportunity to stick like a leech to him? Not a chance!/he did not have a chance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游君其笑了笑，“你真爱开玩笑，我的儿纸当然是姓游啊，他现在应该二十二岁，我也已经有二十二年没见过他了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180821T010352Z" creationid="elaine" creationdate="20180821T010352Z">
+        <seg>You JunQi laughed. "You really do like to joke around. Of course my son's surname is You, he should be 22 years old now. It's also been 22 years since I've last seen him." </seg>
       </tuv>
     </tu>
     <tu>
