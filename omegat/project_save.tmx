@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“……我被耍了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180821T012533Z" creationid="elaine" creationdate="20180821T012533Z">
+        <seg>"... I've been played."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“一切安好”银戈淡淡的&lt;t0/&gt;说道，“其实我父亲本来是打算亲自过来的，他人也已经到了北阳城，但因为突然发生一些事情，所以不得不改变计划，还望傅盟主见谅！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T142542Z" creationid="Lilly" creationdate="20180707T142542Z">
@@ -1506,6 +1514,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T084146Z" creationid="Ceti" creationdate="20180728T153619Z">
         <seg>"Well done." You XiaoMo praised the three small demon beasts, expressing his pleasure at their actions of renouncing the dark and seeking the light. They really proved themselves to be the demon beasts that he favored the most. It looked like he didn't dote on them for nothing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“很好，现在有什么想法？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180821T012414Z" creationid="elaine" creationdate="20180821T012414Z">
+        <seg>"Very good. So now what are you thinking?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5306,6 +5322,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180813T133804Z" creationid="Ceti" creationdate="20180813T133620Z">
         <seg>Ling Xiao's next actions soon told him the authenticity of this idea/this idea was true or false. The first mountain peak to suffer a calamity was not the peak closest to them, but a big mountain that was connected (连绵) to other mountain peaks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄接着说：“一般人看到一个长得跟自己很相像的人会什么反应都没有吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180821T012339Z" creationid="elaine" creationdate="20180821T012332Z">
+        <seg>Ling Xiao continued, "Would an ordinary person have absolutely no reaction when they see someone who looks like them?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10534,6 +10558,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T121632Z" creationid="Lilly" creationdate="20180621T121632Z">
         <seg>You XiaoMo fell silent for a while, quietly getting out his money.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默沉默了两秒：“不会。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180821T012352Z" creationid="elaine" creationdate="20180821T012352Z">
+        <seg>You XiaoMo was silent for two seconds. "No."</seg>
       </tuv>
     </tu>
     <tu>
