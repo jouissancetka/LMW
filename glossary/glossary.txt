@@ -236,5 +236,5 @@ xx 家	xx Family/Clan
 走火入魔	Qi deviation
 丹青	Dan Qing
 修炼	cultivating
-龙翔大陆	Long Xiang Continent	龙翔大陆
+龙翔大陆	Long Xiang Continent
 古叔	Uncle Gu
