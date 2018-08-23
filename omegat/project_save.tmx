@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你别乱来！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T163708Z" creationid="yun" creationdate="20180823T163708Z">
+        <seg>"Don't you dare try something funny!" (你别乱来！)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你别问那么多，我在星罗城的城主府，十万火急啊！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025200Z" creationid="Lilly" creationdate="20180726T025200Z">
