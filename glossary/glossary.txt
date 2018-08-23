@@ -243,3 +243,4 @@ xx 家	xx Family/Clan
 天明	Tian Ming
 巅峰	pinnacle
 天元	Tian Yuan
+天门	Tian Men
