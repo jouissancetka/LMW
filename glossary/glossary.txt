@@ -244,3 +244,4 @@ xx 家	xx Family/Clan
 巅峰	pinnacle
 天元	Tian Yuan
 天门	Tian Men
+彩级一品	Grade One Rainbow Level
