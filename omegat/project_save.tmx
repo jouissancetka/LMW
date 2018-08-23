@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6126,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄耻笑道：“之前我跟你说的时候你还否定了我的提议，怎么现在突然改变注意了，你不是说你已经让别人帮你找灵草了吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T211029Z" creationid="yun" creationdate="20180823T211029Z">
+        <seg>Ling Xiao sneered, "When I suggested it to you earlier, who was the one who rejected my proposal and now you changed your mind? Didn't you say you already had someone help you find the magic herbs?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄脸上露出一个奇异的笑容，脚尖使力便朝他迅速的冲了过去，一身强悍的气息倒是丁点不泄露，顷刻间便冲到游双面前，后者震惊的脸瞬时放大，由于估算错误，他根本来不及躲避，一只闪烁的紫光与红色火焰的拳头便狠狠地砸到他脆弱的腹部上……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T091656Z" creationid="Lilly" creationdate="20180629T091656Z">
@@ -10238,6 +10246,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180823T203556Z" creationid="Lilly" creationdate="20180823T203556Z">
         <seg>You XiaoMo couldn't help but stare. This guy gave him the same feeling the old man did, like he had multiple personalities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默义正言辞的回道：“我才没有做贼心虚，我有拿灵草换的，而且还是上品灵草，我已经吃亏了，多拿一枚种子又不会怎么样。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T210920Z" creationid="yun" creationdate="20180823T210920Z">
+        <seg>You XiaoMo replied with confidence (义正言辞), "I have no guilt whatsoever. I did exchange them with magic herbs, even high-grade ones. I'm the one who taking a loss here, even if I got a seed with it, it shouldn't matter." </seg>
       </tuv>
     </tu>
     <tu>
