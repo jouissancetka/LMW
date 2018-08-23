@@ -4862,6 +4862,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>以前从胡村后山的石洞得到的灵草大多已经掉落种子，有了种子他就不需要再担心这种灵草会没有存货。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T175603Z" creationid="yun" creationdate="20180823T175603Z">
+        <seg>The magic herbs he got from the cave behind the Hu Village had already dropped seeds. Once he had the seeds, he didn't need to worry about not having stock anymore.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>以我估计，关在第十层的人应该是三个人以下，比较好找，这一层只能硬闯，等我们顺利救出风迟云后，我会负责吸引两兄弟的注意力，到时利用空间的&lt;t0/&gt;移动性先离开&lt;t1/&gt;禁地，并通知&lt;t2/&gt;银戈他们&lt;t3/&gt;。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062022Z" creationid="Lilly" creationdate="20180629T062011Z">
@@ -12270,6 +12278,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T102336Z" creationid="Ceti" creationdate="20180722T075910Z">
         <seg>You XiaoMo had thought that Ping Pang were only restricted to bites (咬禁制) and did not expect their bite to have such attack power. Taking advantage of the time where the City Master of Starfall City was so shocked that he was unable to react, he made a turn about and ran off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默还是没忍住，搬了张凳子踩上去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T175629Z" creationid="yun" creationdate="20180823T175629Z">
+        <seg>In the end, You XiaoMo couldn't resist the temptation and got a stool to step on it. </seg>
       </tuv>
     </tu>
     <tu>
