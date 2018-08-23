@@ -250,3 +250,5 @@ xx 家	xx Family/Clan
 赤血家族	Vermillion Blood Clan
 彩级一品	first grade rainbow level
 胡村	Hu Village
+上品灵草	high-grade magic herbs
+中级灵草	mid-grade
