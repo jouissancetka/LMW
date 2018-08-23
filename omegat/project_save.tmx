@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10638,6 +10638,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T143619Z" creationid="Ceti" creationdate="20180805T051906Z">
         <seg>You XiaoMo sniffled, he had thought that Ling Xiao could undo it immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默咂嘴，不以为然的说道：“你说的这种情况适合大部分人，但不是人人都适合的，有些人就要特别对待。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180823T211153Z" creationid="Lilly" creationdate="20180823T211153Z">
+        <seg>You XiaoMo pouted, saying disapprovingly (不以为然), "The situation</seg>
       </tuv>
     </tu>
     <tu>
