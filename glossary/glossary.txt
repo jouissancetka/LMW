@@ -245,3 +245,4 @@ xx 家	xx Family/Clan
 天元	Tian Yuan
 天门	Tian Men
 彩级一品	Grade One Rainbow Level
+炼丹房	Pill Refining Room
