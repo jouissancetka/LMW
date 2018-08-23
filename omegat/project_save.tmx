@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1026,6 +1026,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T124638Z" creationid="Lilly" creationdate="20180621T124638Z">
         <seg>"Does the ShuangYu Hotel have many young masters?" You XiaoMo asked curiously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“反正，反正闲着也是无聊嘛，所以我就想凑齐一张丹方的材料，试着炼一枚彩丹看看。”游小默心虚的一开视线。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T211257Z" creationid="yun" creationdate="20180823T211257Z">
+        <seg>"Any, anyhow, I was bored okay? I thought might as well scrape together enough ingredients for a pill recipe and try to make a rainbow pill." You XiaoMo averted his eyes, feeling guilty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,6 +2890,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T113738Z" creationid="Ceti" creationdate="20180806T113738Z">
         <seg>"Then how did you discover it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那你现在凑到了没有？”凌霄将他从椅子上拎下来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T211331Z" creationid="yun" creationdate="20180823T211316Z">
+        <seg>"Then, did you scrape together one?" Ling Xiao lifted him off his chair.</seg>
       </tuv>
     </tu>
     <tu>
