@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10982,6 +10982,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T095201Z" creationid="Lilly" creationdate="20180609T095201Z">
         <seg>You XiaoMo quickly swiped his card and entered, ignoring the shocked crowd behind him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默快速的拿到种子，捧着几株灵草傻兮兮的点头，“刚好凑到一副。”丹房主人存放的灵草并不多，最多只能让他凑一副。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180823T211659Z" creationid="yun" creationdate="20180823T211659Z">
+        <seg>Quickly, You XiaoMo grabed the seed and nodded stupidly while holding on to a few stalks of magic herbs, "Just enough for one." There weren't many magic herbs stored here by its owner, the most he could do was one recipe. </seg>
       </tuv>
     </tu>
     <tu>
