@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“天明，我们一起上。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Kollumceti" changedate="20180823T120813Z" creationid="Kollumceti" creationdate="20180823T120813Z">
+        <seg>"Tian Ming, let's take them together."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“太白，是你！”姬凤深深的皱起眉。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085743Z" creationid="Ceti" creationdate="20180623T085743Z">
