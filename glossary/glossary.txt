@@ -253,3 +253,4 @@ xx 家	xx Family/Clan
 上品灵草	high-grade magic herbs
 中级灵草	mid-grade
 天公鼎	Heavenly Cauldron
+杂质	impurities
