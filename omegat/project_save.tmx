@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“果然是金翅虫，而且颜色还很纯正。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T195103Z" creationid="Lilly" creationdate="20180824T195103Z">
+        <seg>"Golden Winged Insects, as expected, and their of very pure coloration."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“正是。”客栈老板笑眯眯的点点头。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T131442Z" creationid="Ceti" creationdate="20180811T134623Z">
@@ -11658,6 +11666,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默得意的笑起来，“他们是我的契约兽，公的叫小&lt;t0/&gt;乒&lt;t1/&gt;，母的叫小&lt;t2/&gt;乓&lt;t3/&gt;。”说着就把两只金&lt;t4/&gt;翅虫招下来&lt;t5/&gt;，让他们停在桌面上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T194858Z" creationid="Lilly" creationdate="20180824T194858Z">
+        <seg>You XiaoMo smirked with delight. "They're my contract beasts. The male is called Xiao Ping and the female is called Xiao Pang." As he said his, he waved the two down and had them land on the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默心想反正顺路，就应下来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T095040Z" creationid="Lilly" creationdate="20180616T095040Z">
@@ -18172,6 +18188,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T083853Z" creationid="Lilly" creationdate="20180609T083853Z">
         <seg>Qing Qiu said, “Not much, just five is enough.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>靠近游小默的天门和天阳伸长脖子看着两只大小连他们的拇指都没有的金翅虫，这种小妖&lt;t0/&gt;兽只能&lt;t1/&gt;在书籍中看到，现实几乎看不到。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T195045Z" creationid="Lilly" creationdate="20180824T195045Z">
+        <seg>Tian Men and Tian Yang, who were closest to You XiaoMo, stretched their necks to take a closer look at the two Golden Winged Insects, barely larger than their thumb. This sort of demon beast was only ever seen in books, not reality.</seg>
       </tuv>
     </tu>
     <tu>
