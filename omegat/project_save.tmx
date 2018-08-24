@@ -7922,8 +7922,8 @@
       <tuv lang="ZH-CN">
         <seg>天恨得意地道：“不问自取谓为贼。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T185944Z" creationid="Lilly" creationdate="20180824T185944Z">
-        <seg>Tian Hen</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T190237Z" creationid="Lilly" creationdate="20180824T185944Z">
+        <seg>Tian Hen said with triumph, "Taking without asking is thieving."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11318,6 +11318,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T101323Z" creationid="Ceti" creationdate="20180630T101323Z">
         <seg>You XiaoMo swallowed, this was too horrifying, "Is there any way to remove it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默哼道：“我就不信你没当过贼。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T190259Z" creationid="Lilly" creationdate="20180824T190259Z">
+        <seg>You XiaoMo huffed, "I refuse to believe that you haven't done the same."</seg>
       </tuv>
     </tu>
     <tu>
