@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“它们产过丝吗？”天修问道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T200039Z" creationid="Lilly" creationdate="20180824T200039Z">
+        <seg>"Have they produced silk yet?" Tian Xiu asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“客人想必也听说鬼冢山脉是远古的战场，战场上陨落了许多大妖兽，这些大妖兽在远古都是赫赫有名的强者，他们大都会把收集来的宝贝放在芥子空间里，客人你想一想，他们一死，随身的芥子空间岂不是会崩溃？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T131419Z" creationid="Ceti" creationdate="20180811T134140Z">
@@ -7690,8 +7698,8 @@
       <tuv lang="ZH-CN">
         <seg>在这种情况下，更加衬托出&lt;t0/&gt;纯色金&lt;t1/&gt;翅虫的珍贵。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T195751Z" creationid="Lilly" creationdate="20180824T195751Z">
-        <seg>Under these circumstances</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T200016Z" creationid="Lilly" creationdate="20180824T195751Z">
+        <seg>Under these circumstances, it further emphasized how valuable the pure Golden Winged Insects were.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12534,6 +12542,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T092852Z" creationid="Lilly" creationdate="20180609T092852Z">
         <seg>You XiaoMo stared at the liquified magic herbs inside his cauldron; the thirty balls of liquid lay peacefully suspended within the cauldron. He then looked up at the hourglass; there were two hours remaining.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默眉毛一挑，“还没有，有什么问题？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180824T200109Z" creationid="Lilly" creationdate="20180824T200100Z">
+        <seg>You XiaoMo raised an eyebrow. "Not yet. Is there a problem?"</seg>
       </tuv>
     </tu>
     <tu>
