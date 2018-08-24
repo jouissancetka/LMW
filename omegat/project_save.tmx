@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他犹豫了一下，终究还是没帮他擦汗，他可不想承担害他炼丹失败的责任。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180824T012236Z" creationid="yun" creationdate="20180824T012236Z">
+        <seg>After a bit of hestiation, he decided against wipping it away since he didn't want to take the blame if he failed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他现在也算走投无路，出来相信他们也别无他法，只希望他没有看走眼。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T002203Z" creationid="elaine" creationdate="20180816T002203Z">
@@ -5440,8 +5448,8 @@
       <tuv lang="ZH-CN">
         <seg>凌霄不懂炼丹，不过他发现游小默今天流的汗比以往任何一次都要多，连衣襟都被汗水浸湿了一大块。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20180824T012139Z" creationid="yun" creationdate="20180824T012139Z">
-        <seg>Ling Xiao didn't know anything about refining pills but he found that this time, You XiaoMo was sweating more than he ever had. Even his inner layer(衣襟) was drenched in sweat.</seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20180824T012153Z" creationid="yun" creationdate="20180824T012139Z">
+        <seg>Ling Xiao didn't know anything about refining pills but he found that this time, You XiaoMo was sweating more than he ever had. Even his outer layer(衣襟) was drenched in sweat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,6 +8634,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>当游小默终于将所以灵草都提炼完毕后，时间已经过去一天。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180824T012252Z" creationid="yun" creationdate="20180824T012252Z">
+        <seg>Once You XiaoMo finished extracting all of the magic herbs, a day had gone by.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>当灰尘散去，众人看到不可一世的独眼刀疤抱着脑袋痛得在地上打滚，不时用力磕着地面，布满血痕的脸看起来异常的狰狞。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T041818Z" creationid="Lilly" creationdate="20180613T041818Z">
@@ -9366,6 +9382,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093603Z" creationid="Lilly" creationdate="20180609T093603Z">
         <seg>Gazing at You XiaoMo’s cauldron, murmurs of shock travelled through the audience</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>望着静静悬浮在炉鼎里的灵草液体，游小默终于松了一口气，用袖子擦擦额头上的汗水。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180824T012338Z" creationid="yun" creationdate="20180824T012338Z">
+        <seg>Staring at the magic herb liquid, which was quietly floating in the cauldron, You XiaoMo finally let out a sigh of relief and wiped his forehead from sweat. </seg>
       </tuv>
     </tu>
     <tu>
