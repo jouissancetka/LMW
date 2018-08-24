@@ -928,8 +928,8 @@
       <tuv lang="ZH-CN">
         <seg>“先让我来会一会此人。”天恨手痒痒的说道，体内的好战因子几乎一触即发。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180824T050041Z" creationid="elaine" creationdate="20180824T050041Z">
-        <seg>"Let me have a go at him first," Tian Hen said, hands itching as if the warlike spirit inside of him was about to break out at any moment.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180824T050049Z" creationid="elaine" creationdate="20180824T050041Z">
+        <seg>"Let me have a go at him first," Tian Hen said, hands itching as if the warlike spirit (好战因子) inside of him was about to break out at any moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7852,6 +7852,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Kollumceti" changedate="20180823T121628Z" creationid="Kollumceti" creationdate="20180823T121419Z">
         <seg>Tian Ming's mind was more active, and his mind was already rapidly turning. Once he heard Tian Hen's words, he did not hesitate and coordinated with Tian Hen as he rushed forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>天明摇晃着扇子笑道：“天恨，你可要小心了，对方能潜入鬼哭涯，实力应该不弱，别不小心反折在对方手中。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180824T050222Z" creationid="elaine" creationdate="20180824T050222Z">
+        <seg>Tian Ming waved his fan and laughed. "Tian Hen, you should be careful. The opponent can break into the Weeping Ghost Shore, so he shouldn't be weak. Don't accidentally lose to him."</seg>
       </tuv>
     </tu>
     <tu>
