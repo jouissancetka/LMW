@@ -5102,6 +5102,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他们此刻所在的都城是西境北面唯一的一座都城自然城，都城面积非常大，而且也是通天大陆最奇特的一座城，因为该城将一片森林也给圈了进去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T100454Z" creationid="Ceti" creationdate="20180826T100454Z">
+        <seg>The capital city they were currently at was the only natural city in the north of Xi Jing. The capital city was extraordinaryily large and it was also the most peculiar city in the TongTian Continent because it enclosed a forest within its city walls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他们的具体位置到现在也没人知道，据说若非麒麟族的族人，一般人终其一辈子也不可能找到。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T125227Z" creationid="Ceti" creationdate="20180811T080159Z">
@@ -5602,6 +5610,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T094542Z" creationid="Ceti" creationdate="20180701T094311Z">
         <seg>Legend has it that You Zhentian's wife was a Silver Dragon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>传闻自然城并不好客，特别是最厌恶的人类。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T100544Z" creationid="Ceti" creationdate="20180826T100544Z">
+        <seg>It is said that the natural city is not hospitable, especially the most hated human beings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12582,6 +12598,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T151302Z" creationid="Ceti" creationdate="20180804T070821Z">
         <seg>You XiaoMo pulled on his sleeve, "Could that be a Fire Elemental Essence?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默把皮球他们都放出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T100509Z" creationid="Ceti" creationdate="20180826T100504Z">
+        <seg>You XiaoMo let PiQiu and the rest out.</seg>
       </tuv>
     </tu>
     <tu>
