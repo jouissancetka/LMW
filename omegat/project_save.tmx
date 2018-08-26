@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“表面上看是没有，但她的背后必定有大靠山，否则凭她一只妖猫是不可能在自然城开得起酒楼的，主人仔细观察就知道了，大堂那些人看着那只妖猫的眼神只有爱慕。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T135520Z" creationid="Ceti" creationdate="20180826T135520Z">
+        <seg>"There is none on the surface, but there must be a big backer behind her, otherwise it would be impossible to open a restaurant in the Nature City with her being a Cat Demon. Master just has to carefully observe and you'll know, there was only adoration in the eyes of those people in the lobby when looking at the Cat Demon."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“西境到处都覆盖着茂密的树林，想必这里生长着许多灵草吧？”游小默的眼睛终于冒出精光。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T070507Z" creationid="elaine" creationdate="20180816T070507Z">
@@ -12542,6 +12550,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T114426Z" creationid="Ceti" creationdate="20180806T114426Z">
         <seg>You XiaoMo hurriedly put the clothes away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默总算明白了，说白了其实就是被包养的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T135607Z" creationid="Ceti" creationdate="20180826T135607Z">
+        <seg>Xiao Mo finally understood. To put it plainly, she was being kept.</seg>
       </tuv>
     </tu>
     <tu>
