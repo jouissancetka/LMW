@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好的，请三位客官跟我来。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123320Z" creationid="Ceti" creationdate="20180826T123320Z">
+        <seg>"Yes, three officers please come with me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“好茶好酒都拿过来。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T032926Z" creationid="yun" creationdate="20180819T032926Z">
@@ -1714,6 +1722,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T061107Z" creationid="yun" creationdate="20180819T061107Z">
         <seg>"Honorable guests, this is a map of the Ghost Tomb Mountain Ranges, it'll probably come in handy."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“客官请慢用，你们要的菜一会就上来。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123336Z" creationid="Ceti" creationdate="20180826T123336Z">
+        <seg>"Please slow down, please. Your order will come up later."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,6 +3394,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T125458Z" creationid="Lilly" creationdate="20180707T125458Z">
         <seg>"Haven't you heard?" Jiu Ye, hearing his words, raised an eyebrow in surprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“雅间。”游小默道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123255Z" creationid="Ceti" creationdate="20180826T123255Z">
+        <seg>"The private room." You XiaoMo replied.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,6 +5386,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180724T071211Z" creationid="Lilly" creationdate="20180724T071211Z">
         <seg>Not only was his vault created from the highest-quality metal, he had personally set seals there. However, not only did these two demon beasts manage to get past all the security in place, they had managed to get inside without anyone noticing. Just from this, it was clear that those two demon beasts weren‘t ordinary demon beasts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他看了下，大堂只剩下一张空桌，但位置不是很好，夹在一群血性的汉子中间，汗臭味肯定是少不了的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123310Z" creationid="Ceti" creationdate="20180826T123310Z">
+        <seg>He saw that there was only one empty table left in the lobby, but the location was not very good, sandwiched in the middle of a group of bloody men, sweat must be necessary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16388,18 +16420,34 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老板娘将他们引到二楼一处雅间，随后便亲自逮人给他们送上一壶热茶和一小壶酒，她以为凌霄好酒，于是特意把酒放到他面前。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123327Z" creationid="Ceti" creationdate="20180826T123327Z">
+        <seg>The landlady led them to an elegant room on the second floor, and then she caught them personally and brought them a pot of hot tea and a small pot of wine. She thought it was good wine, so she put the wine in front of him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老板娘朝他们缓缓走过来，温和有礼的笑道：“三位客官里面请，想要雅间还是大堂？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T102210Z" creationid="Ceti" creationdate="20180826T102210Z">
-        <seg>The landlady approached them slowly and smiled gently and politely. "Please, three guest officers. Would you like a lobby or an elegant room?"</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123244Z" creationid="Ceti" creationdate="20180826T102210Z">
+        <seg>The proprietress slowly approached them slowly as she smiled gently and politely, "Three honored guests, please come inside. Would you like to seat at the lobby or in a private room?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老板娘盈盈的目光落在凌霄脸上，冲他微微一笑便退出房间，关上门的那一刻，她看到凌霄面无表情的将酒挪开，跟他们一起的娇艳女子则殷勤的给他倒了杯茶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123345Z" creationid="Ceti" creationdate="20180826T123345Z">
+        <seg>The landlady's bright eyes fell on Lingxiao's face, smiled at him and left the room. The moment she closed the door, she saw Lingxiao's expressionless face move the wine away, and the charming woman with them poured him a cup of tea.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>老板娘穿着一身洁白的素衣，看起来简单，衣服的料子却不普通，浑身上下却透着一股简洁大方的气质，第一感觉的印象就很好。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T122504Z" creationid="Ceti" creationdate="20180826T102157Z">
-        <seg>The proprietress was wearing a white plain dress, which looked simple, but the material was not ordinary, but she had a simple and generous temperament all over her body. The first impression was very good.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180826T123055Z" creationid="Ceti" creationdate="20180826T102157Z">
+        <seg>The proprietress was wearing a pure white dress which looked simple, but the material was exceptional. One could see her pithy and generous temperament enveloping her from head to toe, leaving a very good first impression.</seg>
       </tuv>
     </tu>
     <tu>
