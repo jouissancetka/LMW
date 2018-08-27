@@ -270,3 +270,4 @@ xx 家	xx Family/Clan
 位面空间	planes of dimension
 血玉	Blood Jade
 传音石	transmitter stone
+妖坟场	Demon Beast Graveyard
