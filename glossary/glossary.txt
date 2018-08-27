@@ -265,3 +265,8 @@ xx 家	xx Family/Clan
 品质	quality
 提炼	extracting
 笑阁	Smile Pavilion
+头儿	Leader
+精血	Life Blood
+位面空间	planes of dimension
+血玉	Blood Jade
+传音石	transmitter stone
