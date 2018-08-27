@@ -255,3 +255,8 @@ xx 家	xx Family/Clan
 杂质	impurities
 天修	Tian Xiu
 天刀	Tian Dao
+禁制	Restriction 	Restriction Barrier, Area, Seals 
+禁地	Forbidden zone
+游族	You Family
+旁枝	side family
+大神通者	powerhouse
