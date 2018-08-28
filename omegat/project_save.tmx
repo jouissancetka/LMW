@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你知道什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T044018Z" creationid="elaine" creationdate="20180828T044018Z">
+        <seg>"What do you know?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你笑什么？”游小默皱起眉，&lt;t0/&gt;魔音脑脑&lt;t1/&gt;的笑声。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180726T030046Z" creationid="Lilly" creationdate="20180726T030046Z">
@@ -6668,6 +6676,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T095055Z" creationid="Lilly" creationdate="20180609T095055Z">
         <seg>The corner of Ling Xiao’s lips curled up, “Not bad.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄挑起眉，眼中的戒备神色却丝毫不减，他相信这个男人会这么说肯定知道些什么事情，这所谓宁可信其有，不可信其无。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T044010Z" creationid="elaine" creationdate="20180828T044010Z">
+        <seg>Ling Xiao's eyebrows raised, but the guarded look in his eyes didn't disappear in the slightest. He trusted that if this man spoke this way, that meant he definitely knew something. This was the so-called 'hope for the best, but prepare for the worst.'</seg>
       </tuv>
     </tu>
     <tu>
@@ -12596,6 +12612,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默嘴角一抽。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T044054Z" creationid="elaine" creationdate="20180828T044054Z">
+        <seg>You XiaoMo's mouth twisted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默嘴角一抽，怎么觉得纯洁的友谊被他这么恶意说，好像多了点什么东西似的，是他的错觉吗？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T150409Z" creationid="Ceti" creationdate="20180804T031206Z">
@@ -15907,6 +15931,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T095756Z" creationid="kollumceti" creationdate="20180822T095756Z">
         <seg>The white robed man shrugged his shoulders, “All right, I’ll ask another question. What do you think Tian Dao called us back for?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>白衣帅哥低声一笑，“看来你应该还不知道你身上的秘密，虽然我也很清楚。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T044113Z" creationid="elaine" creationdate="20180828T044049Z">
+        <seg>The handsome white-robed guy laughed lowly. "It seems that you still do not know the secret in you, even though I know very well."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>白衣帅哥接着说道：“我可以把我知道的告诉你，但是你要答应我一个条件。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T044108Z" creationid="elaine" creationdate="20180828T044108Z">
+        <seg>The handsome white-robed guy continued, "</seg>
       </tuv>
     </tu>
     <tu>
