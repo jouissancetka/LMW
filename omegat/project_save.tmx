@@ -4784,6 +4784,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>两人走到老人面前。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180828T133821Z" creationid="Ceti" creationdate="20180828T133821Z">
+        <seg>The two walked up to the old man.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>两人趁机冲进第十层。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T093311Z" creationid="Lilly" creationdate="20180629T093311Z">
@@ -11982,8 +11990,8 @@
       <tuv lang="ZH-CN">
         <seg>港口有数位渔民，有几个是刚从海上回来的，正在卸下船上的货物，都是些鲜虾海鱼之类的，连低阶妖兽都称不上，而船主也都是些年轻体壮的男子，只有一个瘦骨嶙峋的花甲老人正在将一条小船绑在岸边。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180828T133628Z" creationid="Ceti" creationdate="20180828T133628Z">
-        <seg>There were several fishermen in the harbor, some of whom had just returned from the sea, and were unloading the cargo/goods from their ship, which were all things like fresh shrimps and fish from the sea. not even low-ranking monsters (称不上), and the owners were young and fit men, with only a skinny old man tied a boat to the shore.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180828T133810Z" creationid="Ceti" creationdate="20180828T133628Z">
+        <seg>There were several fishermen in the harbor, some of whom had just returned from the sea, and were unloading the cargo/goods from their ship, which were all things like fresh shrimps and fish from the sea. Even low-ranking demon beasts were (称不上), and the owners were young and fit men. There was only a skinny old man around sixty years old was currently anchoring a boat to the shore.</seg>
       </tuv>
     </tu>
     <tu>
