@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你叫什么名字？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T040137Z" creationid="elaine" creationdate="20180828T040137Z">
+        <seg>"What's your name?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你可以走了。”凌霄挥手赶人。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T033524Z" creationid="yun" creationdate="20180819T033524Z">
@@ -11948,6 +11956,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默下意识的回道：“游小默。”说完他才反应过来，连忙捂住自己的嘴巴。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T040244Z" creationid="elaine" creationdate="20180828T040244Z">
+        <seg>You XiaoMo instinctively responded, "You XiaoMo." Only after speaking did he react, and he hurriedly covered his own mouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默下意识的忽略掉他没有丹方就算提升实力也炼不出彩丹的事实，陷入无限的懊恼之中。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T144803Z" creationid="Ceti" creationdate="20180731T144236Z">
@@ -15843,6 +15859,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T035905Z" creationid="elaine" creationdate="20180828T035905Z">
         <seg>The handsome white-robed guy (白衣帅哥) was completely see-through and didn't move after coming out of the gravestone. Instead, he stood quietly in front of the gravestone, looking calmly at You XiaoMo. If one looked closely, they could even see that there was actually a trace of tenderness in his eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>白衣帅哥看着游小默害怕的表情，淡淡的笑出了声。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T040253Z" creationid="elaine" creationdate="20180828T040201Z">
+        <seg>The handsome white-robed guy looked at You XiaoMo's scared expression and smiled faintly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>白衣帅哥轻笑一声，“你果然是游氏族人。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T040333Z" creationid="elaine" creationdate="20180828T040326Z">
+        <seg>The handsome white-robed guy laughed lightly. "You are indeed a member of the You clan." (游氏族人)</seg>
       </tuv>
     </tu>
     <tu>
