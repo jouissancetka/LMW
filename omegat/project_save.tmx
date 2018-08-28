@@ -13836,6 +13836,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默正斟酌着要怎么开口，老人就说话了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180828T134110Z" creationid="Ceti" creationdate="20180828T134110Z">
+        <seg>You XiaoMo was deliberating on how to to start a conversation when the old man spoke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默气得撸起袖子就冲过去抓他们，丝毫没有注意到传音石已经不闪了，表面冒着一层淡淡的光芒，是联系已经接通的征兆。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T123617Z" creationid="Ceti" creationdate="20180701T122759Z">
@@ -14274,6 +14282,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T125338Z" creationid="Lilly" creationdate="20180707T125338Z">
         <seg>Observing the bustling celebration, You XiaoMo found it a bit strange. "Isn't the celebration over? Why is everyone still staying?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默看着这位上了年纪的老人，老人明显已经看到他们，但是并没有理睬他们。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180828T133953Z" creationid="Ceti" creationdate="20180828T133953Z">
+        <seg>You XiaoMo looked at the old man. The old man had obviously caught sight of them, but did not pay them any attention.</seg>
       </tuv>
     </tu>
     <tu>
