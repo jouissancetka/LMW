@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“如果你们想借船出海就别想了，河镇的人是不会借船给你们这些外来者的。”老人冷漠的说道，连头也不抬。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180828T134340Z" creationid="Ceti" creationdate="20180828T134340Z">
+        <seg>"If you want to borrow a boat to go to sea, forget about it. The people from River Town will not lend boats to outsiders like you." The old man indifferently stated without raising his head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“如果十层的牢笼也是玄铁铸造的，我们是不是应该先想办法把玄铁解决了？”游小默摸着下巴说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T061209Z" creationid="Lilly" creationdate="20180629T061209Z">
@@ -2202,6 +2210,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T090635Z" creationid="kollumceti" creationdate="20180822T090635Z">
         <seg>"I..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我们不是想借船，是要租船。”游小默还以为老人是担心他们不付钱。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180828T134456Z" creationid="Ceti" creationdate="20180828T134456Z">
+        <seg>"We don't want to borrow a boat, instead we want to charter a boat." You XiaoMo thought that the old man were worried that they would not pay.</seg>
       </tuv>
     </tu>
     <tu>
