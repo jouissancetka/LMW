@@ -4840,6 +4840,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>主人在，游小默用一株上品灵草换到两株中品，还附赠了一些种子，那些种子是天修随手放在柜子里的，并没有太大的作用。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180828T045738Z" creationid="yun" creationdate="20180828T045738Z">
+        <seg>You XiaoMo was able to trade one high-grade magic herb with two mid-grade magic herbs and also some seeds. Those seeds were randomly placed there by Tian Xiu, they didn't have much of a use. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>之前由于游小默炼丹时连一丝灵魂之力都没有散发出来，所以大家都没办法探测到他炼的灵丹等级，但是现在解放了，几乎所有人都发现了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093548Z" creationid="Lilly" creationdate="20180609T093548Z">
@@ -4852,6 +4860,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T081846Z" creationid="Lilly" creationdate="20180715T081846Z">
         <seg>In the next two hours, twenty or thirty families had come to barter with You XiaoMo, but his magic bags quickly ran out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>之后两人还讨论了炼丹之道和晋级之道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180828T045814Z" creationid="yun" creationdate="20180828T045814Z">
+        <seg>After that, the two even talked about the path of refining pills and of advancements. (炼丹之道和晋级之道)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8550,6 +8566,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180828T045606Z" creationid="yun" creationdate="20180828T045606Z">
         <seg>Since Tian Xiu didn't question (追究) further about him trading the magic herbs on his own accord, that must mean he was pretty happy with those high-grade magic herbs. Therefore, he was going to take this chance to swap more with him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>天修是彩级三品，比他这个刚晋级的彩级一品经验要丰富得多了，游小默当即受益匪浅。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180828T045909Z" creationid="yun" creationdate="20180828T045909Z">
+        <seg>Tian Xiu was a third grade rainbow level mage, with a lot more experience than his just-advanced-first-grade-rainbow-level. You XiaoMo was able to learn a lot from him.</seg>
       </tuv>
     </tu>
     <tu>
