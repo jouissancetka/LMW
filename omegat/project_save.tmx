@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你自己看看，它哪里在召唤你？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T022638Z" creationid="elaine" creationdate="20180828T022638Z">
+        <seg>"Take a look yourself, what about it is calling you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你若不愿意，那便算了，我可不想无缘无故惹一身骚。”银戈作势要走。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T143315Z" creationid="Ceti" creationdate="20180626T132215Z">
@@ -1810,6 +1818,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180703T083341Z" creationid="Lilly" creationdate="20180703T083341Z">
         <seg>He's among the ChiXue Family, at the back, second to last."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“就是白色那个。”游小默的目光落在第三排第五个坟墓上，这是一个白色的坟墓，不不管是石碑还是后面的坟包。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T022506Z" creationid="elaine" creationdate="20180828T022506Z">
+        <seg>"It's the white-colored one." You XiaoMo's gaze landed on the fifth grave in the third row. This was a white-colored grave - not only the gravestone was white, but so was the burial mound behind it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6554,6 +6570,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T211920Z" creationid="Lilly" creationdate="20180730T211920Z">
         <seg>Ling Xiao took You XiaoMo to a forest with no hints of human life. The place was crawling with high level demon beasts, and the enraged roaring of demon beasts could occasionally be heard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄拖着他家夫人走过去，目光落在石碑上刻的字上，只有坟墓主人死后的时间，没有姓氏或名字，似乎是一座无名坟墓。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T022623Z" creationid="elaine" creationdate="20180828T022623Z">
+        <seg>Ling Xiao dragged his wife over, and he looked at the name carved on the gravestone. It only had the date that the owner of the grave died on, no surname or given name, and it seemed to be a nameless grave.</seg>
       </tuv>
     </tu>
     <tu>
