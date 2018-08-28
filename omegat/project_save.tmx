@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不是！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T052557Z" creationid="elaine" creationdate="20180828T052557Z">
+        <seg>"Nope!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不然也不能把天恨说的哑口无言。”天明哈哈大笑道，终是忍不住笑了起来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T192708Z" creationid="Lilly" creationdate="20180824T192708Z">
@@ -1090,6 +1098,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T071003Z" creationid="Ceti" creationdate="20180728T052040Z">
         <seg>"Actually, this is a long story... ..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“凌霄，你说他们死后是不是一直被困在妖坟场无法离开？”游小默忍不住问道，他挺同情那位先人的，长得那么帅，却只能永远的跟一群丑八怪住在一起。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T052546Z" creationid="elaine" creationdate="20180828T052512Z">
+        <seg>"Ling Xiao, do you think that after they died, they've been trapped in the Demon Beast Graveyard this entire time, unable to leave?" You XiaoMo couldn't help but ask. He sympathized quite a bit with that forefather. He was so handsome, yet he could only live with those ugly beasts for the rest of eternity. </seg>
       </tuv>
     </tu>
     <tu>
@@ -18171,8 +18187,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>虽然白衣帅哥没有说明他的身份，但是游小默多少已经猜到了，白衣帅哥应该是远古的游族先人，在大战中陨落的强者。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180828T052307Z" creationid="elaine" creationdate="20180828T052307Z">
-        <seg>Although the handsome white-robed guy hadn't told them his identity, You XiaoMo had more or less already guessed it. The handsome white-robed guy should be </seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T052522Z" creationid="elaine" creationdate="20180828T052307Z">
+        <seg>Although the handsome white-robed guy hadn't told them his identity, You XiaoMo had more or less already guessed it. The handsome white-robed guy should be the forefather (先人) of the You Family and one of the experts that had fallen during the ancient battle. </seg>
       </tuv>
     </tu>
     <tu>
