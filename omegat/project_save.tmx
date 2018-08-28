@@ -2974,6 +2974,16 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“要挖坟吗？”“呃……会不会太不敬了，人家毕竟已经死了那么多年，突然被打扰，说不定会很不高兴。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T022912Z" creationid="elaine" creationdate="20180828T022758Z">
+        <seg>"Do you want to dig out the grave?"
+
+"Eh... isn't that a little too disrespectful? After all they've been asleep for so long now, and they'll probably be really unhappy to be suddenly disturbed."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“见机行事。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180703T092426Z" creationid="Lilly" creationdate="20180703T092406Z">
@@ -6650,6 +6660,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180724T125948Z" creationid="Ceti" creationdate="20180724T123419Z">
         <seg>Ling Xiao touched his chin, "There should be none."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄无所谓地道：“既然你不想挖，那就走吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T022948Z" creationid="elaine" creationdate="20180828T022948Z">
+        <seg>Ling Xiao said indifferently, "If you don't want to dig it out, then let's just go."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,6 +12040,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T001146Z" creationid="elaine" creationdate="20180816T001146Z">
         <seg>You XiaoMo had also guessed what he was thinking and shrugged his shoulders helplessly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默五官皱起，“好像是坟里的东西在召唤我。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180828T022713Z" creationid="elaine" creationdate="20180828T022713Z">
+        <seg>You XiaoMo frowned. "It seems to be whatever is inside the grave that's calling me."</seg>
       </tuv>
     </tu>
     <tu>
