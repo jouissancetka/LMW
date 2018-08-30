@@ -274,3 +274,4 @@ xx 家	xx Family/Clan
 乒乓	Ping Pang
 四灵	Four Ancient Beast Clan
 中品	mid-grade
+活水河界	Living Waters River Boundary
