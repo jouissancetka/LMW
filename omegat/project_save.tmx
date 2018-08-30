@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你们的运气不错，今天傍晚有两艘大商船要出海前往鲸岛，你们可以随他们一起出海，到鲸岛后再去问其他人买船或借船，鲸岛的船只比河镇的渔船要结实得多。”老人终于松口。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135621Z" creationid="Ceti" creationdate="20180830T135621Z">
+        <seg>"You're in luck. This evening two big merchant ships are going out to whale island. You can go out with them and ask someone to buy or borrow a boat. The boats on Whale Island are much stronger than those on river town." The old man finally relaxed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你倒是聪明。”凌霄说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T152400Z" creationid="Ceti" creationdate="20180726T135722Z">
@@ -1586,6 +1594,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T132638Z" creationid="Ceti" creationdate="20180701T075200Z">
         <seg>"Many thanks to Master Immortal (仙师), your life-saving grace is unforgettable." Weng Gong immediately placed his crutches down and knelt on the ground. He kowtowed in thanks after the black robed man put him down, showing his great sincerity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“多谢老人家，那我们傍晚再过来好了。”游小默欣喜道谢，随后两人便离开了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135630Z" creationid="Ceti" creationdate="20180830T135630Z">
+        <seg>"Thank you very much for the elderly, then we'll come again in the evening." Xiao Mei rejoiced, and then the two left.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“此话当真？”老人脸上闪过一丝着急。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135521Z" creationid="Ceti" creationdate="20180830T135521Z">
+        <seg>"Is that true?" There was a flash of anxiety on the old man's face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“武山，我让你主持选拔赛，你却给我闹出这种乌龙来，你是不是不想当星罗城主了？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T100634Z" creationid="Lilly" creationdate="20180730T100634Z">
@@ -3488,6 +3512,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那个老头不是一般人。”凌霄解释道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135723Z" creationid="Ceti" creationdate="20180830T135723Z">
+        <seg>"That old man is not an ordinary person." Soar to the skies to explain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那个，金翅虫交配真能产出金丝吗，那他们的后代怎么来的？”游小默忍不住问道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T203957Z" creationid="Lilly" creationdate="20180824T203957Z">
@@ -3620,6 +3652,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T052117Z" creationid="Ceti" creationdate="20180728T052117Z">
         <seg>"Then cut the long story short."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那怎么办？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135611Z" creationid="Ceti" creationdate="20180830T135611Z">
+        <seg>"So what?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6968,6 +7008,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄摸了下鼻子，“老人家，实话告诉你吧，我们那位朋友是灵龟族的族人，他被人追杀，他让我们去找通灵玄龟，如果不尽快把这件事告诉他们，恐怕他会有生命危险。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135453Z" creationid="Ceti" creationdate="20180830T135453Z">
+        <seg>Ling Xiao touched his nose. "Old man, to tell you the truth, our friend is a member of the Linggui people. He was chased and killed. He asked us to find the Linggui turtle. If we did not tell them this as soon as possible, he would be in danger of life."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄摸了摸下巴，“我总感觉这东西有点奇怪，怪像……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212252Z" creationid="Lilly" creationdate="20180730T212252Z">
@@ -7300,6 +7348,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T145450Z" creationid="Ceti" creationdate="20180626T152103Z">
         <seg>Ling Xiao glanced at him, this glutton (吃货) had probably forgotten about all their plans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄看了眼游小默，后者立刻会意的把莫景交给他们的牌子拿出来，也不管老人看不看得懂就递给他，“这是灵龟族的东西，不知道您认不认识。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135531Z" creationid="Ceti" creationdate="20180830T135531Z">
+        <seg>Lingxiao looked at Xiao You, who immediately gave Mo Jing to their brand out, regardless of the old man can not understand to pass to him, "This is the thing of the Linggui tribe, do not know if you recognize it or not."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12868,6 +12924,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默同样一惊，没想到凌霄会把事情说出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135512Z" creationid="Ceti" creationdate="20180830T135512Z">
+        <seg>Tour Xiao Mo is also surprised, didn't expect to lift the sky to speak out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默后知后觉的发现这个事实，他都忘了是因为那件乌龙事件才会与凌霄分开的，要是被他找到，他的下场恐怕不会太好，想想就一阵胆寒，看来近期不能与凌霄联系。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T135025Z" creationid="Ceti" creationdate="20180701T100742Z">
@@ -13920,6 +13984,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T102008Z" creationid="Ceti" creationdate="20180722T064426Z">
         <seg>You XiaoMo could not even react. (游小默根本没有反应过来)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默欣喜，“那真是太好了，现在可以把船只借给我们了吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135553Z" creationid="Ceti" creationdate="20180830T135553Z">
+        <seg>You Xiaomo rejoiced. "That's great. Can we lend the boat to us now?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15026,6 +15098,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T134828Z" creationid="Ceti" creationdate="20180701T100643Z">
         <seg>You XiaoMo quickly calmed his excitement and firmly grabbed the transmission stone. He had opened his mouth and was preparing to say hello when and the flickering transmission stone suddenly darkened...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默赶紧扯了下凌霄的手臂，示意他有点表示。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135440Z" creationid="Ceti" creationdate="20180830T135440Z">
+        <seg>Swim small Mo hurriedly pulled down the arm of Ling Xiao, hint him to show a little.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16839,6 +16919,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>离开港口后，藏不住心事的游小默立即问道：“凌霄，你为什么要把真相告诉那个老头，要是被他泄露出去，说不定会给我们添麻烦。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135713Z" creationid="Ceti" creationdate="20180830T135713Z">
+        <seg>After leaving the harbor, the little swimmer who could not hide his mind immediately asked, "Lingxiao, why did you tell the old man the truth? If he leaked it out, it might cause us trouble."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>离开空间后，两人便直奔通往第十层的楼梯，正当他们要走上去的时候，上面突然传来一道冰冷的呵斥声，夹着一丝令人压抑的威压。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T073504Z" creationid="Lilly" creationdate="20180629T073504Z">
@@ -17625,6 +17713,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老人一惊。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135503Z" creationid="Ceti" creationdate="20180830T135503Z">
+        <seg>The old man was surprised.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老人一番话顿时令村民们都动摇了起来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T070216Z" creationid="Lilly" creationdate="20180715T070216Z">
@@ -17637,6 +17733,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T071851Z" creationid="Lilly" creationdate="20180715T071851Z">
         <seg>The elder said, disgruntled, "Our village head has already talked about this. Our herbs have been reserved by the WingFeng Sect. If we sell it to you, then what will we sell to the QingFeng Sect when they come?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人却摇摇头，“河镇的小船只能在港口附近行驶，要到大海上去是不可能的，不用多久就会被海浪打翻。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135602Z" creationid="Ceti" creationdate="20180830T135602Z">
+        <seg>The old man shook his head. "The boats in the river town can only sail near the harbor. It's impossible to go to the sea. It won't be long before the waves overturn them."</seg>
       </tuv>
     </tu>
     <tu>
@@ -17657,10 +17761,34 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老人接过牌子，眼中霎时闪过一道精光，五秒后又还给他们，踌躇不定的说道：“老头子我不认识这东西，不过看你们的样子也不像是在说谎，我就相信你们一次。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135542Z" creationid="Ceti" creationdate="20180830T135542Z">
+        <seg>The old man took the sign and flashed a flash in his eyes. Five seconds later, he returned it to them. He hesitated and said, "I don't know about it, old man, but it doesn't look like you're lying. I believe you once."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老人狐疑的看着他，似乎想确定他有没有说谎。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135407Z" creationid="Ceti" creationdate="20180830T131421Z">
         <seg>The old man looked at him in suspicion as if he wanted to determine whether he had lied or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人的目光又移到面无表情的凌霄身上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135430Z" creationid="Ceti" creationdate="20180830T135430Z">
+        <seg>The old man's eyes moved to the expressionless skies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老人看着二人离开的背影，直到看不见，他才匆忙起身，往另一个方向着急的走去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180830T135702Z" creationid="Ceti" creationdate="20180830T135702Z">
+        <seg>The old man looked at the figure of the two men leaving, and it was not until he could not see that he got up in a hurry and walked in another direction anxiously.</seg>
       </tuv>
     </tu>
     <tu>
