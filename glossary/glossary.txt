@@ -276,3 +276,6 @@ xx 家	xx Family/Clan
 中品	mid-grade
 活水河界	Living Waters River Boundary
 龟族	Tortoise Clan
+篮球	LanQiu
+天狗	TianGou
+天鬼	Tian Gui
