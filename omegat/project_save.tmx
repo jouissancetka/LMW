@@ -1576,8 +1576,8 @@
       <tuv lang="ZH-CN">
         <seg>“啊，是老板娘。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20180831T024346Z" creationid="yun" creationdate="20180831T024346Z">
-        <seg>"Ah, its (老板娘)."</seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20180831T025347Z" creationid="yun" creationdate="20180831T024346Z">
+        <seg>"Ah, its the proprietress."</seg>
       </tuv>
     </tu>
     <tu>
@@ -17361,8 +17361,8 @@
       <tuv lang="ZH-CN">
         <seg>直觉不对劲的黑熊当即抓起地上已经傻了的老板娘，迅速的朝外面冲出去。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20180831T023308Z" creationid="yun" creationdate="20180831T023308Z">
-        <seg>Sensing that something's wrong, Hei Xiong grabbed the owner (老板娘), who sat on the floor completely dumbfounded, and made a ran for it. </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20180831T025400Z" creationid="yun" creationdate="20180831T023308Z">
+        <seg>Sensing that something's wrong, Hei Xiong grabbed the proprietress, who sat on the floor completely dumbfounded, and made a ran for it. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22166,10 +22166,18 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>黑熊一只手抓着老板娘从碎石中走出来，狼狈的朝上方看过去，表情阴狠。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180831T025451Z" creationid="yun" creationdate="20180831T025308Z">
+        <seg>With one hand Hei Xiong grabed hold of the proprietress and came out of the rubble. In a sorry figure he looked up venomously.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>黑熊也算是个有情有义的人，最后还知道护着老板娘，但是老板娘实力弱，连黑熊自己都被踢飞了，老板娘又怎么可能安然无恙，等众人看清楚的时候，她也摔得头破血流。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20180831T024704Z" creationid="yun" creationdate="20180831T024704Z">
-        <seg>In some sense Hei Xiong was (有情有义), still protecting (老板娘). However, she was much weaker and with even Hei Xiong himself kicked flying, there was no way she was completely fine. Once the crowd got a clear view they could tell that even she was bleeding all over. </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20180831T025317Z" creationid="yun" creationdate="20180831T024704Z">
+        <seg>In some sense Hei Xiong was (有情有义), still protecting the proprietress. However, she was much weaker and with even Hei Xiong himself kicked flying, there was no way she was completely fine. Once the crowd got a clear view they could tell that even she was bleeding all over. </seg>
       </tuv>
     </tu>
     <tu>
