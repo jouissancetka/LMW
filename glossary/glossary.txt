@@ -279,3 +279,4 @@ xx 家	xx Family/Clan
 篮球	LanQiu
 天狗	TianGou
 天鬼	Tian Gui
+黑熊	Hei Xiong
