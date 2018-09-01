@@ -9036,8 +9036,8 @@
       <tuv lang="ZH-CN">
         <seg>商船除了搬货物水手，还有几个跟他们一样要出海的外来者，实力看起来都不错，老人将他们都安排在一个船舱里。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180901T054110Z" creationid="Ceti" creationdate="20180901T030724Z">
-        <seg>In addition to sailors who loaded the cargo, the merchant ship was also carrying several outsiders who wanted to go out to sea too. They all seemed quite strong, and the old man had arranged for all of them to stay in a cabin.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180901T054117Z" creationid="Ceti" creationdate="20180901T030724Z">
+        <seg>In addition to sailors who loaded the cargo, the merchant ship was also carrying several outsiders who wanted to go out to sea too. They all seemed quite strong, and the old man had arranged for all of them to stay in one cabin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14280,6 +14280,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180826T135607Z" creationid="Ceti" creationdate="20180826T135607Z">
         <seg>Xiao Mo finally understood. To put it plainly, she was being kept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默总算知道为什么明知道海上有海贼，河镇的商船还是每个月都会出海一次，原来他们会挑选一些想出海的外来者充当随行的保镖。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180901T054444Z" creationid="Ceti" creationdate="20180901T054444Z">
+        <seg>You XiaoMo finally knew why the merchant ships from the River Town would go out to sea once every month even when they knew that there were pirates out there. It turned out that they would choose some outsiders who wanted to go out to sea to serve as bodyguards on the trip.</seg>
       </tuv>
     </tu>
     <tu>
