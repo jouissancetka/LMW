@@ -281,3 +281,4 @@ xx 家	xx Family/Clan
 天鬼	Tian Gui
 黑熊	Hei Xiong
 老板娘	proprietress
+自然城	ZiRan City
