@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“使者大人请说。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180901T233410Z" creationid="elaine" creationdate="20180901T233410Z">
+        <seg>"Please tell me, Mister Shi Zhe."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“倒是会强词夺理。”天元失笑的说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T192559Z" creationid="Lilly" creationdate="20180824T192559Z">
@@ -22962,6 +22970,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T132737Z" creationid="Ceti" creationdate="20180701T075500Z">
         <seg>The black robed man indifferently glanced at him, "Don't misunderstand. I did not intended to save you. I only saw a 'friend' and just snatched you in passing. Whether you live or die has nothing to do with me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑袍人冷哼一声，“谅你也不敢，我这次来是有个秘密的任务要交给你去办。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180901T233358Z" creationid="elaine" creationdate="20180901T233358Z">
+        <seg>The person in black snorted coldly. "I trust that you wouldn't dare. I've come this time to inform you that there is a secret assignment for you."</seg>
       </tuv>
     </tu>
     <tu>
