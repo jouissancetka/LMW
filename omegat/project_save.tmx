@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“看来不能所有人都一起了。”游小默为难的说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180902T004429Z" creationid="elaine" creationdate="20180902T004429Z">
+        <seg>"It looks like we can't all go at once." You XiaoMo said awkwardly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“看来你们师兄弟的感情不错。”游小默羡慕的说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T072803Z" creationid="Lilly" creationdate="20180616T072803Z">
@@ -15608,6 +15616,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T005644Z" creationid="elaine" creationdate="20180821T005644Z">
         <seg>You XiaoMo looked at him for a long while. "First tell me what your name is."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默看了眼港口的船只，都是很简陋的小船，稍大一点的也就只能坐三四个人，而且遇到大浪很可能还会被冲走。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180902T004405Z" creationid="elaine" creationdate="20180902T004405Z">
+        <seg>You XiaoMo looked at the ships in the port. They were all very simple and crude small boats, and even the ones that were slightly bigger could only fit three or four people. Furthermore, it was very likely that they would be washed away if they encountered a big wave.</seg>
       </tuv>
     </tu>
     <tu>
