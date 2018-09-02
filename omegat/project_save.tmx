@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“叔叔，跟他们废话这么多做什么，他们能在有生之年见到我们玄龟族是他们的幸运，范不着跟他们说话这么客气。”玄盛身旁的年轻男子顿时不悦的开口了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065247Z" creationid="Ceti" creationdate="20180902T065247Z">
+        <seg>"Uncle, what are you doing with them? It's lucky for them to see us in their lifetime. Fan doesn't have to talk to them so politely." The young man beside Xuan Sheng suddenly displeased.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“古叔也不知道。”凌霄坐下道，“他并不知道父亲身上拥有龙族血脉并且遗传给我的事，当我问起的时候，他也很震惊，所以这件事恐怕得亲自问我父亲才知道。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180828T044338Z" creationid="yun" creationdate="20180828T044322Z">
@@ -4120,6 +4128,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“阁下误会了，老夫不是那个意思，既然没有，那便是老夫想错了。”玄盛一听就知道他误会了，连忙澄清。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065236Z" creationid="Ceti" creationdate="20180902T065236Z">
+        <seg>"Your Excellency misunderstands, the old man is not that meaning, since no, that is the old man thinks wrong." Xuan Sheng once heard that he had misunderstood and hurriedly clarified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“阴阳谷的江流？”游震天对这个名字没有印象。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T183849Z" creationid="Lilly" creationdate="20180730T183849Z">
@@ -6512,6 +6528,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他觉得他可能知道凌霄为什么不告诉他们小乌龟的事情。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065216Z" creationid="Ceti" creationdate="20180902T065216Z">
+        <seg>He thought he might know why he didn't tell them about the tortoise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他记得他师傅段奇天以前给过他一颗高级灵丹当见面礼，那次&lt;t0/&gt;凌霄吃&lt;t1/&gt;的时候还要稍微做下样子，现在吃一颗十级&lt;t2/&gt;灵丹像&lt;t3/&gt;吃糖豆似的，真怀疑他的修为是不是精进了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T033941Z" creationid="Lilly" creationdate="20180616T033941Z">
@@ -8176,6 +8200,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄突然冷下脸，“阁下这话是什么意思？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065226Z" creationid="Ceti" creationdate="20180902T065226Z">
+        <seg>The sky suddenly turned cold. "What does this mean, sir?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄突然抬起头，嘴角勾着一抹坏笑，“慢吞吞的，我还以为你准备把水从我头顶淋下来。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T142712Z" creationid="Ceti" creationdate="20180805T072613Z">
@@ -9550,6 +9582,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T073110Z" creationid="Lilly" creationdate="20180715T073110Z">
         <seg>In their memories, the QingFeng Sect had only given them five crystal coins per five hundred magic herbs, and the exchange rate between crystal coins and spirit gems was 1000:1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>在他看来，能见到他们玄龟族确实是人类的殊荣。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065257Z" creationid="Ceti" creationdate="20180902T065257Z">
+        <seg>In his view, to see them is truly a human race.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13374,8 +13414,8 @@
       <tuv lang="ZH-CN">
         <seg>海初说过玄龟族的人三天就会到，但是他们没有等三天。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T064848Z" creationid="Ceti" creationdate="20180902T064848Z">
-        <seg>At the beginning of the sea, the people of the Turtles would arrive in three days, but they did not wait for three days.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065449Z" creationid="Ceti" creationdate="20180902T064848Z">
+        <seg>Hai Chu has said that the people of the Turtles would arrive in three days, but they did not wait for three days.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17654,10 +17694,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>玄泽不置一词，面上却更加不屑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065317Z" creationid="Ceti" creationdate="20180902T065317Z">
+        <seg>Xuan Ze did not make a single word, but even more disdain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>玄盛眼中透出一丝晦暗的喜色，“老夫从龙老那里听说了，是灵龟族的莫景找你们来的，说是有话要传达与我们，不知是何事？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065056Z" creationid="Ceti" creationdate="20180902T065056Z">
         <seg>Xuan Sheng's eyes revealed a gloomy look of joy. "The old man heard from the Dragon old man that it was the Mojing of the Linggui people who came to you. He said there was something to convey to us. I don't know what it was."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>玄盛眼中闪过一丝异样，似乎被年轻男子的话动摇了，但也仅仅一瞬间，声音便冷厉下来，警告道：“阿泽，你忘了我们玄龟族的规矩吗，怎么可以对帮助我们的恩人说这种话！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065305Z" creationid="Ceti" creationdate="20180902T065305Z">
+        <seg>Xuansheng's eyes flashed a strange twinkle, seemingly shaken by the young man's words, but only for a moment, his voice chilled down, warning: "Aze, have you forgotten our rules of the Xuancheng tribe, how can you say such words to the benefactor who helped us!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19132,8 +19188,8 @@ Translated bu Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>第二天下午，房间的桌上就多了一张纸条。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T064849Z" creationid="Ceti" creationdate="20180902T064849Z">
-        <seg>On the second afternoon, there was a note on the table of the room.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065505Z" creationid="Ceti" creationdate="20180902T064849Z">
+        <seg>On the afternoon of the second day, there was a note left on the table of the room.</seg>
       </tuv>
     </tu>
     <tu>
