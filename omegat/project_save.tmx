@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“先找个人打听下，还不知道河镇的渔民肯不肯把小船借给我们。”凌霄已经注意到港口的渔民并不想与他们有任何关系，看情况似乎不会如愿，因为他们主要目的并不全是小船，而是向渔民打听通灵玄龟的事情。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180902T010039Z" creationid="elaine" creationdate="20180902T010039Z">
+        <seg>"We first have to ask someone. We still don't know if River Town's fishermen would be willing to lend us a boat." Ling Xiao had already noticed how the port's fishermen didn't want to have anything to do with them. It seemed that things wouldn't go as they wished, since their main objective wasn't actually a small boat but to ask the fishermen about the Psychic Black Turtle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“先让我来会一会此人。”天恨手痒痒的说道，体内的好战因子几乎一触即发。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T050049Z" creationid="elaine" creationdate="20180824T050041Z">
@@ -1990,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180902T010047Z" creationid="elaine" creationdate="20180902T010047Z">
+        <seg>"Okay!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“如何？”慵懒邪&lt;t0/&gt;魅&lt;t1/&gt;的声音不紧不慢的响起。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T134038Z" creationid="Lilly" creationdate="20180711T134038Z">
@@ -2458,6 +2474,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T133924Z" creationid="kollumceti" creationdate="20180822T075800Z">
         <seg>"Let's destroy them one by one."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我们要坐哪条船出海？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180902T005820Z" creationid="elaine" creationdate="20180902T005820Z">
+        <seg>"Which boat should we take out to sea?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6130,8 +6154,8 @@
       <tuv lang="ZH-CN">
         <seg>他们走后，游小默跑到凌霄身边，果然还是两人独处比较好，自由自在，空气都变得清新起来了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180902T005631Z" creationid="elaine" creationdate="20180902T005631Z">
-        <seg>After they left, You XiaoMo ran to Ling Xiao</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180902T005808Z" creationid="elaine" creationdate="20180902T005631Z">
+        <seg>After they left, You XiaoMo ran to Ling Xiao's side. It was indeed still better when it was just the two of them, free and unrestrained, and the atmosphere became much fresher.</seg>
       </tuv>
     </tu>
     <tu>
