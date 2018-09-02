@@ -285,3 +285,8 @@ xx 家	xx Family/Clan
 玄盛	Xuan Sheng
 刍云山脉	ChuYun Mountain Range
 玄泽	Xuan Ze
+王华	Wang Hua
+杨丁	Yang Ding
+赵二	Zhao Er
+万厨师	Chef Wan
+助手	assistant 
