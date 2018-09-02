@@ -220,8 +220,8 @@ xx 家	xx Family/Clan
 中心城	Central City
 西境	Xi Jing
 高殷	Gao Yan
-十二阶	level twelve
-十一阶	level eleven
+十二阶	Level Twelve
+十一阶	Level Eleven
 拱手	obeisance
 拱起手	obeisance
 灵龟族	Mystic Tortoise Clan
