@@ -14292,6 +14292,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默从船舱里走出来透透气，这个时间这是吃午饭的时间，虽然他的空间里有吃的，但是一直吃那些东西也会腻味的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180904T202235Z" creationid="Lilly" creationdate="20180904T202235Z">
+        <seg>You XiaoMo left the cabin to get some air. It was lunchtime; though he had food in his pocket dimension, but he had gotten sick of always eating those things.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默以为自己听错了，忍不住掏了掏耳朵，“抱歉，你刚刚说多少，我没听见，麻烦你再说一遍。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T144956Z" creationid="Ceti" creationdate="20180827T125356Z">
