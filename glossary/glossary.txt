@@ -290,3 +290,4 @@ xx 家	xx Family/Clan
 赵二	Zhao Er
 万厨师	Chef Wan
 助手	assistant 
+ 鲸岛	Whale Island
