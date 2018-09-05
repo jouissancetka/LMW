@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“二位就在这客栈安心的住下，你们要找玄龟族一事，我已经传达出去，过不久应该会有人来找你们问清楚情况。”海初将他们送到房间。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T032637Z" creationid="elaine" creationdate="20180905T032637Z">
+        <seg>"Please feel free to stay here at the inn. I've already sent a message out informing the others that you are seeking the Black Turtle Clan, and before long someone should come to clear up the situation with you two." Hai Chu sent them to their room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“二位恩公，我知道这件事有些唐突，但我现在只能求二位帮忙了，如果族中真的有人泄露了我的行踪，对方一定会再派人过来，以我现在的情况已经无法保护小主人……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T043343Z" creationid="elaine" creationdate="20180816T043343Z">
@@ -2794,6 +2802,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T095753Z" creationid="Ceti" creationdate="20180804T095753Z">
         <seg>"I understand."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我明白了，公子请放心。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T032733Z" creationid="elaine" creationdate="20180905T032733Z">
+        <seg>"I understand, Young Master can be at ease."</seg>
       </tuv>
     </tu>
     <tu>
@@ -14292,6 +14308,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>海初说完就走了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T032741Z" creationid="elaine" creationdate="20180905T032741Z">
+        <seg>Hai Chu left after finishing speaking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>海初说过玄龟族的人三天就会到，但是他们没有等三天。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065449Z" creationid="Ceti" creationdate="20180902T064848Z">
@@ -16672,6 +16696,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T223803Z" creationid="Lilly" creationdate="20180830T223803Z">
         <seg>You XiaoMo nodded. He didn't want to waste his time on this dumbass woman. It was better if they just left Ziran City as soon as possible. He immediately had Ling Xiao wear his silver mask in case his face attracted any more nutcases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默点点头，说：“可以，不过不要太久，我们不能在这里待太久。”他还不知道外面发生的事情，所以还想着赶时间回去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T032716Z" creationid="elaine" creationdate="20180905T032716Z">
+        <seg>You XiaoMo nodded and said, "Okay, but don't take too long. We can't stay here for very long." He still didn't know what had happened outside, so he wanted to hurry and go back.</seg>
       </tuv>
     </tu>
     <tu>
