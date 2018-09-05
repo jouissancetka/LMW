@@ -14276,6 +14276,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>海初将他们带到一家客栈入住。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T032321Z" creationid="elaine" creationdate="20180905T032321Z">
+        <seg>Hai Chu brought them to an inn to stay at.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>海初说过玄龟族的人三天就会到，但是他们没有等三天。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180902T065449Z" creationid="Ceti" creationdate="20180902T064848Z">
@@ -24813,6 +24821,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180831T022518Z" creationid="yun" creationdate="20180831T022457Z">
         <seg>Fresh blood erupted but before it could land, it was evaporated by the flames. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>鲸岛是活水河界一座中等海岛，在各个海岛之间起着中转的作用，比方说一些海岛将他们要买卖的货物带到鲸岛，然后再由鲸岛转给其他需要这些货物的岛屿，是以才会这么热闹。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T032306Z" creationid="elaine" creationdate="20180905T032306Z">
+        <seg>Whale Island was a middle tier island in Living Waters River Boundary. It served as a transfer point among the various islands. For example, there were some islands that would bring the goods that they were selling to Whale Island before transferring them to other islands that needed it via Whale Island. That's why it was so lively.</seg>
       </tuv>
     </tu>
     <tu>
