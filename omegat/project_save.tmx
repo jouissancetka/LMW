@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“小子，你吃的饭菜都是你自己做的？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180905T054820Z" creationid="yun" creationdate="20180905T054820Z">
+        <seg>"Hey, you, the food you ate, you made them?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“小子，你胆子可真大，竟然敢打伤我哥哥，真是了不起啊！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T050117Z" creationid="Lilly" creationdate="20180613T050117Z">
@@ -13680,6 +13688,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180901T232651Z" creationid="elaine" creationdate="20180901T232651Z">
         <seg>The newcomer's voice was hoarse and low as if he had been choked. His entire body was shrouded underneath his black cloak, leaving only a pair of gloomy eyes, and he was staring expressionlessly at the startled Hei Xiong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>杨丁上下打量了游小默一遍，不客气的问道，他们看不出游小默的修为，但是他们已经先入为主，所以不觉得他有多厉害。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180905T055022Z" creationid="yun" creationdate="20180905T055022Z">
+        <seg>Yang Ding said unwelcomingly as he looked at You XiaoMo from head to toe. They couldn't tell You XiaoMo's level but with the knowledge they had, they already placed You XiaoMo into the 'non-threatening' category.  </seg>
       </tuv>
     </tu>
     <tu>
