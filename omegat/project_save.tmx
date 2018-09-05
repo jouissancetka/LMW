@@ -3816,6 +3816,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“说起来，有件事你可别介意，我有一只跟你是同类的小宠物哦。”游小默突然笑起来，然后从怀里掏出小乌龟，“你看，就是这只小乌龟，可爱吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T030435Z" creationid="elaine" creationdate="20180905T030435Z">
+        <seg>"Speaking of which, no offense intended, but I have a small pet that's the same race as you." You XiaoMo suddenly laughed before fishing out the baby turtle from his robe. "See, it's this baby turtle. Isn't it cute?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“说那个反应最剧烈的。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T130445Z" creationid="Ceti" creationdate="20180627T130445Z">
@@ -11690,6 +11698,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小乌龟在他手里缓慢的爬着，爪子轻轻的搭在他的指腹上，力道很轻，像在挠痒痒一样，这个动作表示它很高兴。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T030443Z" creationid="elaine" creationdate="20180905T030443Z">
+        <seg>The baby turtle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小乌龟还没有名字，莫景说玄龟族的后代出生后都是由族中的长老赐名的，而这只小乌龟出生时不在族中，所以到现在都没有名字。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T123405Z" creationid="Ceti" creationdate="20180811T065036Z">
@@ -16262,8 +16278,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默早猜到他会这么问，通灵玄龟可能已经知道莫景带着小乌龟在中途被人袭击一事，毕竟小乌龟是玄龟族的延续，身份地位非同一般，这么久都没回去，玄龟族的人恐怕担心不已。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180905T030256Z" creationid="elaine" creationdate="20180905T025142Z">
-        <seg>You XiaoMo had long since guessed that he would ask about this. The Psychic Black Turtle most likely already knew of how Mo Jing had been attacked while bringing back the baby turtle. All in all, the baby turtle was the Black Turtle Clan's descendant, and his status and position were both not ordinary. The Black Turtle Clan's people were probably extremely worried that he hadn't come back for so long.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T030500Z" creationid="elaine" creationdate="20180905T025142Z">
+        <seg>You XiaoMo had long since guessed that he would ask about this. The Psychic Black Turtle most likely already knew of how Mo Jing had been attacked while bringing back the baby turtle. All in all, the baby turtle was the Black Turtle Clan's descendant, and its status and position were both not ordinary. The Black Turtle Clan's people were probably extremely worried that it hadn't come back for so long.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24387,8 +24403,8 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       <tuv lang="ZH-CN">
         <seg>青年连忙摇摇头，同时松一口气，他就觉得不可能，小主子那么重要，莫景怎么可能会交给两个陌生人，偏偏龙老一定要他问一下。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180905T030147Z" creationid="elaine" creationdate="20180905T030136Z">
-        <seg>The youth nodded hastily while releasing a breath of air at the same time. He just knew that it was impossible. The Young Master was so important, so how could Mo Jing just hand him over to two strangers, but Old Dragon had insisted on him asking about it.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T030446Z" creationid="elaine" creationdate="20180905T030136Z">
+        <seg>The youth nodded hastily while releasing a breath of air at the same time. He just knew that it was impossible. The Young Master was so important, so how could Mo Jing just hand it over to two strangers, but Old Dragon had insisted on him asking about it.</seg>
       </tuv>
     </tu>
     <tu>
