@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“仙师，昨天的饭菜不是小人做的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180905T054128Z" creationid="yun" creationdate="20180905T054128Z">
+        <seg>"(仙师), the food from yesterday wasn't made by me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“以前的游小默确实不是。”凌霄意味深长的看着他。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T054802Z" creationid="elaine" creationdate="20180828T054802Z">
@@ -5044,6 +5052,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180905T031129Z" creationid="yun" creationdate="20180905T031129Z">
         <seg>Chef Wan told them to wait outside for a bit before cooking with his little assistant in the kitchen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>万厨师顿时傻眼了，他终于明白，原来他们是在拿他和游小默做的饭菜作对比，怪不得他们会嫌弃他做的，两者根本没有可比性，太冤枉了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180905T054113Z" creationid="yun" creationdate="20180905T054113Z">
+        <seg>Chef Wan was dumbfounded, he finally understood. They were comparing his food with You XiaoMo's, no wonder they would reject his,(嫌弃) it wasn't even comparable. Now that was just an unjust treatement. (冤枉)  </seg>
       </tuv>
     </tu>
     <tu>
