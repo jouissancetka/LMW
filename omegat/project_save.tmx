@@ -9930,6 +9930,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>商船靠岸，船员们忙着卸货。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T022535Z" creationid="elaine" creationdate="20180905T022535Z">
+        <seg>The merchant ship reached the shore, and the crew began to unload the ship.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>啪&lt;t0/&gt;！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T222603Z" creationid="Lilly" creationdate="20180830T222603Z">
@@ -24517,6 +24525,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180831T022518Z" creationid="yun" creationdate="20180831T022457Z">
         <seg>Fresh blood erupted but before it could land, it was evaporated by the flames. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>鲸岛的港口比河镇的港口还要大三四倍，港口的边上商船也比较多，热闹非凡，确实如老人所说的，鲸岛的情况比河镇要好得多。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180905T022716Z" creationid="elaine" creationdate="20180905T022716Z">
+        <seg>Whale Island's port was three or four times bigger than River Town's port. There were also more merchant ships in the port, and it was extremely lively. Indeed, it was like what the old man had said: Whale Island's situation was much better than River Town's. </seg>
       </tuv>
     </tu>
     <tu>
