@@ -4400,6 +4400,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那就进去吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132606Z" creationid="Ceti" creationdate="20180907T132602Z">
+        <seg>"Then let's enter."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那就进去吧！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T021639Z" creationid="elaine" creationdate="20180828T021544Z">
@@ -6112,6 +6120,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>两人走到队伍最后排队。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132621Z" creationid="Ceti" creationdate="20180907T132621Z">
+        <seg>The two men went to the queue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>两人趁机冲进第十层。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T093311Z" creationid="Lilly" creationdate="20180629T093311Z">
@@ -6970,8 +6986,8 @@
       <tuv lang="ZH-CN">
         <seg>他们身上的麻烦事已经够多，多一件和少一件已经没有区别。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T124232Z" creationid="Ceti" creationdate="20180907T124232Z">
-        <seg>They have enough trouble. There is no difference between one and one.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132445Z" creationid="Ceti" creationdate="20180907T124232Z">
+        <seg>They already had more than enough trouble on hand, adding another one would make no difference.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7620,6 +7636,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T123413Z" creationid="Lilly" creationdate="20180621T123413Z">
         <seg>The news of the low level teleportation talisman had been leaked three days ago. You XiaoMo and Ling Xiao had come at just the right time. Today was the last day. It wasn't long after they placed their card in the box that the deadline arrived.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>何况不久前他们刚从自然城里出来，城内实力最强的就是那个已经成为凌霄手下败将的黑熊，要离开还不简单。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132552Z" creationid="Ceti" creationdate="20180907T132552Z">
+        <seg>Not long ago, they just came out of the natural city, the city's strongest strength is the black bear has become a loser, to leave is not easy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8708,6 +8732,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T131700Z" creationid="Ceti" creationdate="20180902T065048Z">
         <seg>Ling Xiao did not express anything and there was constantly a smile that was yet not a smile on his face, "Correct, that's us."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄没有意见，他对游小默的想法还是很了解的，错过这次机会，下次要想联系上莫景就不知道是什么时候了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132614Z" creationid="Ceti" creationdate="20180907T132614Z">
+        <seg>Ling Xiao has no opinions, he still knows the idea of swimming quietly, miss this opportunity, the next time you want to contact Mo Jing do not know when it is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15652,6 +15684,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默刚走进去，就听到守卫的声音，在他身后是凌霄，回头一看，守卫果然在问凌霄，刚刚明明没有这道程序的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132655Z" creationid="Ceti" creationdate="20180907T132655Z">
+        <seg>You Xiaomu just walked in, heard the voice of the guard, behind him is the sky, look back, the guard is indeed asking the sky, just clear that there is no such program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默努力忽略&lt;t0/&gt;掉心里&lt;t1/&gt;突然冒出来的毛骨悻然，干笑道：“亲爱的，你不要光顾着笑，我就快逃出城主府了，你快来接应我，不然明年的今天就是我的忌日了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024839Z" creationid="Lilly" creationdate="20180726T024839Z">
@@ -17422,8 +17462,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默犹豫了两秒，点点头。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T124218Z" creationid="Ceti" creationdate="20180907T124218Z">
-        <seg>Xiao Mo hesitated for two seconds and nodded.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132357Z" creationid="Ceti" creationdate="20180907T124218Z">
+        <seg>Xiao Mo hesitated for two seconds before he nodded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19840,8 +19880,8 @@
       <tuv lang="ZH-CN">
         <seg>现在这种情况说明自然城里正在发生什么麻烦事，而他们现在最需要的就是避免麻烦，所以是为了莫景的灵草沾上麻烦，还是现在就离开，凌霄把选择权交给游小默。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T124211Z" creationid="Ceti" creationdate="20180907T124211Z">
-        <seg>Now this situation shows what trouble is happening in the natural city, and what they need now is to avoid trouble, so it is for the sake of the souvenir grass trouble, or leave now, the right to choose to give you Xiaomu.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132533Z" creationid="Ceti" creationdate="20180907T124211Z">
+        <seg>The current situation indicated that some troublesome matter was happening inside ZiRan City, and what they need the most now was to avoid trouble. Therefore, Ling Xiao passed the right to choose whether to attract trouble for Mo Jing's magic herb or leave right away to You XiaoMo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22841,6 +22881,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093356Z" creationid="Lilly" creationdate="20180609T093257Z">
         <seg>Though he had struggled a bit, but the quality of the pill was impressive, a high grade one. Of course, with his background, it wasn’t hard to get high grade magic herbs.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>虽然检查很严格，但是速度还是很快的，几乎不到两刻钟就轮到他们了，守卫上下打量了游小默一眼就让他进去了，就这么简单。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180907T132640Z" creationid="Ceti" creationdate="20180907T132640Z">
+        <seg>Although the inspection was very strict, but the speed was still very fast, almost two quarters of an hour to their turn, the guard looked up and down to swim silently let him in, so simple.</seg>
       </tuv>
     </tu>
     <tu>
