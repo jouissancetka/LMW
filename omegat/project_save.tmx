@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你不能杀我，我是玄龟族二代长老，杀了我就是与整个玄龟族为敌，就算你实力再强，也绝对敌不过族长。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180908T231531Z" creationid="Lilly" creationdate="20180908T231531Z">
+        <seg>"You can't kill me. I am a second generation elder of the Black Turtle Clan. Killing me would be equal to making an enemy of our entire clan. No matter how strong you are you're still nothing compared to the clan leader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你且说说当时是什么情况。”黑袍人沉声说道，无缘无故出现一名十二阶强者，这种情况有些不寻常，他想到邢七说的那个将他的手臂扯下来的男人，同样是断了一只手，二者莫不是有什么联系？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180901T235228Z" creationid="elaine" creationdate="20180901T235135Z">
@@ -20402,6 +20410,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084306Z" creationid="Lilly" creationdate="20180609T084306Z">
         <seg>CatQiu: “Meow~”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>玄威企图用&lt;t0/&gt;玄龟族&lt;t1/&gt;恐吓凌霄，就算他是&lt;t2/&gt;玄龟族&lt;t3/&gt;的叛徒，也只能交给&lt;t4/&gt;玄龟族去&lt;t5/&gt;处置，而且比起死在凌霄手里，他宁愿落入&lt;t6/&gt;玄龟族&lt;t7/&gt;手里，至少他不会死，&lt;t8/&gt;玄龟族&lt;t9/&gt;对待族人还是很宽容的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180908T231657Z" creationid="Lilly" creationdate="20180908T231657Z">
+        <seg>XuanWei wanted to scare Ling Xiao using the Black Turtle Clan. Even though he was traitor to the clan, only the clan could deal with him. Plus, he's rather fall into the hands of the Black Turtle Clan than die at Ling Xiao's hands/ At the very least, he wouldn't be killed. The Black Turtle Clan was very lenient towards their fellow clanmates.</seg>
       </tuv>
     </tu>
     <tu>
