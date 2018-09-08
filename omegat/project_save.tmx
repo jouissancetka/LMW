@@ -1296,8 +1296,8 @@
       <tuv lang="ZH-CN">
         <seg>“你跟他说这些做什么？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202457Z" creationid="elaine" creationdate="20180908T202431Z">
-        <seg>"What are you saying to it? /DELETE ENTER</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204045Z" creationid="elaine" creationdate="20180908T202431Z">
+        <seg>"What are you saying to him? /DELETE ENTER</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3226,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T151022Z" creationid="Ceti" creationdate="20180804T033027Z">
         <seg>"The next item is the last." Cheng He took the tray that the attendant carried over. When everyone's eyes were focused on her, she raised it up as one hand (方抬起手) grabbed a corner of the black cloth and slowly lifted it up, as if keeping everyone in suspense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“敢问二位可是护送我曾孙子回来的人，他在哪里？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T203945Z" creationid="elaine" creationdate="20180908T203945Z">
+        <seg>"Could I ask if the two of you are the ones who escorted my great-grandson back? Where is he?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5180,6 +5188,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T142914Z" creationid="Ceti" creationdate="20180826T102042Z">
         <seg>Along the way, You XiaoMo saw not less than five dramas about fights for a woman's favor, where several men got into a free-for-all fight in order to vie for a woman. Each and every one of the onlookers had an expression which declared that they were accustomed to this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一进门，三人中唯一的长者立刻往房内看了看，目光急切，这次听说有可能是两个陌生人把小乌龟护送回来的，玄龟族几乎快吓破胆了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T203907Z" creationid="elaine" creationdate="20180908T203907Z">
+        <seg>Once they entered, the only elder of the group instantly looked around the inside of the room with an eager gaze. When they heard that there was a possibility that two strangers had escorted the baby turtle back home this time, the Black Turtle Clan was basically scared out of their wits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14054,8 +14070,8 @@
       <tuv lang="ZH-CN">
         <seg>晚上，游小默将小乌龟拿出来，伸出手指逗弄他的小脑袋，小乌龟小脑袋左摇右晃，最后忍无可忍用刚长牙的嘴巴咬住他的手指头。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202204Z" creationid="elaine" creationdate="20180908T202204Z">
-        <seg>At night, You XiaoMo took out the baby turtle and teased its little head with his fingers. The baby turtle's little head swayed back and forth before it finally lost the last of its patience and used its newly grown teeth to bite his finger.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204017Z" creationid="elaine" creationdate="20180908T202204Z">
+        <seg>At night, You XiaoMo took out the baby turtle and teased his little head with his fingers. The baby turtle's little head swayed back and forth before he finally lost the last of his patience and used his newly grown teeth to bite You XiaoMo's finger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17230,8 +17246,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默抬起手，它死活不肯松口，笑过后，他忍不住叹气道：“小乌龟啊小乌龟，今晚可能是我们最后一次相处，明天开始你就要回玄龟族，到时你要乖乖的，还要努力变强，把族中的坏人统统都赶跑了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202416Z" creationid="elaine" creationdate="20180908T202416Z">
-        <seg>You XiaoMo raised his hand, and it refused to loosen its jaws. After he laughed, he couldn't help but sigh. "Baby turtle, ah, baby turtle. Tonight is probably the last time we'll meet. Starting from tomorrow, you'll return to the Black Turtle Clan. When that time comes, you must be obedient, and you must do your best to become strong so you can chase out all of the bad people in the clan."</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204033Z" creationid="elaine" creationdate="20180908T202416Z">
+        <seg>You XiaoMo raised his hand, and the baby turtle refused to loosen his jaws. After You XiaoMo laughed, he couldn't help but sigh. "Baby turtle, ah, baby turtle. Tonight is probably the last time we'll meet. Starting from tomorrow, you'll return to the Black Turtle Clan. When that time comes, you must be obedient, and you must do your best to become strong so you can chase out all of the bad people in the clan."</seg>
       </tuv>
     </tu>
     <tu>
@@ -22014,8 +22030,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>等他回玄龟族，要不了多久就会把你忘了。”凌霄听着他的话便不以为意的说道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202554Z" creationid="elaine" creationdate="20180908T202554Z">
-        <seg>When it returns to the Black Turtle Clan, it'll forget you before very long." Ling Xiao said dismissively after he heard what You XiaoMo was saying.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204039Z" creationid="elaine" creationdate="20180908T202554Z">
+        <seg>When he returns to the Black Turtle Clan, he'll forget you before very long." Ling Xiao said dismissively after he heard what You XiaoMo was saying.</seg>
       </tuv>
     </tu>
     <tu>
