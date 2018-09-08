@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1296,8 +1296,8 @@
       <tuv lang="ZH-CN">
         <seg>“你跟他说这些做什么？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202431Z" creationid="elaine" creationdate="20180908T202431Z">
-        <seg>"What are you saying to it?"</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202457Z" creationid="elaine" creationdate="20180908T202431Z">
+        <seg>"What are you saying to it? /DELETE ENTER</seg>
       </tuv>
     </tu>
     <tu>
@@ -1904,8 +1904,8 @@
       <tuv lang="ZH-CN">
         <seg>“啊！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20180907T065708Z" creationid="yun" creationdate="20180905T072804Z">
-        <seg>""Ah!"</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202710Z" creationid="yun" creationdate="20180905T072804Z">
+        <seg>"Ah!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3090,6 +3090,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180811T150028Z" creationid="Ceti" creationdate="20180811T150028Z">
         <seg>"So he always felt very inferior since he was a child?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“所以我才提前说。”游小默当然知道这一点，等他回去，说不定他的主人还会给他洗脑，把他们的记忆从他脑袋里洗去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202706Z" creationid="elaine" creationdate="20180908T202706Z">
+        <seg>"That's why I'm saying this now." Of course You XiaoMo knew this. After it returned, its master would most likely brainwash him and clear away all of the memories they had shared.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8752,6 +8760,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄拿起他的手看了下，伤口并不深。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T203031Z" creationid="elaine" creationdate="20180908T203031Z">
+        <seg>Ling Xiao picked up his hand and took a look. The wound wasn't very deep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄挑了下眉，“应该是真龙族杰出一辈的人。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T085755Z" creationid="Ceti" creationdate="20180623T085755Z">
@@ -9372,6 +9388,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T144053Z" creationid="Ceti" creationdate="20180805T093811Z">
         <seg>Ling Xiao immediately knew what he was thinking about and he derided and taunted, "You dunce, you don't even have this much guts." However, he still helped You XiaoMo take a look.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄立刻走过来，“怎么了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202821Z" creationid="elaine" creationdate="20180908T202821Z">
+        <seg>Ling Xiao instantly walked over. "What's wrong?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,6 +11102,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T100231Z" creationid="Lilly" creationdate="20180730T100231Z">
         <seg>In the main hall --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>大概知道自己闯祸了，小乌龟将脑袋和四肢缩进龟壳里。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T203103Z" creationid="elaine" creationdate="20180908T203103Z">
+        <seg>Most likely because it knew it was in trouble, the baby turtle pulled its head and limbs into its shell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17020,6 +17052,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默想得入神，直到手指头传来一丝疼痛，他才发现小乌龟竟然咬破他的手指头？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202814Z" creationid="elaine" creationdate="20180908T202814Z">
+        <seg>You XiaoMo was deep in thought until a pain came from his finger. Only then he discovered that the baby turtle had actually bitten through the skin of his finger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默愣了一下，下意识的回道：“你说得对！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T133025Z" creationid="Ceti" creationdate="20180902T083047Z">
@@ -19218,6 +19258,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T061516Z" creationid="Ceti" creationdate="20180630T061516Z">
         <seg>You XiaoMo had never even heard of it before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默连忙将手指从小乌龟嘴里抽出来，一看果然被咬出个伤口，不过伤口流的血不多，好像被小乌龟当成好喝的东西吸走了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T203017Z" creationid="elaine" creationdate="20180908T203017Z">
+        <seg>You XiaoMo hurriedly withdrew his finger from the baby turtle's mouth. There was indeed a wound from the baby turtle's bite, but there wasn't much blood flowing from the wound, and it seemed that the baby turtle had sucked it up thinking that it was something tasty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21936,6 +21984,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T140904Z" creationid="Ceti" creationdate="20180630T065502Z">
         <seg>Yin Ge and Zhan Yu Xuan were surrounding Feng ChiYun while fretting when they arrived.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>等他回玄龟族，要不了多久就会把你忘了。”凌霄听着他的话便不以为意的说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202554Z" creationid="elaine" creationdate="20180908T202554Z">
+        <seg>When it returns to the Black Turtle Clan, it'll forget you before very long." Ling Xiao said dismissively after he heard what You XiaoMo was saying.</seg>
       </tuv>
     </tu>
     <tu>
