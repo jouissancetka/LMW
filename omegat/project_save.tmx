@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15212,6 +15212,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>海初没有问他们去哪里，这种事情无所谓信任与不信任，只要他们人没有离开鲸岛就行了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T201346Z" creationid="elaine" creationdate="20180908T201336Z">
+        <seg>Hai Chu didn't ask where they were going. There wasn't much point in trusting or not trusting them over this kind of thing, and as long as they didn't leave Whale Island it was fine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>海初说完就走了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180905T032741Z" creationid="elaine" creationdate="20180905T032741Z">
@@ -21612,6 +21620,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T042238Z" creationid="yun" creationdate="20180907T042238Z">
         <seg>Chapter 540 The Contributors (功劳小队)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第541章 身份暴露</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T201221Z" creationid="elaine" creationdate="20180908T201143Z">
+        <seg>Chapter 541: Identity Revealed</seg>
       </tuv>
     </tu>
     <tu>
