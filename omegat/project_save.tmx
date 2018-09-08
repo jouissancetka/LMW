@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12038,6 +12038,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T092053Z" creationid="Lilly" creationdate="20180609T092053Z">
         <seg>He had learned how to multitask when refining pills and could now easily distill tens of herbs at once.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>如果不是上面有通灵玄龟一族压着，赤雷海蛟或许就是活水河界的霸主了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180908T212124Z" creationid="yun" creationdate="20180908T212124Z">
+        <seg>If there wasn't the Black Turtle Clan above him, the Red Thunder Mizuchi would've been the overlord (霸主) at the Living Waters River Boundary. </seg>
       </tuv>
     </tu>
     <tu>
