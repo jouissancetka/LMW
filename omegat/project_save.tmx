@@ -1176,8 +1176,8 @@
       <tuv lang="ZH-CN">
         <seg>“你真聪明！”游小默两眼亮晶晶的称赞道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T064332Z" creationid="Ceti" creationdate="20180908T064332Z">
-        <seg>"How clever you are/You're really smart clever!!" You can't see your eyes.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T081044Z" creationid="Ceti" creationdate="20180908T064332Z">
+        <seg>"You're really smart!" You XiaoMo praised with sparkling eyes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2304,8 +2304,8 @@
       <tuv lang="ZH-CN">
         <seg>“如果不是找人就不会限制只许进不许出，而且进城还盘查得那么严格，明显他们要找的人可能不止一人，应该是担心有人会来接应那个人。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T064301Z" creationid="Ceti" creationdate="20180908T064301Z">
-        <seg>"If it wasn't for people, there would be no restrictions on entry and exit, and the city counter-offer was so strict that it was obvious that they were looking for more than one person, should be worried that someone would come to meet that person."</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T080958Z" creationid="Ceti" creationdate="20180908T064301Z">
+        <seg>"If they wern't looking for someone, they would not need to only allow entry yet restrict exit. Furthermore, the checks to enter the city were so strict. It was obvious that what they were looking for more than one person. They were probably worried that someone would come to the rescue of that person.</seg>
       </tuv>
     </tu>
     <tu>
