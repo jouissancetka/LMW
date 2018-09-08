@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“同志，辛苦你了。”游小默果断的收起储物袋，握住莫景的手激动的感谢道，看着莫景的眼神就像在看一个聚宝盆一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T090855Z" creationid="Ceti" creationdate="20180908T090855Z">
+        <seg>"Comrade, it's been hard on you." You Xiaomu resolutely closed the storage bag, held Mojing's hand excitedly thanked him, looking at Mojing's eyes as if looking at a treasure trove.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“后悔？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T213322Z" creationid="Lilly" creationdate="20180830T213322Z">
@@ -3190,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“接下来我们要离开自然城，你呢？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T091016Z" creationid="Ceti" creationdate="20180908T091016Z">
+        <seg>"Next we are going to leave the natural city. What about you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“接下来是最后一件。”程荷接过侍者端过来的托盘，当众人的视线都集中在她身上时，方抬起手抓住黑布的一角慢慢的掀起来，仿佛在吊众人的胃口一样。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T151022Z" creationid="Ceti" creationdate="20180804T033027Z">
@@ -4120,6 +4136,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这些只是&lt;t0/&gt;一&lt;t1/&gt;小部分，等安定下来后，我会再帮你们找。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T090931Z" creationid="Ceti" creationdate="20180908T090931Z">
+        <seg>"These are only a small part. After settling down, I will help you find them again."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这件事就交给为父，动静太大反而会引人注意。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180810T133241Z" creationid="Ceti" creationdate="20180809T104959Z">
@@ -4460,6 +4484,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180820T032708Z" creationid="elaine" creationdate="20180820T032708Z">
         <seg>"Then let's..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那就拜托你了。”游小默兴奋的拍拍他的肩膀，“对了，你的小主人已经顺利被他的曾祖父接走了，你不用担心。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T090958Z" creationid="Ceti" creationdate="20180908T090958Z">
+        <seg>"So please/Then I'll be counting on you." You patted him on the shoulder excitedly. "By the way, your little master has been successfully taken away by his great-grandfather. You don't have to worry about it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6364,6 +6396,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180823T173917Z" creationid="yun" creationdate="20180823T173917Z">
         <seg>To prevent the jade drive from being lost, he copied all of the pill recipes onto a different jade drive. Since the two jade drives had different storage capacities, he could only fit the high-grade and pinnacle level pill recipes in. (高级丹方和顶级丹方)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>为什么他会被困在自然城里？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T091031Z" creationid="Ceti" creationdate="20180908T091031Z">
+        <seg>Why would he be trapped in a natural city?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12674,6 +12714,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>就是因为实力不够，&lt;t0/&gt;邢&lt;t1/&gt;七二人再加上一个黑熊，他敢保证只要他敢闯城门，&lt;t2/&gt;邢&lt;t3/&gt;七三人应该能把他逮着了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T091050Z" creationid="Ceti" creationdate="20180908T091050Z">
+        <seg>Because of the lack of strength, Xing Qiren and a black bear, he was sure that as long as he dared to break through the gate, Xing Qiren should be able to catch him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>就算他真的隐藏了实力，也不可能同时对付得了滕家和柴家的十几个人吧？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090200Z" creationid="Lilly" creationdate="20180609T090200Z">
@@ -13348,6 +13396,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>成熟的灵草是他刚好随身捎带的，种子和幼苗则是沿途购买的，这些的价值比成熟的低很多，虽然市场不大，但是仍然能买到，之前他还担心游小默会不高兴。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T090917Z" creationid="Ceti" creationdate="20180908T090917Z">
+        <seg>Mature primroses were brought with him, seeds and seedlings were purchased along the way. These were much less valuable than mature primroses. Although the market was small, they were still available. Before that, he was worried that you would be unhappy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>我一定要把他们碎尸万段！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Kollumceti" changedate="20180823T125002Z" creationid="Kollumceti" creationdate="20180823T125002Z">
@@ -13416,6 +13472,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T032806Z" creationid="yun" creationdate="20180819T032806Z">
         <seg>After a moment of slience, he asked, "Is there tea?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>所以他一直在等凌霄的到来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T091109Z" creationid="Ceti" creationdate="20180908T091109Z">
+        <seg>So he had been waiting for the arrival of the skies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19070,6 +19134,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默这句话正是莫景一直期盼着的，对他来说就像天籁之音。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T091023Z" creationid="Ceti" creationdate="20180908T091023Z">
+        <seg>You Xiaomo's sentence is exactly what Mo Jing has been looking forward to. It sounds like the sounds of heaven to him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默连听都没听说过。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T061516Z" creationid="Ceti" creationdate="20180630T061516Z">
@@ -23188,6 +23260,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>莫景点点头，看到他们出现在自然城，他就已经猜到了，心里同时松了一口气，任务总算完成了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T091008Z" creationid="Ceti" creationdate="20180908T091008Z">
+        <seg>Mo scenic spots nodded, saw them appear in the natural city, he had guessed, and at the same time relieved, the task was finally completed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>莫景突然有种对方其实就在等他这句话的感觉，旋即苦笑道：“二位恩公也知道以我现在的情况，若不及时疗伤是找不到玄龟族的，但我家小主人情况特殊，所以我想请二位恩公帮个忙”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T042106Z" creationid="elaine" creationdate="20180816T041343Z">
@@ -23200,6 +23280,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T042459Z" creationid="elaine" creationdate="20180816T042459Z">
         <seg>Mo Jing's face revealed a bit of unease. "I, I trust you two gentlemen."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莫景被他谢得一脸尴尬，其实也没多辛苦。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T090909Z" creationid="Ceti" creationdate="20180908T090909Z">
+        <seg>Mo Jing was embarrassed by his thanks, but in fact he didn't work hard.</seg>
       </tuv>
     </tu>
     <tu>
