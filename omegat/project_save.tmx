@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17512,6 +17512,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180908T135828Z" creationid="Ceti" creationdate="20180908T064616Z">
         <seg>You XiaoMo felt even more embarrassed, but he could not help refuting, "Who asked you to enter by flipping over the window (翻窗) instead of entering from the door. I thought you were a person harboring malicious intentions."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默有一种深深的为他的小乌龟的未来感到担忧，通灵玄龟看起来也不是个太平的种族，争权夺势果然到哪里都能看到，照这样下去，他的小乌龟还能平安的长大么？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T201945Z" creationid="elaine" creationdate="20180908T201945Z">
+        <seg>You XiaoMo had a sort of deep concern over the future of his baby turtle. The Psychic Black Turtle didn't seem to be a very peaceful clan either, and indeed, power struggles could be found everywhere. If things continued like this, could his baby turtle still grow up peacefully?</seg>
       </tuv>
     </tu>
     <tu>
