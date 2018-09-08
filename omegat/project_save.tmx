@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5968,6 +5968,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>不过竟然知道小乌龟在他们这里，看来莫景很可能与他们联系上了，游小默把小乌龟从衣服里掏出来，不舍的递给他，“这就是你的曾孙子。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204806Z" creationid="elaine" creationdate="20180908T204806Z">
+        <seg>But if he knew that the baby turtle was with them, then it seemed that it was very likely that Mo Jing had contacted them. You XiaoMo pulled out the baby turtle from his clothes and grudgingly handed him over. "This is your great-grandson."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>不过老板娘会有这种性格其实不难猜。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T221635Z" creationid="Lilly" creationdate="20180830T221635Z">
@@ -8508,6 +8516,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T133552Z" creationid="Ceti" creationdate="20180902T113557Z">
         <seg>Ling Xiao did not want to let people know his true cultivation level, so he would deliberately suppress his own cultivation before others unless their strength was higher than his. Otherwise, others could only see his suppressed cultivation level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄在他耳边低语道：“你忘记把颜料擦掉了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204937Z" creationid="elaine" creationdate="20180908T204921Z">
+        <seg>Ling Xiao whispered in his ear, "You forgot to wipe off the paint."</seg>
       </tuv>
     </tu>
     <tu>
@@ -18382,6 +18398,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默眨眨眼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204852Z" creationid="elaine" creationdate="20180908T204852Z">
+        <seg>You XiaoMo blinked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默眨眨眼，“他有什么未了心愿？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T053523Z" creationid="elaine" creationdate="20180828T053523Z">
@@ -20234,6 +20258,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084306Z" creationid="Lilly" creationdate="20180609T084306Z">
         <seg>CatQiu: “Meow~”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>玄宗颤颤的接过手，不过当他看到小乌龟的模样时，表情不由得僵住了，这真是他的曾孙子？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204849Z" creationid="elaine" creationdate="20180908T204849Z">
+        <seg>Xuan Zong trembled as he received him, but when he saw what the baby turtle looked like, his expression froze involuntarily. Was this actually his great-grandson?</seg>
       </tuv>
     </tu>
     <tu>
