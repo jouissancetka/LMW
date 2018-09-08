@@ -4138,8 +4138,8 @@
       <tuv lang="ZH-CN">
         <seg>“这些只是&lt;t0/&gt;一&lt;t1/&gt;小部分，等安定下来后，我会再帮你们找。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T090931Z" creationid="Ceti" creationdate="20180908T090931Z">
-        <seg>"These are only a small part. After settling down, I will help you find them again."</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T101034Z" creationid="Ceti" creationdate="20180908T090931Z">
+        <seg>"These are only just a small portion. After settling down, I will help you find more."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,8 +4490,8 @@
       <tuv lang="ZH-CN">
         <seg>“那就拜托你了。”游小默兴奋的拍拍他的肩膀，“对了，你的小主人已经顺利被他的曾祖父接走了，你不用担心。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T090958Z" creationid="Ceti" creationdate="20180908T090958Z">
-        <seg>"So please/Then I'll be counting on you." You patted him on the shoulder excitedly. "By the way, your little master has been successfully taken away by his great-grandfather. You don't have to worry about it."</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180908T101211Z" creationid="Ceti" creationdate="20180908T090958Z">
+        <seg>"Then I'll be counting on you." You XiaoMo patted him on the shoulder excitedly, "By the way, your little master has been successfully picked up by his great-grandfather (曾祖父). You don't have to worry about it."</seg>
       </tuv>
     </tu>
     <tu>
