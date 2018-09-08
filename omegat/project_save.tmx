@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3096,8 +3096,8 @@
       <tuv lang="ZH-CN">
         <seg>“所以我才提前说。”游小默当然知道这一点，等他回去，说不定他的主人还会给他洗脑，把他们的记忆从他脑袋里洗去。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180908T202706Z" creationid="elaine" creationdate="20180908T202706Z">
-        <seg>"That's why I'm saying this now." Of course You XiaoMo knew this. After it returned, its master would most likely brainwash him and clear away all of the memories they had shared.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204058Z" creationid="elaine" creationdate="20180908T202706Z">
+        <seg>"That's why I'm saying this now." Of course You XiaoMo knew this. After the baby turtle returned, his master would most likely brainwash him and clear away all of the memories they had shared.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11124,8 +11124,8 @@
       <tuv lang="ZH-CN">
         <seg>大概知道自己闯祸了，小乌龟将脑袋和四肢缩进龟壳里。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180908T203103Z" creationid="elaine" creationdate="20180908T203103Z">
-        <seg>Most likely because it knew it was in trouble, the baby turtle pulled its head and limbs into its shell.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T204122Z" creationid="elaine" creationdate="20180908T203103Z">
+        <seg>Most likely because he knew he was in trouble, the baby turtle pulled his head and limbs into his shell.</seg>
       </tuv>
     </tu>
     <tu>
