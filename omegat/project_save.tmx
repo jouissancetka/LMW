@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4268,6 +4268,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T012844Z" creationid="Ceti" creationdate="20180630T084429Z">
         <seg>"What is going on?" Yin Ge desperately asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这是怎么回事？”玄宗疑惑的说道，他已经将小乌龟龟壳上的颜料擦掉了，但是小乌龟却一直没动静，脑袋和四肢都缩在龟壳里，他原以为是因为龟壳的颜料才不肯出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T205425Z" creationid="elaine" creationdate="20180908T205425Z">
+        <seg>"What's wrong with him?" Xuan Zong said doubtfully. He had already wiped off the paint on the baby turtle's shell, but the baby turtle still hadn't moved, and his head and limbs were still pulled inside his shell. Xuan Zong had originally believed that the baby turtle refused to come out because of the paint on his shell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19002,6 +19010,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180902T232934Z" creationid="yun" creationdate="20180902T232934Z">
         <seg>You XiaoMo told the two to each kill two chickens. The chicken was still used for it's thighs to make Spicy Sour Chicken Cubes. Since Ling Xiao liked this meat dish, he specifically asked him to make it.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默讪讪的说道：“这个，他从昨天晚上就这样了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T205450Z" creationid="elaine" creationdate="20180908T205450Z">
+        <seg>You XiaoMo said awkwardly, "Uh, he's been like that since last night."</seg>
       </tuv>
     </tu>
     <tu>
