@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14084,6 +14084,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>昨晚咬破他的手指后，小乌龟就一直不肯出来，起先他以为小乌龟是怕被他责骂就没管他，直到早上起来发现小乌龟还是这副模样才发现有问题，看起来很像是在闹别扭。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T205714Z" creationid="elaine" creationdate="20180908T205714Z">
+        <seg>After he had bitten his finger last night, the baby turtle had refused to come out. At first You XiaoMo had thought that it was because the baby turtle was afraid of being scolded and so he ignored him, but it was only this morning when You XiaoMo discovered that the baby turtle was still like this that he found out there was a problem. It seemed very much as if he was throwing a temper tantrum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>是不是要感谢你对我还有期待？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T213939Z" creationid="Lilly" creationdate="20180904T213939Z">
@@ -18734,6 +18742,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默简单的说了下原委，还强调自己绝对没有打骂过他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T205809Z" creationid="elaine" creationdate="20180908T205809Z">
+        <seg>You XiaoMo explained the gist of the situation, and he also emphasized that he absolutely had not hit or scolded him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默简单看了一下，果然不愧是十一二级灵草，他一株都没听所过，而且名字还很古怪，比如竟然有生长在骨架上的灵草，叫什么幽灵草，嫌这世界的生灵太多么？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T140038Z" creationid="Ceti" creationdate="20180630T062812Z">
@@ -20290,6 +20306,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084306Z" creationid="Lilly" creationdate="20180609T084306Z">
         <seg>CatQiu: “Meow~”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>玄宗不愿承认他的曾孙子是因为要离开这个人类才会有这种反常的行为，连忙劝告道：“小乐，我是你曾祖父，你快出来看看曾祖父……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T205958Z" creationid="elaine" creationdate="20180908T205958Z">
+        <seg>Xuan Zong wasn't willing to admit that his great-grandson was exhibiting this strange behavior because he didn't want to leave this human, so he hastily urged, "Little Le, (小乐 // Le or Yue?) I'm your great-grandfather. Hurry and come out to see your great-grandfather..."</seg>
       </tuv>
     </tu>
     <tu>
