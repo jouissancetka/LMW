@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你不能杀我”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180908T225849Z" creationid="Lilly" creationdate="20180908T225849Z">
+        <seg>"You can't kill me!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你且说说当时是什么情况。”黑袍人沉声说道，无缘无故出现一名十二阶强者，这种情况有些不寻常，他想到邢七说的那个将他的手臂扯下来的男人，同样是断了一只手，二者莫不是有什么联系？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180901T235228Z" creationid="elaine" creationdate="20180901T235135Z">
@@ -11004,8 +11012,8 @@
       <tuv lang="ZH-CN">
         <seg>在他满脸骇然的时候，搭在他肩膀上的手突然用力将他扳倒了，摔倒再低的时候，玄威看到男人一掌轰了下来，眼睛霎时瞪大到极致，他想要运转体内的灵力，但是心念一动却什么反应也没有。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180908T225406Z" creationid="Lilly" creationdate="20180908T225406Z">
-        <seg>Just as he </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180908T225841Z" creationid="Lilly" creationdate="20180908T225406Z">
+        <seg>Just as his face twisted into shock, the hand on his shoulder suddenly forced him down. Just as he fell lower, XuanWei saw the man send a palm strike down at him. His eyes widened. He wanted to use the power inside him, but it did not react. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20394,6 +20402,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180908T221356Z" creationid="Lilly" creationdate="20180908T221356Z">
         <seg>XuanWei's hair stood up on end from shock. He wasn't afraid of ghosts, but the fact that Ling Xiao could appear silently behind him, how can he not be shocked!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>玄威惊惧的大吼起来，他从来没想到自己会死在这里。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180908T225915Z" creationid="Lilly" creationdate="20180908T225915Z">
+        <seg>XuanWei yelled in fear. He had never thought he would die here.</seg>
       </tuv>
     </tu>
     <tu>
