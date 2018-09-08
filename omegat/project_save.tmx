@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20378,6 +20378,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180908T210025Z" creationid="elaine" creationdate="20180908T210025Z">
         <seg>Xuan Ming looked at You XiaoMo and explained, "The baby turtle's name is Xuan Le." (玄乐) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>玄明笑了笑，没有否认，其实就算没有莫景三天前恰巧传来的消息，他也能猜到他们就是游小哈和凌默，不过仙子阿应该称呼他们为游小默和凌霄，因为外面现在正传的沸沸扬扬，偏偏两位当事人恰巧都不在，再看他们二人，形象很符合。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180908T211231Z" creationid="elaine" creationdate="20180908T211231Z">
+        <seg>Xuan Ming laughed a bit and didn't deny it. Actually, even without the news that Mo Jing had sent over by chance three days before, he would still have guessed that they were You XiaoHa and Ling Mo, but they should be called You XiaoMo and Ling Xiao instead. Because there were rumors currently flying wildly around outside right now, and the only two parties involved were coincidentally absent, their images fit too well if someone looked at the two of them.</seg>
       </tuv>
     </tu>
     <tu>
