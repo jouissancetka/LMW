@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不是才过十天，难道又有什么好消息？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101603Z" creationid="Ceti" creationdate="20180909T101603Z">
+        <seg>"No, only ten days. Is there any good news?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不是让你大摇大摆的捕捉龟族人，只要找到与莫景相似的人再暗地里处置即可。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180901T234220Z" creationid="elaine" creationdate="20180901T234220Z">
@@ -3200,8 +3208,8 @@
       <tuv lang="ZH-CN">
         <seg>“我说你们，这条消息都已经过时了，你们怎么还在讨论！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101544Z" creationid="Ceti" creationdate="20180909T101544Z">
-        <seg>"I say you, this news is outdated, how are you still discussing?"</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101553Z" creationid="Ceti" creationdate="20180909T101544Z">
+        <seg>"I say you guys, this news is outdated, how are you still discussing?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,6 +4776,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那当然，这可是独家消息。”说话之人一脸得意，好像自己知道了什么重要的消息一样，脸上正写着‘快来问我’四个大字。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101611Z" creationid="Ceti" creationdate="20180909T101611Z">
+        <seg>"Of course, this is exclusive news." The speaker's face was as triumphant as if he had known something important, and he was writing the words'Come and ask me'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那怎么办？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180830T142918Z" creationid="Ceti" creationdate="20180830T135611Z">
@@ -5044,6 +5060,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T113443Z" creationid="Lilly" creationdate="20180621T113443Z">
         <seg>"We definitely have black jade, but since it's very rare, it'll be expensive."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“黑蜘蛛，你是说千年前新兴的一个势力，据说有圣境强者坐镇，他们专门买卖各种以不正当手段获得的宝物，许多见不得人的东西他们都敢收，不过听说价值不市价低一半。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101637Z" creationid="Ceti" creationdate="20180909T101637Z">
+        <seg>"Black spider, you mean a new force that emerged a thousand years ago. It is said that there are powerful people in the Holy land. They specialize in buying and selling all kinds of treasures obtained by improper means. They dare to accept many unseemly things, but they hear that the value is not half of the market value."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7540,6 +7564,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T175850Z" creationid="yun" creationdate="20180907T175850Z">
         <seg>How unlucky was he!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他周围的人也没有让他失望，立刻就有人追问了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101619Z" creationid="Ceti" creationdate="20180909T101619Z">
+        <seg>The people around him did not disappoint him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11110,6 +11142,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T091646Z" creationid="Ceti" creationdate="20180701T090843Z">
         <seg>Weng Gong’s heart skipped a beat upon hearing this. Could it be that he was really here to carry out a vendetta? Otherwise, why would be he smiling so strangely, as if he was about to capture a criminal who ran away from home?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>听到这，游小默顿时对这个黑蜘蛛的性质了然了，说白了就是跟黑市差不多，任何时代都少不了的东西。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101651Z" creationid="Ceti" creationdate="20180909T101651Z">
+        <seg>Hearing this, Merton swam to the nature of the black spider, that is, almost the black market, any era is indispensable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26809,6 +26849,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180726T025033Z" creationid="Lilly" creationdate="20180726T025033Z">
         <seg>The other seemed like he had just heard something funny. "City Master's estate, huh? Where, when did you go, how come I don't know? And what's this about escaping?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那人顿时神神秘秘的说道：“知道黑蜘蛛吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T101627Z" creationid="Ceti" creationdate="20180909T101627Z">
+        <seg>The man suddenly mysteriously said, "do you know the black spider?"</seg>
       </tuv>
     </tu>
     <tu>
