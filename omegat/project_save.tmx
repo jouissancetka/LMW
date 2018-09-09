@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“哎……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180909T010500Z" creationid="Lilly" creationdate="20180909T010500Z">
+        <seg>"Ay..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哎呀，我只是想证实一件事而已，你应该发现了吧，天刀和头儿异常的反应。”天明以扇半遮着脸上算计的笑意。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T050749Z" creationid="elaine" creationdate="20180824T050749Z">
@@ -15612,6 +15620,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游君其&lt;t0/&gt;一口气刚叹了&lt;t1/&gt;一半，眼神突然凌厉起来，动作毫不迟疑的往后退了几步，‘砰’的一声，一件重物落在他刚坐的地方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180909T010547Z" creationid="Lilly" creationdate="20180909T010547Z">
+        <seg>You JunQi's sigh was only half out when his gaze suddenly sharpened and he backed away several steps not a moment too late. With a plop, a heavy object landed right where he had just been sitting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游君其其实早看出来他就是他的儿子，嘴上却不说，还想借机死赖在他身边，门儿都没有。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180813T125311Z" creationid="Ceti" creationdate="20180813T125252Z">
@@ -15624,6 +15640,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T011215Z" creationid="elaine" creationdate="20180821T011215Z">
         <seg>You JunQi blinked. "Can I go with you two?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游君其知道以前是他不对，就算他有苦衷，他也不应该抛下妻子和儿子，他是个混账，儿子不肯原谅他是情有可原。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180909T010454Z" creationid="Lilly" creationdate="20180909T010454Z">
+        <seg>You JunQi knew that he had done wrong in the past. Even if he had his problems, he shouldn't have abandoned his wife and son like that. He was a bastard, and it was quite reasonable that his son was unwilling to forgive him.</seg>
       </tuv>
     </tu>
     <tu>
