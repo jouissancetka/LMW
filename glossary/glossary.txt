@@ -293,3 +293,4 @@ xx 家	xx Family/Clan
 海初	Hai Chu
 玄宗	Xuan Zong
 修为	cultivation base
+低级灵草	low level magic herb
