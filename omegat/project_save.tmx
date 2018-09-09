@@ -8072,6 +8072,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>传送阵的费用不是很高，一人只需要两千枚灵晶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T095437Z" creationid="Ceti" creationdate="20180909T095437Z">
+        <seg>The fees for the transport circle was not high, and it cost two thousand spirit gems per person.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>传闻自然城并不好客，特别是最厌恶的人类。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T142216Z" creationid="Ceti" creationdate="20180826T100544Z">
