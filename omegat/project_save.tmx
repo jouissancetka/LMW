@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你的错觉。”游小默说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T100227Z" creationid="Ceti" creationdate="20180909T100227Z">
+        <seg>"You're delusional (你的错觉)." You XiaoMo said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你看着。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180813T130410Z" creationid="Ceti" creationdate="20180813T130410Z">
@@ -2234,6 +2242,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T163342Z" creationid="Kollumceti" creationdate="20180823T120813Z">
         <seg>"Tian Ming, let's take them on together."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“太久没来过这么热闹的地方，我都快忘了怎么跟他人交流。”游君其看着眼前拥挤的人群，突然发出一句感慨。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180909T100059Z" creationid="Ceti" creationdate="20180909T100059Z">
+        <seg>"It's been so long since I've been so such a bustling place that I've nearly forgotten how to have interact with others." You JunQi suddenly sighed in sorrow as he looked at the throng of people before his eyes.</seg>
       </tuv>
     </tu>
     <tu>
