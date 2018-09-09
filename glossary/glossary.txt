@@ -292,3 +292,4 @@ xx 家	xx Family/Clan
  鲸岛	Whale Island
 海初	Hai Chu
 玄宗	Xuan Zong
+修为	cultivation base
