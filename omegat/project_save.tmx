@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“如果明天再找不到人，傍晚我会下令解除封城的禁令。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T154800Z" creationid="Lilly" creationdate="20180912T154800Z">
+        <seg>"If you can't find them by tomorrow, I'll give the order to open up the city in the evening."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“如果真的遇到海贼，到时我们不会坐视不管的。”游小默承诺道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180901T053342Z" creationid="Ceti" creationdate="20180901T030653Z">
@@ -28586,6 +28594,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180901T235351Z" creationid="elaine" creationdate="20180901T235351Z">
         <seg>Hei Xiong didn't understand why he was so curious about this matter, but he still repeated exactly what had happened without leaving anything out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑熊也不高兴，这件事&lt;t0/&gt;明明与&lt;t1/&gt;他无关，可是他却要承担所有后果，对刑七和高殷的不满也越来越重。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T154728Z" creationid="Lilly" creationdate="20180912T154728Z">
+        <seg>Hei Xiong wasn't happy either. This thing clearly had nothing to do with him, yet he had to face consequences. He was also getting more and more dissatisfied with Xing Qi and Gao Yan.</seg>
       </tuv>
     </tu>
     <tu>
