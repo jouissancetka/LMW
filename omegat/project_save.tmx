@@ -4022,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“硬闯的话反倒有几分，城门的守卫实力不高，等刑七他们赶过来，我们已经闯出自然城。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T230449Z" creationid="Lilly" creationdate="20180912T230449Z">
+        <seg>"There are actually a few good point about brute forcing our way through. The guards in the city aren't all that strong and we'll be out of ZiRan City by the time Xing Qi and the others arrive." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“神境强者？”天恨哂笑，不以为意道，“在西境这种地方，就是神境强者都有可能陨落。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T040901Z" creationid="elaine" creationdate="20180824T040901Z">
@@ -18760,6 +18768,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T042304Z" creationid="Lilly" creationdate="20180613T042238Z">
         <seg>You XiaoMo rubbed his nose. "Didn't you see what I did?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默摸着下巴直点头，说的太有道理了！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T230509Z" creationid="Lilly" creationdate="20180912T230509Z">
+        <seg>You XiaoMo rubbed his chin, nodding. What a smart idea!</seg>
       </tuv>
     </tu>
     <tu>
