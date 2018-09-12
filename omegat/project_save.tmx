@@ -4054,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“站住，再靠近休怪我不客气！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235623Z" creationid="Lilly" creationdate="20180912T235623Z">
+        <seg>"Stop right there! Come closer and don't blame me for what I do!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“竟然有两只金翅虫。”天明惊呼一声，他还以为最多只有一只，因为有一只就已经很了不起了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T194711Z" creationid="Lilly" creationdate="20180824T194711Z">
@@ -5244,6 +5252,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180721T111411Z" creationid="Ceti" creationdate="20180721T111411Z">
         <seg>......</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一下子从外面冲到安全地带里，身上同时爆发出一股比守卫队长还要强悍的气势，那守卫队长脸刷的一下白了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235854Z" creationid="Lilly" creationdate="20180912T235854Z">
+        <seg>He suddenly dashed right in front of the guard as an aura more intense than the guards' erupted from him. The guard's face went pale at once.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13178,6 +13194,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>守卫队长见状便不再说废话，手中的长枪挥舞起来，大喝一声就要朝他发出一道攻击。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235756Z" creationid="Lilly" creationdate="20180912T235756Z">
+        <seg>Seeing this, the guard didn't bother wasting his breath and swung his spear, prepared to send an attack with a shout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>守卫队长走到前头，手中的长枪举起，面无表情的指住少年，口中发出严厉的警告声。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235705Z" creationid="Lilly" creationdate="20180912T235705Z">
+        <seg>The head of the guards walked forwards, his spear raised and pointed at the young man emotionlessly as he gave his warning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>安桥和游小默有仇，这是很多人都知道的事实，大概是害怕游小默会找上门，在他们回逍遥院的前一天，他就跑回&lt;t0/&gt;丹师工会&lt;t1/&gt;了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T095503Z" creationid="Lilly" creationdate="20180616T095503Z">
@@ -13542,6 +13574,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180912T161334Z" creationid="Lilly" creationdate="20180912T161334Z">
         <seg>Xing Qi, one arm gone, immediately narrowed his eyes. He was unsurprised at Hei Xiong growing temper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少年仿佛没听到一样，步伐没有丝毫停顿。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235719Z" creationid="Lilly" creationdate="20180912T235719Z">
+        <seg>The young man seemed to not have herad, his footsteps not stopping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15688,6 +15728,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T140802Z" creationid="Lilly" creationdate="20180707T140802Z">
         <seg>That was when Xiong Xiao, who had gone to investigate, walked over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>正在这时，少年动了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235805Z" creationid="Lilly" creationdate="20180912T235805Z">
+        <seg>That was when the young man moved.</seg>
       </tuv>
     </tu>
     <tu>
