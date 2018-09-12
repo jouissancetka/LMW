@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你们有空在这里与我争辩，还不如想想怎么在明天傍晚之前把人找出来。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T220032Z" creationid="Lilly" creationdate="20180912T220032Z">
+        <seg>"If you have the time to argue with me, why don't you try and figure out how to find your man before tomorrow evening instead?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你们的运气不错，今天傍晚有两艘大商船要出海前往鲸岛，你们可以随他们一起出海，到鲸岛后再去问其他人买船或借船，鲸岛的船只比河镇的渔船要结实得多。”老人终于松口。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180830T143938Z" creationid="Ceti" creationdate="20180830T135621Z">
@@ -28706,6 +28714,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180901T014242Z" creationid="yun" creationdate="20180901T014242Z">
         <seg>With a cold huff, Hei Xiong was about to leave when behind him came a familar voice. It was the voice of the person that 'that' person sent every month for their matter/arrangement. (接洽)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑熊却不怕他们二人，大家共事一主，难道还要怕他们杀了自己不成，而且这件事本来就与他无关。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T220004Z" creationid="Lilly" creationdate="20180912T220004Z">
+        <seg>Hei Xiong wasn't afraid of the two of them. They all worked for the same agenda; it wasn't like they would kill him. Plus, this had nothing to do with him anyways.</seg>
       </tuv>
     </tu>
     <tu>
