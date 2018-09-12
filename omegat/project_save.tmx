@@ -3614,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“有这个可能。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T222340Z" creationid="Lilly" creationdate="20180912T222340Z">
+        <seg>"It's possible."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“本来我还打算用那只小乌龟换取玄龟族一滴精血，你倒好，自己送上门来了，这样正好省去一些麻烦的步骤。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180908T232609Z" creationid="Lilly" creationdate="20180908T232609Z">
@@ -10462,6 +10470,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T135712Z" creationid="Lilly" creationdate="20180711T135712Z">
         <seg>After they parted, the two began their journey back to ZhongTian, and then You XiaoMo remembered something heartbreaking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>刑七神情&lt;t0/&gt;一凛&lt;t1/&gt;，“难道莫景把消息传出去了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T222336Z" creationid="Lilly" creationdate="20180912T222336Z">
+        <seg>Xing Qi's expression chilled. "Could it be that Mo Jing leaked the news?"</seg>
       </tuv>
     </tu>
     <tu>
