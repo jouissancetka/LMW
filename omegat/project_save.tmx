@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27882,6 +27882,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090314Z" creationid="Lilly" creationdate="20180609T090314Z">
         <seg>As the Teng and Chai families closed in, Ling Xiao was finally locked into a corner on the edge. They formed a triangle, seeming like an impenetrable wall, because the Teng family had Teng Jiao, a rank six powerhouse, who placed above Ling Xiao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>隔天，城门许进不许出的禁令准备在傍晚前解除的消息立刻在自然城内不胫而走，连续七日的阴霾总算稍微缓解，大家不再不停的抱怨，那些急于出城的人也一早就收拾好东西准备在第一时间离开。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T225011Z" creationid="Lilly" creationdate="20180912T225011Z">
+        <seg>The next day, the news of the city being opened once more spread like wildfire. The dark atmosphere that had clouded over the city finally began to disperse and people stopped endlessly complaining. Those who had urgent business outside of the city quickly packed, prepared to leave the city as soon as possible.</seg>
       </tuv>
     </tu>
     <tu>
