@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10344,6 +10344,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄起身，缓缓走到门前，站定，那张英俊的人神共愤的脸庞缓缓露出一抹堪称恶意的笑意，然后又以平缓的语气说道：“那就择日不如撞日吧！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232035Z" creationid="Lilly" creationdate="20180912T232035Z">
+        <seg>Ling Xiao rose, slowly walking towards the door and stopping in front of it. His handsome face twisted to reveal a malicious smile before he said in a mild tone, "Well, there's no time like the present to brute force our way through!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄趴在床边，轻叹一声，某人关注的重点永远都不对。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180807T131024Z" creationid="Ceti" creationdate="20180806T114926Z">
@@ -11886,6 +11894,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T144210Z" creationid="Ceti" creationdate="20180826T123430Z">
         <seg>They were walking about with their original appearance as only a few people knew them in Xi Jing. As a matter of fact, You XiaoMo did not like to keep changing his face and felt that it was the most comfortable to use his own face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>在这个人人&lt;t0/&gt;都急着&lt;t1/&gt;出城的紧张时刻。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232055Z" creationid="Lilly" creationdate="20180912T232055Z">
+        <seg>In this time, where everyone was anxious to get through the city gates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>在这个人满为患的时刻。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232114Z" creationid="Lilly" creationdate="20180912T232114Z">
+        <seg>A time where people were crowded here in anticipation.</seg>
       </tuv>
     </tu>
     <tu>
