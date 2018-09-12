@@ -294,3 +294,5 @@ xx 家	xx Family/Clan
 玄宗	Xuan Zong
 修为	cultivation base
 低级灵草	low level magic herb
+刑七	Xun Qi
+刑七	Xing Qi
