@@ -10706,6 +10706,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>南面虽说是入城口，但每天都有很多人想从南面出去，北面自然也有不少，而且进出人流甚至比南面还要多。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232642Z" creationid="Lilly" creationdate="20180912T232642Z">
+        <seg>Though the South gate was the city entrance, there were plenty of people who wanted to leave through the south gate, too, and, naturally, the north gate wouldn't have any less traffic, only more.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>卫白一脸错愕，他并不知道这件事。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T134726Z" creationid="Ceti" creationdate="20180630T051329Z">
@@ -18236,6 +18244,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默总算见识到了，他一直以为菜市场是世界上最强大的杀伤器，没想到一山还有一山高，总有你想不到的，没有人做不到的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232539Z" creationid="Lilly" creationdate="20180912T232539Z">
+        <seg>You XiaoMo finally realized that, though he had thought that marketplaces were the most dangerous weapon, there were worse things out there. You might not be able to imagine it, but that didn't mean it wasn't impossible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默总觉得这个老人有些咄咄逼人，这个问题不好回答，因为跟他刚刚说的问题有直接关系，所以他决定暂时避开这个问题，假装没听到老人的话。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T072108Z" creationid="Lilly" creationdate="20180715T072108Z">
@@ -24907,6 +24923,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180831T023754Z" creationid="yun" creationdate="20180831T023754Z">
         <seg>On the busiest street of ZiRan City, just as everyone was passing and going, all of a sudden, a boom was heard. (一阵突如其来的轰隆声骤然响起)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>自然城的大城门有两个，分别是北面和南面。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232554Z" creationid="Lilly" creationdate="20180912T232554Z">
+        <seg>ZiRan City had two gates, one in the south and one in the north.</seg>
       </tuv>
     </tu>
     <tu>
