@@ -1504,8 +1504,8 @@
       <tuv lang="ZH-CN">
         <seg>“儿纸，接下来我们要去哪？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180913T024516Z" creationid="elaine" creationdate="20180913T024504Z">
-        <seg>"Son, where should we go next?"</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T025417Z" creationid="elaine" creationdate="20180913T024504Z">
+        <seg>"Sonny (儿纸? lol), where should we go next?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7604,6 +7604,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T081648Z" creationid="Ceti" creationdate="20180728T081648Z">
         <seg>What did he mean by 'which mistake you want to atone for', don't tell him that he had made many mistakes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>什么有的没的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T025514Z" creationid="elaine" creationdate="20180913T025514Z">
+        <seg>What 'you have, I don't have.'</seg>
       </tuv>
     </tu>
     <tu>
@@ -17062,8 +17070,8 @@
       <tuv lang="ZH-CN">
         <seg>游君其走过来，上下打量了他一眼，小心翼翼的问道：“儿纸，你老实告诉爹爹，其实爹爹有的你没有对不对？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180913T025143Z" creationid="elaine" creationdate="20180913T025143Z">
-        <seg>You JunQi walked over and looked him up and down. He asked carefully, "</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T025500Z" creationid="elaine" creationdate="20180913T025143Z">
+        <seg>You JunQi walked over and looked him up and down. He asked carefully, "Sonny, tell your dad the truth. What dad has, you actually don't have, isn't that right?"</seg>
       </tuv>
     </tu>
     <tu>
