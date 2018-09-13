@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5844,6 +5844,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T095854Z" creationid="kollumceti" creationdate="20180822T095854Z">
         <seg>Three seconds was more than enough for Ling Xiao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>上字还没说出口，少年的身影就出现在他面前，抬起腿一脚就把他&lt;t0/&gt;给踹飞&lt;t1/&gt;了，那些守卫甚至还没反应过来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000124Z" creationid="Lilly" creationdate="20180913T000124Z">
+        <seg>He didn't even finish his sentence when the young man's figure flashed in front of him and kicked him to the sided. The other guards didn't even have the time to react.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13174,6 +13182,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T093453Z" creationid="Ceti" creationdate="20180721T102133Z">
         <seg>Though the guards did not chase them, they had already notified the City Master (成株) and informed him of the direction that You XiaoMo had escaped in. It would be difficult to escape unscathed from the City Master's mansion without any fuss if If You XiaoMo made himself an easy target (瓮中捉鳖).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>守卫队长不敢一个人对上少年，连忙吼道：“大家一起……啊……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000046Z" creationid="Lilly" creationdate="20180913T000046Z">
+        <seg>The guard didn't dare face the young man alone, hurriedly calling out, "Everyone, together... ah..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -23895,6 +23911,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>等他们反应过来，远处突然传来一道令人心悸的杀机。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000222Z" creationid="Lilly" creationdate="20180913T000222Z">
+        <seg>By the time they did, a sliver of terrifying killing intent shot over from afar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>等他们穿过那层明显与其他地方的颜色还要深的黑雾，一阵阴风突然从脸颊刮过，游小默冷不丁打了个寒颤。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T021823Z" creationid="elaine" creationdate="20180828T021823Z">
@@ -25547,6 +25571,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T082413Z" creationid="Lilly" creationdate="20180609T082413Z">
         <seg>Though he had obtained the TianXin sect’s level 6 recipes, the overall effects were – when compared to the recipe the old geezer gave him – much weaker, so he focused on refining pills through the old geezer’s recipe and then selling those at the market.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>虽然他是队长，但是实力也&lt;t0/&gt;不过是帝境五星&lt;t1/&gt;，离神境还差得远。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235930Z" creationid="Lilly" creationdate="20180912T235930Z">
+        <seg>Though he was the captain, he was only Emperor level five star, strill far from Divine level.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28226,6 +28258,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T145908Z" creationid="Ceti" creationdate="20180804T025634Z">
         <seg>Lei Long and the Geezer Shen knew that they could not drag this on any longer. After the two discussed, it was decided that the Geezer Shen would be the one taking the pill recipe for the Cosmos Pill.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>震惊的不止是他，那些准备围观少年被守卫们架走的人也一脸震惊表情，这个看起来瘦&lt;t0/&gt;瘦弱&lt;t1/&gt;弱的少年，竟然有这般实力，逆天了吧？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000022Z" creationid="Lilly" creationdate="20180913T000022Z">
+        <seg>It wasn't just him who was shocked. Those who were prepared to watch the young man get taken away by the guards were also shocked. This weak-looking young man was actually this strong? That was too unfair...</seg>
       </tuv>
     </tu>
     <tu>
