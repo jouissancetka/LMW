@@ -3918,6 +3918,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“玄龟族的精血饱含着本体部分修为，你可以试着吸收它的精华，对你的修为会有帮助，不过不要用它淬炼你的体质，会被玄龟族发现的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T031339Z" creationid="elaine" creationdate="20180913T031339Z">
+        <seg>"The Black Turtle Clan's Life Blood is full of the cultivation base from their original bodies. You can try absorbing its essence; it'll be useful for your cultivation base. However, do not use it to refine your constitution, since it will be discovered by the Black Turtle Clan." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“王老板，你是不是知道些什么？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T035122Z" creationid="yun" creationdate="20180819T035122Z">
@@ -9636,6 +9644,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T022623Z" creationid="elaine" creationdate="20180828T022623Z">
         <seg>Ling Xiao dragged his wife over, and he looked at the name carved on the gravestone. It only had the date that the owner of the grave died on, no surname or given name, and it seemed to be a nameless grave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄拿出装着玄龟精血的瓶子，里面只有三滴，玄威的尸体还没炼化，不过他只要一滴就足够了，他取出一滴，剩下的两滴递给游小默。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T031143Z" creationid="elaine" creationdate="20180913T031143Z">
+        <seg>Ling Xiao took out the bottle with the Black Turtle Life Blood (玄龟精血). There were only three droplets inside, since Xuan Wei's (玄威) hadn't yet been refined. But he only needed one drop, so he withdrew one drop before handing the rest to You XiaoMo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20866,6 +20882,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T032644Z" creationid="Lilly" creationdate="20180715T032644Z">
         <seg>Seeing that they had mostly gathered, You XiaoMo walked out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默见他拿出精血就知道他要做什么了，接过瓶子郑重的点头。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T031419Z" creationid="elaine" creationdate="20180913T031419Z">
+        <seg>You XiaoMo knew what he was going to do when he saw him take out the Life Blood, and he nodded seriously after receiving the bottle.</seg>
       </tuv>
     </tu>
     <tu>
