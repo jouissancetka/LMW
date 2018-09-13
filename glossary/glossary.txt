@@ -298,3 +298,4 @@ xx 家	xx Family/Clan
 刑七	Xing Qi
 一刻钟	fifteen minutes
 死亡之森	Forest of Death
+内丹	Life Crystal
