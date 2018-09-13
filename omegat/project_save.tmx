@@ -10488,6 +10488,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄立刻移开手，让他扑了个空：“但是你前不久才升级，现在又用不了这枚内丹，给了你也没用。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180913T121330Z" creationid="yun" creationdate="20180913T121330Z">
+        <seg>Instantly, Ling Xiao pulled his hand away + (扑了个空), "You just leveled up recently, so you can't even use this Life Crystal right now. There is no point in giving it to you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄立刻走过来，“怎么了？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180908T202821Z" creationid="elaine" creationdate="20180908T202821Z">
@@ -18016,6 +18024,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T132749Z" creationid="Lilly" creationdate="20180609T132749Z">
         <seg>You XiaoMo stretched. In reality, he hadn’t originally planned on isolating himself for over a month at once. It was good that this wasn’t the first time, though.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默伸手就去抢，“当然想要。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180913T121135Z" creationid="yun" creationdate="20180913T121135Z">
+        <seg>You XiaoMo reached out to steal it, "Of course I want it."</seg>
       </tuv>
     </tu>
     <tu>
