@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你在看什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T025126Z" creationid="elaine" creationdate="20180913T025126Z">
+        <seg>"What are you looking at?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你就放一百二十颗心好了。”天恨摩拳擦掌，翻手现出他的武器短刀，他正愁找不到人发泄这几日的火气，这个“外来者”真好可以让他练练手。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T050510Z" creationid="elaine" creationdate="20180824T050510Z">
@@ -17052,6 +17060,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游君其走过来，上下打量了他一眼，小心翼翼的问道：“儿纸，你老实告诉爹爹，其实爹爹有的你没有对不对？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T025143Z" creationid="elaine" creationdate="20180913T025143Z">
+        <seg>You JunQi walked over and looked him up and down. He asked carefully, "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游君其轻声笑道：“你们救了我，现在是我的大恩人，我无以为报，所以只有……”游小默震惊，“你该不会想说要以身相许吧？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T011421Z" creationid="elaine" creationdate="20180821T011421Z">
@@ -17856,6 +17872,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180726T024839Z" creationid="Lilly" creationdate="20180726T024839Z">
         <seg>You XiaoMo did his best to ignore the chill that spread through him, smiling weakly. "Darling, don't just laugh. I'm almost out of the City Master's estate. Hurry and welcome me or else the today of next year will be my memorial."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默努力想忽视便宜爹的目光，结果反被他看得起一身鸡皮疙瘩，忍无可忍，无须再忍。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T025121Z" creationid="elaine" creationdate="20180913T025121Z">
+        <seg>You XiaoMo very much wanted to ignore his clingy dad's gaze, but instead, goosebumps erupted all over him because of it. He couldn't bear it any longer, nor was there any need to.</seg>
       </tuv>
     </tu>
     <tu>
