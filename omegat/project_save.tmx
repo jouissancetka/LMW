@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我们来这里做什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T030828Z" creationid="elaine" creationdate="20180913T030828Z">
+        <seg>"Why did we come here?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我们来逐个击破吧。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T133924Z" creationid="kollumceti" creationdate="20180822T075800Z">
@@ -17408,6 +17416,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T133807Z" creationid="Ceti" creationdate="20180724T123449Z">
         <seg>He was using that pessimistic outlook (消极理论) again to fool him (忽悠). Black lines covered You XiaoMo's face. Although he had to admit that it was quite efficacious, it was also a shitty scam (特别坑爹), "Let's not talk about this anymore. How should the dragon blood be handled?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默三人站在焦谷边上，只看到一个满目疮痍的大山谷，中间不知被什么东西又砸出一个深坑，仿佛山谷中的小山谷，旁边是东歪西倒的树木，半焦半枯，已经没有生机了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T030823Z" creationid="elaine" creationdate="20180913T030604Z">
+        <seg>You XiaoMo and the rest stood at the edge of the scorched valley, and all they could see was an extremely devastated ravine. Something had smashed into the middle, creating another deep hole, as if it was a small ravine in the big ravine. Next to were unsteady trees, half-burnt and half-withered, without a single trace of life left.</seg>
       </tuv>
     </tu>
     <tu>
