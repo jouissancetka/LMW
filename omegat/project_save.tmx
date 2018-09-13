@@ -10290,8 +10290,8 @@
       <tuv lang="ZH-CN">
         <seg>凌霄给他们的任务是，若是找到花姑和她的小弟就把他们交给天刀，花姑心思缜密是个好苗子，她的小弟则是好帮手，训练他们的最直接的办法就是让她跟着天刀学习，将来若有用得着他们的地方就可以直接用了，所以这个任务也叫做便宜训练法，又名能者多劳。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180913T023831Z" creationid="elaine" creationdate="20180913T023831Z">
-        <seg>The task that Ling Xiao gave them was that if they found Hua Gu and her little brothers, they should hand them over to Tian Dao. Hua Gu was a good child (苗子), careful and considerate, and her little brothers</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T024134Z" creationid="elaine" creationdate="20180913T023831Z">
+        <seg>The task that Ling Xiao gave them was that if they found Hua Gu and her little brothers, they should hand them over to Tian Dao. Hua Gu was a good child (苗子), careful and considerate, and her little brothers were good assistants. The most direct method of training them would be to let them follow Tian Dao and learn from him, so if there was ever a time he needed them in the future, he could just use them right away. So this task was also called the 'Advantageous Training Method' (便宜训练法), or in other words, the more fit one is, the more they should do.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18320,6 +18320,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T100036Z" creationid="kollumceti" creationdate="20180822T100036Z">
         <seg>You XiaoMo held a little resentment for these things, as Ling Xiao was always running ahead of him every time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默对这个任务做了评价，它最厉害的地方就是可以气到被占了便宜的天刀。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180913T024232Z" creationid="elaine" creationdate="20180913T024232Z">
+        <seg>You XiaoMo assessed this task. Its most impressive point was how it could anger to death Tian Dao, who would be taken advantage of.</seg>
       </tuv>
     </tu>
     <tu>
