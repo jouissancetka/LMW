@@ -299,3 +299,4 @@ xx 家	xx Family/Clan
 一刻钟	fifteen minutes
 死亡之森	Forest of Death
 内丹	Life Crystal
+契约兽	contracted demon beast
