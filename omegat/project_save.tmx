@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7216,6 +7216,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>争先恐后，犹如蚂蚁大军。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000900Z" creationid="Lilly" creationdate="20180913T000900Z">
+        <seg>They all fought to get there first like swarming ants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>事件虽然不了了之，但是已经传开了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180902T002234Z" creationid="elaine" creationdate="20180902T002234Z">
@@ -13394,6 +13402,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>将守卫队长踢飞的少年早已不知所&lt;t0/&gt;踪&lt;t1/&gt;。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000620Z" creationid="Lilly" creationdate="20180913T000620Z">
+        <seg>The young man that had kicked the guard had long since disappeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>将整个过程看在眼里的游小默连忙拽住凌霄，悄悄的传音道：“这样可以吗，如果被银戈的父亲知道了，他一定知道我们在撒谎。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T143948Z" creationid="Lilly" creationdate="20180707T143948Z">
@@ -13980,6 +13996,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>巨大的爆炸声地动山摇，仅一支&lt;t0/&gt;箭羽就将&lt;t1/&gt;城门炸碎了，距离近的都被波及到，有些人被碎石砸到，差点没跳脚。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000604Z" creationid="Lilly" creationdate="20180913T000604Z">
+        <seg>With a huge explosion, the arrow destroyed the gates entirely and those were close were caught up in the blast. Some people were hit by the debris, jumping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>巨无霸每一层都有一种牌子，代表着不同的楼层，只有用这块牌子才能上去九十层，不然守着九十层的导师是不会管你是不是脸熟，他会直接把你拒在外面。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180810T131231Z" creationid="Ceti" creationdate="20180808T125740Z">
@@ -14244,6 +14268,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>当某一根&lt;t0/&gt;弦&lt;t1/&gt;崩断的时候，一道接一道的吼叫声震天动地的响起，下一秒，一群发疯般的人兴奋激动的朝城门冲了出去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000841Z" creationid="Lilly" creationdate="20180913T000841Z">
+        <seg>Then, like a tightly wound string breaking, a thunderous roar rose from the crowd and they charged like crazy out of the city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>当游小默终于将所以灵草都提炼完毕后，时间已经过去一天。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180824T012252Z" creationid="yun" creationdate="20180824T012252Z">
@@ -14296,6 +14328,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T135117Z" creationid="Lilly" creationdate="20180609T135117Z">
         <seg>Of course, no one would tell him this, but they couldn't promise that he wouldn't guess it himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>当硝烟散去时，紧闭的城门变成一个巨大的窟窿，窟窿约十一二米大，连城墙都被炸塌了一部分，守卫死伤最严重，&lt;t0/&gt;哀嚎着&lt;t1/&gt;躺在一堆碎石之中。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000743Z" creationid="Lilly" creationdate="20180913T000743Z">
+        <seg>By the time the smoke cleared, the closed gates had become a huge hole about eleven or twelve meters wide. Even the city walls had been hit. The guards had the most injured and dead, lying amongst the rubble and moaning in pain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16160,6 +16200,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T133945Z" creationid="Ceti" creationdate="20180902T113912Z">
         <seg>Xuan Sheng's vigor went up in smoke there and then. (气势一下子落空了)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>气氛沉静了十几秒。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180913T000759Z" creationid="Lilly" creationdate="20180913T000759Z">
+        <seg>The entire area seemed to go silent for a while.</seg>
       </tuv>
     </tu>
     <tu>
