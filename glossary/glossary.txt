@@ -5,7 +5,6 @@
 灵草	magic herb
 乔无星	Qiao WuXing
 天心	Tian Xin
-逍遥院	XiaoYao Academy
 颜辉	Yan Hui
 程向荣	Cheng XiangRong
 驭兽	Beast Transfiguration
@@ -301,3 +300,4 @@ xx 家	xx Family/Clan
 内丹	Life Crystal
 契约兽	contracted demon beast
 交易所	Exchange Quarter
+乌梅镇	Ebony Plum Town
