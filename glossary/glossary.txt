@@ -301,3 +301,4 @@ xx 家	xx Family/Clan
 契约兽	contracted demon beast
 交易所	Exchange Quarter
 乌梅镇	Ebony Plum Town
+三区	Block 3
