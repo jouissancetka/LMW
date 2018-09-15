@@ -3166,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我们去二区，二区的价位在三到五积分之间，交易一次就足够你应付接下来的一个月了。”九夜平静的说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T064522Z" creationid="Ceti" creationdate="20180915T064522Z">
+        <seg>"Let's go to Block 2. Block 2's price is between three to five points. Making one transaction would be enough for to you to cope with (应付) the next month." Jiu Ye calmly said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我们来这里做什么？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180913T030828Z" creationid="elaine" creationdate="20180913T030828Z">
@@ -7500,6 +7508,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180915T060847Z" creationid="Ceti" creationdate="20180915T060847Z">
         <seg>Jiu Ye knew about these, but he did not tell You XiaoMo about them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>九夜答道：“不，价位在六积分之上，最高不限。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T064715Z" creationid="Ceti" creationdate="20180915T064715Z">
+        <seg>Jiu Ye answered, "No, the price is above six points, but there's no limit on the maximum."</seg>
       </tuv>
     </tu>
     <tu>
@@ -20256,6 +20272,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T134436Z" creationid="Lilly" creationdate="20180609T134336Z">
         <seg>You XiaoMo shook his head. "No, you came just in time. I don't plan on continuing my isolation. What a coincidence that you're here just when I come out."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默摇摇头，“那三区的价位是不是在六到九积分之间？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T064606Z" creationid="Ceti" creationdate="20180915T064606Z">
+        <seg>You XiaoMo shook his head, "Then wouldn't Block 3's price be between six to nine points?"</seg>
       </tuv>
     </tu>
     <tu>
