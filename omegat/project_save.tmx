@@ -9274,8 +9274,8 @@
       <tuv lang="ZH-CN">
         <seg>其实主要是他的运气不太好，挑中的正好是跟杨导师有交情的人，杨导师咋一区还算吃得开，但不是所有的导师都跟他一副德行的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T063501Z" creationid="Ceti" creationdate="20180915T063501Z">
-        <seg>In actual fact, the main point was that his luck was bad, as he chose the people that had friendly relations with Teacher Yang. Teacher Yang </seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T064154Z" creationid="Ceti" creationdate="20180915T063501Z">
+        <seg>In actual fact, the main point was that his luck was bad, as he chose the people that had friendly relations with Teacher Yang. Teacher Yang could be considered popular in Block 1, but not all teachers followed his conduct.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12230,6 +12230,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T061838Z" creationid="yun" creationdate="20180819T061838Z">
         <seg>Bidding their farewells, the two left the White Bone Town and headed to the Ghost Tomb Mountain Ranges.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>周围的人看出来了，一些人忍不住同情的看了他一眼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T064233Z" creationid="Ceti" creationdate="20180915T064233Z">
+        <seg>When the people around saw this, some could not help looking at him sympathetically.</seg>
       </tuv>
     </tu>
     <tu>
