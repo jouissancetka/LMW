@@ -300,3 +300,4 @@ xx 家	xx Family/Clan
 死亡之森	Forest of Death
 内丹	Life Crystal
 契约兽	contracted demon beast
+交易所	Exchange Quarter
