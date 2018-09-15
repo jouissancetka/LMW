@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“宫长老，你这话是什么意思，难道那个少年有背景？”杨导师心有不满，面上去不敢表现出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T084722Z" creationid="Ceti" creationdate="20180915T084611Z">
+        <seg>"Elder Gong, what do you mean by this? Don't tell me that young man has powerful connections?" Teacher Yang was resentful, but he did not dare to show it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“对了，你打听得怎么样，古叔知道你身上的龙族血脉的事情吗？”游小默见凌霄走过来，顺口问道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180828T044222Z" creationid="yun" creationdate="20180828T044222Z">
@@ -3824,8 +3832,8 @@
       <tuv lang="ZH-CN">
         <seg>“杨导师，有时候做人不要太自视甚高，这里的院生虽然大部分都没有背景，但是有一些却是你惹不起的。”宫长老轻视的看了他一眼，他的身份比他高，自然不需要给他面子。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T084519Z" creationid="Ceti" creationdate="20180915T084514Z">
-        <seg>"Mr. Yang, sometimes you shouldn't behave too arrogantly and self-important. Though most of the college students here have no background, you can't afford to offend some of them." Elder Gong looked at him in contempt, his status was higher than Teacher Yang, and naturally he did not need to give him face.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180915T084635Z" creationid="Ceti" creationdate="20180915T084514Z">
+        <seg>"Mr. Yang, sometimes you shouldn't behave too arrogantly and self-important. Though most of the students here have no background/powerful connections, you can't afford to offend some of them." Elder Gong looked at him in contempt, his status was higher than Teacher Yang, and naturally he did not need to give him face.</seg>
       </tuv>
     </tu>
     <tu>
