@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -210,6 +210,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T012533Z" creationid="elaine" creationdate="20180821T012533Z">
         <seg>"... I've been played."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“一个月后。”游小默答。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T165625Z" creationid="Lilly" creationdate="20180916T165625Z">
+        <seg>"In a month," You XiaoMo replied.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3658,6 +3666,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180905T055429Z" creationid="yun" creationdate="20180905T055429Z">
         <seg>"Sorry, I don't want to!" You XiaoMo rejected instantly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“拍卖会什么时候开始？”&lt;t0/&gt;游君其&lt;t1/&gt;问道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T165615Z" creationid="Lilly" creationdate="20180916T165615Z">
+        <seg>"When will the auction start?" You JunQi asked.</seg>
       </tuv>
     </tu>
     <tu>
