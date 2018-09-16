@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“&lt;t0/&gt;儿&lt;t1/&gt;纸～&lt;t2/&gt;”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180916T075138Z" creationid="Ceti" creationdate="20180916T075138Z">
+        <seg>"Son~"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“…&lt;t0/&gt;…”该说自信&lt;t1/&gt;，还是自负过头？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T072949Z" creationid="Lilly" creationdate="20180629T072949Z">
@@ -22186,6 +22194,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T135112Z" creationid="Lilly" creationdate="20180711T135112Z">
         <seg>You XiaoMo was extremely jealous. He had cultivated for a year or two. Yet Feng ChiYun managed to achieve this so quickly. This was karma, he guessed. The ChiXue Family imprisoned him, but ended up giving him an advantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默翻了个身，把屁股&lt;t0/&gt;对着他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180916T075132Z" creationid="Ceti" creationdate="20180916T075132Z">
+        <seg>You XiaoMo turned over and turned his butt facing him.</seg>
       </tuv>
     </tu>
     <tu>
