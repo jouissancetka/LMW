@@ -56,8 +56,8 @@
       <tuv lang="ZH-CN">
         <seg>&lt;t1/&gt; “&lt;t2/&gt;儿纸～快起床，我们要&lt;t3/&gt;出&lt;t4/&gt;发了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180916T074042Z" creationid="Ceti" creationdate="20180916T074042Z">
-        <seg>"“儿纸～快起床，我们要出发了。”</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180916T074117Z" creationid="Ceti" creationdate="20180916T074042Z">
+        <seg>"“Son~ Quickly get up, we're setting off soon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T134117Z" creationid="Lilly" creationdate="20180711T134117Z">
         <seg>Lin Hang respectfully replied, "Lin Hang has disappointed the young master and was unable to meet with that person."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>&lt;t5/&gt;”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180916T074114Z" creationid="Ceti" creationdate="20180916T074114Z">
+        <seg>"</seg>
       </tuv>
     </tu>
     <tu>
