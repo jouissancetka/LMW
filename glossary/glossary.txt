@@ -302,3 +302,4 @@ xx 家	xx Family/Clan
 交易所	Exchange Quarter
 乌梅镇	Ebony Plum Town
 三区	Block 3
+黑蜘蛛	Black Spider
