@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T091225Z" creationid="Lilly" creationdate="20180609T091225Z">
         <seg>“No, he kicked a couple of people off before as well, so it’s not just eleven.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不对，这是传递信息的黑&lt;t0/&gt;鸦&lt;t1/&gt;，它的右脚有东西。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T155843Z" creationid="Lilly" creationdate="20180916T155843Z">
+        <seg>"No, this is a messenger crow. There's something on its right leg."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9228,6 +9236,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T124911Z" creationid="Ceti" creationdate="20180909T095437Z">
         <seg>The fees for the transport circle was low and it cost two thousand spirit gems per person.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>传递信息的黑&lt;t0/&gt;鸦&lt;t1/&gt;脚上会绑着东西，不过因为黑&lt;t2/&gt;鸦&lt;t3/&gt;的体积比一般乌鸦要大三四倍，&lt;t4/&gt;羽毛会挡掉&lt;t5/&gt;一部分。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T160027Z" creationid="Lilly" creationdate="20180916T160027Z">
+        <seg>Messenger crows would have things tied to their leg, but since these black crows were three to four times larger than normal crows, their feathers would sometimes accidentally conceal these items.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22630,6 +22646,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默被这只黑&lt;t0/&gt;鸦&lt;t1/&gt;吓了一跳，听到这句&lt;t2/&gt;话更加&lt;t3/&gt;震惊，他们才刚回中天，黑蜘蛛怎么会知道他们的行踪，还让一只乌鸦来找他们。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T155821Z" creationid="Lilly" creationdate="20180916T155821Z">
+        <seg>The crow startled You XiaoMo and, hearing what was said, he was even more shocked. They had only just returned to Zhong Tian; how could Black Spider know of their movements? And have a crow come and find them, too?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默见九夜对他那么恭敬，就猜测他的身份必定不俗。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180915T150755Z" creationid="Ceti" creationdate="20180915T150608Z">
@@ -30177,6 +30201,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T124816Z" creationid="Ceti" creationdate="20180701T122848Z">
         <seg>It was the person who sold out the TianXin Sect and sold out his fellow villagers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那个最开始提起黑蜘蛛的中年人观察了几秒后立刻否认了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T155910Z" creationid="Lilly" creationdate="20180916T155910Z">
+        <seg>The middle aged man that had first brought up the Black Spider disagreed after observing for a few moments.</seg>
       </tuv>
     </tu>
     <tu>
