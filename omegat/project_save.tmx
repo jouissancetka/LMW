@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2442,6 +2442,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T173725Z" creationid="Ceti" creationdate="20180825T061513Z">
         <seg>“Tian Dao, don't blame them too much. It's understandable that they didn't discover someone following them, as the difference in strength is too big after all.” The man smiled faintly. To be able to think of blasting the mountain to lure the members of the TianGou out as their guide, the others would also have been led over even if the ones present at that time were not Tian Ming and Tian Hen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“天呐，他们该不会是得罪了黑蜘蛛？”刚刚还在谈论黑蜘蛛的那伙人骤然在乌梅镇这种偏僻的小镇看到黑&lt;t0/&gt;鸦&lt;t1/&gt;，下意识以为那是带来死亡的&lt;t2/&gt;讯息&lt;t3/&gt;，脱口便一脸惊吓的喊了出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T134057Z" creationid="Lilly" creationdate="20180916T134057Z">
+        <seg>"Oh god, did they do something to offend the Black Spider?" Those who had been discussing the Black Spider before yelled in shock, subconsciously thinking that the crow was an omen of death upon seeing it in such an out of the way area like Ebony Plum Town.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31731,6 +31739,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T135252Z" creationid="Ceti" creationdate="20180725T123122Z">
         <seg>The person in the sack was a beautiful young lady. Her mouth had been stuffed with a piece of cloth and her head was bleeding, but the blood had already clotted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑&lt;t0/&gt;鸦&lt;t1/&gt;是落在游小默的桌子上，代表它的目标是他们三人之一，或者三个都是。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T134124Z" creationid="Lilly" creationdate="20180916T134124Z">
+        <seg>The crown had landed on You XiaoMo's table. That meant it was targeting one of the three, or maybe all of them.</seg>
       </tuv>
     </tu>
     <tu>
