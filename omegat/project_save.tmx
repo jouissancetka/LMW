@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“但是什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171047Z" creationid="Lilly" creationdate="20180916T171047Z">
+        <seg>"But what?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“何事？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T183621Z" creationid="Lilly" creationdate="20180730T183621Z">
@@ -1538,6 +1546,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180908T204045Z" creationid="elaine" creationdate="20180908T202431Z">
         <seg>"What are you saying to him? /DELETE ENTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你身上有几亿灵晶吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171109Z" creationid="Lilly" creationdate="20180916T171109Z">
+        <seg>"Do you have several hundred million spirit gems on you?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5168,6 +5184,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那倒未必。”凌霄说道，“没有灵晶可以去凑，就算凑不齐，也可以去看看。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171532Z" creationid="Lilly" creationdate="20180916T171532Z">
+        <seg>"Not necessarily," Ling Xiao said. "We can always get more spirit gems if we don't have enough, and even if we can't get enough, we can go and have a look around.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那好。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180902T124045Z" creationid="Ceti" creationdate="20180902T113706Z">
@@ -5284,6 +5308,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T070333Z" creationid="elaine" creationdate="20180816T070333Z">
         <seg>"Then what do you mean?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那我们不去了？”游小默有些失望的说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171453Z" creationid="Lilly" creationdate="20180916T171453Z">
+        <seg>"Then we aren't going?" You XiaoMo was a little disappointed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10692,6 +10724,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T080546Z" creationid="Ceti" creationdate="20180825T080546Z">
         <seg>Ling Xiao was unflinching, "Uncle Gu, I really broke through after we went separate ways the last time."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄沉吟的道：“理论上应该去参加，但是……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171045Z" creationid="Lilly" creationdate="20180916T171045Z">
+        <seg>Ling Xiao said in a low tone. "Theoretically we should, but..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -21580,6 +21620,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默点点头，&lt;t0/&gt;旋即看&lt;t1/&gt;向凌霄，“我们要去参加吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171023Z" creationid="Lilly" creationdate="20180916T171023Z">
+        <seg>You XiaoMo nodded, turning to look at Ling Xiao. "Should we attend?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默点点头，“我听说鬼冢山脉是很多人都避之唯恐的地方，为什么还有这么多人来？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T131220Z" creationid="Ceti" creationdate="20180811T133809Z">
@@ -23066,6 +23114,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T142116Z" creationid="Ceti" creationdate="20180805T061334Z">
         <seg>You XiaoMo ran to the lakeside. He turned back to look at Ling Xiao who had just sat up on the grass and could not help but sigh. He really did not know whether he was lucky or unfortunate to have such a lover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默身上只有两千万灵晶，其实已经是一大笔钱，但想要拍到宝贝是远远不够的，除非几亿或十几亿灵晶，然后一个月怎么可能凑到这么多灵晶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171439Z" creationid="Lilly" creationdate="20180916T171439Z">
+        <seg>You XiaoMo only had twenty million spirit gems on him. In reality, this was already a huge fortune, but it was nowhere near enough if you wanted to actually buy anything. You needed hundreds of millions, even billions of spirit gems. There was no way they could earn that much in a month.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30225,6 +30281,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180916T035755Z" creationid="Ceti" creationdate="20180915T060828Z">
         <seg>It was impossible for Teacher Yang to take advantage of such a student that did not understand the 'rules'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>邀请帖不只是一张普通的邀请函，上面还写着参加蜘蛛拍卖会的一些要求，比如他们竟然不以物易物，说是&lt;t0/&gt;只用灵晶交易&lt;t1/&gt;，所以想去参加拍卖会就必须先赚&lt;t2/&gt;些灵晶&lt;t3/&gt;才行。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171323Z" creationid="Lilly" creationdate="20180916T171323Z">
+        <seg>The invite wasn't just a normal invite, there were several requirements for attendance written on it, too. For example, there was no trading items, they only dealed in spirit gems, so if you wanted to attend, you would need to bring an appropriate amount of spirit gems.</seg>
       </tuv>
     </tu>
     <tu>
