@@ -303,3 +303,4 @@ xx 家	xx Family/Clan
 乌梅镇	Ebony Plum Town
 三区	Block 3
 黑蜘蛛	Black Spider
+黑鸦	Black Crow
