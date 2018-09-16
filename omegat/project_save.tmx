@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12038,6 +12038,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T033153Z" creationid="Lilly" creationdate="20180613T033153Z">
         <seg>What... happened?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>另一个就是传递信息的黑&lt;t0/&gt;鸦&lt;t1/&gt;，除此之外，黑&lt;t2/&gt;鸦&lt;t3/&gt;也代表着死亡的&lt;t4/&gt;讯息&lt;t5/&gt;，当黑&lt;t6/&gt;鸦&lt;t7/&gt;的出现不是为了传递信息的时候，那就是代表有人要死了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180916T133601Z" creationid="Lilly" creationdate="20180916T133601Z">
+        <seg>The other was their messenger crow/ Apart from that, the crow also represented the coming of death. If a crow wasn't there to give a message, then it meant someone was about to die.</seg>
       </tuv>
     </tu>
     <tu>
