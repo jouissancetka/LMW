@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1658,6 +1658,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T123748Z" creationid="Ceti" creationdate="20180909T071213Z">
         <seg>"Son, how about we make a deal? You let me switch jobs with your man and water the plants for a change?" You JunQi threw away the weeds that he had just plucked out, walked over to his family's son and squatted down with an expression of currying favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“儿纸。”游君其&lt;t0/&gt;又喊出他那独特的发颤尾音，听得游小默又起了一身鸡皮疙瘩，“你告诉我是什么东西，我就给你一个绝对划算的惊喜，怎么样？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T012022Z" creationid="Lilly" creationdate="20180917T012022Z">
+        <seg>"My shon~" You JunQi called him in that unique and cutsey way of his, causing goosebumps to rise on You XiaoMo's skin. "Tell me what it is and I'll give you a surprise that is definitely of equal value, how does that sound?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10168,6 +10176,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄受：“因为我想知道绝对划算的惊喜是什么，如果到时你不满意，你以后可以不要理他。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T012126Z" creationid="Lilly" creationdate="20180917T012126Z">
+        <seg>Ling Xiao said, "Because I want to know what this surprise of equal value is. If you aren't satisfied, you can just ignore him in the future."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄可没有像他一样失去理智，捏着空间符问道：“熊笑让你把这东西给我们，应该不是白给的吧？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T082741Z" creationid="Lilly" creationdate="20180616T082741Z">
@@ -11268,6 +11284,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084400Z" creationid="Lilly" creationdate="20180609T084400Z">
         <seg>Ling Xiao frowned abruptly and raised his head to give You XiaoMo a strange look.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄突然说：“答应他。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T012044Z" creationid="Lilly" creationdate="20180917T012044Z">
+        <seg>Ling Xiao suddenly said, "Do it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -18556,6 +18580,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游君其&lt;t0/&gt;，“……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T012130Z" creationid="Lilly" creationdate="20180917T012130Z">
+        <seg>You JunQi, "..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游君其一怔，转过头来看着他：“儿纸，你刚刚说什么？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T125041Z" creationid="Ceti" creationdate="20180909T100330Z">
@@ -21804,6 +21836,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默狐疑的盯着他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T012030Z" creationid="Lilly" creationdate="20180917T012030Z">
+        <seg>You XiaoMo stared at him suspiciously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默狼狈的躲开星罗城主的拳风。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T100541Z" creationid="Ceti" creationdate="20180722T064311Z">
@@ -22450,6 +22490,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T151255Z" creationid="Lilly" creationdate="20180609T151255Z">
         <seg>After You XiaoMo left XiaoYao Academy, he didn't pause at all and headed for the ShuangYu Hotel. He had told SheQiu and the others to meet him at ShuangYu Hotel before he had gone into isolation, because this was the last day of the three month promise Xiong Xiao had given them. Though they didn't know if he would send the info over as promised, he still had to check.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默稍微犹豫，“好吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T012143Z" creationid="Lilly" creationdate="20180917T012143Z">
+        <seg>You XiaoMo hesitated just slightly. "Alright."</seg>
       </tuv>
     </tu>
     <tu>
@@ -23266,6 +23314,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T094043Z" creationid="Ceti" creationdate="20180721T105940Z">
         <seg>You XiaoMo turned his head and looked at the dense forest ahead. The inky-black forest seemed to be sparsely populated, but he would truly become a fish in the barrel (瓮中捉鳖) if he burst in. After hesitating for a moment, he turned into the direction of a building that had fewer signs of people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默转头，“为什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T012054Z" creationid="Lilly" creationdate="20180917T012054Z">
+        <seg>You XiaoMo turned his head, "Why?"</seg>
       </tuv>
     </tu>
     <tu>
