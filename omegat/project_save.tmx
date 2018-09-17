@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“一区的价位在一积分到两积分之间，有些前辈不是炼丹师，所以他们主要需求灵丹，但是一名院生只能交换一种，多了他们是不会与你交易的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180917T203003Z" creationid="elaine" creationdate="20180917T203003Z">
+        <seg>"The price of Block 1 is between one to two points. Some seniors aren't mages, so what they mostly need are magic pills. But a student can only exchange one type of pill, if there's more they won't exchange with you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“一点点。”游小默下意识的回道，脑子转了个弯才觉得他反了，这句话应该是他问才对，“你怎么样？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T123116Z" creationid="Ceti" creationdate="20180909T035338Z">
@@ -8172,6 +8180,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180916T041442Z" creationid="Ceti" creationdate="20180915T090711Z">
         <seg>Jiu Ye had only been walking about in Block 2 and Block 3 despite having been the the Exchange Quarter a couple of times,  so Teacher Yang had never seen him before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>九夜说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180917T203007Z" creationid="elaine" creationdate="20180917T203007Z">
+        <seg>Jiu Ye said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20188,6 +20204,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默倒是无所谓，只要能换到积分，去一区也一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180917T202805Z" creationid="elaine" creationdate="20180917T202805Z">
+        <seg>You XiaoMo didn't really care. As long as he could exchange for some points, going to Block 1 would be the same thing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默倒没想到他会跟自己说话，愣了一会才回道：“哦，你的话就一般而言，的确是对的。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180823T204644Z" creationid="Lilly" creationdate="20180823T204534Z">
@@ -25930,6 +25954,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T180228Z" creationid="yun" creationdate="20180907T180228Z">
         <seg>The Psychic Black Turtle clan wasn't the only force to be reconize with in the Living Waters River Boundary. There was many ancient (老牌) demon beasts that has resided here from tens of thousands of years ago. The lord (领主) of this sea area(海域), the Red Thunder Mizuchi/Flood Dragon(赤雷海蛟), was just one of them. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>由于一区的导师和长老比二区和三区多，所以面积又是最大，约莫有四五十个铺子，大多数铺子里都坐着一位导师或长老。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180917T202852Z" creationid="elaine" creationdate="20180917T202852Z">
+        <seg>Since Block 1 had more teachers and elders than Block 2 and Block 3, they also had the most space. There were approximately forty to fifty shops, and most of the shops had either one teacher or elder sitting inside.</seg>
       </tuv>
     </tu>
     <tu>
