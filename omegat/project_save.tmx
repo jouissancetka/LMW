@@ -17780,6 +17780,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>正中红心，游小默吐血阵亡。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T060031Z" creationid="yun" creationdate="20180917T060031Z">
+        <seg>With a critical hit, You XiaoMo died vomiting blood (was K.O'ed) . (正中红心，游小默吐血阵亡)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>正午十二点钟，太阳正热辣。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T201912Z" creationid="Lilly" creationdate="20180904T201912Z">
@@ -28812,6 +28820,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180913T010430Z" creationid="yun" creationdate="20180913T010430Z">
         <seg>Mo Jing blocked with ease.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>获胜者凌霄，经验值增加一百，轻松过关。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T060132Z" creationid="yun" creationdate="20180917T060132Z">
+        <seg>The winner: Ling Xiao. Experience: +100. An easy victory. </seg>
       </tuv>
     </tu>
     <tu>
