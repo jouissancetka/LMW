@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你想太多了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T055623Z" creationid="yun" creationdate="20180917T055623Z">
+        <seg>"You're overthinking it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你想都别想了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T220325Z" creationid="Lilly" creationdate="20180830T220325Z">
@@ -1474,6 +1482,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T150250Z" creationid="Ceti" creationdate="20180627T131319Z">
         <seg>"What are you laughing for?" Lin HaoWu's rage was burning brighter and brighter from being laughed at.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你管我。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T055627Z" creationid="yun" creationdate="20180917T055627Z">
+        <seg>"Leave me alone."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我在运气！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T055605Z" creationid="yun" creationdate="20180917T055605Z">
+        <seg>"I'm bracing myself! (运气) Think about it, seeing how famous I am now, when I go in, a lot of them would be looking at me in idolization. I'm afraid the pressure would get to me so I'm preparing." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我已经派人去通知会长，过不了多久他就会过来，你逃不了的。”&lt;t0/&gt;廖&lt;t1/&gt;牙见他不为所动，便继续说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T044007Z" creationid="Lilly" creationdate="20180613T044007Z">
@@ -5196,6 +5220,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180901T134652Z" creationid="Ceti" creationdate="20180830T131338Z">
         <seg>"Then why were they looking for the Psychic Black Turtles?" Contrary to expectations, You XiaoMo did not mind the contempt in his words as he asked in interest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那你为什么不走了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T055351Z" creationid="yun" creationdate="20180917T055351Z">
+        <seg>"Then why aren't you moving?"</seg>
       </tuv>
     </tu>
     <tu>
