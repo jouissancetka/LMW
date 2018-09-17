@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2002,6 +2002,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180912T220130Z" creationid="Lilly" creationdate="20180912T220130Z">
         <seg>"Fuck!" Xing Qi slammed his palm again the table, shattering it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“可是赤血家族也会去吧，我们要是也去的话，游震天一定不会放过这个抓住我的机会啊！”游小默烦闷的抓抓头，他是挺想去凑凑热闹的，但是他更不想被游震天抓到。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T000410Z" creationid="Lilly" creationdate="20180917T000410Z">
+        <seg>“But the ChiXue Clan might also go, right? If we go, then there's no way You ZhenTian wouldn't take this chance to capture me!" You XiaoMo scartched his head in vexation. He wanted to go and see what it was like, but he didn't want to get caught by You ZhenTian.</seg>
       </tuv>
     </tu>
     <tu>
