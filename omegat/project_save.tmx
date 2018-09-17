@@ -4270,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“游兄弟，你们终于回来了。”颜辉一脸欣喜的走到他们面前，“这段时间发生太多事情了，赤血家族在通缉你们，你们怎么不躲起来，要是被他们知道，一定会过来抓你们的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T064451Z" creationid="yun" creationdate="20180917T064451Z">
+        <seg>"Fellow Brother You, you're finally back." With delight, Yan Hui walked towards them, "So many things happened but with the Vermillion Blood Clan hunting you down (通缉), why aren't you guys hiding? If they knew about your whereabouts, they're sure to come catch you." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“游同学，还有半个月就是乙级学区一年一次的比赛，到时请加油哦！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084236Z" creationid="Lilly" creationdate="20180609T084236Z">
@@ -13718,6 +13726,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T100231Z" creationid="Lilly" creationdate="20180730T100231Z">
         <seg>In the main hall --</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>大叔也走过来，温和的笑道：“欢迎你们回来！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T064537Z" creationid="yun" creationdate="20180917T064537Z">
+        <seg>Da Shu/Uncle (大叔) also walked over and greeted them with a warm smile, "Welcome back!" </seg>
       </tuv>
     </tu>
     <tu>
