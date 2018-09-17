@@ -7602,8 +7602,8 @@
       <tuv lang="ZH-CN">
         <seg>为了买这些灵草，他花了一大笔灵晶，事后确实有点后悔。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20180917T040601Z" creationid="yun" creationdate="20180917T040532Z">
-        <seg>He spent a lot of spirit gems to buy these magic herbs and he did regret it a bit afterwards because the news about the Black Spider's auction was only revealed afterwards, including the fact that they only take spirit gems.  </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T040626Z" creationid="yun" creationdate="20180917T040532Z">
+        <seg>He spent a lot of spirit gems to buy these magic herbs and he did regret it a bit afterwards because the news about the Black Spider's auction was only revealed afterwards, including the fact that they only take spirit gems. The ShuangYu Hotel was also given a invitation.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -14386,6 +14386,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>好在他们不全是用灵晶买卖的，有些是以物易物得来的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T040722Z" creationid="yun" creationdate="20180917T040722Z">
+        <seg>Fortunately, he didn't buy it all as some were traded/bartered. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>好在他们体积小，城主府的人又没想到小偷其实是两只小妖兽，于是躲得有惊无险。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T094709Z" creationid="Ceti" creationdate="20180721T165134Z">
@@ -19384,6 +19392,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180823T210920Z" creationid="yun" creationdate="20180823T210920Z">
         <seg>You XiaoMo replied with confidence (义正言辞), "I have no guilt whatsoever. I did exchange them with magic herbs, even high-grade ones. I'm the one who taking a loss here, even if I got a seed with it, it shouldn't matter." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默之前其实没有抱太大的希望，没想到武成反而给了他一个大惊喜，他现在最缺的就是成熟的顶级灵草。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180917T040816Z" creationid="yun" creationdate="20180917T040816Z">
+        <seg>You XiaoMo didn't have high hopes in the beginning, so didn't think Wu Cheng would give him such a pleasent surprise. What he needed the most now was high tier mature magic herbs.</seg>
       </tuv>
     </tu>
     <tu>
