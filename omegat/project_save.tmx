@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28573,6 +28573,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180905T052635Z" creationid="yun" creationdate="20180905T052629Z">
         <seg>Seeing their dislike towards his food, Chef Wan was angry but he couldn't show it, since he couldn't afford to offend them. Swallowing his anger, he explained, "Practitioners(仙师), this is the flavor of my dishes." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>被他弹到的地方顿时哄了，游小默也顾不得疼痛，他脑子里因为这句话闪过一个人，郁闷的表情霎时变成一脸惊喜，“你是说傅苍穹？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180917T003157Z" creationid="Lilly" creationdate="20180917T003157Z">
+        <seg>The place where he was hit went red. You XiaoMo didn't care about the pain though, because the words caused a person to pop up in his mind. His depressed expression immediately turned into one of delight. "You mean Fu CangQiong?"</seg>
       </tuv>
     </tu>
     <tu>
