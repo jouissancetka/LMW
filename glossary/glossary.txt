@@ -305,3 +305,4 @@ xx 家	xx Family/Clan
 黑蜘蛛	Black Spider
 黑鸦	Black Crow
 叶农	Ye Nong
+双鱼酒楼	ShuangYu Hotel
