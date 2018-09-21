@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16672,6 +16672,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180810T131231Z" creationid="Ceti" creationdate="20180808T125740Z">
         <seg>Every level of the Giganticus (巨无霸) had a different plaque which represented different levels. You could only enter the ninetieth level with this plaque, otherwise, the teacher guarding the ninetieth level would directly refuse entry no matter if you were a familiar person or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>巩固的过程比晋级要顺利得多，完全没有任何阻碍，不过为了完全&lt;t0/&gt;吸收固心丹&lt;t1/&gt;的药效，游小默这一次打坐花掉了他将近十天，一切仿佛水到渠成，当他准备收手的时候却&lt;t2/&gt;意外突破&lt;t3/&gt;了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T145918Z" creationid="Lilly" creationdate="20180921T145918Z">
+        <seg>The process of consolidation went much more smoothly than advancement; there were no obstacles at all. However, to fully absorb the effects of the Heart Fortification Pill, You XiaoMo spent ten whole days there. Everything was going as planned, but right when he was about to stop, he abruptly achieved breakthrough.</seg>
       </tuv>
     </tu>
     <tu>
