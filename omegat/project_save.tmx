@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22500,6 +22500,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默拿出一枚玉简，里面记录着一张&lt;t0/&gt;彩级一品&lt;t1/&gt;丹方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133335Z" creationid="Lilly" creationdate="20180921T133335Z">
+        <seg>You XiaoMo took out a jade drive with a first grade rainbow level recipe inside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默拿着储物袋喜笑颜开的离开了空间。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T163247Z" creationid="Ceti" creationdate="20180728T163247Z">
@@ -30778,6 +30786,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>要知道他的单方并不是普通的丹方，远古的丹方很多都是这个时代没有的，而且灵丹的效果也更加好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133318Z" creationid="Lilly" creationdate="20180921T133318Z">
+        <seg>His pill recipes wern't normal pill recipes after all. Ancient pill recipes were something that generally didn't exist anymore in this time, and the effects of the pills were better, too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>要说有什么缺点的话，那就是被种下母蛊的人只会跟着公蛊，公蛊走到哪，它就会跟到哪，除非服下它，不过一旦服下就再也拿不出来，所以大概就死游震天会让一名弟子带着公蛊的最主要原因。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T014042Z" creationid="Ceti" creationdate="20180630T101213Z">
@@ -31952,6 +31968,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180805T094511Z" creationid="Ceti" creationdate="20180805T094511Z">
         <seg>This expression, this tone...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这张丹方是他从所有&lt;t0/&gt;彩级一品&lt;t1/&gt;丹方中挑选出来比较简单的，就算别人看到也不会怀疑这是远古的丹方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133416Z" creationid="Lilly" creationdate="20180921T133416Z">
+        <seg>This pill recipe was a relatively simple one amongst the first grade rainbow level pill recipes he had. Even if others saw it, they wouldn't suspect it was an ancient pill recipe.</seg>
       </tuv>
     </tu>
     <tu>
