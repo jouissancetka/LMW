@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6044,6 +6044,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T091621Z" creationid="Lilly" creationdate="20180609T091621Z">
         <seg>One hour later, the results of the battle royale were out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一个字也不多说。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T142549Z" creationid="Lilly" creationdate="20180921T142549Z">
+        <seg>He didn't say any more than that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14118,6 +14126,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180916T133706Z" creationid="Lilly" creationdate="20180916T133659Z">
         <seg>Thus, most people would feel a chill descend over them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>固心丹&lt;t0/&gt;是&lt;t1/&gt;一种彩级二&lt;t2/&gt;品灵丹，主要是巩固因修为涨得太快导致的弊端，恰恰适合现在的游小默，之前他就想&lt;t3/&gt;过炼一枚固心&lt;t4/&gt;丹，但是以他现在的修为无法炼制，而且就算他的修为达到了，他的材料也还没有凑足。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T142523Z" creationid="Lilly" creationdate="20180921T142508Z">
+        <seg>The Heart Fortification Pill was a second grade rainbow pill, primarily focused on reducing the negative effects of a cultivation base that grew too quickly. It was exactly what You XiaoMo needed right now. Before, he had been considering refining a Herat Fortification Pill, but he couldn't do so with his current cultivation base. Plus, even if his cultivation base was there, he didn't have the necessary materials.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23652,6 +23668,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默看&lt;t0/&gt;了眼玉盒里&lt;t1/&gt;的灵草，眼中闪过一丝惊喜。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T142728Z" creationid="Lilly" creationdate="20180921T142728Z">
+        <seg>You XiaoMo was delighted, seeing what magic herb was in the jade container.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默看一眼就将纸条揉成一团放进衣服里，对凌霄说道：“纸条上说让我们傍晚去小港口见面，就我们两人，要等那个叫海初的人吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T131203Z" creationid="Ceti" creationdate="20180902T064916Z">
@@ -23906,6 +23930,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180901T133929Z" creationid="Ceti" creationdate="20180828T133953Z">
         <seg>You XiaoMo looked at the old man. The old man had obviously caught sight of them but did not pay them any attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默看着鲁长老略微忐忑的表情，终于露出笑容，“行！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T142542Z" creationid="Lilly" creationdate="20180921T142542Z">
+        <seg>You XiaoMo looked at Elder Lu's slightly anxious expression and grinned. "Ok!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -34172,6 +34204,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T140502Z" creationid="Lilly" creationdate="20180921T140502Z">
         <seg>Elder Lu's gaze burned into the jade drive in his hand, his eyes practically shining with excitement. Thought this pill's effects wer temporary, he amount of time it could last was shocking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>鲁长老瞬间轻松了，只觉得这个小娃娃太对他的胃口了，说话做事毫不拖泥带水，接着他把灵草和&lt;t0/&gt;固心&lt;t1/&gt;丹拿了出来，三十个积分通过牌子划给他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T142706Z" creationid="Lilly" creationdate="20180921T142706Z">
+        <seg>Elder Lu's expression immediately relaxed. This kid really was the kind of person he enjoyed dealing with. He didn't stall or twist his words. The elder took out both the magic herb and the Heart Fortification Pill, transferring thirty points to the other through their cards.</seg>
       </tuv>
     </tu>
     <tu>
