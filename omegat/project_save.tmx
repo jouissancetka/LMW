@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34092,6 +34092,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T100054Z" creationid="kollumceti" creationdate="20180822T100042Z">
         <seg>The Weeping Ghost Shore was much larger than they had imagined. Just the section of the nose was more than ten meters wide, let alone the mouth section. The mouth was one third the width of the Human Skull Peak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>鲁长老眼神灼热的盯着他手上的玉简，眼睛几乎放射着志在必得的兴奋光芒，虽然是一种短暂的灵丹，但是维持的时间却让他惊叹。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T140502Z" creationid="Lilly" creationdate="20180921T140502Z">
+        <seg>Elder Lu's gaze burned into the jade drive in his hand, his eyes practically shining with excitement. Thought this pill's effects wer temporary, he amount of time it could last was shocking.</seg>
       </tuv>
     </tu>
     <tu>
