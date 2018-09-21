@@ -311,3 +311,8 @@ xx 家	xx Family/Clan
 冥想室	Meditation Room
 七罪兽	Seven Sins Beasts
 贪狼	Wolf of Gluttony
+姬云琅	Ji YunLang
+姬文	Ji Wen
+姬武	Ji Wu
+中庭交易会	Zhong Ting Trade Fair
+姬凤	Ji Feng
