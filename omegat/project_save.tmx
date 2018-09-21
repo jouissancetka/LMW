@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7528,6 +7528,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>不过这只是冥想室的一部分。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144101Z" creationid="Lilly" creationdate="20180921T144101Z">
+        <seg>However, this was just a portion of the Meditation Room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>不过这样有一点就可以肯定，玉简里的东西一定是好东西，否则它的主人不可能费劲心思的保护它。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T143632Z" creationid="Ceti" creationdate="20180805T074955Z">
@@ -12738,6 +12746,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>刚刚进来的时候，看守的导师告诉他在冥想室最里面三个石室是比较特殊的，它们的效果比普通石室要好很多，但是一天要一个积分。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144154Z" creationid="Lilly" creationdate="20180921T144154Z">
+        <seg>When he first came inside, the mentor on guard had told him that the three rooms in the very back were special. They had better effects than normal stone chambers, but required a point per day to use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>刚刚逛了几家都不见他上前，显然那些都不对他的胃口，鲁长老这家还是他逛到现在第一家过来的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T115644Z" creationid="Lilly" creationdate="20180921T115644Z">
@@ -16772,6 +16788,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>建造冥想室的东西是一种名为&lt;t0/&gt;冥&lt;t1/&gt;石的石头，这种石头可以促进更快的进入&lt;t2/&gt;空灵般&lt;t3/&gt;的修炼状态，修炼速度将会比平时快上两三倍，而且据说下方有法阵在运转，石室内的灵气回避外面充盈两倍左右。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144043Z" creationid="Lilly" creationdate="20180921T144043Z">
+        <seg>The Meditation Room was made up of a stone called the Deep-Mind Stone (冥石). This stone helped facilitate people's entry into a cultivating state, making their cultivation go twice or thrice as fast. In addition, rumor had it that there was an array working underneath to prevent the spiritual energy from leaking, filling the air inside with twice as much spiritual energy as usual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>开口的是天刀，天刀是天狗收集情报的主要人员，发放各种消息也是经由他的手。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T100114Z" creationid="kollumceti" creationdate="20180822T100114Z">
@@ -18160,6 +18184,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180902T231456Z" creationid="yun" creationdate="20180902T231456Z">
         <seg>By dinner, Chef Wan and his assistant's hope for You XiaoMo to borrow their kitchen was crushed. It wasn't that he couldn't get out of bed, it was that after being messed around by Ling Xiao (折腾了一顿), he was no longer in the mood of cooking. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>普通石室是三天一个积分。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144209Z" creationid="Lilly" creationdate="20180921T144209Z">
+        <seg>Normal stone chambers were a point ever three days.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23292,6 +23324,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默没有选择特殊石室，他现在需要的是巩固修为，而不是快速的提升实力，不然对他将来的发展僵尸一个巨大的阻碍。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144310Z" creationid="Lilly" creationdate="20180921T144310Z">
+        <seg>You XiaoMo didn't choose the special stone chambers. What he needed to do right now was consolidate his cultivation base, not rapidly improve his strength. Otherwise, it would become a huge problem to his future development.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默没有问，因为他也有这种感觉。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180828T045337Z" creationid="yun" creationdate="20180828T045337Z">
@@ -23752,6 +23792,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T131203Z" creationid="Ceti" creationdate="20180902T064916Z">
         <seg>You XiaoMo took one look at it before rolling the note into a ball and putting it into his clothes. He then turned to Ling Xiao, "The note said that just the two of us should meet them at a tiny port in the evening. Should we wait for that Hai Chu person?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默看了一下，果然只有一张石床。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144325Z" creationid="Lilly" creationdate="20180921T144325Z">
+        <seg>You XiaoMo looked around. As expected, there was only one stone bed.</seg>
       </tuv>
     </tu>
     <tu>
