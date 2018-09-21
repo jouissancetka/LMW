@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27863,6 +27863,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>石室的灵气缓慢的运转起来，一点&lt;t0/&gt;一点&lt;t1/&gt;的渗透进他的皮肤里，吸收的速度并不快，正好符合他现在的状态，&lt;t2/&gt;固心丹&lt;t3/&gt;也在他的体内开始发挥作用，药力慢慢的散开，渗透进四肢百&lt;t4/&gt;骸&lt;t5/&gt;，连灵魂也仿佛被滋润着。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144720Z" creationid="Lilly" creationdate="20180921T144720Z">
+        <seg>The spiritual energy inside the room slowly began to move, being absorbed into his skin bit by bit. The absorption rate wasn't fast, perfect for his current state. The Heart Fortification Pill slowly began to work its magic inside him, its effects spreading through his limbs and even making his very soul feel refreshed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>确定四下无人，凌霄才将游小默放下来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T212112Z" creationid="Lilly" creationdate="20180730T212112Z">
@@ -30926,6 +30934,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180917T035350Z" creationid="yun" creationdate="20180917T035350Z">
         <seg>The situation on the streets was the same as before, completely unfazed by the stuff that has happened recently, maybe just a few more stuff to gossip about.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>被主人警告过的她绝对和金翅虫一阵上蹿下跳后就安静了下来，一跳一飞的落在游小默左边的石床空位上，三双无辜的眼睛静静的看着他们的主人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144830Z" creationid="Lilly" creationdate="20180921T144830Z">
+        <seg>Having been warned by their master, the metal swallowing beast and golden winged insects calmed after jumping around for a while. They settled themselves in the empty space on the bed left of You XiaoMo, three pairs of innocent eyes quietly gazing at their master.</seg>
       </tuv>
     </tu>
     <tu>
