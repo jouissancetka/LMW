@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6672,6 +6672,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>三区却热闹了起来，鲁长老也算扬眉吐气了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T143253Z" creationid="Lilly" creationdate="20180921T143214Z">
+        <seg>The entirety of block three was in a buzz. Elder Lu was finally happy, too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>三区只有一区的一半大，里面错落了十几个铺子，铺子的主人都是九十层之上的长老级别人物，他们只有一个月前五天才会过来，一到正午就会离开，想要找他们就只能等第二天或者下个月。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180916T041738Z" creationid="Ceti" creationdate="20180915T094748Z">
@@ -7908,6 +7916,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T095823Z" creationid="kollumceti" creationdate="20180822T095823Z">
         <seg>The two people did not realise that the ‘young master’ they were speaking of in disdain was noiselessly following behind them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两人随后离开了交易所。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T143119Z" creationid="Lilly" creationdate="20180921T143119Z">
+        <seg>Then, the two left the area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14094,6 +14110,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180916T035830Z" creationid="Ceti" creationdate="20180915T061121Z">
         <seg>This was because very few knew that You XiaoMo was a student on the ninetieth floor. If the teachers and elders could not determine which student was from what floor, they would not normally ask for an exorbitant price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>因为要求太高，导致总是没有院生去他的铺子，所以有一些长老总喜欢那这事调侃他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T143242Z" creationid="Lilly" creationdate="20180921T143242Z">
+        <seg>Since he had too high requirements, no students ever visited his stand and some of the elders liked to taunt him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21960,6 +21984,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T194858Z" creationid="Lilly" creationdate="20180824T194858Z">
         <seg>You XiaoMo smirked with delight. "They're my contract beasts. The male is called Xiao Ping and the female is called Xiao Pang." As he said his, he waved the two down and had them land on the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默心情也一阵舒爽，“鲁长老太抬举我了，我可没那么多彩级丹方。”防人之心不可无，这点他还是懂的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T143109Z" creationid="Lilly" creationdate="20180921T143109Z">
+        <seg>You XiaoMo was feeling very content, too. "Elder Lu thinks too highly of me. I don't have that many pill recipes." He couldn't let his guard down so easily (防人之心不可无), he understood that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34212,6 +34244,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T100054Z" creationid="kollumceti" creationdate="20180822T100042Z">
         <seg>The Weeping Ghost Shore was much larger than they had imagined. Just the section of the nose was more than ten meters wide, let alone the mouth section. The mouth was one third the width of the Human Skull Peak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>鲁长老为这事没少被气得吹胡子瞪眼过。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T143329Z" creationid="Lilly" creationdate="20180921T143329Z">
+        <seg>Elder Lu had often been met with such vexing situations that made him glare and huff. </seg>
       </tuv>
     </tu>
     <tu>
