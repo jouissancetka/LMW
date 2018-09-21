@@ -317,3 +317,4 @@ xx 家	xx Family/Clan
 中庭交易会	Zhong Ting Trade Fair
 姬凤	Ji Feng
 卫白	Wei Bai
+姬芮	Ji Rui
