@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6880,6 +6880,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>不到二十分钟，游小默就走到那条街，街上一如既往的热闹，但是很快就发现不对劲。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T150432Z" creationid="Lilly" creationdate="20180921T150432Z">
+        <seg>In less than twenty minutes, You XiaoMo was on the street. The street was as busy as usual, but he soon realized that something wasn't right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>不到半个时辰，大家都在老夫妇的房屋外的空地集合。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T024159Z" creationid="Lilly" creationdate="20180715T024159Z">
@@ -11052,6 +11060,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T201043Z" creationid="Lilly" creationdate="20180830T201043Z">
         <seg>Ling Xiao blew on the hot tea in his cup and took a sip, looking at the server coldly. "Then try us. Let's see if we can walk out of Ziran City or not."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄和他爹入住的酒楼就在逍遥院附近。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T150405Z" creationid="Lilly" creationdate="20180921T150405Z">
+        <seg>Ling Xiao and his dad were settled in a tavern nearby the XiaoYao Institution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27887,6 +27903,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>石室的时间还剩下半天，再续三天不划算，因为在其他地方也能炼丹，不过他要把这个好消息告诉凌霄。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T150329Z" creationid="Lilly" creationdate="20180921T150329Z">
+        <seg>He had half a day left in the stone chamber and paying for another three days was a waste since he could refine pills elsewhere, too. He needed to tell Ling Xiao the good news though.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>石室的灵气在他突破的时候剧烈的翻滚起来，争先恐后的钻进他的毛孔里，识海里的&lt;t0/&gt;七彩团&lt;t1/&gt;也迅速的转动起来……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T150017Z" creationid="Lilly" creationdate="20180921T150017Z">
@@ -30113,6 +30137,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>至于他的便宜爹，一时没想起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T150348Z" creationid="Lilly" creationdate="20180921T150348Z">
+        <seg>As for his cheap dad, he didn't even surface in You XiaoMo's mind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>至于凌霄和游小默两位当事人，分别坐在麟古的对面，原来应该是另外两位成员的位置，因为他们不再才空出来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T173149Z" creationid="Kollumceti" creationdate="20180825T061309Z">
@@ -30966,6 +30998,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T142803Z" creationid="Ceti" creationdate="20180826T102035Z">
         <seg>The streets were full of big and tall men. Women were rarely seen and only a few were occasionally sighted. This was the so-called 'a thing is valued if it is rare'. Despite how ordinary the women looked, they were very popular with men here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>街上的人群从四面八方涌出来，&lt;t0/&gt;皆朝同&lt;t1/&gt;一个方向跑去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T150458Z" creationid="Lilly" creationdate="20180921T150458Z">
+        <seg>The crowd was coming from all directions, but all running in the same direction.</seg>
       </tuv>
     </tu>
     <tu>
