@@ -3686,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我的丹方是一种名叫&lt;t0/&gt;赤&lt;t1/&gt;火丹的彩级一品丹方，它的作用是在战斗时服用可在短时间内增加一到两星的修为，维持时间大概是两个时辰。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133622Z" creationid="Lilly" creationdate="20180921T133622Z">
+        <seg>"My pill recipe is for a first grade rainbow pill called the Red Blaze Pill. After ingestion, it can increase one's cultivation base by one or two stars in combat for about four hours."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我看他是吃定游震天不会放弃吧。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180919T131511Z" creationid="Ceti" creationdate="20180919T125415Z">
@@ -23124,6 +23132,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默没有将玉简递给他，只是简单的介绍了下&lt;t0/&gt;赤&lt;t1/&gt;火丹。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133640Z" creationid="Lilly" creationdate="20180921T133640Z">
+        <seg>You XiaoMo didn't hand the jade drive over, simply describing the Red Blaze Pill.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默没有就此罢休，抡起拳头又用力的砸了几下，把玄泽砸得嗷嗷叫个不停，剧烈的晃动着脑袋想把他晃下来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T173126Z" creationid="yun" creationdate="20180907T173126Z">
@@ -26776,8 +26792,8 @@
       <tuv lang="ZH-CN">
         <seg>甘长老等人由于身份地位比较高，他们每月能得到的积分相对校多。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T093427Z" creationid="Lilly" creationdate="20180921T093427Z">
-        <seg>Since Elder Gan and the others were in very high positions, the amount of points they could gain every month was comparitively higher.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133457Z" creationid="Lilly" creationdate="20180921T093427Z">
+        <seg>Since Elder Gan and the others were in very high positions, the amount of points they could gain every month was comparatively higher.</seg>
       </tuv>
     </tu>
     <tu>
