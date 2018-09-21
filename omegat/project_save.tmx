@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6684,6 +6684,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180917T202705Z" creationid="elaine" creationdate="20180917T202705Z">
         <seg>Block 3's teachers and elders gave the most points. But their requests were also very high, and most of the students were unwilling to fulfill them, so the students who shopped in Block 3 weren't very many.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>三十个积分是他从去年攒到现在，他只给自己留了五个积分，但是他知道三十个积分的价值远远比不上&lt;t0/&gt;赤&lt;t1/&gt;火丹的价值，所以他又另外附加了两样东西。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T140950Z" creationid="Lilly" creationdate="20180921T140950Z">
+        <seg>Thirty points was all but five of what he had earned in this past year. However, he knew that thirty points was nowhere near what the Red Blaze Pill was worth, so he added two extras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19560,6 +19568,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T014131Z" creationid="Lilly" creationdate="20180909T014131Z">
         <seg>It didn't take You XiaoMo long to crawl onto Xuan Ze's head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>没等游小默表态，其他长老就静不住了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T141108Z" creationid="Lilly" creationdate="20180921T141108Z">
+        <seg>Before You XiaoMo could express his opinion, the other elders  burst into discussion.</seg>
       </tuv>
     </tu>
     <tu>
