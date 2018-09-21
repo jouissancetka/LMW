@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“小娃娃，你的话可是真的？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T120601Z" creationid="Lilly" creationdate="20180921T120601Z">
+        <seg>"Hey kid, are you for real?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“小子，你吃的饭菜都是你自己做的？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180905T054820Z" creationid="yun" creationdate="20180905T054820Z">
