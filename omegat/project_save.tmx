@@ -4070,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“既然你要找死，那我便成全你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232810Z" creationid="yun" creationdate="20180921T232810Z">
+        <seg>"If you want to die, then i'll grant your wish."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“既然已经到了，怎么还不过来？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T034430Z" creationid="elaine" creationdate="20180824T034411Z">
@@ -4882,6 +4890,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T071757Z" creationid="Lilly" creationdate="20180715T071750Z">
         <seg>"Elder, I know you don't believe it, and there's not much of a point in my explaining. Only time can prove who is wrong and who is right. Let's deal with the magic herb situation first," You XiaoMo switched the topic and immediately turned everyone's attention to the other problem at hand. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“老太婆，你很啰嗦，要打就打吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232456Z" creationid="yun" creationdate="20180921T232456Z">
+        <seg>"Old hag, (老太婆) you're really annoying. If you want to fight then just do it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6360,6 +6376,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一如凌霄经常使用的火焰，一出现就带着一道炫丽的尾巴，翻滚着灼热的炽浪，映得周围的人脸颊红通通的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T233055Z" creationid="yun" creationdate="20180921T233055Z">
+        <seg>Similaily to the flame that Ling Xiao often used, when it appeared, it was followed with a beautiful tail. As it tossed and turn in a scorching hot wave, everyone's face was tinted red.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一定是！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T031212Z" creationid="Ceti" creationdate="20180804T031212Z">
@@ -7236,6 +7260,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180921T225710Z" creationid="elaine" creationdate="20180921T225705Z">
         <seg>However, why was he only Fellow Brother You, but Ling Xiao was Brother Ling?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不过也幸好他缩回去了，因为凌霄眼睛里流露出的淡淡笑意被姬芮发现，下一秒她几乎是警觉的往门口看过去，不过她只看到一群围观的路人甲乙丙。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232043Z" creationid="yun" creationdate="20180921T232043Z">
+        <seg>Good thing he did too, because the a slight 'laugher' escaped Ling Xiao's eyes (流露出的淡淡笑意) and was discovered by Ji Rui. Instantly she looked over to the door in alarm but all she saw was a bunch of bystanders. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9180,6 +9212,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T052612Z" creationid="Lilly" creationdate="20180613T052612Z">
         <seg>Wu Cheng, who was in the crowd, wanted to charge over, but was stopped by his two elders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>人群混杂，加上游小默刻意隐藏，姬芮一时间没有发现他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232125Z" creationid="yun" creationdate="20180921T232125Z">
+        <seg>It was a messy crowd and with You XiaoMo intentionally being stealthy, Ji Rui didn't discover him immediately.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -12404,6 +12444,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T220052Z" creationid="Lilly" creationdate="20180904T220052Z">
         <seg>Ling Xiao suddenly pulled him into his arms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄突然就失去了耐心，瞥向姬芮的目光充满了恶劣的杀意。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232618Z" creationid="yun" creationdate="20180921T232618Z">
+        <seg>Suddenly, Ling Xiao lost his paitence and his looked at Ji Rui with scurvy killing intent. (恶劣的杀意) </seg>
       </tuv>
     </tu>
     <tu>
@@ -16171,10 +16219,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>姬芮没有得到凌霄的回应，眼神微沉，“不想你的同伴出事的话，现在跟我们走，我可以保证绝不动你同伴一根寒毛。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232217Z" creationid="yun" creationdate="20180921T232217Z">
+        <seg>Seeing no response, Ji Rui's eyes darkened slight, "If you don't want your comrade to be injuried then come with us right now. I can promise that he wouldn't be harmed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>姬芮淡淡的瞥了姬云琅一眼，对他的行为不置一词，目光又落在凌霄身上，虽然看起来很有强者的风范，但是在眼睛深处却隐藏着与姬云琅一模一样的傲慢与轻视，下一句她便说道：“实力倒是不错，只可惜还不是我的对手。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180921T230843Z" creationid="yun" creationdate="20180921T230843Z">
         <seg>Ji Rui glanced over at Ji YunLang but didn't comment on his actions. Then she shifted back to Ling Xiao. Although she had the air of a powerhouse, deep within, her eyes spoke of the same arrogance and disdain as Ji YunLang. Then she spoke, "You're not bad, but still not a match for me." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>姬芮的脸色顿时像抹了一层黑炭似的，眼神阴冷下来，虽然她的年纪已经一大把，但是她姬芮仍然是妖凰族最美的女人，最忌讳的就是别人叫她老太婆，凌霄成功的激起她的杀意。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232754Z" creationid="yun" creationdate="20180921T232754Z">
+        <seg>As if Ji Rui's face had been brushed over with charcoal, her eyes turned cold. Although her age was up there, she was still the prettiest women in the Demon Phoenix Clan and her taboo was others calling her an 'old hag'. Ling Xiao had sucessfully enraged her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16879,6 +16943,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180902T233745Z" creationid="yun" creationdate="20180902T233745Z">
         <seg>It wasn't long before the door was closed that the door beside them opened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在火焰即将缠上凌霄的时刻，缝隙之间，众人只听到‘噗嗤’一声，另一股更凶猛的红色火焰突然爆发了，像一头凶兽扑上姬芮的火焰……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T233231Z" creationid="yun" creationdate="20180921T233231Z">
+        <seg>Just as the flame was about to touch Ling Xiao, in that small crack, a fiercier red flame exploded. All the crowd heard was a 'titter' (‘噗嗤) before it pounced on Ji Rui's flame like a beast...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17665,6 +17737,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T071015Z" creationid="elaine" creationdate="20180816T071015Z">
         <seg>When many mages couldn't find the high-level magic herb they were seeking, they would often think of Western Continent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>很多人都认为游小默有凌霄的保护才能走到现在，理论上来讲他们的想法是对的，但是只对了一半。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232417Z" creationid="yun" creationdate="20180921T232356Z">
+        <seg>Many believed that You XiaoMo was only able to get this far becuase of Ling Xiao. Theoritcally they're thought process was right, but only by fifty percent.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -26991,6 +27071,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>然而失去凌霄这个保护伞，游小默绝对不会安全。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232311Z" creationid="yun" creationdate="20180921T232311Z">
+        <seg>However, if You XiaoMo lost Ling Xiao, his safety helmet (保护伞 ;), he definietly wouldn't be safe anymore. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>然而每个到&lt;t0/&gt;过拍卖会的人都知道，他们的想法是错误的，而且错得离谱，因为拍卖会并不在深山里，反而在中天的一个小镇里，那个小镇就&lt;t1/&gt;是&lt;t2/&gt;乌梅镇。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180917T145040Z" creationid="Ceti" creationdate="20180916T091117Z">
@@ -32071,6 +32159,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T222718Z" creationid="Lilly" creationdate="20180830T222718Z">
         <seg>She hadn't even finished speaking when MaoQiu slapped her across her other cheek before slapping her over ten times in succession, left and right, until her face was swollen like a bun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>话音一落，她的身影几乎瞬间出现在凌霄身侧，连一秒都不用，接着一股红色炙热火焰便袭向凌霄的侧脸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T232903Z" creationid="yun" creationdate="20180921T232903Z">
+        <seg>With that, almost in the same second, she appeared beside Ling Xiao. It didn't even take a second before a burning red flame erupted by Ling Xiao's face. </seg>
       </tuv>
     </tu>
     <tu>
