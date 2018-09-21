@@ -2878,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好，只要你能拿得出&lt;t0/&gt;一&lt;t1/&gt;张一张彩级一品的丹方，老头不会让你吃亏的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T122333Z" creationid="Lilly" creationdate="20180921T122333Z">
+        <seg>"Alright, if you can give me one first grade rainbow level pill recipe, I definitely will make it worth your while."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“如何？”慵懒邪&lt;t0/&gt;魅&lt;t1/&gt;的声音不紧不慢的响起。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T134038Z" creationid="Lilly" creationdate="20180711T134038Z">
@@ -20200,6 +20208,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T031402Z" creationid="Lilly" creationdate="20180616T031402Z">
         <seg>You AnTai and Old Eagle had both been kicked out of the Ten Gods by Ling Xiao. Now, one of the open positions had been taken by Ling Xiao, but there was another position. If there was no newcomer to fill in the position, then they could only choose one out of the two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默&lt;t0/&gt;就猜倒他&lt;t1/&gt;在装睡，笑眯眯地道：“当然是真的，鲁长老想必也知道，彩级丹方不是随随便便就能拿出来开玩笑的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180921T122304Z" creationid="Lilly" creationdate="20180921T122304Z">
+        <seg>You XiaoMo had guessed that the guy was feigning sleep and grinned. "Of course. Elder Lu definitely knows that rainbow pill recipes aren't something people take out for fun."</seg>
       </tuv>
     </tu>
     <tu>
