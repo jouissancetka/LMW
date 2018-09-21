@@ -3590,6 +3590,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我刚刚耳鸣了一下，麻烦你再说一遍。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T172604Z" creationid="yun" creationdate="20180921T172604Z">
+        <seg>“Sorry I didn’t hear that, can you repeat yourself?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我可以解释的。”游小默咽了咽口水，转头瞪了猫球一眼，你&lt;t0/&gt;个&lt;t1/&gt;臭小子，竟然告状，下次绝对不会再带你出去了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084515Z" creationid="Lilly" creationdate="20180609T084515Z">
@@ -6956,6 +6964,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T132817Z" creationid="Ceti" creationdate="20180701T075754Z">
         <seg>Unexpectedly, Weng Gong's expression immediately gained a trace of subtle alertness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不懂得做人的人，就算他的身份地位再高，真正愿意尊敬他们的人绝对没几个人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180921T172550Z" creationid="yun" creationdate="20180921T172550Z">
+        <seg>For those who don’t know how to be proper (做人的人), even if his status was high, there wouldn’t be many who truly respected them. </seg>
       </tuv>
     </tu>
     <tu>
