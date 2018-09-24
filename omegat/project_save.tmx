@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3694,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我就不下去了。”走到一半，游君其突然开口了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131718Z" creationid="Lilly" creationdate="20180924T131718Z">
+        <seg>"I won't go down with you guys," You JunQi suddenly said, halfway down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我已经派人去通知会长，过不了多久他就会过来，你逃不了的。”&lt;t0/&gt;廖&lt;t1/&gt;牙见他不为所动，便继续说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T044007Z" creationid="Lilly" creationdate="20180613T044007Z">
@@ -4570,6 +4578,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180917T193206Z" creationid="elaine" creationdate="20180917T193206Z">
         <seg>"You Xiao... Mo?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“游小哈！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132331Z" creationid="Lilly" creationdate="20180924T132331Z">
+        <seg>"You XiaoHa!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5756,6 +5772,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180824T014411Z" creationid="yun" creationdate="20180824T014411Z">
         <seg>"Alright." The man accepted without hestitation because he wanted to know the reason too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那好吧，你自己找个地方待着。”游小默没问他为什么，直接同意了他的决定。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132100Z" creationid="Lilly" creationdate="20180924T132100Z">
+        <seg>"Alright, then you can go and find a place to wait." You XiaoMo didn't ask why, agreeing instantly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21605,6 +21629,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游君其顿时喜笑颜开，给了他一个大大的拥抱，激动地说道：“儿纸，你真了解爹爹。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132308Z" creationid="Lilly" creationdate="20180924T132308Z">
+        <seg>You JunQi's face immediately broke out into a smile, hugging him and saying in excitement, "Shon, you really understand your daddy!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游君其顿时垮下连，“儿纸，你都不问爹爹为什么吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132142Z" creationid="Lilly" creationdate="20180924T132142Z">
+        <seg>You JunQi's expression became teary. "Shon, aren't you going to ask daddy why?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游君其黑线，“不，我，我想说的是做牛做马。”你身相许等下辈子吧。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T012003Z" creationid="elaine" creationdate="20180821T012003Z">
@@ -22869,6 +22909,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默和凌霄同时转头朝他看过去，后者一脸纠结模样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131741Z" creationid="Lilly" creationdate="20180924T131741Z">
+        <seg>You XiaoMo and Ling Xiao simultaneously turned their heads to look at him, the latter looking conflicted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默和凌霄回中天的消息很快就被渲染出去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180917T185552Z" creationid="elaine" creationdate="20180917T185552Z">
@@ -22993,6 +23041,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T135520Z" creationid="Lilly" creationdate="20180609T135520Z">
         <seg>The corner of You XiaoMo's mouth twitched. "No need. I really have some very important business to attend to. It won't be convenient for you to follow."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默嘴角抽了抽，他宁愿不要了解。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132326Z" creationid="Lilly" creationdate="20180924T132326Z">
+        <seg>The corner of You XiaoMo's lips twitched. He'd rather not understand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24325,6 +24381,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默摊摊手：“这还用得着问，你一定是不想赤血家族的人看到你，所以想躲他们，我说的对不对？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132231Z" creationid="Lilly" creationdate="20180924T132231Z">
+        <seg>You XiaoMo shrugged. "Do I even need to ask? It as to be because you don't want any of the ChiXue Clan to see you, so you're avoiding them, right?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默摸摸脸皮。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180917T060637Z" creationid="yun" creationdate="20180917T060637Z">
@@ -24401,6 +24465,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180923T123236Z" creationid="Ceti" creationdate="20180923T081241Z">
         <seg>You XiaoMo took back the Metal Swallowing Beast and the Golden Winged Insects. He had already speedily evacuated from the battlefield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默收回邀请卡，难怪他总觉得最下方的那些人的背影都很眼熟，而且那一带比较空，其他人好像都在避开那个地方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131531Z" creationid="Lilly" creationdate="20180924T131531Z">
+        <seg>You XiaoMo took back the invite. No wonder the people at the very bottom seemed so familiar, and the area was more empty. The others all seemed to be avoiding that area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30440,6 +30512,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180924T125806Z" creationid="Ceti" creationdate="20180924T125806Z">
         <seg>Chapter 556: The Samsara Pill
 Translated by Kollumceti of Exiled Rebels Scanlations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第一排的座位几乎已经有九成坐满了人，走下去就看到一张张曾经在&lt;t0/&gt;苍盟见&lt;t1/&gt;过的熟悉脸孔。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131602Z" creationid="Lilly" creationdate="20180924T131602Z">
+        <seg>The first row was almost full. Walking down, he could see those familiar faces he had seen in the Cang Alliance.</seg>
       </tuv>
     </tu>
     <tu>
