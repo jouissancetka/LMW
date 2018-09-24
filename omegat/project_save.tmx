@@ -4398,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“欢迎各位来到黑蜘蛛拍卖会，在正式宣布拍卖会开始之前，请大家看看你们座位前面的晶石板，接下来拍卖的每一件物品你们都可以透过这块晶石板输入你们报的价格。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T191521Z" creationid="Lilly" creationdate="20180924T191521Z">
+        <seg>"Welcome, everyone, to the Black Spider's auction. Before the auction begins officially, can everyone please turn their attention to the crystal tablet in front of them. In the following auctions, you can enter the price you're offering through the crystal tablet."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“正是。”客栈老板笑眯眯的点点头。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T131442Z" creationid="Ceti" creationdate="20180811T134623Z">
@@ -27163,6 +27171,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180908T101554Z" creationid="Ceti" creationdate="20180908T091023Z">
         <seg>This sentence from You XiaoMo was exactly what Mo Jing has been looking forward to. It sounded just like heavenly music (天籁之音) to him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默这才注意到原来还有这东西，跟巨无霸的一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T191551Z" creationid="Lilly" creationdate="20180924T191551Z">
+        <seg>It was only then that You XiaoMo noticed the items. They were the same as the ones in the Giganticus.</seg>
       </tuv>
     </tu>
     <tu>
