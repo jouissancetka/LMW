@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“二师兄，不要这么说，你会好起来的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T184835Z" creationid="Lilly" creationdate="20180924T184835Z">
+        <seg>"Don't say that, second martial brother, you'll get better."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“二长老，不如让这位游兄弟试一试。”玄明提议道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180908T210534Z" creationid="elaine" creationdate="20180908T210411Z">
@@ -5260,6 +5268,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T115227Z" creationid="Ceti" creationdate="20180806T113727Z">
         <seg>"Who knows."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“谢你吉言。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T184843Z" creationid="Lilly" creationdate="20180924T184843Z">
+        <seg>"Thank you for your blessings."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13662,6 +13678,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T184612Z" creationid="Lilly" creationdate="20180924T184612Z">
         <seg>Wei Bai continued in a low tone, "I've heard from my teacher. I thank you for the pill recipe."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>卫白笑了一下，“我师傅找了两百年都没找到的丹方却被你找到了，这声谢谢是应该的，不然我迟早都会死。”他的命一直都是用药材吊着的，他早已厌倦，如今总算有个盼头了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T184815Z" creationid="Lilly" creationdate="20180924T184815Z">
+        <seg>Wei Bai smiled. "The pill recipe my teacher had failed to find for two-hundred years was found by you. You deserve this thanks, otherwise I would've died." His life had been sustained by medicine, and he had long since become tired of it. Now, he had something to hope for.</seg>
       </tuv>
     </tu>
     <tu>
