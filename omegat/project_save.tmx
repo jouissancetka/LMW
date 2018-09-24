@@ -8656,6 +8656,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>乌梅镇的地下拍卖会不只成立了多久，但从底下的建筑却看得出来已经有许多个年头，而且很可能只是一个分部势力而已。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T104643Z" creationid="Lilly" creationdate="20180924T104643Z">
+        <seg>No one knew when Ebony Plum Town' underground auction had been created, but the buildings seemed to have quite a few years to them, and it seemed like it was just a sub-faction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>乍一看像个飘飘，实际上是个帅哥。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T032651Z" creationid="elaine" creationdate="20180828T032651Z">
@@ -36844,8 +36852,8 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       <tuv lang="ZH-CN">
         <seg>黑蜘蛛拍卖会虽然不能算是通天大陆第一的拍卖会，但是名声却是极为响亮，因为是地下黑市，所以引来很多有需要的人，而且由于他们背后不知名的强大势力，因此在通天大陆亦有着举足轻重的地位。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T103904Z" creationid="Lilly" creationdate="20180924T103904Z">
-        <seg>Though the Black Spider's auctions weren't the number one in TongTian Continent, they were very renown. Since this was a black market, many people who had certain needs would swarm in, and because of the unknown yet powerful fraction behind them, they had quite a high position in the TongTian Continent.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T104646Z" creationid="Lilly" creationdate="20180924T103904Z">
+        <seg>Though the Black Spider's auctions weren't the number one in TongTian Continent, they were very renown. Since this was a black market, many people who had certain needs would swarm in, and because of the unknown yet powerful faction behind them, they had quite a high position in the TongTian Continent.</seg>
       </tuv>
     </tu>
     <tu>
