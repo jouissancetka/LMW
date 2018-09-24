@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31430,8 +31430,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>老板娘瞪大眼睛震惊的盯着游小默，正常来说，她应该在这股气势下妥协才对，可是她却没有，反而用食指指着游小默怒吼起来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T130311Z" creationid="Ceti" creationdate="20180924T130311Z">
-        <seg>The landlady stared at you in shock. Normally, she should compromise in this momentum, but she didn't. Instead, she shouted with her forefinger pointing at you.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T132909Z" creationid="Ceti" creationdate="20180924T130311Z">
+        <seg>The landlady stared at You XiaoMo in shock. Normally, she should compromise when under such an aura, yet she didn't and she bellowed while pointing at You XiaoMo with her forefinger instead.</seg>
       </tuv>
     </tu>
     <tu>
