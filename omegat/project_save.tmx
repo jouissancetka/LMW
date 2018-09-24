@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9664,6 +9664,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他们来得比较晚，拍卖场此时分外热闹。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T123659Z" creationid="Lilly" creationdate="20180924T123659Z">
+        <seg>They had arrived rather late and the auction was a bustle of action already.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他们此刻所在的都城是西境北面唯一的一座都城自然城，都城面积非常大，而且也是通天大陆最奇特的一座城，因为该城将一片森林也给圈了进去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T142145Z" creationid="Ceti" creationdate="20180826T100454Z">
@@ -14130,6 +14138,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>后来才知道这些人都是拍卖会的老牌客户，有的是经常光顾拍卖会的人，有的则是经常拿一些见不得人的东西来这里拍卖。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T124917Z" creationid="Lilly" creationdate="20180924T124917Z">
+        <seg>It wasn't until later that he was told that most of these people were old customers or regulars to the auctino, and some were people who often brought obscure items to be sold at the auction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>后来经过观察，见他们一直藏在自在阁没有其他动作，就更加怀疑他们的身份了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T043206Z" creationid="elaine" creationdate="20180824T043206Z">
@@ -14730,6 +14746,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>因为从这些人身上他感觉得出他们并不全是强者。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T124506Z" creationid="Lilly" creationdate="20180924T124506Z">
+        <seg>Because many of these people weren't all that powerful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>因为他们有特殊的消息来源，知道黑蜘蛛拍卖的东西都有哪些，搂住看中其中一件东西，现在和他爹正在想办法凑灵晶。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180917T060951Z" creationid="yun" creationdate="20180917T044500Z">
@@ -14798,6 +14822,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180917T044952Z" creationid="yun" creationdate="20180917T044952Z">
         <seg>SInce, even in a bartering system, you would still weight the exchange by spirit gems. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>因为早有登记，所以他们不需要邀请卡就能参加这场拍卖会，不过多数人都是来看热闹的，当然，能成为黑蜘蛛固定的客户，说明他们的本事也不小。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131103Z" creationid="Lilly" creationdate="20180924T131103Z">
+        <seg>Since they had been registered before, they didn't need invitations to attend. However, most people were just there to watch. Of course, if they could become one of the Black Spider's regulars, then they must be talented.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15262,6 +15294,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T220102Z" creationid="Lilly" creationdate="20180904T220102Z">
         <seg>Just sit here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>多道人流从各种入口进来，逐一寻找座位，空荡荡的座位很快就坐满了人，许多都是互不认识的，有的甚至将自己的脸遮起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T123940Z" creationid="Lilly" creationdate="20180924T123940Z">
+        <seg>People flowed in from different entrances, trying to find a seat. The empty seats soon filled, and many people didn't know each other. Some even hid their faces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16115,6 +16155,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>女侍接过邀请卡，仅看了一眼就大概的确定了他们的身份，脸上的笑容变得十分灿烂殷勤，“黑卡的贵客座位在第一排，三位可往下面直走。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131308Z" creationid="Lilly" creationdate="20180924T131308Z">
+        <seg>The female attendant accepted it and glanced over it to confirm their identities. Her smile became exceedingly bright. "Guests with black invites sit in the first row. If you could head all the way down."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>奸两人&lt;t0/&gt;你追我跑的跑进竹林，&lt;t1/&gt;展雨轩&lt;t2/&gt;望着天空叹气，连这一对也要在他&lt;t3/&gt;面前秀&lt;t4/&gt;恩爱，孤家寡人伤不起！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T125103Z" creationid="Lilly" creationdate="20180711T125103Z">
@@ -16911,6 +16959,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180917T202344Z" creationid="elaine" creationdate="20180917T202344Z">
         <seg>For teachers and elders, points came for free, so the amount of points they gave out usually weren't too low and people didn't have to worry about being ripped off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>对此，游小默略感诧异。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T124442Z" creationid="Lilly" creationdate="20180924T124442Z">
+        <seg>You XiaoMo was surprised by this.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18745,6 +18801,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T140801Z" creationid="Ceti" creationdate="20180920T134341Z">
         <seg>On the auction platform, the auctioneer had already began an unceasing torrent of word to introduce the true value of he parchment. In fact, it was also just a sentence: This is a treasure map handed down from ancient times, generally ancient items are either exceptional treasures or a legendary abode and such.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>拍卖场的头顶亦铺着一层白色晶点矿石，很好的防止坍塌的可能性。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T123642Z" creationid="Lilly" creationdate="20180924T123642Z">
+        <seg>The ceiling of the auction house was covered in a layer of white luminous fragments, which prevented the possibility of a cave-in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24041,6 +24105,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133335Z" creationid="Lilly" creationdate="20180921T133335Z">
         <seg>You XiaoMo took out a jade drive with a first grade rainbow level recipe inside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默拿出邀请卡。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131206Z" creationid="Lilly" creationdate="20180924T131206Z">
+        <seg>You XiaoMo handed over their invite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34187,6 +34259,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T055212Z" creationid="yun" creationdate="20180819T055212Z">
         <seg>Now, the once slowly spinning whirlpool suddenly quickened, becoming faster and faster, with sparks as if a cog was hitting the floor. (光芒仿佛齿轮与地面摩擦迸发出一道道火花)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这时，一位接待员装扮的女侍朝他们走了过来，微微一笑，“三位贵客可是有邀请卡？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131158Z" creationid="Lilly" creationdate="20180924T131158Z">
+        <seg>That was when a a female attendant walked towards them, smiling softly. "Do you three gentleman have an invitation?"</seg>
       </tuv>
     </tu>
     <tu>
