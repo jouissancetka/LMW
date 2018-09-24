@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -986,6 +986,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T141714Z" creationid="Ceti" creationdate="20180623T141714Z">
         <seg>"He is You AingYun, You ZhenTian's second grandson. It's said that he's the most powerful amongst the younger generation of the Vermillion Blood Clan. He should be the grandson that You ZhenTian truly dotes on. I've heard that You ZhenTian's demands towards him are very strict, and would often assign dangerous missions to him, so many assumed that You ZhenTian did not like this grandson." Ling Xiao, who understood the members of the Vermillion Blood Clan extremely well, explained when he saw him watching You QingYun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“他是盗云，在他前面的老人就是他的师傅，神龙见首不见尾的盗神。”凌霄在他耳旁低声说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132841Z" creationid="Lilly" creationdate="20180924T132841Z">
+        <seg>"He's Dao Yun, and the person in front of him is his master, the elusive Thief God," Ling Xiao whispered into is ear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18429,6 +18437,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>想到这，他突然感觉背后&lt;t0/&gt;一&lt;t1/&gt;寒。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132933Z" creationid="Lilly" creationdate="20180924T132933Z">
+        <seg>Just as the thought passed through his mind, he suddenly felt a chill at his back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>想到这，他紧张的扯了扯凌霄的袖子。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T140621Z" creationid="Ceti" creationdate="20180920T134238Z">
@@ -19581,6 +19597,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>有一道极其刺眼的视线让他怎么也忽视不了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132950Z" creationid="Lilly" creationdate="20180924T132950Z">
+        <seg>There was a blinding gaze on him that he couldn't ignore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>有个厉害的男人宠着，老板娘不嚣张谁还能嚣张，不过也有人买账才行。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T222313Z" creationid="Lilly" creationdate="20180830T222313Z">
@@ -20353,6 +20377,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T050728Z" creationid="Lilly" creationdate="20180613T050728Z">
         <seg>As he thought to himself, the owner of the voice finally appeared in front of everyone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>正想着，游小默突然听到有人在叫自己……已经抛弃的名字，现在很多人都知道他不叫游小哈，这种情况下还有谁会叫他？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132741Z" creationid="Lilly" creationdate="20180924T132741Z">
+        <seg>suddenly heard someone calling his name... the name he had abandoned. Right now, many people already knew he wasn't called You XiaoHa, so who would call him that?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23885,6 +23917,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默想起来了，这小子真的找到他师傅了，而且看起来似乎是真正的师徒了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132911Z" creationid="Lilly" creationdate="20180924T132911Z">
+        <seg>You XiaoMo suddenly remembered. Seems like this kid finally found his master, and they were truly master and disciple now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默愣了一下，下意识的回道：“你说得对！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T133025Z" creationid="Ceti" creationdate="20180902T083047Z">
@@ -26815,6 +26855,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默转身就看到坐在第二排的一名青年正站着朝他挥挥手，青年给他的感觉有点熟悉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132806Z" creationid="Lilly" creationdate="20180924T132806Z">
+        <seg>You XiaoMo turned and saw a young man on the second row waving at him. The young man seemed familiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默转过身看向老者。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180628T040246Z" creationid="Lilly" creationdate="20180628T040246Z">
@@ -27131,6 +27179,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180807T131015Z" creationid="Ceti" creationdate="20180806T114416Z">
         <seg>You XiaoMo followed his line of sight and saw the messy pile of clothes beside the bed. His expression changed. Wasn’t these the clothes that Ling Xiao had stripped off him? He did not have time to clean up since they suddenly entered the dimension. If someone really came in and saw the clothes, wouldn't they be able to guess what they had done?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默顺着感觉看过去，猝不及防接触到游震天的视线，那是一双志在必得却极其隐晦的贪婪眼神，好像要把他整个人解剖了一样，一瞬间他就有种灵魂要被洞穿的感觉，感觉太糟心了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T132955Z" creationid="Lilly" creationdate="20180924T132955Z">
+        <seg>L</seg>
       </tuv>
     </tu>
     <tu>
