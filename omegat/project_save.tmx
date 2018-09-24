@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14786,6 +14786,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>因为&lt;t0/&gt;盗云那&lt;t1/&gt;句游小哈，整个拍卖场就超过半数的人都在看他们，毕竟&lt;t2/&gt;师传闻中的&lt;t3/&gt;主角，有很少出现在公共场合里，所以他们这次一定要目睹一下两人的真容。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T140857Z" creationid="Lilly" creationdate="20180924T140857Z">
+        <seg>Because Dao Yun had yelled You XiaoHa, over half of the people in the auction house were looking at them. After all, the main character of all those rumors very rarely appeared in public. They had to take this chance to get a good look at the two and their true appearances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>因为人形的实力不如本体，他能感觉得出，游小默的实力尚在他之上，所以只能用本体耗死他。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T045143Z" creationid="yun" creationdate="20180907T045143Z">
@@ -18185,6 +18193,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T082945Z" creationid="Lilly" creationdate="20180609T082945Z">
         <seg>Of course not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>当然，也有一些人的眼神是恨不得杀了他们的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T140927Z" creationid="Lilly" creationdate="20180924T140927Z">
+        <seg>Of course, there were some who looked at them like they wanted to kill them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29380,6 +29396,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180902T005258Z" creationid="elaine" creationdate="20180902T005258Z">
         <seg>PiQiu's shoulders shrunk and he looked at her, a little scared. He had just heard about MaoQiu's savage accomplishment, and he was a little afraid of her when she revealed a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>盗&lt;t0/&gt;云和他师傅的位置和他们有四个座位的间隔，说话肯定不方便，游小默只有朝他点&lt;t1/&gt;一&lt;t2/&gt;下头就移开视线。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T140740Z" creationid="Lilly" creationdate="20180924T140740Z">
+        <seg>Dao Yun and his master were four seats away from them, making talking rather inconvenient, so You XiaoMo simply nodded towards them and turned away.</seg>
       </tuv>
     </tu>
     <tu>
