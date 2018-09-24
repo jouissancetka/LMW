@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30604,6 +30604,22 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>第一排虽然说是给各大势力，但是真正坐在第一排的只有游震天等实力强大的圣境强者&lt;t0/&gt;和十神榜&lt;t1/&gt;的强者，而他们家族的人则坐在他身后，其他势力也一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T133530Z" creationid="Lilly" creationdate="20180924T133530Z">
+        <seg>Though the first row was given to the powerful Factions, the ones who actually were allowed to sit there were You ZhenTian and the other Sacred Level powerhouses, as well as the ones on the Ten God rankings. As for their clansmen, they took up the seats behind these people. It was the same for the other factions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第一排还有几个位置，凌霄拉着游小默过去直接占了两个位置。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T133406Z" creationid="Lilly" creationdate="20180924T133406Z">
+        <seg>There were still a few seats in the first row. Ling Xiao pulled You XiaoMo over and took two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>第一次从上面飞过的时候只是觉得很恐怖，但还不至于让他脚软，果然亲身体验过才知道妖坟场的恐怖。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180827T211833Z" creationid="elaine" creationdate="20180827T211833Z">
@@ -33731,6 +33747,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180921T172030Z" creationid="yun" creationdate="20180921T172030Z">
         <seg>Five of them were standing close to the door, and unluckily for You XiaoMo, he knew four of them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>跟一群实力超过他许多的强者坐在同一排，游小默表示木有压力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180924T133606Z" creationid="Lilly" creationdate="20180924T133606Z">
+        <seg>You XiaoMo, sitting with a bunch of people whose strength far exceeded his own, expressed that he felt no pressure at all.</seg>
       </tuv>
     </tu>
     <tu>
