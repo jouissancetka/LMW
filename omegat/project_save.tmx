@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8528,6 +8528,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>久而久之，这种现象就渐渐在集九镇的人们心里烙下一个深刻的世界观，就算我们坑了你又怎么样，你敢跟集九镇所有人为敌吗？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T130002Z" creationid="Ceti" creationdate="20180924T130002Z">
+        <seg>Over time, this phenomenon gradually branded a deep world outlook in the hearts of the people of Jiuzhen, even if we pit you, how dare you and Jiuzhen all enemies?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>之前有人&lt;t0/&gt;不&lt;t1/&gt;信邪，特意走进去几步，结果当着所有人的面被两名守卫给架走了，之后就没人敢再示范了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235431Z" creationid="Lilly" creationdate="20180912T235431Z">
@@ -8988,6 +8996,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T133502Z" creationid="Ceti" creationdate="20180902T113539Z">
         <seg>In reality, even Xing Qi and Gao Yin did not know their identities, and only knew that two strangers who had never met before had saved Mo Jing. The only one that knew this was Mo Jing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>事实上，一般的修炼者确实不敢反抗，大家都秉着多一事不如少一事的想法，毕竟是人家的地盘，而真正的强者却没兴趣跟一群蝼蚁计较，一般确实不会在这种偏远停留，这才造成现在的局面。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T130018Z" creationid="Ceti" creationdate="20180924T130018Z">
+        <seg>In fact, the general practitioners do not dare to resist, we all hold the idea that more than one thing is better than less, after all, is the territory of others, and the real strong are not interested in a group of salamanders, generally do not stay in such a remote, this is the situation now.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15275,6 +15291,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>大家都抱着这种愚蠢到极点的想法，也可以说他们没见过世面。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T130010Z" creationid="Ceti" creationdate="20180924T130010Z">
+        <seg>Everyone is holding such foolish and extreme ideas, or they have never seen the world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>大战之后，东洲的又是就不存在了，灵气不知什么原因，变得比外面还要浅，不仅如此，丹师的数量也越来越少。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T140951Z" creationid="Ceti" creationdate="20180922T020324Z">
@@ -18529,6 +18553,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180917T145116Z" creationid="Ceti" creationdate="20180916T091138Z">
         <seg>Therefore, the real reason for the Ebony Plum Town's prosperity was actually due to the auction of the Black Spider, which was located underground beneath Ebony Plum Town.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>所以今天突然遇到一个反抗的人，大家都懵了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T130026Z" creationid="Ceti" creationdate="20180924T130026Z">
+        <seg>So suddenly we met a rebellious man today.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30283,6 +30315,15 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>第&lt;t0/&gt;566&lt;t1/&gt;章&lt;t2/&gt; &lt;t3/&gt;转生丹</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T125806Z" creationid="Ceti" creationdate="20180924T125806Z">
+        <seg>Chapter 556: The Samsara Pill
+Translated by Kollumceti of Exiled Rebels Scanlations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>第一次从上面飞过的时候只是觉得很恐怖，但还不至于让他脚软，果然亲身体验过才知道妖坟场的恐怖。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180827T211833Z" creationid="elaine" creationdate="20180827T211833Z">
@@ -35718,6 +35759,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T132238Z" creationid="Ceti" creationdate="20180827T125413Z">
         <seg>The atmosphere in the private room immediately chilled (冷凝).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>集九镇的人之所以敢坑外来者，不是他们仗着自己有实力，而是一般有实力的外来者是不会来他们这种偏远的小镇的，再者集九镇已经有上千年的历史，自从人们一致排外后，集九镇就没有出过事。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20180924T125955Z" creationid="Ceti" creationdate="20180924T125955Z">
+        <seg>The reason why the people of Jijiu Town dare to pit the outsiders is not that they have strength on their own, but that the outsiders with general strength will not come to such a remote town. Besides, Jijiu Town has a history of thousands of years. Since people were unanimously exclusive, Jijiu Town has never happened.</seg>
       </tuv>
     </tu>
     <tu>
