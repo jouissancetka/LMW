@@ -322,3 +322,5 @@ xx 家	xx Family/Clan
 银夫人	Lady Yin
 游明	You Ming
 碧妖蛇	Jade Devil Snake
+东洲	Dong Zhou
+古玛部落	Guma Tribe	 
