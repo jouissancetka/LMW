@@ -329,3 +329,4 @@ xx 家	xx Family/Clan
 通天殿	TongTian Palace
 拍卖师	auctioneer
 炉鼎	Cauldron
+灵酒	spirit wine
