@@ -326,3 +326,4 @@ xx 家	xx Family/Clan
 古玛部落	Guma Tribe	 
 真龙族	True Dragon Clan
 麟天	Lin Tian
+通天殿	TongTian Palace
