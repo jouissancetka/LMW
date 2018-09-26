@@ -19277,6 +19277,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>拍卖会的开头往往不会拍卖一些高价值的，不过既然黑蜘蛛的拍卖物品号称精品，那么开头的东西应该也不会差到哪里。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T130248Z" creationid="yun" creationdate="20180926T130248Z">
+        <seg>Normally an auction would start off with some lesser valuable stuff, but since the auction items of the Black Spiders are known as boutiques/quality goods (精品), then  the opening shouldn't be too bad either.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>拍卖台上出现一个袖珍小玉瓶，能够作为压轴拍卖品的内丹，它的等级十之八九超过十二阶。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180925T235013Z" creationid="elaine" creationdate="20180925T235013Z">
@@ -19305,6 +19313,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T123642Z" creationid="Lilly" creationdate="20180924T123642Z">
         <seg>The ceiling of the auction house was covered in a layer of white luminous fragments, which prevented the possibility of a cave-in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>拍卖师介绍完之后就宣布拍卖会开始。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T125917Z" creationid="yun" creationdate="20180926T125917Z">
+        <seg>After the auctioneer finished their introductions, they announced the start of the auction.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -19465,6 +19481,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180905T072834Z" creationid="yun" creationdate="20180905T072834Z">
         <seg>According to some, Yang Ding's cry could be heard from the other merchant ship.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>据说这种晶石只有一处地方有，而那个地方极其危险，只有真正能力的人才有办法开采。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T125817Z" creationid="yun" creationdate="20180926T125817Z">
+        <seg>According to what he heard, there was only one place that had these crystal stones, and it was an extremely dangerous place. Only those who are truly strong have a way to mine them. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21145,6 +21169,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180926T004726Z" creationid="elaine" creationdate="20180926T004726Z">
         <seg>Every generation of Seven Sins Beasts was like this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>每一件拍卖品是从拍卖台下方升起来的，减少了人工，又体现了它的方便性能。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T130029Z" creationid="yun" creationdate="20180926T130029Z">
+        <seg>Every item rose from below the auction stand, which reduced labor cost and showed off it's convenience.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -35761,8 +35793,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>透过晶石板确实可以减少吵杂的声响，游小默一直觉得这玩意比现代的高科技还高科技，不过他听说晶石板这种东西在通天大陆并不流行，不是人们排斥，而是这种晶石的量很少。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20180926T125022Z" creationid="yun" creationdate="20180926T124954Z">
-        <seg>Seeing it ghjk  </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T125429Z" creationid="yun" creationdate="20180926T124954Z">
+        <seg>Seeing through a tablet did in fact reduce the noise of a typical auction. You XiaoMo had always thought that this stuff was even more high tech then the high tech stuff in the modern world. However, he also heard that this kind of crystal stone tablets were not common in the TongTian Continent, not because it's rejected but because the limited quantity of these crystal stones.    </seg>
       </tuv>
     </tu>
     <tu>
