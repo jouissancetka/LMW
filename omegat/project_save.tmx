@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“安心，二师兄，我知道分寸的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153340Z" creationid="yun" creationdate="20180926T153340Z">
+        <seg>"Don't worry, second-shixiong, I know." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“宝贝，是谁把你打成这样的？”黑熊看到地上的老板娘，脸色一变，立刻心疼的走过去将她扶起来，小心翼翼的动作生怕把他碰碎了一样。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T224110Z" creationid="Lilly" creationdate="20180830T224110Z">
@@ -3210,6 +3218,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T050117Z" creationid="Lilly" creationdate="20180613T050117Z">
         <seg>"Brat, you really are rather brave. You dare to hurt my older brother, impressive!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“小师弟，你想要这款灵酒？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T152733Z" creationid="yun" creationdate="20180926T152733Z">
+        <seg>"Little-shidi (小师弟), you also want this spirit wine?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6664,6 +6680,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一旁的卫白见他两眼放精光的看着拍卖台上的灵酒便开口问道，他的身体不适合喝酒，所以看到这灵酒便兴趣缺缺。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T152950Z" creationid="yun" creationdate="20180926T152908Z">
+        <seg>Wei Bai, who sat beside them, asked as he saw You XiaoMo looking at the spirit wine bright eyed. (精光) His body wasn't suited for alcohol so he wasn't interested.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一旁的天明看的差&lt;t0/&gt;点破功笑起来&lt;t1/&gt;，这是他第一次看到天恨被噎成这样，两次都说不过对方。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T191100Z" creationid="Lilly" creationdate="20180824T190732Z">
@@ -6732,6 +6756,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T095901Z" creationid="kollumceti" creationdate="20180822T095901Z">
         <seg>With one and a half a second to close the distance, the last half second was just enough to enter the restriction (禁制) that was closing. As they were in a rush to gather, the two completely did not realise that two outsiders had already snuck into their territory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一秒后，拍卖师扬声宣布了他的价格，“十五号出家一千万灵晶，还有没有人出更高的价格？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T154042Z" creationid="yun" creationdate="20180926T154042Z">
+        <seg>A second later, the auctioneer announced his bid, "Number fifteen offers ten million spirit gems, will anyone go higher?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13858,6 +13890,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>前排那些势力到现在没有几个人出手就是这个原因，为了保证能拍到他们想要的东西，不必要的地方绝不乱花，否则后面差了一点点，那就真要吐血了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153313Z" creationid="yun" creationdate="20180926T153313Z">
+        <seg>That was the reason those forces in the front row hadn't made a move yet. It was to ensure that they were going to get what they really wanted and not waste spirit gems. After all, if they lost a bid because of that then they were really going to cough up blood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>前晚从白骨小镇离开后，他们并没有立刻回鬼哭涯。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="kollumceti" changedate="20180822T095816Z" creationid="kollumceti" creationdate="20180822T095816Z">
@@ -13918,6 +13958,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180926T000146Z" creationid="elaine" creationdate="20180926T000146Z">
         <seg>The background of a Life Crystal of a level twelve demon beast should be clarified beforehand, or the clan members that it attracted would lose more than they gained. In reality, even if the black-robed man hadn't asked, the people who were interested in it would have also asked. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>十五号就是游小默的座位号。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T154057Z" creationid="yun" creationdate="20180926T154057Z">
+        <seg>Number fifteen was You XiaoMo's seat. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14014,6 +14062,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T184612Z" creationid="Lilly" creationdate="20180924T184612Z">
         <seg>Wei Bai continued in a low tone, "I've heard from my teacher. I thank you for the pill recipe."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>卫白想了想说：“如果你想竞拍后面的压轴宝贝，接下来最好不要花太多灵晶在其他地方。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153059Z" creationid="yun" creationdate="20180926T153059Z">
+        <seg>Wei Bai thought about it and said, "If you want to bid for the last few items (压轴), then it's better if you don't spent so much on other things." </seg>
       </tuv>
     </tu>
     <tu>
@@ -15254,6 +15310,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090036Z" creationid="Lilly" creationdate="20180609T090036Z">
         <seg>Since he always disappeared from the limelight after doing anything big, no one was sure of how to judge his abilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>因为以往每发现一个荒蛮位面，过程都是腥风血雨。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153553Z" creationid="yun" creationdate="20180926T153553Z">
+        <seg>It had always been the case that with the discovery of a (荒蛮位面)  bloodshed ensued. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16887,6 +16951,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T205218Z" creationid="Lilly" creationdate="20180824T205218Z">
         <seg>If it's the latter, how do I tell if Xiao Pang is pregnant?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>如果没有灵酒的配方，这款极品灵酒的价格绝对不会超过一百万灵晶，这个结果确实出乎很多人的意料。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153848Z" creationid="yun" creationdate="20180926T153826Z">
+        <seg>If there wasn't a recipe then the price of the spirit wine itself wouldn't have gone past beyond one million spirit gems. It was a surprising result for many people. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21317,6 +21389,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>每张座椅前方都会有一个醒目的编号，参与竞争后，座位号及价位就会及时的显示在拍卖师面前的晶石板上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T154201Z" creationid="yun" creationdate="20180926T154201Z">
+        <seg>Every chair has a noticeable number in front of it. Once you participate in the bid, the seat number and bid amount would be reflected in the auctioneer's tablet. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>每株灵草都装在一个玉盒子里，成熟的灵草反而比幼苗要多一些，虽然质量只有下品和中品，但已经很不错了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180917T040417Z" creationid="yun" creationdate="20180917T040417Z">
@@ -22717,6 +22797,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默一脸自信，他没有把他现在拥有一条灵脉灵晶的事情告诉他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153400Z" creationid="yun" creationdate="20180926T153400Z">
+        <seg>You XiaoMo replied with confidence, he hadn't told him yet that he had a whole leyline worth of spirit gems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默一脸震惊。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T064817Z" creationid="yun" creationdate="20180907T064817Z">
@@ -23769,6 +23857,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T101323Z" creationid="Ceti" creationdate="20180630T101323Z">
         <seg>You XiaoMo swallowed, this was too horrifying, "Is there any way to remove it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默哈哈一笑，“我对它的配方比较感兴趣。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153006Z" creationid="yun" creationdate="20180926T153006Z">
+        <seg>You XiaoMo laughed at that and said, "I'm more interested in the recipe."</seg>
       </tuv>
     </tu>
     <tu>
@@ -27275,6 +27371,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T194637Z" creationid="Lilly" creationdate="20180824T194611Z">
         <seg>You XiaoMo didn't bother hiding it now that the cat was out of the bag. The clothes near You XiaoMo's chest moved suddenly and then two Golden Winged Insects flew out, circling for a while before landing on You XiaoMo's head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默见差不多了，就要他面前的晶石板输入自己的价格。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153926Z" creationid="yun" creationdate="20180926T153926Z">
+        <seg>Seeing that the time was right, You XiaoMo typed his bid on the crystal stone tablet. </seg>
       </tuv>
     </tu>
     <tu>
@@ -31916,6 +32020,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>经过竞价，九成的人已经被三振出局，剩下的都是些小有资本的竞争者，灵酒的价格也从二十万灵晶提升到八百万，整个翻了四十倍。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153756Z" creationid="yun" creationdate="20180926T153753Z">
+        <seg>After some bidding, ninety percent had given up and all that was left were fairly competent competitions. The price of the spirit wine had also gone from two hundred thousand to eight million, that was fortyfolds.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>经过这些天的调查，他已经确定将禁地的囚犯放出的人以及在&lt;t0/&gt;苍盟绵绵山将风迟云带走&lt;t1/&gt;的人是同一个，但是没有线索，所以他只知道其中一个小子就是他在找的空间传承者。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T132759Z" creationid="Lilly" creationdate="20180730T132759Z">
@@ -33360,6 +33472,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180905T035048Z" creationid="elaine" creationdate="20180905T035048Z">
         <seg>The shopkeeper of the teahouse happily served them a pot of hot tea. You XiaoMo poured a cup of tea before picking it up and walking to the door. He handed it to a young man who was pretending to look around, and he said with a smile, "It must've been hard work to follow us this whole time. I invite you to drink a cup of tea!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>荒蛮位面的事情必须保密，这是凌霄跟他说的，因为一旦传出去，对他们有意图的人将会从赤血家族扩展到通天大陆所有势力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T153510Z" creationid="yun" creationdate="20180926T153510Z">
+        <seg>Ling Xiao told him that the thing that happened at the (荒蛮位面) must be kept a secret. If it was to get out, then those looking for them would expand from the Vermillion Blood Clan to all of the TongTian Continent. </seg>
       </tuv>
     </tu>
     <tu>
@@ -35627,6 +35747,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T083144Z" creationid="Ceti" creationdate="20180825T083144Z">
         <seg>Was he afraid that he would overhear their secret?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这是第一排的强者第一次参与竞拍。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180926T154217Z" creationid="yun" creationdate="20180926T154217Z">
+        <seg>It was the first time that a front row powerhouse participated in a bid. </seg>
       </tuv>
     </tu>
     <tu>
