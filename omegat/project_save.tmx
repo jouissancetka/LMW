@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你悠着点，别太冲动了！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T144252Z" creationid="Lilly" creationdate="20180929T144252Z">
+        <seg>"Calm down, don't be so reckless!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你想不想你儿子？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T010804Z" creationid="elaine" creationdate="20180821T010804Z">
