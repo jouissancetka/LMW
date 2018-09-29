@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12600,6 +12600,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄把他放下来，将他的头掰向正面，“因为他已经追上来了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T150712Z" creationid="elaine" creationdate="20180929T150712Z">
+        <seg>Ling Xiao set him down and turned his head so he looked to the front. "Because he already caught up to us."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄把头埋在他的脖颈处，深吸了一口。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084616Z" creationid="Lilly" creationdate="20180609T084616Z">
@@ -24493,6 +24501,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默咧起的嘴巴又合了起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T150752Z" creationid="elaine" creationdate="20180929T150752Z">
+        <seg>You XiaoMo's mouth, which had fallen open, closed again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默咳了一声，说道：“我就是想问一下，我的金翅虫交配以后，是立刻就能产出金丝，还是这玩意就像怀孕，不知道什么时候才会中招？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T205159Z" creationid="Lilly" creationdate="20180824T205159Z">
@@ -28569,8 +28585,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默趴在凌霄的肩膀上，一边看着越来越靠近的游震天，一边征求的问道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20180929T071716Z" creationid="elaine" creationdate="20180929T071716Z">
-        <seg>You XiaoMo leaned over Ling Xiao's shoulder, and he asked him pleadingly as he watched You ZhenTian get closer and closer.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T150732Z" creationid="elaine" creationdate="20180929T071716Z">
+        <seg>You XiaoMo was thrown over Ling Xiao's shoulder, and he asked him pleadingly as he watched You ZhenTian get closer and closer.</seg>
       </tuv>
     </tu>
     <tu>
