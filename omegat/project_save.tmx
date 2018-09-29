@@ -19901,6 +19901,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>手、手抖？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T153916Z" creationid="Lilly" creationdate="20180929T153916Z">
+        <seg>Hand... hand slipped?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>手臂上的鸡皮疙瘩霎时争先恐后的冒出来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180820T040138Z" creationid="elaine" creationdate="20180820T040138Z">
@@ -25713,6 +25721,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T202639Z" creationid="Lilly" creationdate="20180904T202639Z">
         <seg>You XiaoMo found a crew member and asked after the location of the kitchen. On his way over, he though of what he would make, having decided to cook it himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默抓抓脑袋，“我又不是故意的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T153908Z" creationid="Lilly" creationdate="20180929T153908Z">
+        <seg>You XiaoMo scratched his head. "I didn't do it on purpose."</seg>
       </tuv>
     </tu>
     <tu>
