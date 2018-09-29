@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12108,6 +12108,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T005108Z" creationid="Lilly" creationdate="20180909T005108Z">
         <seg>Seeing the fear in his eyes, Ling Xiao's smile grew with eager malice. Bloodlust, cruelty and killing intent was clear in his gaze, his voice a sinister drawl, "If you understand, then it seems that you've accepted that death is your fate. Then, die!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄仿佛没感觉到那些正用灼热的目光注视着他们的视线，拿起游小默竞价的那只手捏了捏。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T153540Z" creationid="Lilly" creationdate="20180929T153540Z">
+        <seg>Ling Xiao didn't seem to feel the burning gazes on them, picking up the hand You XiaoMo had used to bid and pinching it.</seg>
       </tuv>
     </tu>
     <tu>
