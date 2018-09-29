@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29495,6 +29495,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游震天并没有成名武器，不过他的拳头与脚却比武器还要更强大，一拳就饱含着毁天灭地的震撼，拳头所过之处，四周的空间都扭曲起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T165505Z" creationid="elaine" creationdate="20180929T165505Z">
+        <seg>You ZhenTian didn't have any famous weapons, but his fists and feet were even more powerful than a weapon. One of his fists alone contained the ability to shake the heavens and the earth, and wherever his fist went, the space around it became distorted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游震天并没有立刻上来，这股威压不过是他给这里年轻人们一个下马威罢了，大家也没有想到，游震天本人竟然会亲自过来，这可是大新闻。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180623T125319Z" creationid="Ceti" creationdate="20180623T125319Z">
@@ -36355,6 +36363,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093334Z" creationid="Lilly" creationdate="20180609T093334Z">
         <seg>This scene caused the onlooking mentors and elders to nod in approval. Though Tong YueXu’s natural talent wasn’t as good as You XiaoMo or Teng ZiXin, he was diligent and hardworking, and they were lucky to have him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这一拳是试探，但也相当于游震天七成的实力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T165549Z" creationid="elaine" creationdate="20180929T165549Z">
+        <seg>This fist was just a test, but it also equaled 70% of You ZhenTian's strength.</seg>
       </tuv>
     </tu>
     <tu>
