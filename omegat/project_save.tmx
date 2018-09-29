@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4274,6 +4274,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180908T134514Z" creationid="Ceti" creationdate="20180907T144217Z">
         <seg>"It should not be possible for him to have sealed the city in order find us. Could it really have been due to a thief?" You XiaoMo poured a cup of hot tea for Ling Xiao while speculating enthusiastically. One person came to mind while speaking of thieves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“把人留下，我饶你一命！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T164440Z" creationid="elaine" creationdate="20180929T164440Z">
+        <seg>"If you leave him here, I'll spare your life!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29571,6 +29579,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T102354Z" creationid="Lilly" creationdate="20180730T102354Z">
         <seg>You ZhenTian surprisingly didn't erupt, and the anger on his face even faded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游震天背着双手，脸色阴沉得能滴水，但是眼神却好似跳动着几簇火焰一样，目光灼灼的盯着游小默，凌霄则直接被他无视了，两人在他看来已经是瓮中之鳖，他现在更想知道游小默到底有没有开启那件东西。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T164428Z" creationid="elaine" creationdate="20180929T164428Z">
+        <seg>You ZhenTian clasped his hands behind his back, expression extremely dark, but several flickers of flame seemed to be leaping in his eyes. His gaze shined as he stared at You XiaoMo, and Ling Xiao was directly ignored by him. To him, the two of them were already essentially trapped. All he wanted to know now was whether or not You XiaoMo had opened that item.</seg>
       </tuv>
     </tu>
     <tu>
