@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3410,6 +3410,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T050117Z" creationid="Lilly" creationdate="20180613T050117Z">
         <seg>"Brat, you really are rather brave. You dare to hurt my older brother, impressive!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“小师弟，你们该不会不知道这道手续？”&lt;t0/&gt;卫白低&lt;t1/&gt;浅的声音顿时响起，带着一丝不可思议和一丝担忧。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T175610Z" creationid="Lilly" creationdate="20180929T175610Z">
+        <seg>"Little martial brother, do you not know the procedures here?" Wei Bai's low voice sounded, tone a little shocked and a little worried.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14622,6 +14630,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180926T153059Z" creationid="yun" creationdate="20180926T153059Z">
         <seg>Wei Bai thought about it and said, "If you want to bid for the last few items (压轴), then it's better if you don't spent so much on other things." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>卫白皱&lt;t0/&gt;起眉，这下可不好办，他解释道：“你们参加拍卖会之前竟然没有先了解拍卖会的流程？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T175657Z" creationid="Lilly" creationdate="20180929T175657Z">
+        <seg>Wei Bai frowned. This wasn't good. He explained, "You didn't check the flow of the auction before attending?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -28435,6 +28451,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180929T053110Z" creationid="Ceti" creationdate="20180929T034103Z">
         <seg>You XiaoMo's expression turned bitter, what year and what day would he be able to help Ling Xiao refine the Reincarnation Pill?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默茫然地问道：“什么手续？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T175622Z" creationid="Lilly" creationdate="20180929T175622Z">
+        <seg>You XiaoMo asked in confusion, "what procedures?"</seg>
       </tuv>
     </tu>
     <tu>
