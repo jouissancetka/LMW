@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10304,6 +10304,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他们绝对承担不起后果。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T174140Z" creationid="Lilly" creationdate="20180929T174140Z">
+        <seg>They couldn't deal with such consequences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他们自然是愿意的，像他们这样的小村庄还有很多个，要不是清风门欠他们的&lt;t0/&gt;债一直&lt;t1/&gt;拖到现在都还没还，导致他们都没有钱财，他们早搬过去了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T035631Z" creationid="Lilly" creationdate="20180715T035631Z">
@@ -16398,6 +16406,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T135144Z" creationid="Ceti" creationdate="20180919T125517Z">
         <seg>In the Black Spider's auction, using one's aura to oppress others was permissible as long as one did not physically come to blows (直接动手), so they would not step in to stop it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>地图以&lt;t0/&gt;八亿灵晶的&lt;t1/&gt;天价被&lt;t2/&gt;凌霄拍&lt;t3/&gt;到手了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T174229Z" creationid="Lilly" creationdate="20180929T174229Z">
+        <seg>The map was taken by Ling Xiao at the absurd price of eight hundred million.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29791,6 +29807,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游震天考虑再三，终于没有再出价。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T174155Z" creationid="Lilly" creationdate="20180929T174155Z">
+        <seg>You ZhenTian considered it again and, in the end, decided against bidding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游震天背着双手，脸色阴沉得能滴水，但是眼神却好似跳动着几簇火焰一样，目光灼灼的盯着游小默，凌霄则直接被他无视了，两人在他看来已经是瓮中之鳖，他现在更想知道游小默到底有没有开启那件东西。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180929T164428Z" creationid="elaine" creationdate="20180929T164428Z">
@@ -35669,6 +35693,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>视凌霄为敌人的&lt;t0/&gt;麟昊&lt;t1/&gt;武和&lt;t2/&gt;姬芮&lt;t3/&gt;，他们虽然很想哄抬价格，但是万一失败，对方不吃这一套怎么办？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T174130Z" creationid="Lilly" creationdate="20180929T174130Z">
+        <seg>Lin HaoWu and Ji Rui viewed Ling Xiao as an enemy and wanted to mess with Ling Xiao and raise the price, but what if they failed and their opponent didn't fall for it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>解决完衣服，游小默才想起重点，转过身，“你觉得谁会不经我同意就进入我的房间？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T115147Z" creationid="Ceti" creationdate="20180806T115147Z">
@@ -37331,6 +37363,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T151213Z" creationid="Ceti" creationdate="20180804T070609Z">
         <seg>You XiaoMo swore that he already seen this sort of thing four times. He lifted his head up to look at Ling Xiao. Sure enough, Ling Xiao's indifferent expression slowly became solemn and his astute eyes delicately narrowed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这种情况下是没有人敢胡乱哄抬价格的，连游震天也不会，除非是像游小默一样，身上没有家族负担之类的事情，而且敢不计代价，别人却以为他在哄抬价格。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T174025Z" creationid="Lilly" creationdate="20180929T173935Z">
+        <seg>Under such a situation no one dared to raise the price just to fuck around, not even You ZhenTian. Unless they were like You XiaoMo who didn't have the burden of representing a clan and didn't care about the consequences, yet others thought he was messing around (而且敢不计代价，别人却以为他在哄抬价格).</seg>
       </tuv>
     </tu>
     <tu>
