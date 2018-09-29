@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13616,6 +13616,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄突然握紧他的手，低声道：“不着急。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T172809Z" creationid="Lilly" creationdate="20180929T172809Z">
+        <seg>Ling Xiao suddenly grabbed his hand, saying in a low tone, "Don't panic."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄突然皱了下眉，犹豫了一瞬间便冲到男子面前，随手弹出两缕火焰将锁链干脆的烧断了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T094554Z" creationid="Lilly" creationdate="20180629T094554Z">
@@ -17487,6 +17495,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T145309Z" creationid="Ceti" creationdate="20180827T130349Z">
         <seg>He did not believe that there were still so many people who could afford it if one meal was so expensive. This was because most of the demon beasts were gluttons. Furthermore, Xi Jing was unlike the other places and most of the demon beasts were poor. He absolutely did not believe that the price would be set so high.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>如果和他们争下去，别人就会知道这张地图是他的目标，想到他之前‘哄抬价格’一事，就算拍到的那些东西真是他的目标，可是别人不会这么想，游小默突然生出一丁点后悔。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T172751Z" creationid="Lilly" creationdate="20180929T172730Z">
+        <seg>If he continued to compete with them, the others would realize that he wanted the map. Thinking back to when he had raised the prices on purpose to mess around with people, even if the things he bid for were what he actually wanted, others might not think the same way. You XiaoMo regretted it. (如果和他们争下去，别人就会知道这张地图是他的目标，想到他之前‘哄抬价格’一事，就算拍到的那些东西真是他的目标，可是别人不会这么想，游小默突然生出一丁点后悔。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26961,6 +26977,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180908T210054Z" creationid="elaine" creationdate="20180908T210054Z">
         <seg>You XiaoMo nodded. This name wasn't anything much, and it wasn't even as good as the name he had given the baby turtle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默点点头，静下心。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T172818Z" creationid="Lilly" creationdate="20180929T172818Z">
+        <seg>You XiaoMo nodded, calming himself.</seg>
       </tuv>
     </tu>
     <tu>
