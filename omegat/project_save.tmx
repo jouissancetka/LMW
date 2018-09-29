@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你不是说打一架是少不了的吗？”游小默被他说糊涂了，听起来应该是不用打，但前言不搭后语。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T065125Z" creationid="elaine" creationdate="20180929T065125Z">
+        <seg>"Didn't you just say a fight is unavoidable?" You XiaoMo was confused by what he said. It sounded like they wouldn't need to fight, but what he said before didn't match what he said after.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你不用帮他说好话。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T151016Z" creationid="Lilly" creationdate="20180609T151016Z">
@@ -4050,6 +4058,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T125223Z" creationid="Ceti" creationdate="20180909T101544Z">
         <seg>"I say, this news is already so outdated. Why are you still talking about it?!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我说的打一架是我们，不是傅苍穹他们。”凌霄耐心的说道，对他的智商向来没有报太大的期望。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T065240Z" creationid="elaine" creationdate="20180929T065240Z">
+        <seg>"I meant that we'll be the ones fighting, not Fu CangQiong and the rest." Ling Xiao said patiently. He had never had too high expectations for You XiaoMo's IQ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,6 +15814,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T073110Z" creationid="Lilly" creationdate="20180715T073110Z">
         <seg>In their memories, the QingFeng Sect had only given them five crystal coins per five hundred magic herbs, and the exchange rate between crystal coins and spirit gems was 1000:1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>在他们的对话的时候，麒麟族也表态了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T065258Z" creationid="elaine" creationdate="20180929T065258Z">
+        <seg>While they were talking, the Qilin Clan had also picked a side.</seg>
       </tuv>
     </tu>
     <tu>
