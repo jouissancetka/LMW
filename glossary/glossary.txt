@@ -182,11 +182,9 @@ xx 家	xx Family/Clan
 麒麟神火	Qilin Godfire
 大鹏鸟	Giant Roc
 程荷	Cheng He
-一品彩丹	first grade rainbow pill
 彩丹	rainbow pill
 丹方	pill recipe
 乾坤丹	Cosmos Pill
-二品彩丹	second grade rainbow pill
 拂柳幽典	Buddha’s Willow Standard
 精血	Blood Essence
 龙族	Dragon Clan
@@ -244,10 +242,7 @@ xx 家	xx Family/Clan
 炼丹房	Pill Refining Room
 自在阁	Leisure Pavilion
 赤血家族	Vermillion Blood Clan
-彩级一品	first grade rainbow level
 胡村	Hu Village
-上品灵草	high-grade magic herbs
-中级灵草	mid-grade
 天公鼎	Heavenly Cauldron
 杂质	impurities
 天修	Tian Xiu
@@ -287,7 +282,6 @@ xx 家	xx Family/Clan
 赵二	Zhao Er
 万厨师	Chef Wan
 助手	assistant 
- 鲸岛	Whale Island
 海初	Hai Chu
 玄宗	Xuan Zong
 修为	cultivation base
@@ -327,10 +321,20 @@ xx 家	xx Family/Clan
 麟天	Lin Tian
 通天殿	TongTian Palace
 拍卖师	auctioneer
-炉鼎	Cauldron
 灵酒	spirit wine
 转生丹	Reincarnation Pill
 游丹青	You DanQing
 红鹰炉	Red Eagle Cauldron
 晶石板	Crystal Tablet
 酒师	sommelier
+一品彩丹	grade one rainbow pill
+二品彩丹	grade two rainbow pill
+上品灵草	high-grade magic herb
+中级灵草	mid-grade magic herb
+鲸岛	Whale Island
+炉鼎	cauldron
+荒蛮位面	wild plane	uninhibited
+灵力	spiritual energy
+空间戒指	dimension ring
+芥子空间	pocket dimension
+龙傲	Long Ao
