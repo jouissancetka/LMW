@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20197,6 +20197,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>拍卖师在看到晶石板上的数字是笑容不由得僵了一下，虽然不是十五号，但是十四号跟十五号是一伙的，这两个人到底是来捣乱的，还是真心想拍卖这些东西。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T173510Z" creationid="Lilly" creationdate="20180929T173510Z">
+        <seg>When the auctioneer saw the number on the crystal tablet, his smile froze for a moment. Though it wasn't number fifteen, fourteen and fifteen were together. Were these to here to make a mess or did they actually want to buy these things?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>拍卖师奸气氛终于调动起来，松了一口气的同时便宣布道：“低价两亿，大家可以开始竞价了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T024201Z" creationid="Ceti" creationdate="20180922T020427Z">
@@ -20329,6 +20337,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180929T163003Z" creationid="Lilly" creationdate="20180929T163003Z">
         <seg>The auctioneer repeated himself twice again, and when he prepared to lower the hammer on the third time, the crystal tablet updated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>拍卖师顿了&lt;t0/&gt;两秒，只得宣布道：“十四号出价八亿。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T173537Z" creationid="Lilly" creationdate="20180929T173537Z">
+        <seg>The auctioneer hesitated for two seconds and could only announce, "Number fourteen bids eight hundred million."</seg>
       </tuv>
     </tu>
     <tu>
@@ -27161,6 +27177,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T083520Z" creationid="Ceti" creationdate="20180728T144644Z">
         <seg>You XiaoMo shook the water droplets off his hand and stood up. He tranquilly gazed at the four at the lakeside. Pausing for a moment, he then walked over and stood in front of them and questioned in a mild tone, "Is there anyone who can tell me why the water level of the spiritual water lake has dropped by zero-point-two centimeters?" There was three seconds of silence...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默甩甩脑袋，关键不是这个，凌霄到底输了多少进去，这种情况怎么着都有可能是那个数字。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T173414Z" creationid="Lilly" creationdate="20180929T173414Z">
+        <seg>You XiaoMo shook his head. That wasn't the point. The point was how much Ling Xiao had bid, in such a situation, it could only be that number.</seg>
       </tuv>
     </tu>
     <tu>
