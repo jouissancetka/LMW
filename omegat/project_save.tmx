@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1842,6 +1842,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T135158Z" creationid="Lilly" creationdate="20180609T135158Z">
         <seg>"Where are you going?" Tian Xin asked, seeing that he seemed to intend to head out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你退开，不管发生任何事都不要靠近！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T164942Z" creationid="elaine" creationdate="20180929T164942Z">
+        <seg>"Step back. No matter what happens, don't come closer!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13028,6 +13036,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180908T133933Z" creationid="Ceti" creationdate="20180907T132614Z">
         <seg>Ling Xiao did not have any objections. He understood You XiaoMo's way of thinking quite well. If they missed this opportunity, they did not know when the next opportunity to contact Mo Jing would come.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄没有理他，这是他第一次越阶斗圣境强者，压力确实有，但是更多的却是跃跃欲试的兴奋，他准备利用这次机会试一试四种血脉的威力，之所以跑到这里，就是不想让太多人看到。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T164906Z" creationid="elaine" creationdate="20180929T164906Z">
+        <seg>Ling Xiao ignored him. This was his first time challenging a Sacred Realm expert. Although the pressure was indeed present, there was more of an eager happiness than anything else. He was prepared to use this chance to test the power of four different bloodlines. The reason he had run to this place was just because he didn't want too many people to witness it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28239,6 +28255,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默被他推着往后退了几步，“你小心一点。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T164953Z" creationid="elaine" creationdate="20180929T164953Z">
+        <seg>You XiaoMo was pushed several steps back by him. "Be careful."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默被他晃得站不稳，就退到他的龟壳边缘。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T014316Z" creationid="Lilly" creationdate="20180909T014316Z">
@@ -29531,6 +29555,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180929T164622Z" creationid="elaine" creationdate="20180929T164622Z">
         <seg>You ZhenTian's gaze only moved to Ling Xiao when he saw You XiaoMo hide behind him. His confidence from being a Sacred high-star expert made him completely underestimate Ling Xiao's combat strength.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游震天看穿他的意图，冷哼一声，“不自量力！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T165057Z" creationid="elaine" creationdate="20180929T165057Z">
+        <seg>You ZhenTian saw through his intentions and sneered coldly. "Over-confident!"</seg>
       </tuv>
     </tu>
     <tu>
