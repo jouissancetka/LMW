@@ -331,3 +331,6 @@ xx 家	xx Family/Clan
 灵酒	spirit wine
 转生丹	Reincarnation Pill
 游丹青	You DanQing
+红鹰炉	Red Eagle Cauldron
+晶石板	Crystal Tablet
+酒师	sommelier
