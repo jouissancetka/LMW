@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1034,6 +1034,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T094428Z" creationid="Ceti" creationdate="20180721T111323Z">
         <seg>"He should still be here. Immediately dispatch people to look for him." Tang ZhongHua was not too surprised with his answer. That person was quite fast and his strength seemed to be comparable to his. Furthermore, the thief was well prepared, so he would probably not be caught so easily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“他快要追上了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T145956Z" creationid="elaine" creationdate="20180929T145941Z">
+        <seg>"He's about to catch up to us."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2322,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T123805Z" creationid="Lilly" creationdate="20180616T123805Z">
         <seg>"Of course."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“可以！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T150154Z" creationid="elaine" creationdate="20180929T150154Z">
+        <seg>"Yeah!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,6 +4090,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062030Z" creationid="Lilly" creationdate="20180629T062030Z">
         <seg>"Got it. You be careful, too."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我知道，你要不要去我的空间里待着？”凌霄头也不回的说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T150131Z" creationid="elaine" creationdate="20180929T150131Z">
+        <seg>"I know, do you want to go stay in my dimension?" Ling Xiao didn't even turn his head as he spoke.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26741,6 +26765,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默犹豫了一下，“可以不要吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T150142Z" creationid="elaine" creationdate="20180929T150142Z">
+        <seg>You XiaoMo hesitated for a beat. "Can I not?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默犹豫了一下，还是打消下去看看的念头，不然要是被突然回来的唐中华撞见，肯定会被他缠住，那个老家伙的实力跟他差不多。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T092644Z" creationid="Ceti" creationdate="20180721T095649Z">
@@ -27105,6 +27137,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T013802Z" creationid="Lilly" creationdate="20180909T013802Z">
         <seg>You XiaoMo was also very satisfied by the sight of nothing but sea stretching out for miles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默看了看与他们的距离只剩下不到几千米的游震天，心里却怎么也高兴不起来，这是要拼命的节奏啊，他一点也不喜欢。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T150100Z" creationid="elaine" creationdate="20180929T150100Z">
+        <seg>You XiaoMo looked at You ZhenTian, and the distance between them was only a couple thousand meters now. No matter what he did, he couldn't feel happy in his mind. This was just a desperate race, he didn't like it at all.</seg>
       </tuv>
     </tu>
     <tu>
