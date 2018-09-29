@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29231,6 +29231,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游震天却在看到这枚戒指后反常的皱起眉头，这枚戒指让他想到那个被他陷害的弟弟，当初他被选为赤血家族下一任家住继承人后，长老们给了他一枚戒指，就是游小默手中这枚。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180929T144726Z" creationid="yun" creationdate="20180929T144726Z">
+        <seg>However, strangely, when You ZhenTian saw the ring, he furrowed his brows. The ring reminded him of his little brother, the one he framed (陷害). When he was chosen to become the next successor of the Vermillion Blood Clan, the elders gave him a ring, the one in You XiaoMo's hands.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游震天只觉得疑点太多，眼下也不可能立刻理出头绪，便暂时不去想，转头看向身边人。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T182922Z" creationid="Lilly" creationdate="20180730T182922Z">
@@ -36755,6 +36763,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180923T122635Z" creationid="Ceti" creationdate="20180923T033422Z">
         <seg>This Jade Devil Snake had two heads. The eyes of one head was red, while the eyes of the other was green. A sense of alarm seeped out from a glance at the snake. It was the king amongst the Jade Devil Snakes and only one would appear from every tens of millions. Few knew that its venom was the most powerful poison in the TongTian Continent and even the Qilin Godfire would be unable to neutralize the venom for a while.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这枚戒指倒不是家主的信物之一，他只知道是那些老家伙们鼓励游君其的东西，据说里面装了不少灵晶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20180929T144951Z" creationid="yun" creationdate="20180929T144951Z">
+        <seg>It wasn't one of the authenticating object (keepsake/token) for being the head. All he knew was that it was a token of encourage from those old farts, supposedly it had a lot spirit gems. </seg>
       </tuv>
     </tu>
     <tu>
