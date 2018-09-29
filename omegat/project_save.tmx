@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“儿纸，爹爹知道你很关心我，爹爹实在是太高兴，不过你们暂时不用管爹爹，游震天不会杀我的。”游君其冲他眨眨眼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T065912Z" creationid="elaine" creationdate="20180929T065912Z">
+        <seg>"Sonny, daddy knows you care a lot about me. Daddy is truly very happy, but for now you two don't need to be concerned about daddy. You ZhenTian won't kill me." You JunQi winked at him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“儿纸，爹爹问你一个问题。”游君其见他醒来，立刻走过来眼巴巴的看着他。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180913T033441Z" creationid="elaine" creationdate="20180913T033441Z">
@@ -25337,6 +25345,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180906T133025Z" creationid="Ceti" creationdate="20180902T083047Z">
         <seg>You XiaoMo was taken aback and he subconsciously replied, "You are right!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默愣住了，“那你呢？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20180929T065755Z" creationid="elaine" creationdate="20180929T065755Z">
+        <seg>You XiaoMo was dumbfounded. "Then what about you?"</seg>
       </tuv>
     </tu>
     <tu>
