@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T193318Z" creationid="Lilly" creationdate="20180730T193318Z">
         <seg>In addition, he was the most familiar with You XiaoMo, so he could guess from what little leads there were.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>&lt;t0/&gt;后者怎么&lt;t1/&gt;听就觉得怎么荒谬。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T170835Z" creationid="Lilly" creationdate="20180929T170835Z">
+        <seg>The latter idea was absolutely absurd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“一号出价五亿两千万。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T170730Z" creationid="Lilly" creationdate="20180929T170730Z">
+        <seg>"Number one has bid five hundred and twenty million."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“一点点。”游小默下意识的回道，脑子转了个弯才觉得他反了，这句话应该是他问才对，“你怎么样？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T123116Z" creationid="Ceti" creationdate="20180909T035338Z">
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T211238Z" creationid="Lilly" creationdate="20180904T211238Z">
         <seg>"Master Wan, can you help us bring the food to the room? In return, I'll let you have some of what I just made; how does that sound?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“三号出价五亿三千万。”拍卖师大声喊道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T170913Z" creationid="Lilly" creationdate="20180929T170913Z">
+        <seg>Number 3 has bid five hundred and thirty million," the auctioneer announced.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19405,6 +19429,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>很快的，妖&lt;t0/&gt;凰&lt;t1/&gt;族的动作也让他们深思起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T170851Z" creationid="Lilly" creationdate="20180929T170851Z">
+        <seg>Soon enough, the Demon Phoenix Clan's actions had them in deep contemplation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>得知他们要走，卫白急忙让傅苍穹带他过来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180630T133539Z" creationid="Ceti" creationdate="20180630T034415Z">
@@ -35036,6 +35068,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>虽然只加了一千万，但关键是游震天竟然出手了，难道他也想要这张地图不成，还是说他也想帮游小默解围？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T170824Z" creationid="Lilly" creationdate="20180929T170824Z">
+        <seg>Though there was only a twenty million increase, the point was that You ZhenTian actually bid. Could it be that he wanted this map or that he wanted to help You XiaoMo get out of this snit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>虽然同样是女人，但是毛球这次却下了死手，普通的灵丹根本恢复不了，毛球是计算过的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180902T001148Z" creationid="elaine" creationdate="20180902T001148Z">
@@ -36315,6 +36355,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T033352Z" creationid="yun" creationdate="20180819T033352Z">
         <seg>Before he even knocked, the man let him in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>还没等他们发表感想，又一个人的举动令&lt;t0/&gt;他们惊掉了&lt;t1/&gt;大牙。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T170713Z" creationid="Lilly" creationdate="20180929T170713Z">
+        <seg>Before they could formulate any sort of response, another shocking occurrence had their jaws dropping.</seg>
       </tuv>
     </tu>
     <tu>
