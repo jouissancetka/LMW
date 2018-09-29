@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“下次手别再抖了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T153438Z" creationid="Lilly" creationdate="20180929T153438Z">
+        <seg>"Don't let your hand slip next time."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“下次提前说一声可以吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180929T071623Z" creationid="elaine" creationdate="20180929T071623Z">
@@ -8180,6 +8188,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T064826Z" creationid="yun" creationdate="20180907T064826Z">
         <seg>However, Xuan Ze was more surprised than him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不过现在看来，效果似乎超出他的预期了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20180929T153429Z" creationid="Lilly" creationdate="20180929T153429Z">
+        <seg>Yet now, it seemed like the effect it had was out of his expectations.</seg>
       </tuv>
     </tu>
     <tu>
