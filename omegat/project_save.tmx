@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8668,6 +8668,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T083748Z" creationid="Ceti" creationdate="20180728T143222Z">
         <seg>At the same time, a drop of cold sweat suspiciously dripped from the Roc's forehead...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>东洲是通天大陆最落后的地域，外来者几乎很少到这边，除了有山脉阻隔及灵气稀薄等原因，东洲的部落也补是很欢迎外来者。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T154133Z" creationid="Lilly" creationdate="20181002T154133Z">
+        <seg>Dong Zhou was the most backwater area in the TongTian Continent. Outsiders very rarely came here because, not only did the mountains separate the place from the rest of the TongTian Continent, the spiritual energy here was weak and Dong Zhou's tribes didn't welcome outsiders.</seg>
       </tuv>
     </tu>
     <tu>
