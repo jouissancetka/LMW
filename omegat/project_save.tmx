@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18763,6 +18763,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>少年心虚的笑了笑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153728Z" creationid="Lilly" creationdate="20181002T153728Z">
+        <seg>The young man smiled guiltly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少年想了想还是先把人移出大树下，&lt;t0/&gt;万一人&lt;t1/&gt;没死，一道雷把他劈死怎么办？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153127Z" creationid="Lilly" creationdate="20181002T153054Z">
@@ -18783,6 +18791,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T163336Z" creationid="kollumceti" creationdate="20180822T100712Z">
         <seg>The young man touched his nose, "I reckon that they will definitely cut off my claws if I stretch my hand out. So it's better to let it be ba." He did not wish to eat the Bone Growth Pill.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少年撇嘴，连忙跟上去，他开个玩笑嘛！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153848Z" creationid="Lilly" creationdate="20181002T153848Z">
+        <seg>The young man pouted, hurrying after him. It was just a joke!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31715,6 +31731,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T043438Z" creationid="elaine" creationdate="20180824T043438Z">
         <seg>The man said, "It's still very good that you can think like this."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>男人轻哼一声：“我还没伤到连自己走路都不行的地步。”说完就拿开他的手自己往前走。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153812Z" creationid="Lilly" creationdate="20181002T153749Z">
+        <seg>The man huffed lightly. "I'm not injured to the point where I can't even walk on my own." Then he took his arm away and started walking on his own.</seg>
       </tuv>
     </tu>
     <tu>
