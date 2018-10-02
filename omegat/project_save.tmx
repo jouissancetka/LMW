@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7216,6 +7216,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一道闪电在天空划过。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153030Z" creationid="Lilly" creationdate="20181002T153030Z">
+        <seg>Another flash of lightning arced through the sky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一阵比滕梓心的灵丹更浓郁的药香味，甚至带着一股淡淡的波动从他的&lt;t0/&gt;炉鼎里传出&lt;t1/&gt;来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093533Z" creationid="Lilly" creationdate="20180609T093533Z">
@@ -8924,6 +8932,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181002T152446Z" creationid="Lilly" creationdate="20181002T152446Z">
         <seg>The two demon beasts' eyes bulged in fear, hurriedly trying to break their momentum and wanting to turn and flee, but it was too late.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两头妖兽一头撞进那股磅礴的灵魂之力里，旋即被撞飞了出去，不知掉落在哪处森林，眨眼就不见了踪影。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153021Z" creationid="Lilly" creationdate="20181002T153001Z">
+        <seg>The two demon beasts crashed into the wave of powerful soul force, instantly being thrown flying. The fell somewhere into the forest, gone in the blink of an eye.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18719,6 +18735,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180814T184749Z" creationid="yun" creationdate="20180814T184749Z">
         <seg>The young man was clearly a human and a level ten mage at that, not so high but not so low. Everyone here could have killed him with one hand, since they were all level eleven practitioners.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>少年想了想还是先把人移出大树下，&lt;t0/&gt;万一人&lt;t1/&gt;没死，一道雷把他劈死怎么办？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153127Z" creationid="Lilly" creationdate="20181002T153054Z">
+        <seg>The young man thought for a moment before deciding to move his companion out from under the tree. It would be terrible if he had survived, only to get struck dead by lightning.</seg>
       </tuv>
     </tu>
     <tu>
