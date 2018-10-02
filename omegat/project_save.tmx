@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“二位爷，这家客栈虽然不是集九镇最好的，但是服务很周到。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T175830Z" creationid="Lilly" creationdate="20181002T175830Z">
+        <seg>"Gentlemen, this inn might not be the best in JiJiu Town, but they provide comprehensive service."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“二师兄，不要这么说，你会好起来的。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T184835Z" creationid="Lilly" creationdate="20180924T184835Z">
@@ -18379,6 +18387,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>客栈的掌柜将他们带到二楼，给了间最好的上房，价格很贵，一晚要十枚灵晶，据说也是针对外来者的价格，东洲的人则是一晚一枚。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T180023Z" creationid="Lilly" creationdate="20181002T180023Z">
+        <seg>The owner of the inn led them to the second floor and gave them the best room. The price was very expensive, ten spirit gems a night. Apparently, this was an outsider's price. For Dong Zhou people, it was one spirit gem per night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>客栈老板突然压低声音。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T131622Z" creationid="Ceti" creationdate="20180811T140907Z">
@@ -27309,6 +27325,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默没心思跟他们计较这些，先付了一晚，然后吩咐掌柜不要让任何人来打扰他们。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T180054Z" creationid="Lilly" creationdate="20181002T180054Z">
+        <seg>You XiaoMo didn't bother arguing with them, paying for one night first before telling the owner that they weren't to be disturbed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默没想到半路会杀出一个程咬金，而且他看起来在胡村似乎挺有地位的，这样的人很难缠，要说服他们不容易。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T055410Z" creationid="Lilly" creationdate="20180715T055410Z">
@@ -27465,6 +27489,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232328Z" creationid="Lilly" creationdate="20180912T232328Z">
         <seg>You XiaoMo truly felt that their actions would definitely cause a huge impact and send everything into absolute turmoil. The gates would probably be squeezed open.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默满意的点了点头，随手给了他两枚灵晶，“这是报酬，接下来的事情不用麻烦你了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T175901Z" creationid="Lilly" creationdate="20181002T175901Z">
+        <seg>You XiaoMo nodded in satisfaction, casually handing over two spirit gems. "Here's a thank you gift. That'll be all we need for now."</seg>
       </tuv>
     </tu>
     <tu>
@@ -39200,6 +39232,22 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180927T141822Z" creationid="Ceti" creationdate="20180927T132142Z">
         <seg>Hearing this, the shopkeeper slightly relaxed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>阿川带他们去的客栈名字叫做好来客栈，装潢都很简单，桌椅地板都挺干净的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T175807Z" creationid="Lilly" creationdate="20181002T175807Z">
+        <seg>The inn A Chuan brought them to was called HaoLai Inn. The decor was simple and the interior was clean.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>阿川拿着灵晶，连连点头：“多谢二位爷，小人告辞。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T175925Z" creationid="Lilly" creationdate="20181002T175925Z">
+        <seg>A Chuan took the spirit gems, nodding rapidly. "Thank you, sirs, I'll take my leave now."</seg>
       </tuv>
     </tu>
     <tu>
