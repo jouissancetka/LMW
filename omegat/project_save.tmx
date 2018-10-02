@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11148,6 +11148,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093434Z" creationid="Lilly" creationdate="20180609T093434Z">
         <seg>Teng ZiXin was only at the peak of the lower grade among level six mages. Her ability must be very impressive if she was able to refine a mid grade level six pill. Even they would have trouble overcoming the barriers between grades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>以集九镇的情况，掌柜绝对不敢将集九镇的人剁了做馅料，所以如果他推测没错的话，很可能是那两名外来者遇害了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T151629Z" creationid="elaine" creationdate="20181002T151629Z">
+        <seg>Considering JiJiu Town's circumstances, there was no way the concierge would dare to chop up the people from JiJiu Town and turn them into stuffing. So if his guess was correct, it was very likely that those two foreigners had been murdered.</seg>
       </tuv>
     </tu>
     <tu>
