@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8908,6 +8908,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180923T123312Z" creationid="Ceti" creationdate="20180923T081248Z">
         <seg>The finishing blow/unique skill (绝招) of two powerhouses were definitely enough to destroy the heavens and the earth. He would just be waiting for them to bombard him (炮轰) if he stood in the middle. Furthermore, he could feel that You ZhenTian was really itching to kill him now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两头牛角妖兽的视线随着少年的动作移动，&lt;t0/&gt;后蹄蹭得&lt;t1/&gt;更加用力了，口中发出的声音越来越危险，特别是当它们看到少年背对着它们的时候，两头妖&lt;t2/&gt;兽突然&lt;t3/&gt;大吼一声，纵身一跃就跳起来，跑得轰隆隆响，朝少年冲撞了过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T151806Z" creationid="Lilly" creationdate="20181002T151728Z">
+        <seg>The two bull-horned demon beasts tracked the young man's movements, kicking at the ground even more harshly with their hooves. Their voice grew more threatening, especially when they saw the young man turn his back to them. The two demon beasts suddenly roared, leaping up, their hooves thudding against the ground as they charged at the young man.</seg>
       </tuv>
     </tu>
     <tu>
