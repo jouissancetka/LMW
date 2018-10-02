@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8916,6 +8916,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180923T123312Z" creationid="Ceti" creationdate="20180923T081248Z">
         <seg>The finishing blow/unique skill (绝招) of two powerhouses were definitely enough to destroy the heavens and the earth. He would just be waiting for them to bombard him (炮轰) if he stood in the middle. Furthermore, he could feel that You ZhenTian was really itching to kill him now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两头&lt;t0/&gt;妖兽吓得&lt;t1/&gt;眼珠子都差点掉出来，急急忙忙刹住四肢，转身想跑，可是已经来不及了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T152446Z" creationid="Lilly" creationdate="20181002T152446Z">
+        <seg>The two demon beasts' eyes bulged in fear, hurriedly trying to break their momentum and wanting to turn and flee, but it was too late.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18815,6 +18823,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T093405Z" creationid="Lilly" creationdate="20180609T093405Z">
         <seg>Just as everyone was looking at Tong YueXu in surprise, another cry of success rang out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在它们离目标只剩下三米的距离时，少年突然回头了，眼中带着明显的不耐烦，随手朝两只一挥，一股强大的灵魂之力霎时喷薄而出，铺天盖地的朝它们袭击而去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T152354Z" creationid="Lilly" creationdate="20181002T152308Z">
+        <seg>Just as they were three meters away from their target, the young man suddenly turned his head, eyes clearly filled with annoyance. He waved a hand at the two, and a massive wave of soul force poured out, raging towards the demon beasts.</seg>
       </tuv>
     </tu>
     <tu>
