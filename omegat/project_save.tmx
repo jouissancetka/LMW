@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21841,6 +21841,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T093628Z" creationid="Lilly" creationdate="20180629T093628Z">
         <seg>Chairs, a coffee table, with a high quality tea set. The walls had glowing pearls four or five times the size of one's fist, making the tenth floor as bright as day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>模样清秀的少年顾不得打量四周的情况，将旁边看起来受了很严重内伤的男人搀扶到一颗大树下，在这电闪雷鸣的天气里，应该不会被劈死才对。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T150027Z" creationid="Lilly" creationdate="20181002T145959Z">
+        <seg>The clean-shaven and comely young man hurriedly helped his heavily injured companion to rest under a large tree, not having the effort to spare to check their surroundings. They probably wouldn't be struck by the lightning that was flashing across the sky.</seg>
       </tuv>
     </tu>
     <tu>
