@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24601,6 +24601,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180917T003803Z" creationid="Lilly" creationdate="20180917T003803Z">
         <seg>You XiaoMo smiled at him, drawing out his words as he replied, "It's a secret."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默冷哼一声就甩袖回房，这种人犯不着给他面子，而且既然被他看到了，他也不好大摇大摆的过去查看，否则这掌柜会怀疑他知道了什么。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T153701Z" creationid="elaine" creationdate="20181002T153701Z">
+        <seg>You XiaoMo sneered coldly before flicking his sleeves and returning to his room. It wasn't worthwhile to be respectful to someone like him. Moreover, since he had been discovered, it wouldn't be good for him to just swagger over and check things out, or else the concierge would suspect that he knew something.</seg>
       </tuv>
     </tu>
     <tu>
