@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24161,6 +24161,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T135352Z" creationid="Lilly" creationdate="20180609T135352Z">
         <seg>You XiaoMo backed away a step smoothly. "I have some business to do, so I'll be leaving XiaoYao Academy for a while."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默不知道东洲的人喜欢排外，被他们看得一头雾水。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T155221Z" creationid="Lilly" creationdate="20181002T155221Z">
+        <seg>You XiaoMo didn't realize that the people of Dong Zhou were xenophobic, puzzled at their behavior.</seg>
       </tuv>
     </tu>
     <tu>
