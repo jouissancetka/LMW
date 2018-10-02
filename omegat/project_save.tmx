@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23813,6 +23813,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默上辈子只在电视上看过人肉叉烧包，而且那只是一部电影，名字就叫做人肉叉烧包。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T041109Z" creationid="elaine" creationdate="20181002T041109Z">
+        <seg>In You XiaoMo's previous life, he had only seen steamed buns made with human flesh on television. Furthermore, that was only a movie, and its name was 'human flesh steamed buns.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默下意识的回道：“游小默。”说完他才反应过来，连忙捂住自己的嘴巴。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T040244Z" creationid="elaine" creationdate="20180828T040244Z">
@@ -32927,6 +32935,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181001T015747Z" creationid="yun" creationdate="20181001T015747Z">
         <seg>Chapter 564 Tourist Trap (黑店)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第565章 成衣店老板娘</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T040919Z" creationid="elaine" creationdate="20181002T040919Z">
+        <seg>Chapter 565: The Tailor Shop's Proprietress</seg>
       </tuv>
     </tu>
     <tu>
