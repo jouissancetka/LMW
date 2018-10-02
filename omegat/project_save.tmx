@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6948,6 +6948,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T094737Z" creationid="Ceti" creationdate="20180721T165235Z">
         <seg>This was indeed the case at the beginning, but their good fortune came to an end after the Starfall City Master personally set out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一想到这个人竟然杀人还把人肉当馅料做成包子，他就恨不得一拳把他的脸砸碎了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T153015Z" creationid="elaine" creationdate="20181002T153015Z">
+        <seg>When he thought of how this person actually killed someone and turned them into stuffing for a meat bun, he wished he could just smash his face to pieces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39216,6 +39224,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T202615Z" creationid="Lilly" creationdate="20180824T202615Z">
         <seg>No wonder he had called them a treasure just now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>难怪外面的人会形容东洲的人是未开化的种族，连这种事都做得出来，简直就是灭绝人性啊！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T153129Z" creationid="elaine" creationdate="20181002T153129Z">
+        <seg>No wonder outsiders described Dong Zhou's people as being from an uncivilized clan. If they could even do this kind of thing, then it was simply inhuman!</seg>
       </tuv>
     </tu>
     <tu>
