@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你以前来过东洲没有，我觉得集九镇的人都挺恶心的&lt;t0/&gt;的&lt;t1/&gt;。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T183552Z" creationid="Lilly" creationdate="20181002T183552Z">
+        <seg>"Have you been to Dong Zhou before? I think the people of JiJiu Town are all pretty disgusting."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你们不是第一批人。”老人略不耐烦的说道，“每年都有很多外来者想出海去寻找通灵玄龟，但是很多人都是出海后就再也没有回来，偶尔也就只有一两个能幸运的活着回来。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180901T134232Z" creationid="Ceti" creationdate="20180830T131313Z">
@@ -26567,8 +26575,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默把这两天发生的事情简单的复述了一遍，以及掌柜杀害外来者，将他们做成人肉包子，害他差点吃下去的恶行。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T182322Z" creationid="Lilly" creationdate="20181002T182322Z">
-        <seg>You XiaoMo gave him a basic summary of what had happened </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T183523Z" creationid="Lilly" creationdate="20181002T182322Z">
+        <seg>You XiaoMo gave him a basic summary of what had happened  in these two days, including how the owner killed outsiders and cooked them into steamed buns, almost making him eat one.</seg>
       </tuv>
     </tu>
     <tu>
