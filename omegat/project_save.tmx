@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3338,6 +3338,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T143922Z" creationid="Ceti" creationdate="20180826T123336Z">
         <seg>"Honored Guests, please enjoy (请慢用). The dishes you've ordered will be up in a moment."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“客官！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T152141Z" creationid="elaine" creationdate="20181002T152141Z">
+        <seg>"Sir!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18195,6 +18203,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>客栈是天井式建筑，打开门窗就能看到各个房间的情况，二楼有四条走廊，两名外来者的房间就在游小默房间左侧那条走廊上，两个房间是紧挨着的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T152052Z" creationid="elaine" creationdate="20181002T152052Z">
+        <seg>The inn was built around a small inner courtyard, and you could see what was happening in every room if you opened the window or door. There were four corridors on the second floor, and the two foreigners' room was in the corridor to the left of You XiaoMo's room, very close together.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>客栈老板突然压低声音。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T131622Z" creationid="Ceti" creationdate="20180811T140907Z">
@@ -26205,6 +26221,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默抬脚走了过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T152100Z" creationid="elaine" creationdate="20181002T152100Z">
+        <seg>You XiaoMo walked over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默抬起头怔愣了一秒，表情霎时垮下来，眼神幽怨的看着被他压在身下，却仍然一脸惬意的男人，嘴角抽搐的说道：“我说，至少穿上衣服再进来吧。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T145146Z" creationid="Ceti" creationdate="20180805T052433Z">
@@ -32596,6 +32620,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T010228Z" creationid="Lilly" creationdate="20180909T010228Z">
         <seg>Inside the dimension, You JunQiwas sighing as he sat by the lake. During this period of time, he had been troubled over how he was to get his son to accept him, since it seemed like his son didn;t like him, always treating him like air.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>突然，掌柜的声音在他身后响起。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T152213Z" creationid="elaine" creationdate="20181002T152213Z">
+        <seg>Suddenly, the concierge's voice came from behind him.</seg>
       </tuv>
     </tu>
     <tu>
