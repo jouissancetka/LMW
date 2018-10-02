@@ -8800,6 +8800,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>东洲的土地较为贫瘠，人口也不多，没有地图，他们想找有人的城镇要花不少时间。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T224657Z" creationid="elaine" creationdate="20181002T224657Z">
+        <seg>Dong Zhou's land was relatively infertile, and the population wasn't very high either. If they wanted to find a city or town with people, they would have to spend quite a bit of time without a map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>东西毕竟就只有那么多，不可能各个势力都能如意。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T140127Z" creationid="Ceti" creationdate="20180920T134127Z">
@@ -20969,6 +20977,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181002T152808Z" creationid="elaine" creationdate="20181002T152808Z">
         <seg>The smile on the concierge's face was as pure as a chrysanthemum. "Sir, where are you trying to go?" Because the inn was built around a courtyard, he could see what was happening on the second floor from the first floor. The concierge's counter was also built in a very clever place, and he could see everything as long as he looked up. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>掌柜看着重新关上的房门，菊花脸顿时阴沉下来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T224809Z" creationid="elaine" creationdate="20181002T224809Z">
+        <seg>The concierge watched the door close again, and his smiling face instantly darkened again.</seg>
       </tuv>
     </tu>
     <tu>
