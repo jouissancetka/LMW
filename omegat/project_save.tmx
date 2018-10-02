@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38092,6 +38092,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T020304Z" creationid="Ceti" creationdate="20180920T134358Z">
         <seg>In ancient times, the situation(形势) in Dong Zhou was different from today.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>远古时期，通天大陆的修炼者多是得天独厚，他们在同类者比拼，但却看不起柔弱无比的凡人，东洲的修炼者正是延续这种思想，所以修炼者几乎从补踏足凡人镇，不过即使不在凡人镇，修炼者之间的等级分化也十分严重。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T154839Z" creationid="Lilly" creationdate="20181002T154650Z">
+        <seg>In ancient times, the practitioners of the TongTian Continent thought themselves blessed, they competed amongst themselves and looked down on the frail mortals. The practitioners of Dong Zhou continued with this belief, so practitioners rarely ever set foot in the towns of normal people. The power distance amongst practitioners was very heavy as well.</seg>
       </tuv>
     </tu>
     <tu>
