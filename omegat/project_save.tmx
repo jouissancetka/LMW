@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19701,6 +19701,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>心中稍有主意，游小默又看了下凌霄的情况才出门。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T044435Z" creationid="elaine" creationdate="20181002T044435Z">
+        <seg>With a hint of an idea in his mind, You XiaoMo glanced at Ling Xiao's situation again before leaving.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>心里刚闪过这个念头，一队十五人的守卫突然冲进院子，守卫队长看到唐中华立刻走上来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T094217Z" creationid="Ceti" creationdate="20180721T111240Z">
@@ -24217,6 +24225,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T202235Z" creationid="Lilly" creationdate="20180904T202235Z">
         <seg>You XiaoMo left the cabin to get some air. It was lunchtime; though he had food in his pocket dimension, but he had gotten sick of always eating those things.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默仔细回想了下掌柜当时的神情，他都拒绝了还非得让他收下两碗免费宵夜，然后又给他送来酒菜，他绝不信掌柜是那么热情好客的人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T044354Z" creationid="elaine" creationdate="20181002T044354Z">
+        <seg>You XiaoMo carefully thought back to the concierge's expression at the time. Even though he had already refused, the concierge still forced him to accept the two free bowls of snacks, and then he had even sent him side dishes. There was no way that the concierge was such a warm and hospitable person.</seg>
       </tuv>
     </tu>
     <tu>
