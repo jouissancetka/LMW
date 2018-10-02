@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3330,6 +3330,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180930T100655Z" creationid="Ceti" creationdate="20180927T132157Z">
         <seg>"Honored Guest has not eaten anything after coming back. Do you want this servant (小人) to ask the chef to make something for Honored Guest to eat?" The shopkeeper quickly changed the topic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“客官误会了，小人只是想问问那些早饭合不合您的胃口，绝对没有其他的意思。”这个见他生气，连忙赔不是。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T153448Z" creationid="elaine" creationdate="20181002T153448Z">
+        <seg>"Sir, you've misunderstood. I only wanted to ask if the breakfast was to your liking, I didn't mean anything else." When he saw You XiaoMo get angry, he hastily apologized.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10932,6 +10940,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T143839Z" creationid="Ceti" creationdate="20180826T123310Z">
         <seg>He glanced at the lobby and saw that there was only one empty table left, but the location quite poor. The stink of stale sweat would definitely be unavoidable whilst being sandwiched in the middle of a group of hot-blooded men.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他知道不能一竿子把所有东洲人打死，毕竟大叔就不是这种人，他的个性还很腼腆，不过一想到人肉叉烧包他就来气。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181002T153326Z" creationid="elaine" creationdate="20181002T153326Z">
+        <seg>He knew that he couldn't just place all of Dong Zhou's people into one basket. After all, Uncle (大叔) wasn't that kind of person, and his personality was actually very shy. But the moment he thought of the human meat buns, he grew angry.</seg>
       </tuv>
     </tu>
     <tu>
