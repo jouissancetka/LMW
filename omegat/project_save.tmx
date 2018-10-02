@@ -16834,6 +16834,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>夜幕很快降临。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T180829Z" creationid="Lilly" creationdate="20181002T180807Z">
+        <seg>Night would soon fall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>夜幕降临，黑灯瞎火。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180908T082001Z" creationid="Ceti" creationdate="20180908T064425Z">
@@ -26889,6 +26897,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T205738Z" creationid="Lilly" creationdate="20180824T205738Z">
         <seg>You XiaoMo rubbed his nose, saying, "Do Golden Winged Insects spit out their golden silk from their Chrysanthemum?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默搓了搓手，“那好吧，你先调养一下，我帮你护法。”然后就搬了张椅子过来，坐在椅子上看着他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181002T180757Z" creationid="Lilly" creationdate="20181002T180757Z">
+        <seg>You XiaoMo rubbed his hands together. "Alright then, you go and rest, I'll cover for you." Then brought a chair over, sitting on it and watching the other.</seg>
       </tuv>
     </tu>
     <tu>
