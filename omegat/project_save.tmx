@@ -18997,8 +18997,8 @@
       <tuv lang="ZH-CN">
         <seg>小小的成衣店立刻被这股气势给撑满了，正面被这股气势冲击到的老板娘双腿一软，要不是刚好站在柜台边，她就直接跪下去了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181003T035918Z" creationid="elaine" creationdate="20181003T035918Z">
-        <seg>The small proprietress was immediately caught full force by this blast of aura, and was attacked directly by this aura until both of the proprietress' legs went soft. If it weren't for the fact that she happened to be standing next to the counter, she would have directly kneeled down.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181003T040201Z" creationid="elaine" creationdate="20181003T035918Z">
+        <seg>The small proprietress was immediately caught full force by this blast of aura, and was attacked directly by this aura until both of her knees went soft. If it weren't for the fact that she happened to be standing next to the counter, she would have directly kneeled down.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20561,6 +20561,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T141233Z" creationid="Ceti" creationdate="20180725T123210Z">
         <seg>Then I'll say that I'm the most favored disciple of the Head of the Cang Alliance."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>我还赶着回去呢！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181003T040429Z" creationid="elaine" creationdate="20181003T040429Z">
+        <seg>I'm still in a hurry to go back!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26221,6 +26229,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默往前走一步，又道：“老板娘，两套衣服到底要多少枚灵晶？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181003T040420Z" creationid="elaine" creationdate="20181003T040420Z">
+        <seg>You XiaoMo took a step forward and spoke again. "Proprietress, exactly how many spirit gems do two sets of clothing cost?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默很喜欢给人取名字，但他得知小乌龟没有名字后就打起了主意。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T123459Z" creationid="Ceti" creationdate="20180811T065206Z">
@@ -29353,8 +29369,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默考虑到集九镇的人的实力，并没有放出彩级丹师的威压，他只是将修为压制在星境上下而已，凭此亦足够让他们震惊了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181003T040151Z" creationid="elaine" creationdate="20181003T040151Z">
-        <seg>You XiaoMo had calculated the strength of the people of JiJiu Town, and he didn't release the full pressure of a rainbow level mage. </seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181003T040340Z" creationid="elaine" creationdate="20181003T040151Z">
+        <seg>You XiaoMo had calculated the strength of the people of JiJiu Town, and he didn't release the full pressure of a rainbow level mage. He suppressed his cultivation base to be around the Star Realm level, but it was already enough to shock them based just on this.</seg>
       </tuv>
     </tu>
     <tu>
