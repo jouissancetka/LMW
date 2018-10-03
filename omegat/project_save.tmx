@@ -2630,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“哎呦，公子好面生，您这是第一次来我这家成衣店吧，您想要什么款式，我这里什么都有，而且整个集九镇就只有我这一家成衣店，如果您看不上，那就没有第二家店了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181003T031721Z" creationid="elaine" creationdate="20181003T031721Z">
+        <seg>"Oh my, this Young Master is very unfamiliar. This must be your first time coming to my tailor shop, is that right? What kind of pattern would you like? I have anything you want here, and plus, my tailor shop is the only one of its kind in all of JiJiu Town. If it doesn't suit your tastes, there won't be another shop." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哟，原来是两个小偷。”天&lt;t0/&gt;恨终于&lt;t1/&gt;找到扳回&lt;t2/&gt;一&lt;t3/&gt;城的机会，一听到天修的话立刻不客气的嘲讽起来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T183854Z" creationid="Lilly" creationdate="20180824T182156Z">
@@ -19671,8 +19679,8 @@
       <tuv lang="ZH-CN">
         <seg>店里的客人有五六位，老板娘和伙计都忙着招待客人，原以为不会有人理他，老板娘突然扔下客人扭着大屁股朝他走过来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181003T031414Z" creationid="elaine" creationdate="20181003T031414Z">
-        <seg>There were five or six guests in the store, and the proprietress and her assistants were all busy tending to the customers. At first he thought that nobody would pay attention to him, but the proprietress</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181003T031448Z" creationid="elaine" creationdate="20181003T031414Z">
+        <seg>There were five or six guests in the store, and the proprietress and her assistants were all busy tending to the customers. At first he thought that nobody would pay attention to him, but the proprietress suddenly abandoned her guest and walked towards him, swaying her large hips.</seg>
       </tuv>
     </tu>
     <tu>
