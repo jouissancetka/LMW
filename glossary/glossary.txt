@@ -345,3 +345,7 @@ xx 家	xx Family/Clan
 游柏	You Bo
 集九镇	JiJiu Town
 好来客栈	HaoLai Inn
+集九镇	JiJiu Town
+好来客栈	HaoLai Inn
+掌柜	shopkeeper
+阿川	A Chuan
