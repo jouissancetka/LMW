@@ -3702,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“当然不是。”掌柜说道，“我看那两个人短时间内应该还不会离开集九镇，其中一个男人似乎受了伤，他们很可能是想留在集九镇把伤养好，只要他们还留在客栈里，我们有的是机会。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T065152Z" creationid="yun" creationdate="20181004T065152Z">
+        <seg>"Of course not." The shopkeeper replied, "From what I see, those two wouldn't be leaving the JiJiu Town anytime soon. One of them seemed injured. It's likely that they would stay until his wounds were healed. As long as they were still in the inn, we have plenty of chances.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“当然想。”游君其落寞地道：“我无时无刻不在想我的妻儿，可惜我不能去找他们，我大哥不会放过我，如果让他知道我妻儿的存在，他一定不会放过他们。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T010953Z" creationid="elaine" creationdate="20180821T010953Z">
@@ -11748,6 +11756,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181003T030824Z" creationid="elaine" creationdate="20181003T030824Z">
         <seg>The assistant instantly ran away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>伙计甲问：“那另外两个客人呢？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T065213Z" creationid="yun" creationdate="20181004T065213Z">
+        <seg>One the assistant then asked," Then what about the other two?"</seg>
       </tuv>
     </tu>
     <tu>
