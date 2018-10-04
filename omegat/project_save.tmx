@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“客官说的是，集九镇确实很排斥外来者，但也有一小部分人不排斥，比如小人，虽然收您那么贵的费用，但那也是迫不得已，如果表现得太突出，反而会被镇里的人排斥，您说对不对？”掌柜不慌不忙的答道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T070104Z" creationid="yun" creationdate="20181004T070104Z">
+        <seg>"What you say is correct, the JiJiu Town was very excluding of outsiders but there was a small section that aren't, like me. Although we still charged you such an expensive rate, it was out of necessity. If we were to stand out, then would be targeted by the people of the town, wouldn't you agree?" With no rush, the shopkeeper answered calmly. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“客官请慢用，你们要的菜一会就上来。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T143922Z" creationid="Ceti" creationdate="20180826T123336Z">
@@ -6356,6 +6364,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180824T014411Z" creationid="yun" creationdate="20180824T014411Z">
         <seg>"Alright." The man accepted without hestitation because he wanted to know the reason too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那好吧，你把东西放下。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T070113Z" creationid="yun" creationdate="20181004T070113Z">
+        <seg>"Okay then, you can leave the stuff."</seg>
       </tuv>
     </tu>
     <tu>
