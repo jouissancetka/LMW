@@ -17002,6 +17002,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>夜里寒风肆虐，刮得好来客栈的招牌摇晃个不停。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T060014Z" creationid="yun" creationdate="20181004T060014Z">
+        <seg>The cold and howling wind blew the HaoLai Inn sign all over the place. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>大厅——</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T100231Z" creationid="Lilly" creationdate="20180730T100231Z">
@@ -40192,6 +40200,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181002T155044Z" creationid="Lilly" creationdate="20181002T155044Z">
         <seg>JiJiu Town was a level two town of Dong Zhou. The level of the town was only marginally stronger than the world of normal people. Practitioners lived here, though their strength was relatively low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>集九镇压人们晚上一般是不出门的，因此也就没有夜市之类的东西，时间一到，街上漆黑一片，偶尔有几家的灯光从窗户透出来，好来客栈就是其中一家，从街上可以看到二楼几个房间的灯光仍然亮着。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T055943Z" creationid="yun" creationdate="20181004T055943Z">
+        <seg>Normally, the people of the JiJiu Town didn't come out during the night, thus there was no such thing as a 'night market' either. Once it was dark, the streets became pitch black, with only a few houses that emits light from their windows. The HaoLai Inn was one of those houses. From afar, you could see that a few of the rooms on the second floor were still lit. </seg>
       </tuv>
     </tu>
     <tu>
