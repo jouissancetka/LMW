@@ -349,3 +349,4 @@ xx 家	xx Family/Clan
 好来客栈	HaoLai Inn
 掌柜	shopkeeper
 阿川	A Chuan
+灵智	Intelligence
