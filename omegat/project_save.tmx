@@ -21189,10 +21189,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>掌柜的脸立刻笑得像开化似的，提着油灯就走了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T064333Z" creationid="yun" creationdate="20181004T064333Z">
+        <seg>Instantly, the shopkeeper smiled as if blooming flower and left with the lamp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>掌柜看着重新关上的房门，菊花脸顿时阴沉下来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181002T224809Z" creationid="elaine" creationdate="20181002T224809Z">
         <seg>The concierge watched the door close again, and his smiling face instantly darkened again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>掌柜立刻用手挡住他的动作，虚心的笑道：“客官，就算您现在不饿，等一下饿了也可以吃，不然这宵夜放着也没人吃，怪浪费的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T064259Z" creationid="yun" creationdate="20181004T064259Z">
+        <seg>Quickly, the shopkeeper held out his hand to stop him. With a modest smile he said, "Customer, even if you aren't hungry right now, you can have it when you are. Otherwise, there wouldn't be anyone to eat it, and it would be such a waste." </seg>
       </tuv>
     </tu>
     <tu>
@@ -28385,6 +28401,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180902T093415Z" creationid="Ceti" creationdate="20180902T082802Z">
         <seg>You XiaoMo frowned. He was becoming more and more disgusted with this old man and unhappily retorted, "We've already told you his location. What else do	you want?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默皱起眉，最后还是接过了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T064310Z" creationid="yun" creationdate="20181004T064310Z">
+        <seg>You XiaoMo furrowed his brows but still took the tray. </seg>
       </tuv>
     </tu>
     <tu>
