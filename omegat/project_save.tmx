@@ -7176,6 +7176,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一楼大堂。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T064546Z" creationid="yun" creationdate="20181004T064546Z">
+        <seg>At the first floor lobby. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一段不痛不痒的小插曲，工作进行得非常顺利。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180909T075216Z" creationid="Ceti" creationdate="20180909T071414Z">
@@ -11060,6 +11068,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180909T074605Z" creationid="Ceti" creationdate="20180909T071342Z">
         <seg>His current job was actually an accumulation of his many experiences. (他现在的工作，其实是他多次经验积累下来的。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他现在脑子一片混沌，完全没心情想太复杂的事情，只是将托盘放到桌子就坐回那张椅子，任那宵夜独自凄凉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T064534Z" creationid="yun" creationdate="20181004T064534Z">
+        <seg>His brain was a mess and he didn't have the time to think about other complicated stuff, so he just left the tray on the table, for it to feel the loneness. </seg>
       </tuv>
     </tu>
     <tu>
