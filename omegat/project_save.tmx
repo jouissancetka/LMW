@@ -3454,6 +3454,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“客官，您这么早就起来了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181004T071602Z" creationid="yun" creationdate="20181004T071602Z">
+        <seg>"Customer, you're up early."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“客官，我听说五花街的成衣店发生了大事，有外来者在那里捣乱，不知道发生了什么事，您知道吗？”掌柜听形容据说是一个少年，内心有些忐忑。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180930T100609Z" creationid="Ceti" creationdate="20180927T132118Z">
