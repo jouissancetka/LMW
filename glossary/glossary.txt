@@ -350,3 +350,4 @@ xx 家	xx Family/Clan
 掌柜	shopkeeper
 阿川	A Chuan
 灵智	Intelligence
+苏郎	Su Lang
