@@ -4582,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“掌柜的，他门中招了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175427Z" creationid="Lilly" creationdate="20181006T175427Z">
+        <seg>"Owner, they fell for it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“掌柜，怎么回事？”厨娘连忙道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181004T064659Z" creationid="yun" creationdate="20181004T064659Z">
@@ -11944,10 +11952,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>伙计乙是个哑巴，只能高举着大刀甩动两下表示兴奋。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175530Z" creationid="Lilly" creationdate="20181006T175530Z">
+        <seg>The second brute was a mute, and simply swung his sword in the air to express his excitement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>伙计早已吓傻，一般人听到黑熊大人的名字不是应该吓得屁滚尿流吗，这些人竟然敢对老板娘动手，他也不敢再乱说话了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T223602Z" creationid="Lilly" creationdate="20180830T223602Z">
         <seg>The server was already dumb with fright. Usually, when people heard Black Bear's name they'd be terrified. Yet these people actually dared to attack the owner. He didn't dare speak out of turn again either.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>伙计甲举着宽大刀兴奋的走过去，发现他们真的一动不动的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175505Z" creationid="Lilly" creationdate="20181006T175505Z">
+        <seg>The first brute excited walked over, sword in hand, and realized that they really weren't moving at all.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16750,6 +16774,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181004T065525Z" creationid="yun" creationdate="20181004T065525Z">
         <seg>The four split up and got to work. The HaoLai Inn was one of those 'shady' shops.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>四人蹑手蹑脚的靠近目标的房间，掌柜修为最高，发现里面什么动静都没有，假意敲门询问了一声，还是没有人回应，立刻猜到他们铁定是中招了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175311Z" creationid="Lilly" creationdate="20181006T175311Z">
+        <seg>The four crept towards their target's room. The owner had the highest cultivation base and sensed no movement from the room. She knocked on the door, and there was no answer. They must've fallen for it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21945,6 +21977,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T072325Z" creationid="Lilly" creationdate="20180616T072325Z">
         <seg>It was Ling Xiao who took the jade drive. He glanced at it casually and couldn't help but raise an eyebrow. The jade drive had no seals on it, meaning that anyone could easily see what's inside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>推门进去，果然看到游小默和凌霄趴在桌边，桌上的饭菜都吃到一半，茶壶被碰倒，茶水顺着桌面流到地上，沾湿了一大片。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175419Z" creationid="Lilly" creationdate="20181006T175419Z">
+        <seg>After pushing open the door and entering, they saw You XiaoMo and Ling Xiao collapsed on the table as expected, half of food eaten. The tea pot had been knocked over, and the tea had spilled onto the floor, forming a large damp spot.</seg>
       </tuv>
     </tu>
     <tu>
