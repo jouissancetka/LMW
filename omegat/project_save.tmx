@@ -3518,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“客官，大侠，好汉，我们错了，求你放过我们吧！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182614Z" creationid="Lilly" creationdate="20181006T182614Z">
+        <seg>"My good sirs, we were wrong, please let us go!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“客官，您挑选的两套衣服是我店里最好的，不论是质量还是款式，所以这两套衣服我就算您便宜点，一套五百枚灵晶好了。”老板娘笑容灿烂，说得跟真的似的，但所有人都知道她在忽悠人。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181003T033129Z" creationid="elaine" creationdate="20181003T033129Z">
@@ -7744,6 +7752,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>三人不知道，但是肯定不是好话，急急忙忙爬起来躲到角落。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182558Z" creationid="Lilly" creationdate="20181006T182558Z">
+        <seg>The three didn't know, but it definitely wasn't someone good. They hurriedly got up and cowered in the corner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>三人很快就走到他们藏身的树下。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T134527Z" creationid="Ceti" creationdate="20180724T131342Z">
@@ -9322,8 +9338,8 @@
       <tuv lang="ZH-CN">
         <seg>两伙计各拿着一把宽大刀。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175922Z" creationid="Lilly" creationdate="20181006T175151Z">
-        <seg>The two brutes others each held a large swords.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182334Z" creationid="Lilly" creationdate="20181006T175151Z">
+        <seg>The two employees each held a large swords.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11986,8 +12002,8 @@
       <tuv lang="ZH-CN">
         <seg>伙计乙是个哑巴，只能高举着大刀甩动两下表示兴奋。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175530Z" creationid="Lilly" creationdate="20181006T175530Z">
-        <seg>The second brute was a mute, and simply swung his sword in the air to express his excitement.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182346Z" creationid="Lilly" creationdate="20181006T175530Z">
+        <seg>The second employee was a mute, and simply swung his sword in the air to express his excitement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12002,8 +12018,8 @@
       <tuv lang="ZH-CN">
         <seg>伙计甲举着宽大刀兴奋的走过去，发现他们真的一动不动的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175505Z" creationid="Lilly" creationdate="20181006T175505Z">
-        <seg>The first brute excited walked over, sword in hand, and realized that they really weren't moving at all.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182342Z" creationid="Lilly" creationdate="20181006T175505Z">
+        <seg>The first employee excited walked over, sword in hand, and realized that they really weren't moving at all.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21877,6 +21893,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>掌柜和两个伙计从地上爬起来，看到这一幕又默默地趴了回去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182432Z" creationid="Lilly" creationdate="20181006T182325Z">
+        <seg>The shopkeeper and two employees had just gotten up off the floor, but upon seeing this, they decided to silently lie back down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>掌柜大吼一声，转身就逃。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181006T180702Z" creationid="Lilly" creationdate="20181006T180702Z">
@@ -29479,8 +29503,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默的速度比他更快，一眨眼，他的人已经出现在房门口了，掌柜吓了一跳，连忙急刹车，结果后面的伙计甲和伙计乙刹不住脚，两人扑倒在他身上，把他压在最下面。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T181355Z" creationid="Lilly" creationdate="20181006T181355Z">
-        <seg>You XiaoMo was much faster than them. In the blink of an eye, he had appeared at the entrance to the room. The shopkeeper was shocked and skidded to a halt, but the two brutes weren't able to stop in time and crashed into him, falling onto him.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182359Z" creationid="Lilly" creationdate="20181006T181355Z">
+        <seg>You XiaoMo was much faster than them. In the blink of an eye, he had appeared at the entrance to the room. The shopkeeper was shocked and skidded to a halt, but the two employees weren't able to stop in time and crashed into him, falling onto him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31147,6 +31171,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180820T032705Z" creationid="elaine" creationdate="20180820T032705Z">
         <seg>You XiaoMo walked over to him and nervously hugged his arm. "It's probably just my imagination, but I keep feeling as if someone is watching me. We should leave the demon beast graveyard quickly."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默走过去踢了他们一脚，“起来，想装死啊，信不信我让你们直接去见阎王？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182528Z" creationid="Lilly" creationdate="20181006T182528Z">
+        <seg>You XiaoMo walked over and kicked them. "Get up. Don't play dead or I'll send you to see Yama right now."</seg>
       </tuv>
     </tu>
     <tu>
@@ -41161,6 +41193,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180927T141822Z" creationid="Ceti" creationdate="20180927T132142Z">
         <seg>Hearing this, the shopkeeper slightly relaxed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>阎王是谁？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182534Z" creationid="Lilly" creationdate="20181006T182534Z">
+        <seg>Who was Yama?</seg>
       </tuv>
     </tu>
     <tu>
