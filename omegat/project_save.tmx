@@ -12112,6 +12112,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>你全家都蠢！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T152323Z" creationid="Lilly" creationdate="20181006T152323Z">
+        <seg>Your entire family is lacking intelligence!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>你才蠢！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T152313Z" creationid="Lilly" creationdate="20181006T152313Z">
+        <seg>You're the one who's lacking intelligence!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>你知道一株灵草要浇多少水吗？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T123805Z" creationid="Ceti" creationdate="20180909T071238Z">
