@@ -15698,10 +15698,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>厨娘愤怒的吼起来，抖着身上的肥肉跳起来就朝他扑过去，一脸狰狞似乎想用肉体重力攻击！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T181603Z" creationid="Lilly" creationdate="20181006T181603Z">
+        <seg>The cook bellowed in fury, lunging for him in a body slam!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>厨娘拿着一把菜刀，不论是杀人还是做菜，她只用手上的刀。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181006T175120Z" creationid="Lilly" creationdate="20181006T175120Z">
         <seg>The cook held a kitchen knife. No matter cooking or killing, she only used this knife.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>厨娘比较胖，速度没有那么快，见游小默挡在门口，离开抽出菜刀，一脸凶狠的砍过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T181433Z" creationid="Lilly" creationdate="20181006T181433Z">
+        <seg>The cook was rather large, and not as fast, seeing You XiaoMo blocking the way, she immediately slashed at him viciously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25333,6 +25349,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默一脚就踢飞她的菜刀，菜刀飞出去插在门框上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T181451Z" creationid="Lilly" creationdate="20181006T181451Z">
+        <seg>You XiaoMo kicked the knife out of her hand, sending it flying into the door frame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默一脸为难。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084128Z" creationid="Lilly" creationdate="20180609T084128Z">
@@ -29433,6 +29457,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T032023Z" creationid="Lilly" creationdate="20180613T032023Z">
         <seg>You XiaoMo's expression slowly cracked upon seeing the golden apparel. What on earth? Why was it all tattered?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默的速度比他更快，一眨眼，他的人已经出现在房门口了，掌柜吓了一跳，连忙急刹车，结果后面的伙计甲和伙计乙刹不住脚，两人扑倒在他身上，把他压在最下面。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181006T181355Z" creationid="Lilly" creationdate="20181006T181355Z">
+        <seg>You XiaoMo was much faster than them. In the blink of an eye, he had appeared at the entrance to the room. The shopkeeper was shocked and skidded to a halt, but the two brutes weren't able to stop in time and crashed into him, falling onto him.</seg>
       </tuv>
     </tu>
     <tu>
