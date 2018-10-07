@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你们是什么人？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181007T075750Z" creationid="yun" creationdate="20181007T075750Z">
+        <seg>"Who are you guys? This isn't a place you can just wander into." One of the guards said with severity. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你们是说苍盟的盟主？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180917T003338Z" creationid="Lilly" creationdate="20180917T003338Z">
@@ -30811,6 +30819,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181004T065930Z" creationid="yun" creationdate="20181004T065930Z">
         <seg>You XiaoMo suddenly felt that this shopkeeper was a bit interesting. After seeing the stuff on his hand, he said, "If I remember correctly, the people of the JiJiu Town were very excluding, shouldn't you guys be the same? Why are you being so nice and giving me free food?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默立刻亮出一缕灵魂之力，“我是丹师，想进去看看有没有合眼的顶级灵草，可以吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181007T075834Z" creationid="yun" creationdate="20181007T075834Z">
+        <seg>You XiaoMo instantly let out a sliver of his soul force, "I'm a mage and I want to go in to see some pinnacle level herbs, that's okay, right?"</seg>
       </tuv>
     </tu>
     <tu>
