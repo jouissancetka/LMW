@@ -14834,8 +14834,8 @@
       <tuv lang="ZH-CN">
         <seg>凌霄继续往前走，一边漫不经心的说道：“急什么，买灵草的铺子是少，但不可能一个都没有，乌山集镇既然是古玛部落的大本营，这里一定有卖灵草的地方。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20181007T045550Z" creationid="yun" creationdate="20181007T045550Z">
-        <seg>Ling Xiao continued walking and said, unconcerned, "What's the hurry? Sure there was only a few of those shops, but they can't not have one. After all, the WuShan Town was the headwaters of the Guma Tribe, they must have a place that sells magic herbs." </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20181007T045557Z" creationid="yun" creationdate="20181007T045550Z">
+        <seg>Ling Xiao continued walking and said, unconcerned, "What's the hurry? Sure there was only a few of those shops, but they can't not have one. After all, the WuShan Town was the headquarters of the Guma Tribe, they must have a place that sells magic herbs." </seg>
       </tuv>
     </tu>
     <tu>
@@ -27769,6 +27769,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T014508Z" creationid="Lilly" creationdate="20180909T014508Z">
         <seg>You XiaoMo hurriedly grabbed onto the edge of the shell, stabilizing himself with one hand and bringing out his golden winged insects with the other. Golden Winged Insects were said to be able to devour anything. Though this might be a bit of an exaggeration, it was true that they could chew through any seal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默急忙跟上，看来只能问人了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181007T045641Z" creationid="yun" creationdate="20181007T045641Z">
+        <seg>You XiaoMo hurried to catch up. By the looks of things, they could only ask around. </seg>
       </tuv>
     </tu>
     <tu>
