@@ -30429,6 +30429,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默看了一圈，发现顶级灵草的价格都是既定的，也就是说‘先下手为强，后下手遭殃’，如果有两个人同时看中一株灵草，那么就需要进行PK之类的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181008T024347Z" creationid="elaine" creationdate="20181008T024347Z">
+        <seg>You XiaoMo glanced around and discovered that the prices of the transcendent level magic herbs were all fixed, or in other words, 'he who strikes first prevails, he who strikes late fails.' If two people saw the same magic herb simulatenously, then they would have to do PK or something similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默看了一眼就把&lt;t0/&gt;纸条扔了继续倒回&lt;t1/&gt;床上&lt;t2/&gt;补眠。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180917T143018Z" creationid="Ceti" creationdate="20180916T060651Z">
@@ -35164,6 +35172,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180831T181556Z" creationid="yun" creationdate="20180831T181556Z">
         <seg>By looks alone you wouldn't have been able to tell that Hei Xiong was someone whose adapatble. (拿得起放得下)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>看了一会没看出什么名堂，大家又收回视线，赶紧寻找自己的目标，免得被别人抢先了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181008T024217Z" creationid="elaine" creationdate="20181008T024217Z">
+        <seg>When they didn't see anything much happen, everyone looked away again and continued searching for their own objectives in order to avoid them being stolen away by someone else first.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43135,8 +43151,8 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       <tuv lang="ZH-CN">
         <seg>顶级区不一定只有顶级丹师才会来，但是每一个来这里的人一定是强者，这下子进来两个，而且还是戴着一丑一美面具的人，不引起关注才怪。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181008T024042Z" creationid="elaine" creationdate="20181008T024029Z">
-        <seg>It wasn't as if only transcendent level mages went to the pinnacle section, but everyone who came to this place was definitely an expert. It would be weird if they didn't get attention, especially because they had one ugly and one beautiful mask each. </seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181008T024103Z" creationid="elaine" creationdate="20181008T024029Z">
+        <seg>It wasn't as if only transcendent level mages went to the pinnacle section, but everyone who came to this place was definitely an expert. It would be weird if they didn't get attention, especially since one had an ugly mask and the other a beautiful mask.</seg>
       </tuv>
     </tu>
     <tu>
