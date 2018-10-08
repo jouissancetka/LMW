@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“二位公子，小人是这里的李管事，有什么需要尽管问我。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181008T024527Z" creationid="elaine" creationdate="20181008T024527Z">
+        <seg>"Gentlemen, I'm Manager Lee. (李管事) Please feel free to ask me if you have any requests."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“二位客官，这是你们要的饭菜！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181006T163424Z" creationid="Lilly" creationdate="20181006T163424Z">
@@ -7380,6 +7388,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180926T005217Z" creationid="elaine" creationdate="20180926T005217Z">
         <seg>Wasn't the number one spot the Vermillion Blood Clan's You ZhenTian? He had quite some guts, if he truly dared to bring the Wolf of Gluttony's Life Crystal back home. However, it wasn't hard to understand either. The Vermillion Blood Clan truly did need to cultivate another Sacred Realm expert. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一名中年男子突然走到他们面前，在他们进来时他就已经看到，本来想看看他们的实力如何，结果看不出来，他就不敢怠慢了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181008T024627Z" creationid="elaine" creationdate="20181008T024627Z">
+        <seg>A middle-aged man suddenly walked over to them. He already saw them when they came in, and at first, he wanted to see how strong they were, but he wasn't able to tell, so he didn't dare to neglect them.</seg>
       </tuv>
     </tu>
     <tu>
