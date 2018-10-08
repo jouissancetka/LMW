@@ -19317,8 +19317,8 @@
       <tuv lang="ZH-CN">
         <seg>如果可以，游小默并不想放弃这株心灵花草，因为等级越高的灵草越难找，转生丹是彩级四品灵丹，而且这里和中天不同，市场没那么大。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181008T025602Z" creationid="elaine" creationdate="20181008T025602Z">
-        <seg>If they could reserve, </seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181008T025743Z" creationid="elaine" creationdate="20181008T025602Z">
+        <seg>If it was possible, You XiaoMo didn't want to give up on this Heart Flower Herb, because the higher the level, the harder it was to find the magic herbs. The Reincarnation Pill was one of the four rainbow magic pills, and moreover, this place was different from Zhong Tian, since the marketplace wasn't as big. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22097,6 +22097,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T030638Z" creationid="Lilly" creationdate="20180629T030638Z">
         <seg>So he couldn't go up there in plain sight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>所以要是在这里错过了心灵花草，下次就没那么好运了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181008T025814Z" creationid="elaine" creationdate="20181008T025804Z">
+        <seg>So if they let the Heart Flower Herb go here, they wouldn't get so lucky next time.</seg>
       </tuv>
     </tu>
     <tu>
