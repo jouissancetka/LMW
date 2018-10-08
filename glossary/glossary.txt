@@ -355,3 +355,4 @@ xx 家	xx Family/Clan
 乌山集镇	WuShan Town
 苏朗	Su Lang
 彩级二品	Grade Two Rainbow Level
+灵草堂	Magic Herb Shop
