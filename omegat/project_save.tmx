@@ -5584,8 +5584,8 @@
       <tuv lang="ZH-CN">
         <seg>“睡着了。”沉默了两秒，凌霄闭着眼回答。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20181008T035112Z" creationid="yun" creationdate="20181008T035112Z">
-        <seg>?</seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20181008T035151Z" creationid="yun" creationdate="20181008T035112Z">
+        <seg>"I'm asleep." Ling Xiao replied. eyes closed, after two seconds of silence. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26145,6 +26145,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180905T035627Z" creationid="elaine" creationdate="20180905T035627Z">
         <seg>You XiaoMo drank the tea in one gulp before returning to Ling Xiao. He chuckled. "That fellow's mental fortitude really sucks. All I did was invite him to drink a cup of tea, it wasn't like I was going to eat him."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默一只手臂勾住他的脖子，愤愤得道：“骗人，要是睡着了你怎么可能回答我的问题。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181008T035234Z" creationid="yun" creationdate="20181008T035234Z">
+        <seg>With one arm hooking his neck, You XiaoMo said with anger, "Liar, how are you answering me if you're asleep?" </seg>
       </tuv>
     </tu>
     <tu>
