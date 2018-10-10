@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4042,6 +4042,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T084146Z" creationid="Ceti" creationdate="20180728T153619Z">
         <seg>"Well done." You XiaoMo praised the three small demon beasts, expressing his pleasure at their actions of renouncing the dark and seeking the light. They really proved themselves to be the demon beasts that he favored the most. It looked like he didn't dote on them for nothing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“很好，不枉我等了两个月。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181010T143048Z" creationid="Lilly" creationdate="20181010T143048Z">
+        <seg>"Very good. My two months of waiting haven't been wasted."</seg>
       </tuv>
     </tu>
     <tu>
