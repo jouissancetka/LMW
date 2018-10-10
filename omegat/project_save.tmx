@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -274,6 +274,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180929T170730Z" creationid="Lilly" creationdate="20180929T170730Z">
         <seg>"Number one has bid five hundred and twenty million."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“一定会。”苏朗肯定的说道，“他们为了得到心灵花草都肯花几千万灵晶，一定不会放过任何可以得到黑莲草的机会，而且那个伙计也说了，他们没有留下联络方式，所以只能等他们自己上门。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181010T142823Z" creationid="Lilly" creationdate="20181010T142823Z">
+        <seg>"Of course," Su Lang said with absolute certainty. "They were willing to spend tens of millions of spirit gems to obtain the Herat Flower Herb. They definitely wouldn't let any chance of obtaining the Black Lotus Herb slip by. Plus, the manager said that they didn't leave any contact information, so we can only wait for them to return."</seg>
       </tuv>
     </tu>
     <tu>
@@ -36031,6 +36039,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>男子不经意的往窗外一瞥，一愣：“师弟，你快看下面。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181010T142929Z" creationid="Lilly" creationdate="20181010T142929Z">
+        <seg>The man casually glanced out of the window and stared in surprise. "Look, down there."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>男子也没想到他会这么好说话，逐抬起一只手说：“每人十枚灵晶。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181002T174824Z" creationid="Lilly" creationdate="20181002T174824Z">
@@ -39940,6 +39956,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181006T093839Z" creationid="Ceti" creationdate="20181005T190954Z">
         <seg>Su Lang smashed more than a dozen tea sets in his residence and finally decided to pull a snake from its hole, that is, to help them find the Black Lotus Herb and then ask Steward Li to inform them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>苏朗往窗外一看，在灵草堂右手边缓缓走来的人补正是他在找的两个人，刚说着他们就来了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181010T143018Z" creationid="Lilly" creationdate="20181010T143018Z">
+        <seg>Su Lang looked out of the window. Weren't those two walking over slowly from the right the exact same people they had been looking for? They had just been talking about them, too.</seg>
       </tuv>
     </tu>
     <tu>
