@@ -400,8 +400,8 @@
       <tuv lang="ZH-CN">
         <seg>“不可能，我今年才二十五岁，如今已经是一名彩级一品丹师，当初师傅说过我是通天大陆第一的天才，天才怎么会输给一个无名小卒。”苏朗傲慢的说道，虽然前段时间才突破，但是他一直都很为自己骄傲。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181012T020716Z" creationid="elaine" creationdate="20181012T020716Z">
-        <seg>"Impossible, I'm only 25 years old this year, and I'm already a Grade One Rainbow Level mage. Back then, shifu once said that I was TongTian Continent's first genius, how can a genius lose to a nameless nobody?" Su Lang said arrogantly. Even though he had only just broken through not long ago, but he had always been very proud of himself.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181012T021240Z" creationid="elaine" creationdate="20181012T020716Z">
+        <seg>"Impossible, I'm only 25 years old this year, and I'm already a Grade One Rainbow Level mage. Back then, shifu once said that I was TongTian Continent's number one genius, how can a genius lose to a nameless nobody?" Su Lang said arrogantly. Even though he had only just broken through not long ago, but he had always been very proud of himself.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12544,6 +12544,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他说的是没几个，但补代表没有。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181012T021251Z" creationid="elaine" creationdate="20181012T021251Z">
+        <seg>He said that there weren't many, but that didn't mean there weren't any.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他这副模样此时才让人觉得他也是黑蜘蛛一员。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180926T000227Z" creationid="elaine" creationdate="20180926T000221Z">
@@ -18366,6 +18374,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090036Z" creationid="Lilly" creationdate="20180609T090036Z">
         <seg>Since he always disappeared from the limelight after doing anything big, no one was sure of how to judge his abilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>因为他认识一个人，他比苏朗更早成为彩级一品丹师，听说他现在已经是二品了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181012T021324Z" creationid="elaine" creationdate="20181012T021324Z">
+        <seg>Because he knew someone who had become a Grade One Rainbow Level mage before Su Lang. He heard that he was already Grade Two now.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45551,10 +45567,18 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>颜辉笑了笑，脸上微僵的肌肉突然放松了下来，安抚性的笑道：“师弟，生这么大的气做什么，我只是做个假设而已，比你更天才的人确实没几个人。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181012T021225Z" creationid="elaine" creationdate="20181012T021225Z">
+        <seg>Yan Hui laughed, and the slightly stiff muscles in his face suddenly relaxed. He smiled and placated, "Shidi, what's the use of being so angry. I'm only making a conjecture, there really aren't that many people who are more gifted than you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>颜辉说：“心灵花草的等级比你平时买的还要高，那个人的实力必定在二品之上，真要打起来，你根本就补可能打得过，而且我看那个人的年龄似乎不大的样子，你的大陆第一天才说不定得让位了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181012T021005Z" creationid="elaine" creationdate="20181012T020839Z">
-        <seg>Yan Hui said, "The Heart Flower Herb's level is even higher than what you would usually buy. That person's strength must be above Grade Two. If you actually started fighting them, there's no way you would have been able to defeat them. Moreover, that person didn't seem to be very old, your 'TongTian's first genius' probably has to give up its seat."</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181012T021235Z" creationid="elaine" creationdate="20181012T020839Z">
+        <seg>Yan Hui said, "The Heart Flower Herb's level is even higher than what you would usually buy. That person's strength must be above Grade Two. If you actually started fighting them, there's no way you would have been able to defeat them. Moreover, that person didn't seem to be very old, your 'TongTian's number one genius' probably has to give up its seat."</seg>
       </tuv>
     </tu>
     <tu>
