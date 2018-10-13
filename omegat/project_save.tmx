@@ -24437,6 +24437,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>普通春药类的灵丹等级一般不高，除非拥有特殊效果，不过这种东西毕竟还是偏向阴损一类，所以炼春药类灵丹&lt;t0/&gt;的丹师还是&lt;t1/&gt;很少的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181013T223308Z" creationid="Lilly" creationdate="20181013T223308Z">
+        <seg>Normal aphrodisiac magic pills weren't very high leveled unless there were some special effects. However, this sort of thing was considered something of a dirty tool, so there were very few mages who refined aphrodisiac pills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>普通石室是三天一个积分。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144209Z" creationid="Lilly" creationdate="20180921T144209Z">
