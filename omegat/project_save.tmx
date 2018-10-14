@@ -29423,8 +29423,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默在&lt;t0/&gt;玉简里七挑八选的&lt;t1/&gt;，还真被他找到这种丹方，从低级灵丹到高级灵丹，每一等级都有好几种，他是不是应该惊叹一声先祖的魄力，连这种药效的丹方都收。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181013T223831Z" creationid="Lilly" creationdate="20181013T223831Z">
-        <seg>You XiaoMo flipped through the recipes in the jade drive and managed to find quite a few of these. From low level magic pills to high level magic pills, there were several for each level. </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181014T164828Z" creationid="Lilly" creationdate="20181013T223831Z">
+        <seg>You XiaoMo flipped through the recipes in the jade drive and managed to find quite a few of these. From low level magic pills to high level magic pills, there were several different kinds of each level. </seg>
       </tuv>
     </tu>
     <tu>
@@ -33291,6 +33291,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180917T143954Z" creationid="Ceti" creationdate="20180916T063025Z">
         <seg>This was the first time that You XiaoMo discovered that refining magic pills was such a hectic affair. His spirit was weary and strength was exhausted during the half month as he did not have any mental preparations. He also suffered a severe psychological blow from wasting a pair of magic herbs due to a mistake. So when the auction came, he was still in a state of having only a breath of life left. (气息奄奄)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默第二天一早就开始炼春药。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181014T164854Z" creationid="Lilly" creationdate="20181014T164854Z">
+        <seg>You XiaoMo started the refining aphrodisiac the next morning.</seg>
       </tuv>
     </tu>
     <tu>
