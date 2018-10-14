@@ -366,3 +366,5 @@ xx 家	xx Family/Clan
 圣女	holy maiden
 彩级六品	Grade Six Rainbow Level
 彩级五品	Grade Five Rainbow Level
+洞域	Dong Yu
+莫非	Mo Fei
