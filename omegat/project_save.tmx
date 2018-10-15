@@ -5350,6 +5350,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“暂时不用理会他们，接下来是古玛部落与水西部落的争斗，我们不能参与进去，别忘了，你手中那张地图标志的地点正是东洲。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181015T180842Z" creationid="elaine" creationdate="20181015T180842Z">
+        <seg>"For the moment, we don't need to pay attention to them. The fight between the Guma Tribe and the Shuixi Tribe is coming up soon, and we cannot get involved. Don't forget, the location that the map of yours is pointing to is Dong Zhou."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“最多五万，不要的话我就去找下一家，交易所又不是只有你一家。”游小默并不理会他的威胁，这种人应了只会得寸进尺。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180915T061506Z" creationid="Ceti" creationdate="20180915T061345Z">
@@ -15372,6 +15380,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180913T024804Z" creationid="elaine" creationdate="20180913T024804Z">
         <seg>Ling Xiao murmured, "Let's first find a place without people, and then we can talk."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄沉吟道：“颜辉的师傅显然是个很谨慎的人，想抓到他的尾巴很难，金翅虫虽然可以监视他们，但终究实力有限，再深入就不可能了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181015T180658Z" creationid="elaine" creationdate="20181015T180653Z">
+        <seg>Ling Xiao murmured, "Yan Hui's shifu is clearly a very cautious person, so it'll be very difficult if we want to grab his tail. Although the Golden Winged Insects can keep an eye on them, in the end there's still a limit to their strength. It's impossible for them to get any closer."</seg>
       </tuv>
     </tu>
     <tu>
@@ -29441,6 +29457,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180921T231540Z" creationid="elaine" creationdate="20180921T231540Z">
         <seg>You XiaoMo flew into a rage after hearing this. "What does he mean, 'even more stupid than so-and-so'? Who is this 'so-and-so'?" Why did he feel like it was alluding to him?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默听明白他的意思了，“难道不管了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181015T180732Z" creationid="elaine" creationdate="20181015T180726Z">
+        <seg>You XiaoMo understood what he was trying to say. "So should we just give up on them?"</seg>
       </tuv>
     </tu>
     <tu>
