@@ -6752,6 +6752,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这我就不清楚了。”凌霄拿过他手上的地图，“这张地图的出现应该是在远古大战之前，所以上面隐约描绘出来的妖兽倒是有可能真是那头帝王兽的形态，不过十有八九是巧合，那头帝王兽在那里沉睡了太久，造成地形与他的形态越来越相似不是不可能的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181015T183607Z" creationid="elaine" creationdate="20181015T183607Z">
+        <seg>"I'm not sure." Ling Xiao took the map in his hand. "This map should have appeared before the ancient war, so it's indeed possible that the demon beast depicted indistinctly on it is that Emperor Beast. But it's most likely just a coincidence. That Emperor Beast slumbered for too long in that place, so it isn't impossible that the terrain began to look more and more like it." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这是……金翅虫？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T075205Z" creationid="Ceti" creationdate="20180722T075153Z">
@@ -13508,6 +13516,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181014T093837Z" creationid="Ceti" creationdate="20181014T093837Z">
         <seg>The excessive power dissipated after two minutes, but more than half the inn had already been destroyed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>作为一个二十一世纪的进步青年，这种同化理论他还是听说过的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181015T183702Z" creationid="elaine" creationdate="20181015T183702Z">
+        <seg>As a 21st century progressive youth, he had also heard this kind of assimilation theory before.</seg>
       </tuv>
     </tu>
     <tu>
