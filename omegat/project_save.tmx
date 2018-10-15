@@ -31101,6 +31101,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默把四张地图拿出来，自从得到最后一张地图，他一直没有仔细的对比过。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181015T180924Z" creationid="elaine" creationdate="20181015T180924Z">
+        <seg>You XiaoMo took out the four maps. After obtaining the last map, he hadn't had a chance to carefully compare them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默把大鹏鸟他们也弄了出来，不能化形的小乌龟，金翅虫和吞金兽都被他塞在衣服里。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T142542Z" creationid="Ceti" creationdate="20180826T101552Z">
@@ -47748,6 +47756,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T125619Z" creationid="Ceti" creationdate="20180909T124227Z">
         <seg>The Black Spider was established a thousand years ago. The reason why their reputation was so notorious was because there was once a clan's family heirloom that fell into the hands of the Black Spider. They publicly auctioned that heirloom and this resulted in the family head of that clan bringing a group of experts over to look for them. In the end, that group was beaten and injured and even the clan was nearly exterminated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑蜘蛛拍卖会上，那位拍卖师说过，地图所指的方位是东洲东南一带。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181015T180958Z" creationid="elaine" creationdate="20181015T180958Z">
+        <seg>During the Black Spider's auction, the auctioneer had said that the location that this map was pointing to was the area to the southeast of Dong Zhou.</seg>
       </tuv>
     </tu>
     <tu>
