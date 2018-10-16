@@ -202,7 +202,7 @@ xx 家	xx Family/Clan
 邢七	Xing Qi
 通灵玄龟	Psychic Black Turtle
 玄龟族	Black Turtle Clan
-旁支	side branch	side family/clan
+旁支	side branch
 莫景	Mo Jing
 神通	Spiritual Sense
 妖兽	demon beast
@@ -246,7 +246,7 @@ xx 家	xx Family/Clan
 杂质	impurities
 天修	Tian Xiu
 天刀	Tian Dao
-禁制	Restriction 	Restriction Barrier, Area, Seals 
+禁制	Restriction 
 禁地	Forbidden zone
 游族	You Family
 旁枝	side family
@@ -332,7 +332,7 @@ xx 家	xx Family/Clan
 中级灵草	mid-grade magic herb
 鲸岛	Whale Island
 炉鼎	cauldron
-荒蛮位面	wild plane	uninhibited
+荒蛮位面	wild plane
 灵力	spiritual energy
 空间戒指	dimension ring
 芥子空间	pocket dimension
