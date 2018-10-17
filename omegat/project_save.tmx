@@ -6246,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“蠢货，慌什么慌！”凌霄平静的声音骤然响起，就算宫殿在剧烈的晃动也没有影响到他分毫。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181017T140507Z" creationid="Ceti" creationdate="20181017T140328Z">
+        <seg>"You dumb-ass (蠢货), what are you panicking for?!" Ling Xiao's calm voice suddenly sounded. Even if the palace was shaking violently, it did not affect him in the slightest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“行了，先让他进来，看看他要说什么。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T184528Z" creationid="Lilly" creationdate="20180730T184528Z">
@@ -35001,8 +35009,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默顿时急的团团转。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181017T140226Z" creationid="Ceti" creationdate="20181017T140226Z">
-        <seg>You XiaoMo was so anxious he started running around in circles.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181017T140337Z" creationid="Ceti" creationdate="20181017T140226Z">
+        <seg>You XiaoMo was so panicky he started running around in circles.</seg>
       </tuv>
     </tu>
     <tu>
