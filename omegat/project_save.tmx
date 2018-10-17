@@ -18818,6 +18818,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>因为他发现地图上的线连接起来竟然也是一只白虎，不同的是，三条线最后都汇聚到白虎的心脏部位，而地图上显示白虎的心脏部位是在宫殿的正中央。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181017T142020Z" creationid="Ceti" creationdate="20181017T142020Z">
+        <seg>Because he found that when the lines on the map were connected, it formed a white tiger. However, the difference was that the three lines eventually converged at the position of the heart of the white tiger, and the map showed that the heart of the white tiger was in the center of the palace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>因为他总是出现一段时间就消失一段时间，导致一些人不知道怎么判断他的实力。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T090036Z" creationid="Lilly" creationdate="20180609T090036Z">
@@ -30961,6 +30969,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180828T043902Z" creationid="yun" creationdate="20180828T043902Z">
         <seg>You XiaoMo picked him up and placed him back onto the table. Unwavering, the baby turtle bit his finger in a soft and sticky (软软糯糯) way. He didn't feel anything from it, much less pain, so thinking it was funny, he let him continue to bit on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默把发现告诉凌霄。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181017T142042Z" creationid="Ceti" creationdate="20181017T142042Z">
+        <seg>You XiaoMo told Ling Xiao about his discovery.</seg>
       </tuv>
     </tu>
     <tu>
