@@ -5182,6 +5182,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“改变调查方向，如果天刀没猜错，西境接下来将会有一场血雨腥风。”&lt;t0/&gt;天刀随手&lt;t1/&gt;将&lt;t2/&gt;玉简里的&lt;t3/&gt;信息销毁，没证据之前，这件事知道的人越少越好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T222858Z" creationid="Lilly" creationdate="20181018T222858Z">
+        <seg>"Change the direction of our investigation. If Tian Dao is right, trouble is on the horizon for Xi Jing." Tian Dao casually destroyed the jade drive. Without evidence to back this up, the less people that knew of this the better.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“放开莫雪！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181010T063435Z" creationid="Ceti" creationdate="20181010T061957Z">
@@ -10076,6 +10084,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181017T132702Z" creationid="Ceti" creationdate="20181017T132421Z">
         <seg>At the same time, Dou PengRen(斗篷人), Xia Yin and Moqi XiYuan (万俟西元) had reached an agreement. The three could cooperate to break the wards, and the items inside would be divided equally among them. As for the situation where there were not enough items to be divided among three people, the three shared a mutual understanding and did not bring it up. This was because any discussion of such matters would be getting nowhere, and was just a waste of time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>与此同时，游小默和凌霄已经赶到东南一带。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T222931Z" creationid="Lilly" creationdate="20181018T222931Z">
+        <seg>At the same time, You XiaoMo and Ling Xiao had arrived at DongNan (东南).</seg>
       </tuv>
     </tu>
     <tu>
