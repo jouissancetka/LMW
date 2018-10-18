@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“什么消息？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T221211Z" creationid="Lilly" creationdate="20181018T221203Z">
+        <seg>"What message?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“什么？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181017T142611Z" creationid="Ceti" creationdate="20181017T142602Z">
@@ -3352,8 +3360,8 @@
       <tuv lang="ZH-CN">
         <seg>“天刀先生，花姐那边传来消息了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T221049Z" creationid="Lilly" creationdate="20181018T221049Z">
-        <seg>"Sir, Sister Hua sent a report."</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T221206Z" creationid="Lilly" creationdate="20181018T221049Z">
+        <seg>"Sir, Sister Hua sent a message."</seg>
       </tuv>
     </tu>
     <tu>
@@ -8044,6 +8052,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180912T235514Z" creationid="Lilly" creationdate="20180912T235514Z">
         <seg>A white robed young man walked steadily into the buffer zone under everyone's gazes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一名青年从外面走进来，人刚跨过门槛，声音就传进来了，他&lt;t0/&gt;是花姑两个&lt;t1/&gt;小弟之一的花雕。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T221158Z" creationid="Lilly" creationdate="20181018T221158Z">
+        <seg>A young man walked in from outside, his voice heard just as he stepped through the doorway. He was one of two of Hua Gu's followers, Hua Diao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20135,6 +20151,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T043422Z" creationid="elaine" creationdate="20180824T043422Z">
         <seg>Tian Dao shook his head. "Actually, if they hadn't audaciously decided to refine pills in Tian Xiu's Leisure Pavilion, I wouldn't have discovered them this quickly either. Weeping Ghost Shore's defenses still must be strengthened." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>天刀正&lt;t0/&gt;了正脸色，自从收下&lt;t1/&gt;花姑三&lt;t2/&gt;人后，他&lt;t3/&gt;发现花姑是&lt;t4/&gt;个人才，于是在训练他们几个月后，他就让花姑跟着天元一起去收集情报。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T221331Z" creationid="Lilly" creationdate="20181018T221331Z">
+        <seg>Tian Dao composed himself (天刀正了正脸色). Ever since he took in Hua Gu and co, he found that Hua Gu really was quite a talent. Thus, after a few months of training, he had Hua Gu go with Tian Yuan to gather intelligence.</seg>
       </tuv>
     </tu>
     <tu>
