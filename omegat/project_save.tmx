@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46909,6 +46909,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T062723Z" creationid="yun" creationdate="20180819T062723Z">
         <seg>Although the Ghost Tomb Mountain Range was considered a mountain range, it was already in ruins, with mountain rangers shifting and breaking, sinking in to become huge valleys. The ground had splitted and concaved into a huge chasm, mountain peaks had collapsed and some were even flattened to become fields and swamps. Basically, it wasn't watchable anymore. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>鬼冢山脉，鬼哭&lt;t0/&gt;涯&lt;t1/&gt;。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181018T203659Z" creationid="Lilly" creationdate="20181018T203659Z">
+        <seg>Ghost Tomb Mountain Range, Weeping Ghost Shore.</seg>
       </tuv>
     </tu>
     <tu>
