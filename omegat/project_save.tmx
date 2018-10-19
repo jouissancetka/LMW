@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你做什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181019T073345Z" creationid="elaine" creationdate="20181019T073345Z">
+        <seg>"What are you doing?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你别乱来！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180823T163708Z" creationid="yun" creationdate="20180823T163708Z">
@@ -5382,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是洞域强盗，大家快上！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181019T073328Z" creationid="elaine" creationdate="20181019T073328Z">
+        <seg>"It's the Dong Yu bandits. Everyone, get them!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是的。”男执事平静的说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180616T120701Z" creationid="Lilly" creationdate="20180616T120701Z">
@@ -5410,6 +5426,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T223930Z" creationid="Lilly" creationdate="20180830T223930Z">
         <seg>"Who dares bully Black Bear's little darling?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“是谁？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181019T073419Z" creationid="elaine" creationdate="20181019T073419Z">
+        <seg>"Who's there?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6298,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180715T071757Z" creationid="Lilly" creationdate="20180715T071750Z">
         <seg>"Elder, I know you don't believe it, and there's not much of a point in my explaining. Only time can prove who is wrong and who is right. Let's deal with the magic herb situation first," You XiaoMo switched the topic and immediately turned everyone's attention to the other problem at hand. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“老大，人已经抓到了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181019T073448Z" creationid="elaine" creationdate="20181019T073448Z">
+        <seg>"Boss, we've caught them."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“老大，这个小娘皮脾气好大啊！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181019T073501Z" creationid="elaine" creationdate="20181019T073501Z">
+        <seg>"Boss, this girl has quite a temper!"</seg>
       </tuv>
     </tu>
     <tu>
