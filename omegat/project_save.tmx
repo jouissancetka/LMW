@@ -5958,6 +5958,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“畜生！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181019T074201Z" creationid="elaine" creationdate="20181019T074201Z">
+        <seg>"Beast!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“百鸟谷到目前为止都很安静，花姑说他们和其他族一样，应该都不相信那件事是我们做的，现在都在着手调查当中，目前对我们还是比较有利的。”花雕迅速的说道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181018T221655Z" creationid="Lilly" creationdate="20181018T221655Z">
@@ -20046,6 +20054,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180926T164236Z" creationid="yun" creationdate="20180926T164236Z">
         <seg>As the sun started to set outside, the inside was still bright as daylight. With everyone's attention on the continuous stream of treasures, almost no one realized the actual time. Above them, the white sparkling minerals shone brightly. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>外面，等不到回应的强盗头子正打算叫他的手下去看看，另一拨人马出现了，他们不是强盗，而是十个人的探险队伍，发现这边的情况后，他们立刻冲了过来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181019T074028Z" creationid="elaine" creationdate="20181019T074028Z">
+        <seg>Outside, the bandit chief, who didn't receive a response, was about to send his men in to take a look, when another wave of people appeared. They weren't bandits; they were an exploration party of about ten or so people. When they discovered the situation over here, they instantly charged over.</seg>
       </tuv>
     </tu>
     <tu>
