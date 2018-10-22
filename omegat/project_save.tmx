@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8444,6 +8444,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181018T224339Z" creationid="Lilly" creationdate="20181018T224135Z">
         <seg>At first, he didn't take it to mind, but that was when he found out that someone leaked the existence of very valuable treasure (超级洞府).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一开始只是看到他的背影，他们并没有立刻认出来，毕竟只有过两面之缘而已，直到他转身，那张脸才完全露出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T234257Z" creationid="Lilly" creationdate="20181022T234257Z">
+        <seg>At first they had only seen his back and weren't able to recognize him, after all, they had only met each other twice. It wasn't until he turned around that his face was revealed to them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19142,6 +19150,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180916T041514Z" creationid="Ceti" creationdate="20180915T091001Z">
         <seg>Each and everyone of the people around them pricked up their ears, especially those who had just helped Teacher Yang. When they heard the words of the Elder Gong, their hearts could not help thumping loudly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>和她们的反应不同，谢俊的眼睛几乎没离开&lt;t0/&gt;过游小默&lt;t1/&gt;手上的金色手套，他亲眼看到他是怎么用这双手套斩断长剑的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T234442Z" creationid="Lilly" creationdate="20181022T234442Z">
+        <seg>Unlike them, Xie Jun's reaction was different. His gaze didn't leave the golden gloves You XiaoMo was wearing. He had personally witnessed how You XiaoMo had snapped the sword with the gloves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43226,6 +43242,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>莫雪几&lt;t0/&gt;人也是现在才发现他们忌惮的人竟然是熟人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T234143Z" creationid="Lilly" creationdate="20181022T234143Z">
+        <seg>Mo Xue and co then realized that the person they were afraid of was a familiar face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>莫雪只觉得他特别英俊，特别体贴，而且还有实力，一颗心都快化在他身上，听到他的话连忙附和道：“谢大哥说的是，不过眼下我们也找不到同伴……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181012T145314Z" creationid="Ceti" creationdate="20181010T050505Z">
@@ -43262,6 +43286,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181010T065911Z" creationid="Ceti" creationdate="20181010T062205Z">
         <seg>Mo Xue and Mo Fei expectantly looked over. If it was a handsome guy, they'd behave a little more enthusiastically. If not, they would just carelessly say a word of thanks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莫雪和莫菲的表情立刻像吃了大便一样难看，瞪大眼睛，嘴巴合不拢了，现实明显跟她们开了一个玩笑，她们一直轻视看不起的人竟然是个真正的强者？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T234353Z" creationid="Lilly" creationdate="20181022T234353Z">
+        <seg>Mo Xue and Mo Fei's expressions were ugly like they had just eaten shit. Their eyes were wide, jaws dropped. Reality had played a cruel trick on them. The person they had looked down on was a true powerhouse?</seg>
       </tuv>
     </tu>
     <tu>
