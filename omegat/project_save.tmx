@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10148,6 +10148,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181018T213824Z" creationid="Lilly" creationdate="20181018T213824Z">
         <seg>However, they couldn't not avenge the Wolf of Gluttony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不过还没等他问话，黑衣人的头颅突然重重的垂了下去，他死了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233735Z" creationid="Lilly" creationdate="20181022T233735Z">
+        <seg>Before he could ask anything, though, the black robed man's head hung as he died.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30151,8 +30159,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默双手已经套上一双金色手套，这是用金翅&lt;t0/&gt;虫吐得丝&lt;t1/&gt;制成的，虽然手套做工粗糙，而且样式很难看，但是效果&lt;t2/&gt;非常&lt;t3/&gt;棒，&lt;t4/&gt;刚刚他&lt;t5/&gt;就是凭借这双手套徒手折断黑衣人的长剑的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233349Z" creationid="Lilly" creationdate="20181022T233349Z">
-        <seg>You XiaoMo had put on a pair of golden gloves made from the silk of his golden winged insects.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233508Z" creationid="Lilly" creationdate="20181022T233349Z">
+        <seg>You XiaoMo had put on a pair of golden gloves made from the silk of his golden winged insects. Though the craftsmanship was rough, and it looked ugly, but the effect was top notch. He had managed to break the black robed man's sword with these gloves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33189,6 +33197,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默没有将剑插在他的心脏上面，否则现在他已经死了，而不是还留有一口气，他想知道这个人为什么要偷袭他，是不是和峡谷下面那道闪光有关系。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233704Z" creationid="Lilly" creationdate="20181022T233704Z">
+        <seg>You XiaoMo hadn't shoved the sword into his heart, otherwise he would've been dead by now and not on his last breath. He wanted to know why the man had ambushed him and if it had something to do with the flash at the bottom of the canyon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默没有将玉简递给他，只是简单的介绍了下&lt;t0/&gt;赤&lt;t1/&gt;火丹。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T133640Z" creationid="Lilly" creationdate="20180921T133640Z">
@@ -35571,6 +35587,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181022T231632Z" creationid="Lilly" creationdate="20181022T231632Z">
         <seg>You XiaoMo faced the black robed man bare-handed, not at all falling to a disadvantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默走到他面前，发现他真的死透了，这是怕被他严刑逼供，所以选择自杀么？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233751Z" creationid="Lilly" creationdate="20181022T233751Z">
+        <seg>You XiaoMo </seg>
       </tuv>
     </tu>
     <tu>
@@ -49317,6 +49341,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181022T230945Z" creationid="Lilly" creationdate="20181022T230945Z">
         <seg>The black robed person couldn't retract his sword fast enough and so he blocked the attack with his other arm before using the power from You XiaoMo's kick to retreat several tens of meters. His figure landed on a sharp crag, his killing intent not faltering at all. His empty eyes were fixed on You XiaoMo, not budging his gaze by even a fraction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣人空洞的眼神因为生命力的流失变得越来越无力，里面呈现一片死灰色，还有一丝淡淡的，一闪而过的难以置信。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233606Z" creationid="Lilly" creationdate="20181022T233606Z">
+        <seg>The black robed man's empty gaze become more and more lifeless as his life drained away. His gaze was filled with despair, and the flash of incredulousness.</seg>
       </tuv>
     </tu>
     <tu>
