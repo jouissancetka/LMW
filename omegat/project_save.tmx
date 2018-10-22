@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10596,6 +10596,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T073705Z" creationid="Lilly" creationdate="20180629T073705Z">
         <seg>The two naturally wouldn't get out like the voice told them, charging towards the tenth floor as if they had gone crazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两人很快就赶到目的地。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T141620Z" creationid="Lilly" creationdate="20181022T141620Z">
+        <seg>The two soon arrived at their destination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40063,6 +40071,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181019T034002Z" creationid="elaine" creationdate="20181019T034002Z">
         <seg>Chapter 581: Hero Rescues a Beauty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第583章 偷袭者</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T141429Z" creationid="Lilly" creationdate="20181022T141429Z">
+        <seg>Chapter 583: Ambusher</seg>
       </tuv>
     </tu>
     <tu>
