@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25089,6 +25089,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181006T224252Z" creationid="yun" creationdate="20181006T224252Z">
         <seg>After they changed, You XiaoMo pulled out the silver mask Ling Xiao wore before for him to wear again. Although it was a bit striking, it's better than being recognized. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>据小镇上的人说，峡谷下面有空间之力肆虐，任何掉下去的人绝对有去无回，是&lt;t0/&gt;洞域最&lt;t1/&gt;危险的地方，没有之一。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T195129Z" creationid="Lilly" creationdate="20181022T195129Z">
+        <seg>According to the people in the town, spacial force wrecked chaos at the bottom. Anyone who fell in wouldn't have any hope of return. It was doubtlessly the single most dangerous place in the Dong Yu.</seg>
       </tuv>
     </tu>
     <tu>
