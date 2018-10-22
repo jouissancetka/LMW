@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你是什么人，为什么要偷袭我？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T231102Z" creationid="Lilly" creationdate="20181022T231102Z">
+        <seg>"Who are you? Why did you ambush me?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你是在眶我吗？”银戈不悦地道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180625T142001Z" creationid="Ceti" creationdate="20180625T142001Z">
@@ -35019,6 +35027,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180811T065436Z" creationid="Ceti" creationdate="20180811T065436Z">
         <seg>You XiaoMo muttered to himself, completely ignoring the tortoise rights of the little tortoise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默自认&lt;t0/&gt;不认识此人，与他非亲非故，有什么恩怨情仇更加不可能，那么他为什么要偷袭自己？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T231048Z" creationid="Lilly" creationdate="20181022T231048Z">
+        <seg>You XiaoMo was pretty sure he didn't know this person and had never had any entanglements with him, so there was little chance that he had offended this person. So why did this person ambush him?</seg>
       </tuv>
     </tu>
     <tu>
