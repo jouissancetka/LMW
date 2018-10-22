@@ -28221,6 +28221,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游&lt;t0/&gt;小默没&lt;t1/&gt;忍住，还是跑过去看了一下。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T212414Z" creationid="Lilly" creationdate="20181022T212414Z">
+        <seg>You XiaoMo couldn't help but run over and take a look.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游&lt;t0/&gt;小默瞪&lt;t1/&gt;了他一眼，我不需要精神上的支持！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181018T225731Z" creationid="Lilly" creationdate="20181018T225731Z">
@@ -34595,6 +34603,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180927T144415Z" creationid="Ceti" creationdate="20180927T132304Z">
         <seg>You XiaoMo immediately asked, "What magic pill?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默站在&lt;t0/&gt;树上远远看过去，音乐能看到一条像黑色腰带一样的东西，那就是黑色大峡谷。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T212401Z" creationid="Lilly" creationdate="20181022T212257Z">
+        <seg>You XiaoMo stood on the tree, looking into the distance. He was able to see the vague outline of a black ribbon like thing. That was the Black Canyon.</seg>
       </tuv>
     </tu>
     <tu>
