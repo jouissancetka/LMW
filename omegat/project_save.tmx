@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37343,6 +37343,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>牛徐阳&lt;t0/&gt;捕捉到他脸上那丝不自然，立刻接话道：“莫菲，你谢大哥是认为我们实力太弱，不是那两人的对手，所以才会在这里等他们打完离开。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232815Z" creationid="Lilly" creationdate="20181022T232815Z">
+        <seg>Niu XuYang caught the flash of discomfort on his face and immediately said, "Mo Fei, your Xie Dage thinks we're too weak and not a match for the two, so that's why he's planning on waiting for the two to finish fighting before heading over."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>牛徐阳不是很情愿，但是迫于两姐妹的压力，他不得不硬着头皮挡在男人面前，违心说出邀请的话，所以游小默猜的没错，他们就是冲着凌霄的长相来的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181019T183650Z" creationid="yun" creationdate="20181019T183650Z">
@@ -37419,6 +37427,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181019T080248Z" creationid="elaine" creationdate="20181019T080248Z">
         <seg>Niu XuYang's eyes were red as he watched, and he seemed like a crazed bull.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>牛徐阳瞥了&lt;t0/&gt;眼脸&lt;t1/&gt;上越来越难看的谢俊，冷笑一声不再说话。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233013Z" creationid="Lilly" creationdate="20181022T233013Z">
+        <seg>Niu XuYang glanced at Xie Jun, whose expression was growing uglier by the second, and scoffed before shutting up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43058,6 +43074,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>莫菲完全没看到谢俊的脸上，&lt;t0/&gt;听到牛徐阳&lt;t1/&gt;有贬低她的谢大哥的意思，立刻反驳道：“牛徐阳，你不要胡说，你自己实力弱，不要以为人人都跟你一样。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232936Z" creationid="Lilly" creationdate="20181022T232903Z">
+        <seg>Mo Fei wasn't looking at Xie Jun's face and, hearing Niu XuYang demeaning her Xie Dage, immediately retorted, "Niu XuYang, don't talk nonsense. You're weak; don't go around thinking everyone is weak like you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>莫菲的情况比莫雪更惨，她的实力本就比莫雪差，一下子就被擒住了，两个强盗淫笑着对她上下其手，小姑娘吓得眼泪都快掉下来了，不停的喊姐姐救她。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181019T164803Z" creationid="elaine" creationdate="20181019T164803Z">
@@ -44489,6 +44513,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181012T145230Z" creationid="Ceti" creationdate="20181010T050456Z">
         <seg>Xie Jun smiled and pulled out his hand, "Lady Mo, recently DongYu (洞域) has not been very peaceful and the number of bandits have been increasing. It's better if you wait for more people to come back, otherwise it's easy to be targeted."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>谢俊脸色稍微难看了一些。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232823Z" creationid="Lilly" creationdate="20181022T232823Z">
+        <seg>Xie Jun's expression twisted.</seg>
       </tuv>
     </tu>
     <tu>
