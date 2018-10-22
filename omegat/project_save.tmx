@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10154,8 +10154,8 @@
       <tuv lang="ZH-CN">
         <seg>不过还没等他问话，黑衣人的头颅突然重重的垂了下去，他死了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233735Z" creationid="Lilly" creationdate="20181022T233735Z">
-        <seg>Before he could ask anything, though, the black robed man's head hung as he died.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233759Z" creationid="Lilly" creationdate="20181022T233735Z">
+        <seg>Before he could ask anything, though, the black robed man slumped as he died.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18014,6 +18014,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181002T155154Z" creationid="Lilly" creationdate="20181002T155154Z">
         <seg>Those who were preparing to enter and leave JiJiu Town all avoided them like the plague upon seeing them, pointing and whispering as they watched the two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>原来他看起来那么像恶人！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233849Z" creationid="Lilly" creationdate="20181022T233849Z">
+        <seg>Did he really look so evil?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27325,6 +27333,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>此时正眼一看，他才发现竟然是‘老熟人’，这可真是冤家路窄，走到哪都能看到他们。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T234122Z" creationid="Lilly" creationdate="20181022T234046Z">
+        <seg>It was only when he properly looked at them that he realized that these people were familiar faces. Trouble really did always follow him, how come he bumped into them again?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>此时的私人交易所正是最热闹的时段，因为前两个月大家手里都有些积分，所以大家都是在冥想室和驭兽室度过了，直到第三个月，大家手中的积分终于用完了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180917T195113Z" creationid="elaine" creationdate="20180917T195113Z">
@@ -32693,6 +32709,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默收回目光，转头朝谢俊一群人的方向看过去，他早就发现他们的存在，只是当时没空理会而已。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233944Z" creationid="Lilly" creationdate="20181022T233944Z">
+        <seg>You XiaoMo retracted his gaze, turning his gaze towards Xie Jun and co. He had noticed them ages ago. He simply didn't have the time to bother with them before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默收回邀请卡，难怪他总觉得最下方的那些人的背影都很眼熟，而且那一带比较空，其他人好像都在避开那个地方。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131531Z" creationid="Lilly" creationdate="20180924T131531Z">
@@ -35593,8 +35617,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默走到他面前，发现他真的死透了，这是怕被他严刑逼供，所以选择自杀么？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233751Z" creationid="Lilly" creationdate="20181022T233751Z">
-        <seg>You XiaoMo </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233839Z" creationid="Lilly" creationdate="20181022T233751Z">
+        <seg>You XiaoMo approached him and realized that the other had completely died. Was the guy afraid of him interrogating him and thus committed suicide?</seg>
       </tuv>
     </tu>
     <tu>
