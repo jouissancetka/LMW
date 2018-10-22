@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6852,6 +6852,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232023Z" creationid="Lilly" creationdate="20181022T232007Z">
         <seg>"Xie Dage, didn't you say that explorers very rarely come here. How come there are people fighting here?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“谢大哥，我们要等他们打完才过去吗，我们这边人多，难道不能直接过去？”莫菲对谢俊也很有好感，立刻挤到谢俊另一边，一脸天真无知的看着谢俊，眼神充满了对谢俊的信任，她假装没看到谢谢&lt;t0/&gt;瞪过来&lt;t1/&gt;的眼神。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232553Z" creationid="Lilly" creationdate="20181022T232553Z">
+        <seg>"Xie Dage, are we really going to wait for them to finish before heading over. We have so many people, so can't we just go over now?" Mo Fei liked Xie Jun, too and immediately squeezed herself against Xie Jun's other side, looking up at him with innocence. Her gaze was filled with trust for Xie Jun, and she pretended to not notice the glare her older sister shot her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44461,6 +44469,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>谢俊的表情却一瞬间僵硬了一下，这种事情难道要他承认他们所有人合起来都不是两人任何一人的对手？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232638Z" creationid="Lilly" creationdate="20181022T232638Z">
+        <seg>Xie Jun's expression stiffened for a moment. Would he have to admit that all of them added together wouldn't be a match for either of the two?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>谢俊立刻扶住她，表情略微尴尬，关心的问道：“小姐，你怎么了，是不是哪里受伤了？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181012T145154Z" creationid="Ceti" creationdate="20181010T050416Z">
@@ -46073,6 +46089,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T122549Z" creationid="Lilly" creationdate="20180711T122509Z">
         <seg>There was some sort of indescribable excitement to watching others from this perspective, but he definitely wasn't a voyeur. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这种灭自己威风的事情当然不可能说出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232649Z" creationid="Lilly" creationdate="20181022T232649Z">
+        <seg>He couldn't say something that would damage his image so.</seg>
       </tuv>
     </tu>
     <tu>
