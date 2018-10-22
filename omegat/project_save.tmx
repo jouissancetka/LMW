@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7560,6 +7560,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那就好。”&lt;t0/&gt;莫雪崇拜&lt;t1/&gt;的看着他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232241Z" creationid="Lilly" creationdate="20181022T232241Z">
+        <seg>"That's good then." Mo Xue looked at him with admiration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那就拜托你了。”游小默兴奋的拍拍他的肩膀，“对了，你的小主人已经顺利被他的曾祖父接走了，你不用担心。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180908T101211Z" creationid="Ceti" creationdate="20180908T090958Z">
@@ -13874,8 +13882,8 @@
       <tuv lang="ZH-CN">
         <seg>会不会波及到我们？”&lt;t0/&gt;莫&lt;t1/&gt;雪柔弱&lt;t2/&gt;的依偎在谢俊身上，小鸟依人似的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232019Z" creationid="Lilly" creationdate="20181022T232019Z">
-        <seg>"Will it affect us?"</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232056Z" creationid="Lilly" creationdate="20181022T232019Z">
+        <seg>"Will it affect us?" Mo Xue clung to Xie Jun, fragile like a little bird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44445,6 +44453,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>谢俊的手很自然的圈着她的细腰，听到她的话便自信的回道：“有些强者对越是危险的地方很感兴趣，一言不合打起架的强者也不在少数，只要我们不靠近，他们应该不会迁怒我的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232228Z" creationid="Lilly" creationdate="20181022T232228Z">
+        <seg>Xie Jun's arm went around her waist quite casually and, hearing of her question, replied confidently, "Some powerouses are interested in these dangerous places, and those that start fighting on a whim aren't few. So long as we don't go near them, they shouldn't attack us."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>谢俊立刻扶住她，表情略微尴尬，关心的问道：“小姐，你怎么了，是不是哪里受伤了？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181012T145154Z" creationid="Ceti" creationdate="20181010T050416Z">
@@ -44457,6 +44473,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181012T145230Z" creationid="Ceti" creationdate="20181010T050456Z">
         <seg>Xie Jun smiled and pulled out his hand, "Lady Mo, recently DongYu (洞域) has not been very peaceful and the number of bandits have been increasing. It's better if you wait for more people to come back, otherwise it's easy to be targeted."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>谢俊虽然&lt;t0/&gt;对莫雪别有&lt;t1/&gt;心思，但是见她这么崇拜自己也很受用。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232328Z" creationid="Lilly" creationdate="20181022T232328Z">
+        <seg>Though Xie Jun had ulterior motives for Mo Xue, seeing her look at him so worshipfully wasn't bad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44785,6 +44809,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180908T220540Z" creationid="Lilly" creationdate="20180908T220540Z">
         <seg>Ling Xiao's voice suddenly came from behind, sounding frail like a ghost, yet sinister in tone. Even in broad daylight, it was rather atmospheric.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>身后，&lt;t0/&gt;牛徐阳&lt;t1/&gt;皱眉看着这一幕。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232340Z" creationid="Lilly" creationdate="20181022T232340Z">
+        <seg>Behind them, Niu XuYang frowned as he watched this.</seg>
       </tuv>
     </tu>
     <tu>
