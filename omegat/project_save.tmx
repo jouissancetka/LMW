@@ -12576,6 +12576,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他们说有些人觉得这里可能会有超级洞府，毕竟这里很危险，而越是危险的地方，十之八九都有宝贝，所以经常有不怕死的人组队前来，但是无一例外的，能回到小镇的人不超过两成。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T223459Z" creationid="Lilly" creationdate="20181022T223459Z">
+        <seg>They said that some people thought there might be a legendary cave dwelling here. After all, it was very dangerous, and the more danger there was, the more likely that there was something valuable to be gained. So, there were often teams of people who didn't fear death that came here. However, no matter what team came, they always returned with less than a fifth of their original number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他们走后，游小默跑到凌霄身边，果然还是两人独处比较好，自由自在，空气都变得清新起来了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180902T005808Z" creationid="elaine" creationdate="20180902T005631Z">
@@ -12724,6 +12732,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180929T071310Z" creationid="elaine" creationdate="20180929T071310Z">
         <seg>What he heard was You ZhenTian's voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他听小镇上的人说这里是死人最多的地方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T223308Z" creationid="Lilly" creationdate="20181022T223308Z">
+        <seg>He had heard from the townspeople that this was the place that caused the most deaths.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47453,6 +47469,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T202615Z" creationid="Lilly" creationdate="20180824T202615Z">
         <seg>No wonder he had called them a treasure just now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>难怪他和凌霄一路过来几乎没有看到半个人影。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T223516Z" creationid="Lilly" creationdate="20181022T223516Z">
+        <seg>No wonder he had Ling Xiao hadn't seen a single person on their way over.</seg>
       </tuv>
     </tu>
     <tu>
