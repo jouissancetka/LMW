@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1562,6 +1562,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180902T104538Z" creationid="Ceti" creationdate="20180902T083023Z">
         <seg>"You what you, did I say it wrongly?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你从左边开始找，我从右边开始，有可疑的地方就用传音石呼唤对方，或者先把位置记录下来。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T193934Z" creationid="Lilly" creationdate="20181022T193934Z">
+        <seg>"You start looking from the left, I'll start from the right. If we find anything suspicious, we call the other with the transmitter stone or record the location."</seg>
       </tuv>
     </tu>
     <tu>
@@ -15924,6 +15932,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181007T134436Z" creationid="Ceti" creationdate="20181007T080458Z">
         <seg>Ling Xiao did not answer him, but his gaze fell onto his chest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄没有异议，“小心一点。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T193951Z" creationid="Lilly" creationdate="20181022T193951Z">
+        <seg>Ling Xiao didn't object. "Be careful.'</seg>
       </tuv>
     </tu>
     <tu>
