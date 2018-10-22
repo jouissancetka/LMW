@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13388,6 +13388,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T095916Z" creationid="Ceti" creationdate="20180701T094417Z">
         <seg>It is impossible to steal the dragon blood without alarming anyone with his current cultivation, unless Ling Xiao was by his side at present. But he did not even know where he was now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>以他的修为，就算真的&lt;t2/&gt;遇到洞域强盗&lt;t3/&gt;也不会有太大的问题，&lt;t4/&gt;彩级三品&lt;t5/&gt;可不是说着好玩的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T194637Z" creationid="Lilly" creationdate="20181022T194637Z">
+        <seg>At his cultivation level, he wouldn't have much of a problem even if he did meet Dong Yu Bandits. Grade Three Rainbow Level was no joke.</seg>
       </tuv>
     </tu>
     <tu>
