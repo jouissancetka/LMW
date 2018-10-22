@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3882,6 +3882,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T200039Z" creationid="Lilly" creationdate="20180824T200039Z">
         <seg>"Have they produced silk yet?" Tian Xiu asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“安啦！”&lt;t0/&gt;游小默朝&lt;t1/&gt;他挥下手，然后跑向右边。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T194032Z" creationid="Lilly" creationdate="20181022T194032Z">
+        <seg>"Don't worry!" You XiaoMo waved at him and ran to the right.</seg>
       </tuv>
     </tu>
     <tu>
