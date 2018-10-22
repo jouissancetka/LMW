@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10300,6 +10300,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180814T190648Z" creationid="yun" creationdate="20180814T190648Z">
         <seg>Nontheless, Xing Qi wouldn't just believe a stranger's words, maybe he was trying to distract him (声东击西), thus with suspicion he asked, "If you say your comrade's here, then where is he?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不远处几百米远，那里还有一条超级大峡谷，深不见底。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T195009Z" creationid="Lilly" creationdate="20181022T194956Z">
+        <seg>Several hundred meters away, there was also a massive canyon. It was so deep that you couldn't see the bottom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22359,6 +22367,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T124442Z" creationid="Lilly" creationdate="20180924T124442Z">
         <seg>You XiaoMo was surprised by this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>对比两张地图，他只能确定右眼就在这附近，不过刚刚他用灵魂之力大面积的搜索过，没有发现哪出地方像是有洞府之类的，到处都是些残垣断壁，也就&lt;t0/&gt;只能藏几个人&lt;t1/&gt;。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T194923Z" creationid="Lilly" creationdate="20181022T194923Z">
+        <seg>Comparing the two maps, he was certain that the right eye was nearby. However, when he had used his soul power to sweep the area, he hadn't found anything like a cave dwelling, only ruins scattered about, capable of hiding only a few people.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36163,6 +36179,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T084445Z" creationid="Lilly" creationdate="20180609T084445Z">
         <seg>You XiaoMo’s voice shook as he asked, “Wh-what?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默飞出&lt;t0/&gt;近千米远，落在一颗粗壮的大树上，树龄似乎超过千年，但是已经没有生命气息了，只剩下光秃秃的躯干。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T194752Z" creationid="Lilly" creationdate="20181022T194752Z">
+        <seg>You XiaoMo flew out by around a kilometer, landing on a thick tree. The tree seemed over a thousand years old, but had long since lost any signs of life, leaving behind an empty shell.</seg>
       </tuv>
     </tu>
     <tu>
