@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6562,6 +6562,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181010T060800Z" creationid="Ceti" creationdate="20181010T050432Z">
         <seg>"There's no need for Lady Mo to do so. This Xie didn't do much too." Xie Jun said hurriedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“莫菲，你少说几句。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233140Z" creationid="Lilly" creationdate="20181022T233140Z">
+        <seg>"Mo Fei, shut up."</seg>
       </tuv>
     </tu>
     <tu>
@@ -19818,6 +19826,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>在他们谈话间，游小默和那名黑衣人差不多分出胜负。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233246Z" creationid="Lilly" creationdate="20181022T233246Z">
+        <seg>As they spoke, You XiaoMo and the black robed man's battle was coming to a close.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>在他怀里的金翅虫和吞金兽为了挽回之前丢掉的面子和自尊，立刻跳出来，金翅虫一只一边对着玄泽的眼睛就狠狠的咬了一下，然后在玄泽合上眼睛的时候飞走。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T173458Z" creationid="yun" creationdate="20180907T173458Z">
@@ -30129,6 +30145,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180726T131027Z" creationid="Ceti" creationdate="20180726T123603Z">
         <seg>You XiaoMo added another trait to her - smart!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默双手已经套上一双金色手套，这是用金翅&lt;t0/&gt;虫吐得丝&lt;t1/&gt;制成的，虽然手套做工粗糙，而且样式很难看，但是效果&lt;t2/&gt;非常&lt;t3/&gt;棒，&lt;t4/&gt;刚刚他&lt;t5/&gt;就是凭借这双手套徒手折断黑衣人的长剑的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233349Z" creationid="Lilly" creationdate="20181022T233349Z">
+        <seg>You XiaoMo had put on a pair of golden gloves made from the silk of his golden winged insects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41786,6 +41810,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>而&lt;t0/&gt;那柄断剑&lt;t1/&gt;，此刻正插在黑衣人的胸前。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233425Z" creationid="Lilly" creationdate="20181022T233425Z">
+        <seg>And the broken sword was lodged in the chest of the black robed man.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>而万厨师和助手的口水早已泛滥成灾。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T210024Z" creationid="Lilly" creationdate="20180904T210024Z">
@@ -43066,6 +43098,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>莫菲却以为牛徐阳被她说中痛处，不依不饶的讽刺他，丝毫没注意到谢俊的脸色，&lt;t0/&gt;直到莫雪开口&lt;t1/&gt;斥责。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233133Z" creationid="Lilly" creationdate="20181022T233133Z">
+        <seg>Mo Fei thought that she had struck Niu XuYang's nerve and continued to mock him. She didn't notice Xie Jun's expression at all until Mo Xue spoke up and scolded her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>莫菲反驳不了，却不甘的吼道：“你补是古玛部落的圣女吗，你的实力不是很高吗，为什么补杀了他以绝后患，难道你是故意要放过他们，你对古玛部落到底存在什么心？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181014T103359Z" creationid="Ceti" creationdate="20181014T103359Z">
@@ -43078,6 +43118,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181022T232936Z" creationid="Lilly" creationdate="20181022T232903Z">
         <seg>Mo Fei wasn't looking at Xie Jun's face and, hearing Niu XuYang demeaning her Xie Dage, immediately retorted, "Niu XuYang, don't talk nonsense. You're weak; don't go around thinking everyone is weak like you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莫菲正要反驳，突然看到谢俊的表情，不知怎么的，她好像明白什么了，立刻吓得闭嘴了，末了还不忘瞪牛徐阳一眼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233225Z" creationid="Lilly" creationdate="20181022T233208Z">
+        <seg>Mo Fei was about to retort, but she suddenly saw Xie Jun's expression and seemed to understand something, going silent in fear, but not forgetting to shoot Niu XuYang a glare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49245,6 +49293,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T130425Z" creationid="Ceti" creationdate="20180909T124337Z">
         <seg>One could tell that the Black Spider was not an ordinary fraction just by its name. The name of their behind-the-scenes backer definitely can't be mentioned, (后台必定硬不可言)seeing that they dared to brazenly and wantonly invite all the major forces with their status as a black market.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣人战斗经验明显很丰富，但是他的修为低于游小默，时间拖得越长，差距就明显出来了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233319Z" creationid="Lilly" creationdate="20181022T233319Z">
+        <seg>Though the black robed man was experienced in combat, his cultivation base was lower than You XiaoMo's, and as time went by, the gap between them became more obvious.</seg>
       </tuv>
     </tu>
     <tu>
