@@ -25141,6 +25141,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>打家都在讨论昨晚的女鬼叫声，虽然被炒得睡不着觉，但大家对这种八卦还是很感兴趣的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181023T161101Z" creationid="elaine" creationdate="20181023T161101Z">
+        <seg>Everyone was discussing the sound of the female ghost screaming last night. Even though there had been such a racket that they couldn't sleep, everyone was still very interested in this kind of gossip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>扔下这句话，他一眨眼就不见了人影。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180824T041941Z" creationid="elaine" creationdate="20180824T041941Z">
@@ -29623,8 +29631,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默下楼，大堂很热闹。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181023T160927Z" creationid="elaine" creationdate="20181023T160927Z">
-        <seg>You XiaoMo went downstairs. The lobby was very lively.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181023T161158Z" creationid="elaine" creationdate="20181023T160927Z">
+        <seg>Early in the morning, the lobby was very lively.</seg>
       </tuv>
     </tu>
     <tu>
