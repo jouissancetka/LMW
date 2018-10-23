@@ -1816,8 +1816,8 @@
       <tuv lang="ZH-CN">
         <seg>“你好自信哦。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181023T162128Z" creationid="elaine" creationdate="20181023T162128Z">
-        <seg>"You have a lot of confidence."</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181023T175945Z" creationid="elaine" creationdate="20181023T162128Z">
+        <seg>"You have a lot of confidence, hm."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2624,8 +2624,8 @@
       <tuv lang="ZH-CN">
         <seg>“区别就是那是我的神火。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181023T162305Z" creationid="elaine" creationdate="20181023T162305Z">
-        <seg>"The difference is that that's my Godfire." (神火)</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181023T175930Z" creationid="elaine" creationdate="20181023T162305Z">
+        <seg>"The difference is that that's my Godfire."</seg>
       </tuv>
     </tu>
     <tu>
@@ -17148,6 +17148,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181006T091750Z" creationid="Ceti" creationdate="20181004T130603Z">
         <seg>Ling Xiao stood at the entrance of the cave and watched this scene. Finally, he could not bear to watch it anymore and took the initiative to walk over to say that he wanted to help, but he was pushed away by You XiaoMo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄端着茶杯喝了口茶，淡淡的说道：“不能！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181023T175916Z" creationid="elaine" creationdate="20181023T175916Z">
+        <seg>Ling Xiao picked up his cup of tea and took a sip before saying blandly, "You can't!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -35747,6 +35755,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180914T122537Z" creationid="Ceti" creationdate="20180914T122226Z">
         <seg>You XiaoMo repeated patiently, "One point for fifty thousand."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默背对着他们，好奇地问凌霄：“被神火烧伤真的能治吗？”他感觉不能，不然当初刑七就不会顶着一只断臂，不过也可能是时间不够。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181023T175852Z" creationid="elaine" creationdate="20181023T175852Z">
+        <seg>You XiaoMo's back was to them, and he asked Ling Xiao curiously, "Can you really cure a burn from Godfire?" He thought that you couldn't, or else Xing Qi wouldn't have carried around a broken arm back then. However, it was also possible that there hadn't been enough time.</seg>
       </tuv>
     </tu>
     <tu>
