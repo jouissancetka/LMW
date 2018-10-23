@@ -5662,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“杀人越货，强盗所为。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181023T000210Z" creationid="yun" creationdate="20181023T000210Z">
+        <seg>"Killing for goods is only something a bandit would do."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“李管事，我听说心灵花草已经到了，可有此事？”青年一身青色道袍，模样清秀，看起来有几分灵气，一脸期待的看着李管事。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181008T032738Z" creationid="elaine" creationdate="20181008T032732Z">
@@ -23111,6 +23119,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T183659Z" creationid="Lilly" creationdate="20180730T183617Z">
         <seg>That was when a guard of the estate rushed inside, but he was stopped at the door by a housecarl of the main family.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在这时，一个带着些许恶意的声音飘了过来，淡淡的声音，虽然没有特指，但是游小默听的出来这人是在骂他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181023T000300Z" creationid="yun" creationdate="20181023T000300Z">
+        <seg>It was at this moment that a voice with a slight evilness to it appeared. Although it wasn't directed at anyone in particular, You XiaoMo knew that they were cursing him. </seg>
       </tuv>
     </tu>
     <tu>
