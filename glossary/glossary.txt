@@ -375,3 +375,4 @@ xx 家	xx Family/Clan
 洞域强盗	Dong Yu Bandits
 超级洞府	legendary cave dwelling 
 黑色大峡谷	Black Canyon
+洞城强盗	Dong Yu Bandits
