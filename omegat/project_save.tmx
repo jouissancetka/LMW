@@ -3214,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“啊啊啊！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T152738Z" creationid="Lilly" creationdate="20181026T152738Z">
+        <seg>"Aaaaahhhh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“啊！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T041643Z" creationid="Lilly" creationdate="20180613T041643Z">
@@ -23327,6 +23335,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T092312Z" creationid="Lilly" creationdate="20180609T092312Z">
         <seg>After throwing in all the magic herbs, You XiaoMo didn’t make to move his hands.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>将莫雪包裹起来的空间之力突然剧烈的翻滚起来，好像一下子从一个温顺美人变成暴躁美人，裹在其中的莫雪首当其冲。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T152731Z" creationid="Lilly" creationdate="20181026T152731Z">
+        <seg>The spacial force that enveloped Mo Xue suddenly began to trash wildly, from gentle to violent, and Mo Xue took the brunt of the damage.</seg>
       </tuv>
     </tu>
     <tu>
