@@ -4494,6 +4494,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“当然不是，你以为什么人都可以嫁祸给我吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T144437Z" creationid="Lilly" creationdate="20181026T144437Z">
+        <seg>"Of course not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“当然想。”游君其落寞地道：“我无时无刻不在想我的妻儿，可惜我不能去找他们，我大哥不会放过我，如果让他知道我妻儿的存在，他一定不会放过他们。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180821T010953Z" creationid="elaine" creationdate="20180821T010953Z">
@@ -15826,8 +15834,8 @@
       <tuv lang="ZH-CN">
         <seg>凌霄帮他合上嘴巴，不以为意的笑道：“你还看不出来吗，那个圣女想杀了莫雪莫菲，然后&lt;t0/&gt;把罪名嫁祸给我们，很多人都知道我们与莫雪姐妹有仇，她们一死，古玛部落自然而然会怀疑到我们身上。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T142003Z" creationid="Lilly" creationdate="20181026T142003Z">
-        <seg>Ling Xiao helped him close his mouth and explained, uncaringly, "Can't you tell? That holy maiden wants to kill Mo Xue and Mo Fei and then push the blame onto us. Plenty of people know that there's bad blood between the sisters and us. With them dead, the Guma Tribe would naturally suspect us."</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T144443Z" creationid="Lilly" creationdate="20181026T142003Z">
+        <seg>Ling Xiao helped him close his mouth and explained, uncaringly, "Can't you tell? That holy maiden wants to kill Mo Xue and Mo Fei and then frame us. Plenty of people know that there's bad blood between the sisters and us. With them dead, the Guma Tribe would naturally suspect us."</seg>
       </tuv>
     </tu>
     <tu>
