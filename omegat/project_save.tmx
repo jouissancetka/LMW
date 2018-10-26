@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T160319Z" creationid="Lilly" creationdate="20181026T160319Z">
+        <seg>"No!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不，是你太蠢。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180908T064348Z" creationid="Ceti" creationdate="20180908T064348Z">
@@ -1962,6 +1970,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180625T142001Z" creationid="Ceti" creationdate="20180625T142001Z">
         <seg>"Are you trying to frame (眶) me?" Yin Ge asked in displeasure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你是我不是。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T160326Z" creationid="Lilly" creationdate="20181026T160326Z">
+        <seg>"You are. I'm not."</seg>
       </tuv>
     </tu>
     <tu>
@@ -29833,6 +29849,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181006T182955Z" creationid="Lilly" creationdate="20181006T182955Z">
         <seg>You XiaoMo kicked the man harshly. "Yeah, you can promise to not lure people in and rob them. Then what about killing them and cooking their flesh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默&lt;t0/&gt;愤愤的&lt;t1/&gt;说道：“就是，他当我们是弱智吗，以为我们看不出来，傻透了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T160312Z" creationid="Lilly" creationdate="20181026T160312Z">
+        <seg>You XiaoMo said in frustration, "Exactly! Do they think we're brainless? I can't believe they thought we wouldn't realize, how stupid."</seg>
       </tuv>
     </tu>
     <tu>
