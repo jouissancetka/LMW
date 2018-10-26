@@ -4496,8 +4496,8 @@
       <tuv lang="ZH-CN">
         <seg>“当然不是，你以为什么人都可以嫁祸给我吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T144437Z" creationid="Lilly" creationdate="20181026T144437Z">
-        <seg>"Of course not</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T144459Z" creationid="Lilly" creationdate="20181026T144437Z">
+        <seg>"Of course not, you think I'd let just anyone frame us?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17918,6 +17918,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180926T000247Z" creationid="elaine" creationdate="20180926T000247Z">
         <seg>Several seconds later, the auctioneer relaxed his expression and explained, "It is the Wolf of Gluttony's Life Crystal."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>出乎意料的，凌霄否认了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T144508Z" creationid="Lilly" creationdate="20181026T144508Z">
+        <seg>Surprisingly, Ling Xiao denied it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37075,6 +37083,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T205835Z" creationid="Lilly" creationdate="20180824T205835Z">
         <seg>You XiaoMo was shocked. "You guys don't know?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默震惊，“难道你想救莫雪姐妹？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181026T144525Z" creationid="Lilly" creationdate="20181026T144525Z">
+        <seg>You XiaoMo was shocked. "You want to save Mo Xue and her sister?"</seg>
       </tuv>
     </tu>
     <tu>
