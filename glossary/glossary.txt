@@ -378,3 +378,4 @@ xx 家	xx Family/Clan
 洞城强盗	Dong Yu Bandits
 阵法	array
 幻阵	illusion array
+水西部落	ShuiXi Tribe
