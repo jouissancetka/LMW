@@ -51137,6 +51137,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>黑衣人发出一道低吼声，像野兽咆哮一样，身上的衣服寸寸撕裂，变成一只长着浓密黑毛的猩猩。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T021727Z" creationid="yun" creationdate="20181027T021727Z">
+        <seg>The man in black let out a deep roar, like a wild beast, as his shirt started to rip inch by inch. He turned into a gorilla with dense black fur. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>黑衣人战斗经验明显很丰富，但是他的修为低于游小默，时间拖得越长，差距就明显出来了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233319Z" creationid="Lilly" creationdate="20181022T233319Z">
