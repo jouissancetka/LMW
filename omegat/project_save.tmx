@@ -3278,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“啊啊！”游小默急叫的打断他的话，兴奋的道：“我知道了，是水元素之心，我猜的对不对？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181027T033210Z" creationid="elaine" creationdate="20181027T033210Z">
+        <seg>"Ah, ah!" You XiaoMo hastily cut him off. He said happily, "I get it now, it's the Water Elemental Essence (水元素之心), did I guess right?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“啊！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180613T041643Z" creationid="Lilly" creationdate="20180613T041643Z">
@@ -15962,8 +15970,8 @@
       <tuv lang="ZH-CN">
         <seg>凌霄完全不指望他能明白自己的意思，淡定的陈述道：“水是五行之一……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181027T033017Z" creationid="elaine" creationdate="20181027T033017Z">
-        <seg>Ling Xiao didn't hope that Y</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181027T033107Z" creationid="elaine" creationdate="20181027T033017Z">
+        <seg>Ling Xiao had no hope whatsoever that You XiaoMo would understand what he was getting at. He said blandly, "Water is one of the five elements..."</seg>
       </tuv>
     </tu>
     <tu>
