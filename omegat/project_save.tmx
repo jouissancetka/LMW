@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不用看了，是宫殿的地图。”凌霄拍拍他的脑袋，率先走向宫殿的大门，门中央镶着一颗白虎的脑袋，栩栩如生，两只眼睛似是蓝宝石雕刻，偶尔闪过几道光芒，异常逼真。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T045126Z" creationid="yun" creationdate="20181027T045126Z">
+        <seg>"No need to look, it's the map of the castle." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不用，我已经有安排了。”男人挥了下手，“你下去吧。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180711T134607Z" creationid="Lilly" creationdate="20180711T134607Z">
@@ -16442,8 +16450,8 @@
       <tuv lang="ZH-CN">
         <seg>凌霄抓起游小默眼疾手快的冲过去，结界内是一个真空的世界，海水被隔在外面，红光重新化为一张地图掉在地上。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20181027T045030Z" creationid="yun" creationdate="20181027T044948Z">
-        <seg>Ling Xiao grabbed You XiaoMo and with his quick reflexes, rushed inside. Inside the barrier was a air-tight space, blocking out all the sea water.</seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T045041Z" creationid="yun" creationdate="20181027T044948Z">
+        <seg>Ling Xiao grabbed You XiaoMo and with his quick reflexes, rushed inside. Inside the barrier was a air-tight space, blocking out all the sea water and the red light turned back into a map.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19070,6 +19078,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181022T233849Z" creationid="Lilly" creationdate="20181022T233849Z">
         <seg>Did he really look so evil?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>原来是白虎地形，现在变成一张九拐十八弯的地图。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T045116Z" creationid="yun" creationdate="20181027T045116Z">
+        <seg>Before, it was the geography of the white tiger, now it became a map full of twists and turns. </seg>
       </tuv>
     </tu>
     <tu>
@@ -37619,6 +37635,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T142116Z" creationid="Ceti" creationdate="20180805T061334Z">
         <seg>You XiaoMo ran to the lakeside. He turned back to look at Ling Xiao who had just sat up on the grass and could not help but sigh. He really did not know whether he was lucky or unfortunate to have such a lover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默跑过去捡起来一看，发现地图变了样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T045054Z" creationid="yun" creationdate="20181027T045054Z">
+        <seg>You XiaoMo ran over to pick up only to find the map had changed. </seg>
       </tuv>
     </tu>
     <tu>
