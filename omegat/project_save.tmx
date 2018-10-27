@@ -7288,6 +7288,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这个要怎么找？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181027T030641Z" creationid="elaine" creationdate="20181027T030641Z">
+        <seg>"How do we find this?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这么看我做什么？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180925T215747Z" creationid="elaine" creationdate="20180925T215734Z">
@@ -33621,6 +33629,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默拿着地图看了几遍，最后确定它真的只是宫殿的地形，上面连哪个地方有宝贝都没有标明，只有一些奇怪的线条，线条分为红黄蓝三种，像迷宫似的九拐十八弯。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181027T030632Z" creationid="elaine" creationdate="20181027T030632Z">
+        <seg>You XiaoMo looked over the map several times before finally determining that it really did only display the topography of the palace. It didn't even indicate where the treasure was. There were only a few strange lines, split into red, yellow, and blue colors, and it twisted and turned like a labyrinth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默拿起龟壳摇了摇，这个小家伙还是挺机灵的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180908T203136Z" creationid="elaine" creationdate="20180908T203136Z">
@@ -36747,6 +36763,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180922T134151Z" creationid="Ceti" creationdate="20180918T131335Z">
         <seg>You XiaoMo felt that he did not want to let others take it away since he knew this Life Crystal was LanQiu's brother. This was especially so when his competitor for the Life Crystal was You ZhenTian. Anyway, they were already embroiled in an unceasing conflict with the ChiXue Clan and offending them again made no difference. Don't tell me that it would be possible for him to kill them! (难不成他能杀了他们不成)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默觉得有地图还不如没地图。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181027T030657Z" creationid="elaine" creationdate="20181027T030657Z">
+        <seg>You XiaoMo felt as if it would have been even better if they didn't have a map.</seg>
       </tuv>
     </tu>
     <tu>
