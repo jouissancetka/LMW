@@ -377,3 +377,4 @@ xx 家	xx Family/Clan
 黑色大峡谷	Black Canyon
 洞城强盗	Dong Yu Bandits
 阵法	array
+幻阵	illusion array
