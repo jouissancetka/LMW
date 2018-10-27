@@ -21090,6 +21090,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>地图变成一团红光，颤颤的升起，下一秒便迅速的朝某个方向飞了过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T025143Z" creationid="yun" creationdate="20181027T025143Z">
+        <seg>The map turned into a ball of red light staggering to float up and in the next second, it quickly flew towards a certain direction. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>地图转眼间就变得像一块发烫的烙铁，红滚滚的，烫得游小默立马扔了出去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T025106Z" creationid="yun" creationdate="20181027T025106Z">
+        <seg>In an instant the map became as hot as a burning coal, causing You XiaoMo to throw it out immediately. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>地底深处被掏空，仅肉眼就看到一处极为宽阔的拍卖场，犹如古罗马的斗兽场，中间是一个巨大的平台，四周&lt;t0/&gt;都是数&lt;t1/&gt;之不尽，密密麻麻的座位，没有给特殊的包厢之类的地方，所有人都是坐在这里的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T122233Z" creationid="Lilly" creationdate="20180924T122233Z">
@@ -31665,6 +31681,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181018T224458Z" creationid="Lilly" creationdate="20181018T224458Z">
         <seg>You XiaoMo and Ling Xiao rented a room in an inn and prepaid a month's worth of rent. The town wasn't that developed, so everything was cheap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默和凌霄立刻跟过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T025149Z" creationid="yun" creationdate="20181027T025149Z">
+        <seg>You XiaoMo and Ling Xiao quickly followed.</seg>
       </tuv>
     </tu>
     <tu>
