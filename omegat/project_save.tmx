@@ -43732,8 +43732,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>老者不知道什么时候才是时候，不过他很聪明的没再继续追问，有些事情不需要知道得太多，否则容易葬送了性命。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20181027T043854Z" creationid="yun" creationdate="20181027T043854Z">
-        <seg>The elder didn't when was the right time but he was smart enough to not ask further. Something are better left unknown, if you don't want to lose your life. </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T043915Z" creationid="yun" creationdate="20181027T043854Z">
+        <seg>The elder didn't when was the right time but he was smart enough to not ask further. Something are better left unknown, if you you want to keep your life. </seg>
       </tuv>
     </tu>
     <tu>
@@ -43814,6 +43814,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T153220Z" creationid="Ceti" creationdate="20180804T094147Z">
         <seg>The elderly man replied, "Young Master, you've forgotten that you still have the Blood Essence (精血) that the Elder had bestowed on you back in your mountain. The Mage Association would definitely be moved by this."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老者退下后，男人从塌上坐了起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T043927Z" creationid="yun" creationdate="20181027T043927Z">
+        <seg>Once the elder left, the man stood up from his chair. </seg>
       </tuv>
     </tu>
     <tu>
