@@ -3214,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“哦……”游小默怔愣了一下，猛然反应过来，“你说什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T045542Z" creationid="yun" creationdate="20181027T045542Z">
+        <seg>"Oh......"You XiaoMo paused before realizing what he said, "What did you say?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哦。”龙血发出类似恍然大悟般的声音，“也不是不行，不过你想抵哪条过错？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T074124Z" creationid="Ceti" creationdate="20180728T081421Z">
@@ -23019,6 +23027,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>如果白虎还在宫殿里，他们这样进去等于闯进私人地盘，白虎可是远古时期的强者，强者就算受了伤那也依然是强者，要是他一怒之下把他们拍扁了怎么办？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T045603Z" creationid="yun" creationdate="20181027T045603Z">
+        <seg>If the white tiger was still in the palace, then they were trespassing. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>如果真是这样……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180929T171912Z" creationid="Lilly" creationdate="20180929T171912Z">
@@ -38065,8 +38081,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默随口问道：“当初你说白虎可能受了重伤躲起来养伤，你说他现在会不会就在宫殿里？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20181027T045509Z" creationid="yun" creationdate="20181027T045509Z">
-        <seg>You XiaoMo asked off-handedly, "You said before that the white tiger could have suffered a grave injury and came here to rest. </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20181027T045517Z" creationid="yun" creationdate="20181027T045509Z">
+        <seg>You XiaoMo asked off-handedly, "You said before that the white tiger could have suffered a grave injury and came here to rest. Do you think his going to be here?"</seg>
       </tuv>
     </tu>
     <tu>
