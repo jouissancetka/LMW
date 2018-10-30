@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9076,6 +9076,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181019T185015Z" creationid="yun" creationdate="20181019T185015Z">
         <seg>Beside her, her sister also straighten her posture, showing off her incredible curves. (露出胸前傲人的曲线)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一旦结界被破&lt;t0/&gt;，白虎的宫殿将会坠入海底，到时会遭遇怎样毁灭性的&lt;t1/&gt;的&lt;t2/&gt;打击，谁也无法准确的预测到。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T191916Z" creationid="Lilly" creationdate="20181030T191916Z">
+        <seg>Once the barrier was broken, the palace of the White Tiger would descend into the bottom of the ocean.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20838,6 +20846,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T050840Z" creationid="Lilly" creationdate="20180629T050840Z">
         <seg>Because the guards were stationed in a set place on each floor, it was risky for them to leave their positions. It was good that the guards here didn't really butt into each other's business, and the armor they wore covered over half their face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>因为宫殿是&lt;t1/&gt;被结界托着&lt;t2/&gt;悬浮在水里的，所以结界&lt;t3/&gt;一&lt;t4/&gt;晃动，宫殿就跟着剧烈的晃动起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T191837Z" creationid="Lilly" creationdate="20181030T191837Z">
+        <seg>Since the palace was held, floating in the water, by the barrier, when the barrier shook, so did the entire palace with it.</seg>
       </tuv>
     </tu>
     <tu>
