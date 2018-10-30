@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23843,6 +23843,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>对其他人或许是一个大难题，但是游小默拥有&lt;t0/&gt;啃噬结界的&lt;t1/&gt;金翅虫，一路过去，简直如鱼得水，不多时，他就赶到宫殿的正中央。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T193752Z" creationid="Lilly" creationdate="20181030T193730Z">
+        <seg>This might be a problem for others, but You XiaoMo had seal-devouring golden winged insects. His journey over was smooth and swift. Not long after, he arrived at the center of the palace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>对大部分丹师而言，西境就像一处灵草宝库。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T070939Z" creationid="elaine" creationdate="20180816T070939Z">
@@ -40811,6 +40819,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180913T011222Z" creationid="yun" creationdate="20180913T011222Z">
         <seg>The white shillouthette belonged to a young man around eighteen or so. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>白虎人太懒，所以宫殿除了好看舒适像个超级大迷宫之外，基本没什么陷阱机关，&lt;t0/&gt;不过结界却&lt;t1/&gt;有不少。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T193703Z" creationid="Lilly" creationdate="20181030T193549Z">
+        <seg>White Tiger was lazy, so the palace, apart from being beautiful labyrinth filled with lavish comfort, there weren't any traps and the likes, though there were quite a few seals and barriers.</seg>
       </tuv>
     </tu>
     <tu>
