@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19954,6 +19954,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>吞金兽也撒腿子颠过去，和两只金翅虫争先恐后扑上宝座，三只都比游小默快了一步。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T223209Z" creationid="Lilly" creationdate="20181030T223209Z">
+        <seg>The Metal Swallowing Beast also rushed over, lunging onto the throne and trying to get there first with the golden winged insects. The three were just a tad faster than You XiaoMo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>吞金兽他并不&lt;t0/&gt;认识，毕竟那是远古，活在传说中的妖兽，但是金翅虫就不一样了，鼎鼎大名，如雷贯耳。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180724T072105Z" creationid="Lilly" creationdate="20180724T072105Z">
@@ -33263,8 +33271,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默忍不住跑过去。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T200458Z" creationid="Lilly" creationdate="20181030T200458Z">
-        <seg>You XiaoMo could help but run over.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T223103Z" creationid="Lilly" creationdate="20181030T200458Z">
+        <seg>You XiaoMo couldn't help but run over.</seg>
       </tuv>
     </tu>
     <tu>
