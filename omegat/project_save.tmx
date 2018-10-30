@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7042,6 +7042,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180812T132743Z" creationid="Ceti" creationdate="20180812T091935Z">
         <seg>"All right, let's speak of the matter at another time. I'll reluctantly subdue them if they deserve to be subdued by me. If they're not worthy, you should curb your evil instincts. Not just any person can become my companion." Ling Xiao stood up, "Let's return to our room. We're setting off early tomorrow morning."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“行啦行啦！”游小默跳起宝座，开始找水元素之心。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T233945Z" creationid="Lilly" creationdate="20181030T233945Z">
+        <seg>"Fine, fine!" You XiaoMo jumped off the throne, starting the search for the Water elemental essence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19978,6 +19986,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>吞金兽呲牙咧嘴，“嘎嘎嘎～”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T233918Z" creationid="Lilly" creationdate="20181030T233918Z">
+        <seg>The Metal Swallowing Beast bared its teeth, "Gua gua gua~"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>吞金兽和两只金翅虫立刻擦亮眼睛，一副准备看戏的表情。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180729T084450Z" creationid="Ceti" creationdate="20180728T160818Z">
@@ -21478,6 +21494,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181027T034042Z" creationid="elaine" creationdate="20181027T034035Z">
         <seg>The broken rocks on the ground clearly indicated that someone had already gone in before them. If those people happened to be You XiaoMo and Ling Xiao, who had obtained the map from the auction, they had most likely already gotten to the treasure by now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>地图上显示水元素之心就在这座大殿里，但是具体位置并没有标明，所以他需要在这么大的主殿里把那么小的东西找出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T234113Z" creationid="Lilly" creationdate="20181030T234113Z">
+        <seg>The map had the water elemental essence marked in this hall, but the specific location wasn't detailed so he had to find that tiny thing in this massive hall.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34089,6 +34113,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180929T150540Z" creationid="elaine" creationdate="20180929T150540Z">
         <seg>You XiaoMo lifted his head, and he couldn't see You ZhenTian anymore. Could Ling Xiao have thrown You ZhenTian off while they were chatting?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默抬起手给了他一记，“虽然你品种不明，但肯定不是狼，嗷呜嗷呜的叫什么，又没人给你颁奖。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T233842Z" creationid="Lilly" creationdate="20181030T233838Z">
+        <seg>You XiaoMo wacked him. "Though we have no idea what sort of beast you are, but you definitely aren't a woof. What are you howling for, no one's going to give you a prize for it."</seg>
       </tuv>
     </tu>
     <tu>
