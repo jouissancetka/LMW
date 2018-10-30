@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2958,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“可惜了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T235430Z" creationid="Lilly" creationdate="20181030T235430Z">
+        <seg>"What a shame."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“可是我们与圣女无仇，她为什么要嫁祸给我们？”游小默郁闷了，这里的女人真是一个比一个厉害。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181026T142115Z" creationid="Lilly" creationdate="20181026T142115Z">
@@ -3498,6 +3506,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181026T141605Z" creationid="Lilly" creationdate="20181026T141605Z">
         <seg>"The holy maiden's orders?" Attendant Xiao Qiu sneered. "The order we received from the holy maiden was to kill you two sisters."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“圣女若喜欢这座宫殿，等你成为彩级七品丹师后说不定可以试一试。”斗篷人发出&lt;t0/&gt;桀桀&lt;t1/&gt;的笑声，想要将偌大的宫殿&lt;t2/&gt;用结界&lt;t3/&gt;托起，一般的圣境强者是做不到的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T235624Z" creationid="Lilly" creationdate="20181030T235624Z">
+        <seg>"If the holy maiden, you, like this palace, then you could try and save it after becoming a grade seven rainbow mage." The robed person </seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,6 +9008,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一座殿堂被海水填满，然后又袭向另一个地方，海水以迅雷不及掩耳之势在填满白虎的宫殿，四面八方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T234810Z" creationid="Lilly" creationdate="20181030T234810Z">
+        <seg>One hall was filled with sea water before the sea attacked another area. The ocean water was rapidly filling up the White Tiger's palace from all directions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一开始他并不知道&lt;t0/&gt;这件事，是凌霄&lt;t1/&gt;提醒他的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180917T143823Z" creationid="Ceti" creationdate="20180916T062917Z">
@@ -10100,6 +10124,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180917T185714Z" creationid="elaine" creationdate="20180917T185714Z">
         <seg>Who knew who was in the center of it all adding fuel to the fire, but the news spread extremely fast, and even what inn they were staying at was leaked out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不知过了多久，一个尖锐的声音骤然响起，片刻后，好像有一个大泡沫被戳破一样，发出‘啵’的声响，然后就是一阵山摇地动，奔腾的海啸从四面八方涌进来……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T234707Z" creationid="Lilly" creationdate="20181030T234707Z">
+        <seg>After who knows how long, a sharp noise suddenly screeched through the air. There was a pause before there was a loud pop, like a bubble being burst. Then, the ground quaked and the sea flooded in from all directions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21138,6 +21170,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>在他思考对策的时候，宫殿晃动的频率越来越低，但是每一次都像世界末日一样，再不快点就来不及了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T234538Z" creationid="Lilly" creationdate="20181030T234538Z">
+        <seg>As he was thinking of a plan, the palace began to shake less and less frequently, but each tremor was like the coming of the apocalypse. He'd run out of time if he didn't manage this soon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>在他满脸骇然的时候，搭在他肩膀上的手突然用力将他扳倒了，摔倒再低的时候，玄威看到男人一掌轰了下来，眼睛霎时瞪大到极致，他想要运转体内的灵力，但是心念一动却什么反应也没有。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180908T225841Z" creationid="Lilly" creationdate="20180908T225406Z">
@@ -21710,6 +21750,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181014T105240Z" creationid="Ceti" creationdate="20181014T105225Z">
         <seg>Xia Yin glanced at him. "Young Master Xie (谢公子), we still have something to do, so please go back/return."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>夏音看着&lt;t0/&gt;相当于被毁掉的宫殿，顿时&lt;t1/&gt;感概&lt;t2/&gt;万千。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T235512Z" creationid="Lilly" creationdate="20181030T235512Z">
+        <seg>Xia Yin gazed at the ruined palace; this was truly unfortunate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25425,6 +25473,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180917T145535Z" creationid="Ceti" creationdate="20180916T095850Z">
         <seg>When the black crow attempted to fly to the two men in black robes, the thread was suddenly pulled and the black crow went 'ga ga' as it cried out and dropped like a stone while fluttering its wings. When it fell on the hill, the thread once again moved and pulled it backwards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>当宫殿轰隆的跌落海底的时候，宫殿&lt;t0/&gt;没有结界的&lt;t1/&gt;地方已经被海水填充完毕，浑浊的海水充斥着宫殿四周。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T235208Z" creationid="Lilly" creationdate="20181030T235208Z">
+        <seg>When the palace descended to the bottom of the ocean, the areas of the palace unprotected by barriers were completely filled with water, the turbid seawater flooding across the palace.</seg>
       </tuv>
     </tu>
     <tu>
