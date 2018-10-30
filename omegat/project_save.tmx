@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9082,8 +9082,8 @@
       <tuv lang="ZH-CN">
         <seg>一旦结界被破&lt;t0/&gt;，白虎的宫殿将会坠入海底，到时会遭遇怎样毁灭性的&lt;t1/&gt;的&lt;t2/&gt;打击，谁也无法准确的预测到。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T191916Z" creationid="Lilly" creationdate="20181030T191916Z">
-        <seg>Once the barrier was broken, the palace of the White Tiger would descend into the bottom of the ocean.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T193250Z" creationid="Lilly" creationdate="20181030T191916Z">
+        <seg>Once the barrier was broken, the palace of the White Tiger would descend into the bottom of the ocean. No one would be able to predict what ruin that would bring it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36979,6 +36979,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181019T111916Z" creationid="Ceti" creationdate="20181017T135108Z">
         <seg>You XiaoMo turned over and jumped up before he ran out with a low curse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默考虑到这一点，立刻马不停蹄的赶过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T193507Z" creationid="Lilly" creationdate="20181030T193507Z">
+        <seg>Considering this, You XiaoMo immediately ran over.</seg>
       </tuv>
     </tu>
     <tu>
