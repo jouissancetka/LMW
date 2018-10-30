@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21909,8 +21909,8 @@
       <tuv lang="ZH-CN">
         <seg>大殿两侧则是两排高大的石柱，从大门直通向唯一的宝座，宝座四周镶着散发着七彩光芒的宝石，上面铺着一层厚厚的绒毛，一看就非常舒适，真像皇帝的宝座。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T195153Z" creationid="Lilly" creationdate="20181030T195153Z">
-        <seg>On the two sides of the hall were two rows of pillars of immense size, leading from the </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T200447Z" creationid="Lilly" creationdate="20181030T195153Z">
+        <seg>On the two sides of the hall were two rows of pillars of immense size, leading from the main doors all the way to the throne. Different colored gems shining with glimmering light surrounded the throne. Thick furs lined the throne - it looked comfortable, trulyu like the throne of an emperor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33257,6 +33257,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T152542Z" creationid="Ceti" creationdate="20180726T135732Z">
         <seg>You XiaoMo could not help but glance at her a few times. Was this the tempo (节奏) of Ling Xiao preparing to accept a little brother - oh, no, it should be - accept a little sister?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默忍不住跑过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T200458Z" creationid="Lilly" creationdate="20181030T200458Z">
+        <seg>You XiaoMo could help but run over.</seg>
       </tuv>
     </tu>
     <tu>
