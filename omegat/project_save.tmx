@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31521,6 +31521,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180820T031557Z" creationid="elaine" creationdate="20180820T031557Z">
         <seg>You XiaoMo looked down once before looking away. If he looked too much, he'd have nightmares at night. /PARA But what he didn't know was that after he had appeared, some of the big demon beasts in the demon beast graveyard had begun to stir restlessly. Someone who hadn't entered into it wouldn't know, but the demon beast graveyard wasn't actually just a graveyard for demon beasts; it was also a graveyard for humans. The race that had erupted into a huge war with the demon beasts in the past was the humans. That war was extremely chaotic, and the big demon beasts weren't the only ones to fall. Many famous, renowned human experts of that time had also died. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默使出吃奶的实力攻击脚下的晶矿，果然如他所料的，光滑平整&lt;t0/&gt;的晶矿表面&lt;t1/&gt;只是&lt;t2/&gt;凹&lt;t3/&gt;了一小块，约莫只有拇指那么大，照这种速度，他得挖到明年才能挖出一个四五米深的洞。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T234405Z" creationid="Lilly" creationdate="20181030T234405Z">
+        <seg>You XiaoMo kicked the crystal like floor beneath him with all his strength. As expected, only a small dent about the size of his thumb appeared on the smooth surface of the crystal floor. With this speed, it'd probably take him a year to get a four to five meter deep hole.</seg>
       </tuv>
     </tu>
     <tu>
