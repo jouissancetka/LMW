@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43326,6 +43326,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181019T111803Z" creationid="Ceti" creationdate="20181017T134100Z">
         <seg>The wards were personally put up by the White Tiger. At that time the White Tiger's cultivation was still in its peak form. So it was not easy for the three people to break the wards despite them having existed for a long time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>结界被&lt;t0/&gt;轰得摇晃个不停，宫殿震动的频率也越来越快，毕竟不是连接着地底的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T183322Z" creationid="Lilly" creationdate="20181030T183240Z">
+        <seg>The barrier shook, being blasted again and again. The tremors wracking the palace increased in frequency. After all, it wasn't connected to the earth.</seg>
       </tuv>
     </tu>
     <tu>
