@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3426,6 +3426,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181017T134908Z" creationid="Ceti" creationdate="20181017T134908Z">
         <seg>"Ao wu?" (嗷呜)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“嗷呜～”吞金兽跳到宝座的扶手上，冲着游小默不停的抗议。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T233731Z" creationid="Lilly" creationdate="20181030T233731Z">
+        <seg>"Aaaoooo~" The Metal Swallowing Beast jumped onto the hand rest of the throne, objecting to You XiaoMo's actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26333,6 +26341,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>所以说，有什么样的主人，就有&lt;t0/&gt;有&lt;t1/&gt;什么样的契约兽，都一个德行。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T233548Z" creationid="Lilly" creationdate="20181030T233548Z">
+        <seg>That's why it was said that contracted demon beasts took after their master. They were all the same.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>所幸他们不需要天天吃饭，凌霄也没有异议，他就真的没做了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181008T034527Z" creationid="yun" creationdate="20181008T034510Z">
@@ -32761,6 +32777,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144425Z" creationid="Lilly" creationdate="20180921T144425Z">
         <seg>You XiaoMo took the metal swallowing beast and golden winged insects out from his clothes. Ever since they returned to Zhong Tian, he had restricted their actions. They were probably dying of boredom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默将吞金兽和乒乓球挤到宝座边上，一屁股坐了下去，不知道是什么妖兽的绒毛，竟然真的很柔软，而且还带着一丝清凉的感觉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T233640Z" creationid="Lilly" creationdate="20181030T233640Z">
+        <seg>You XiaoMo shoved the Metal Swallowing Beast and Ping Pang to one side of the throne and down on it himself. He didn't know what demon beast's fur this was but it really was soft, and even had a somewhat cool feeling.</seg>
       </tuv>
     </tu>
     <tu>
