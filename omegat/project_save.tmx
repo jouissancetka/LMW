@@ -13736,6 +13736,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他在地下迷宫，通道内没有海水，所以和斗篷人他们的情况不同，他只能考自己双腿跑出迷宫，虽然有地图，但是速度还是快不了多久，结果当所有海水都排出宫殿，他却被困在宫殿里。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181031T155913Z" creationid="elaine" creationdate="20181031T155913Z">
+        <seg>He was in the underground labyrinth, and the passageways had no sea water, so his circumstances were different from the cloaked person's. He could only depend on his own two legs to run out of the labyrinth. Even though he had a map, his speed still wasn't that much faster. As a result, by the time all the sea water drained out of the palace, he ended up being trapped in the palace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他在山脉的深处果然看到鬼哭涯的标记，好玩的是，鬼哭涯的周围正是客栈老板用红字注明危险的地方。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T062903Z" creationid="yun" creationdate="20180819T062903Z">
@@ -28345,6 +28353,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181008T030044Z" creationid="elaine" creationdate="20181008T030044Z">
         <seg>You XiaoMo originally thought it was hopeless, but when he heard that last sentence, he suddenly felt hopeful again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>本来一切都好好的，没人知道他在地下迷宫里，只需要一点点时间，他就能逃出宫殿与凌霄回合，结果没想到会发生意外。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181031T155711Z" creationid="elaine" creationdate="20181031T155711Z">
+        <seg>Originally, everything was fine. Nobody knew that he was in the underground labyrinth (迷宫), and he just needed a tiny bit of time so he could escape from the palace and meet with Ling Xiao, but he hadn't expected that such an accident would occur.</seg>
       </tuv>
     </tu>
     <tu>
