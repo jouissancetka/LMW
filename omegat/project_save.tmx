@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9496,6 +9496,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>万俟西元在两人耳边响起，等他们看过去，他已经带着水西部落的人前往下方的宫殿。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000453Z" creationid="Lilly" creationdate="20181031T000453Z">
+        <seg>WanQi XiYuan's voice rose and when they looked over, he was already leading the ShuiXi Tribe down towards the palace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>万俟西元是水西部落最强的人，他不是一名丹师，本身是一名老牌强者，同时也是水西部落的部长，以往他轻易不会离开水西部落，毕竟打水西部落主意的人并不少，上次参加黑蜘蛛举办的拍卖会，他本人亦没有出现。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181027T044559Z" creationid="elaine" creationdate="20181027T044559Z">
@@ -11364,6 +11372,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181011T191544Z" creationid="elaine" creationdate="20181011T191544Z">
         <seg>After the two of them settled in, You XiaoMo tugged Ling Xiao into the dimension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两人不再废话，立刻带着手下赶过去，生怕落后一步，宝贝就被万俟西元先找到，他们还没有商量怎么分配宝贝，但是谁先找到就是谁的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000557Z" creationid="Lilly" creationdate="20181031T000514Z">
+        <seg>The two didn't dare waste any more time, immediately rushing down with their own subordinates. If WanQi XiYuan found the treasure, then he would be the one to get it. They hadn't discussed how to split the spoils, so it was finders keepers.</seg>
       </tuv>
     </tu>
     <tu>
