@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1066,6 +1066,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181002T175830Z" creationid="Lilly" creationdate="20181002T175830Z">
         <seg>"Gentlemen, this inn might not be the best in JiJiu Town, but they provide comprehensive service."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“二位继续聊天，我们先走一步了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000313Z" creationid="Lilly" creationdate="20181031T000309Z">
+        <seg>"You two keep chatting, I'm heading off first."</seg>
       </tuv>
     </tu>
     <tu>
@@ -21726,6 +21734,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181014T105043Z" creationid="Ceti" creationdate="20181014T105043Z">
         <seg>Xia Yin ignored her, she let the guards in, and brought four people over. The four people were relatively strong, and she let them escort the two sisters back. As for Niu XuYang, she let him stay instead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>夏音浅笑&lt;t0/&gt;不语，&lt;t1/&gt;彩级七品丹师&lt;t2/&gt;就是在远古也是凤毛麟角的存在，更别说现在，晋级的条件难如登天，以她现在的灵魂情况，想要达到&lt;t3/&gt;七品连&lt;t4/&gt;她自己都不知道有没有希望。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000209Z" creationid="Lilly" creationdate="20181031T000209Z">
+        <seg>Xia Yin smiled, not replying. Grade seven rainbow mages were extremely rare even in ancient times, never mind nowadays. Reaching the requirements for advancing was like trying to ascend to the heavens. In her soul's current state, she didn't even know if she had hope of reaching grade seven either.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44366,6 +44382,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T141435Z" creationid="Ceti" creationdate="20180826T080132Z">
         <seg>Besides, it turned out that Dan Qing was his ancestor when everything was said and done (搞来搞去).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>而且白虎的宫殿漂亮是漂亮，但是实用性终究不大，若她真成了七品丹师，根本不需要这座宫殿，有人自然会帮她建造一座更漂亮的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000254Z" creationid="Lilly" creationdate="20181031T000254Z">
+        <seg>Plus, while the White Tiger's palace was beautiful, there wasn't any practical use for it. If she really did manage to advance to grade seven, then she didn;'t need this palace. There would be people to build a better one for her.</seg>
       </tuv>
     </tu>
     <tu>
