@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ZH-CN">
+        <seg>0.1秒，游小默用这么短的时间反应，然后立马闪人了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181031T180609Z" creationid="yun" creationdate="20181031T180609Z">
+        <seg>0.1 second was how long You XiaoMo reacted and ran. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>0分钟到5分钟，包括5分钟，分数为零。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T094105Z" creationid="Lilly" creationdate="20180609T094105Z">
@@ -24367,6 +24375,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181014T094702Z" creationid="Ceti" creationdate="20181014T094702Z">
         <seg>Since the other side has such strength, it was enough to be on an equal footing with her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>对方脸上遮着东西看不到表情，但是从他们一瞬间顿住的动作可以看得出来他们也很意外。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181031T180540Z" creationid="yun" creationdate="20181031T180540Z">
+        <seg>Although the other's face was covered, but from their frozen movement, he could tell that they were surprised too. </seg>
       </tuv>
     </tu>
     <tu>
