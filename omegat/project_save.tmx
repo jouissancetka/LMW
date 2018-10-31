@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10448,6 +10448,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>不过准确来说，整个宫殿的地面其实都是&lt;t0/&gt;玉床那种乳白色晶矿构成&lt;t1/&gt;的，只不过其他地方被白虎巧妙的掩盖掉了，所以别人就以为只有主殿的地板是那种&lt;t2/&gt;晶矿构成&lt;t3/&gt;的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001034Z" creationid="Lilly" creationdate="20181031T001029Z">
+        <seg>But, in reality, the entire palace's floors were made of the same milky white crystal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>不过凌霄并不认为这里只有水元素之心最珍贵。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181019T110110Z" creationid="Ceti" creationdate="20181016T145948Z">
@@ -15332,6 +15340,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T135227Z" creationid="Ceti" creationdate="20180725T123106Z">
         <seg>One of the men rapidly took out the dagger he was carrying and prepared to stab the person inside the sack a few times when the woman suddenly stopped him, "Open the sack."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>其中一处就是游小默的所在地，由一大块乳白色&lt;t0/&gt;晶矿构成&lt;t1/&gt;的地面，下面其实是一个巨大的迷宫。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000953Z" creationid="Lilly" creationdate="20181031T000922Z">
+        <seg>Among these places was the room You XiaoMo was in. The floor, made of a milky white crystal, actually hid a massive maze under it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25369,6 +25385,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T111344Z" creationid="Lilly" creationdate="20180629T111344Z">
         <seg>As a section of the nine myth steel fell to the ground, the burly man roared at the sky and charged out of his prison. Howeverm he didn't choose to fight You Dan and the others and instead charged down towards the fourth floor. The other four prisoners quickly followed suit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>当三个势力都以为宫殿到处都是水的时候，有几处地方却连一滴水都没有，海水都被阻隔在外面。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000904Z" creationid="Lilly" creationdate="20181031T000904Z">
+        <seg>When the three groups all thought the entire palace was flooded, a few places didn't have a drop of water inside, all the seawater kept out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49089,6 +49113,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180926T163925Z" creationid="yun" creationdate="20180926T163925Z">
         <seg>This kind of thing was very common in auctions, especially the non-official ones of like the Black Spider auction. There was nothing preventing them from whooping up the price, thus if there was a grudge, or just not seeing eye to eye with someone, you could do it. However, if you got the item and couldn't pay, then you must be prepared to face the wrath of the Black Spider. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这种想法一直都是强者们最原始的反应，到时把东西藏起来，就算你怀疑也不可能真去&lt;t0/&gt;搜对方&lt;t1/&gt;的身。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T000822Z" creationid="Lilly" creationdate="20181031T000822Z">
+        <seg>This was a primitive instinct of the strong. If they hid something, you couldn't go and search the other's body even if you suspected.</seg>
       </tuv>
     </tu>
     <tu>
