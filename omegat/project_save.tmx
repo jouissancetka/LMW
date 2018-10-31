@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10450,8 +10450,8 @@
       <tuv lang="ZH-CN">
         <seg>不过准确来说，整个宫殿的地面其实都是&lt;t0/&gt;玉床那种乳白色晶矿构成&lt;t1/&gt;的，只不过其他地方被白虎巧妙的掩盖掉了，所以别人就以为只有主殿的地板是那种&lt;t2/&gt;晶矿构成&lt;t3/&gt;的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001034Z" creationid="Lilly" creationdate="20181031T001029Z">
-        <seg>But, in reality, the entire palace's floors were made of the same milky white crystal</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001152Z" creationid="Lilly" creationdate="20181031T001029Z">
+        <seg>But, in reality, the entire palace's floors were made of the same milky white crystal as the jade bed. It was just that in other places, the White Tiger and cleverly covered it up, so others would think that only the main hall had floors made of that material.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18598,6 +18598,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181008T035407Z" creationid="elaine" creationdate="20181008T035407Z">
         <seg>After leaving the Magic Herb Shop, the youth turned and walked towards the crowd, the expression on his face suddenly extremely gloomy. He didn't notice the manager rejoicing in the doorway of LinCao Shop (林草堂) for having bypassed a disaster at all. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>出入口虽然有三个，但是不熟悉的人进去还是会迷失在里面，而且有可能惊动水元素之心，若是让它逃进大海里，这辈子就别想再找到它了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001323Z" creationid="Lilly" creationdate="20181031T001257Z">
+        <seg>Though there were three entrances, people who weren't familiar with the maze would get hopelessly lost inside and they might even startle the water elemental essence. If it fled into the sea, then you could give up on ever finding it again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38303,6 +38311,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默郑重的对他的&lt;t0/&gt;契约兽们说道&lt;t1/&gt;：“小金，小&lt;t2/&gt;乒&lt;t3/&gt;，小&lt;t4/&gt;乓&lt;t5/&gt;，你们守好出口，如果水元素之心逃出来，一定要帮我拦下它，要是被它逃了，克扣你们的伙食费哦。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001431Z" creationid="Lilly" creationdate="20181031T001431Z">
+        <seg>You XiaoMo solemnly spoke to his contracted demon beasts, "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默都不想戳穿他了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180929T070705Z" creationid="elaine" creationdate="20180929T070705Z">
@@ -38499,6 +38515,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181007T134627Z" creationid="Ceti" creationdate="20181007T080507Z">
         <seg>You XiaoMo followed his line of sight and looked at his clothes. At some point, the Metal Swallowing Beast and the two Golden Winged Insects had poked their small heads out, wobbly hanging on his chest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默顺着地图的指示终于找到他的目标，四周的水元素果然越来越浓郁。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001359Z" creationid="Lilly" creationdate="20181031T001359Z">
+        <seg>You XiaoMo finally found his target using the map and, as expected, the water element around him grew denser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44950,6 +44974,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180615T052631Z" creationid="Lilly" creationdate="20180615T052631Z">
         <seg>As for the Metal Swallowing Beast and CatQiu, the situation concerning the Metal Swallowing Beast was special, so he could only stay by You XiaoMo. CatQiu had to keep You XiaoMo's appearance hidden and therefore couldn't leave either.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>至于地图上七拐八拐的线条，其实就是迷宫的三个出入口。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001222Z" creationid="Lilly" creationdate="20181031T001222Z">
+        <seg>As for the strange lines on the map, they actually led to the three openings to the maze.</seg>
       </tuv>
     </tu>
     <tu>
