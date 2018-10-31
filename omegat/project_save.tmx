@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7788,6 +7788,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180907T064840Z" creationid="yun" creationdate="20180907T064840Z">
         <seg>"A Psychic Black Turtle?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“速战速决，我的位置可能要被发现了，你取到水元素之心后，立刻离开宫殿，到时我会去找你。”凌霄迅速的说出自己的打算在。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T002406Z" creationid="Lilly" creationdate="20181031T002308Z">
+        <seg>"Deal with it quickly. I think my position is soon to be noticed. After obtaining the water elemental essence, leave the palace at once. I'll come and find you after," Ling Xiao quickly informed the other of his plans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27967,8 +27975,8 @@
       <tuv lang="ZH-CN">
         <seg>最终，游小默听出凌霄话&lt;t0/&gt;里带着&lt;t1/&gt;一丝急切，也懒得跟他计较了，立刻把情况告诉他，他确实找到水元素之心了，但是这枚元素之心的灵智比他见过的任何一枚都要高，滑溜得像条泥鳅。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T002115Z" creationid="Lilly" creationdate="20181031T002044Z">
-        <seg>You XiaoMo noticed the hint of anxiety in Ling Xiao's voice and didn't bother retorting. He immediately reported his current situation. he had found the water elemental essence, but this elemental essence's spiritual awareness exceeded</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T002149Z" creationid="Lilly" creationdate="20181031T002044Z">
+        <seg>You XiaoMo noticed the hint of anxiety in Ling Xiao's voice and didn't bother retorting. He immediately reported his current situation. he had found the water elemental essence, but this elemental essence's spiritual awareness exceeded any other he had seen before, and it was as slippery as an eel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46767,6 +46775,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180816T072250Z" creationid="elaine" creationdate="20180816T072227Z">
         <seg>Although the demon beasts in Western Continent didn't know how to refine pills, they knew of the importance of magic herbs to the humans. Therefore, the majority of demon beasts would collect a few magic herbs and and exchange it with human mages for their magic pills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>要不他有先见之明，让吞金兽三只分别守在三个出口，这回恐怕已经被它逃走了，为了伙食费不被克扣，他们把吃奶的劲都试出来了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T002242Z" creationid="Lilly" creationdate="20181031T002242Z">
+        <seg>If it wasn't for the fact that he had the foresight to get the Metal Swallowing Beast and co to each guard one of the three exits, it'd have probably escaped by now. In order to not have their food deducted, they had given it their all.</seg>
       </tuv>
     </tu>
     <tu>
