@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19202,6 +19202,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>原本他可以先把白虎的尸体扔进空间里，等以后有机会再进行炼化，但是他后来发现不能移动了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001722Z" creationid="Lilly" creationdate="20181031T001722Z">
+        <seg>Originally, he could throw the White Tiger's body into his pocket dimension and refine it later, but then he realized that he couldn't move it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>原本他想靠这枚内丹突破神境，成为真正的圣境强者，但是现在的双鱼酒楼根本惹不起七罪兽。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180926T004500Z" creationid="elaine" creationdate="20180926T004500Z">
@@ -20086,6 +20094,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181006T092616Z" creationid="Ceti" creationdate="20181005T162926Z">
         <seg>The Metal Swallowing Beast and the two Golden Winged Insect had long been tempted by by the fragrance until they could not bear it any longer. They emerged from the clothes of You XiaoMo and was about to throw themselves at the roast meat in the pot after eying it, but a hand quickly and nimbly moved the roasted meat away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>吞金兽和乒乓球：“……”与此同时，凌霄的运气似乎不太好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001549Z" creationid="Lilly" creationdate="20181031T001549Z">
+        <seg>Metal Swallowing Beast and Ping Pang: "..." At the same time, Ling Xiao wasn't having very good luck.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24603,6 +24619,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>就在他炼化白虎的尸体即将完成的时候，有人闯进他的感应范围内。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001619Z" creationid="Lilly" creationdate="20181031T001619Z">
+        <seg>Just as he was about to finish with the White Tiger's body, someone entered his sensory range.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>就在他的身影消失在楼梯间之前，一个与他擦肩而过，准备离开酒楼的老者突然转过身，若有所思的看了他的背影一眼，旋即转身走向地下赌场的入口。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T151742Z" creationid="Lilly" creationdate="20180609T151742Z">
@@ -27313,6 +27337,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181014T092408Z" creationid="Ceti" creationdate="20181014T092408Z">
         <seg>The entire Guma Tribe knew that Mo Xue was a man-chaser (男色成性) and paid great attention to the appearance of men. When she saw a handsome and dashing man, she could not wait to climb onto the other's bed. She was a licentious and degrading woman. Of course, no one knews that Xia Yin really hated Mo Xue and her sister very much.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>整个宫殿看似没有机关陷阱，实际上有一个最大，也是唯一的一个机关。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001753Z" creationid="Lilly" creationdate="20181031T001732Z">
+        <seg>Though the entire palace seemed to lack traps. There was actually a massive - the only - trap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38313,8 +38345,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默郑重的对他的&lt;t0/&gt;契约兽们说道&lt;t1/&gt;：“小金，小&lt;t2/&gt;乒&lt;t3/&gt;，小&lt;t4/&gt;乓&lt;t5/&gt;，你们守好出口，如果水元素之心逃出来，一定要帮我拦下它，要是被它逃了，克扣你们的伙食费哦。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001431Z" creationid="Lilly" creationdate="20181031T001431Z">
-        <seg>You XiaoMo solemnly spoke to his contracted demon beasts, "</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001530Z" creationid="Lilly" creationdate="20181031T001431Z">
+        <seg>You XiaoMo solemnly spoke to his contracted demon beasts, "Xiao Jin, Xiao Ping, Xiao Pang, guard the exit carefully. If the water elemental essence wants to run, you have to stop it. If it manages to flee, I'll deduct your food."</seg>
       </tuv>
     </tu>
     <tu>
