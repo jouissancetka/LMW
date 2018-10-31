@@ -381,3 +381,4 @@ xx 家	xx Family/Clan
 水西部落	ShuiXi Tribe
 白虎	White Tiger
 万俟西元	MoQi XiYuan
+独立空间	independent dimension
