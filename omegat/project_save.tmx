@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15728,6 +15728,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄不得不分出分神去联系游小默，口快说道：“蠢货，找到水元素之心了吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T002007Z" creationid="Lilly" creationdate="20181031T002007Z">
+        <seg>Ling Xiao had no choice but to spare a part of his attention on contacting You XiaoMo and quickly asked, "Idiot, have you found the water elemental essence?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄不急不徐地说道：“不论你要说什么，我都是这个答案。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180926T001321Z" creationid="elaine" creationdate="20180926T001321Z">
@@ -25837,6 +25845,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>很多人在见到白虎的尸体后，第一反应就是把尸体据为己有，却不知，这恰恰就是机关启动的条件，他是在&lt;t0/&gt;把玉床炼化成&lt;t1/&gt;一滩液态时发现的，否则他也不会让游小默一个人去找水元素之心。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T001924Z" creationid="Lilly" creationdate="20181031T001924Z">
+        <seg>Many people, after seeing the corpse of the White Tiger, would immediately try to take it for themselves, not knowing that this was exactly what was required to activate the trap. This was something he had found out after he had turned the jade bed into a pool of liquid, otherwise he wouldn't have had You XiaoMo go and find the water elemental essence alone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>很多人都认为游小默有凌霄的保护才能走到现在，理论上来讲他们的想法是对的，但是只对了一半。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180921T232417Z" creationid="yun" creationdate="20180921T232356Z">
@@ -27949,6 +27965,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>最终，游小默听出凌霄话&lt;t0/&gt;里带着&lt;t1/&gt;一丝急切，也懒得跟他计较了，立刻把情况告诉他，他确实找到水元素之心了，但是这枚元素之心的灵智比他见过的任何一枚都要高，滑溜得像条泥鳅。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T002115Z" creationid="Lilly" creationdate="20181031T002044Z">
+        <seg>You XiaoMo noticed the hint of anxiety in Ling Xiao's voice and didn't bother retorting. He immediately reported his current situation. he had found the water elemental essence, but this elemental essence's spiritual awareness exceeded</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>最苦逼的是游君其，他总觉得他的工作是最辛苦的，果然有了夫君就不要爹，这句话说得没错。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T123659Z" creationid="Ceti" creationdate="20180909T044315Z">
@@ -28665,6 +28689,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180926T163635Z" creationid="yun" creationdate="20180926T163635Z">
         <seg>Understandably, Lin HaoWu was pleased with his reaction, thinking that he had made You XiaoMo bleed a little, his whole expression lightened up. Also he stopped his price pushing. (哄抬价格)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>某蠢货：“……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181031T002014Z" creationid="Lilly" creationdate="20181031T002014Z">
+        <seg>The idiot: "..."</seg>
       </tuv>
     </tu>
     <tu>
