@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3512,8 +3512,8 @@
       <tuv lang="ZH-CN">
         <seg>“圣女若喜欢这座宫殿，等你成为彩级七品丹师后说不定可以试一试。”斗篷人发出&lt;t0/&gt;桀桀&lt;t1/&gt;的笑声，想要将偌大的宫殿&lt;t2/&gt;用结界&lt;t3/&gt;托起，一般的圣境强者是做不到的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T235624Z" creationid="Lilly" creationdate="20181030T235624Z">
-        <seg>"If the holy maiden, you, like this palace, then you could try and save it after becoming a grade seven rainbow mage." The robed person </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T235829Z" creationid="Lilly" creationdate="20181030T235624Z">
+        <seg>"If the holy maiden, you, like this palace, then you could try and save it after becoming a grade seven rainbow mage." The robed person laughed mockingly. A normal sacred realm elite wouldn't even be able to support this palace with a barrier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45286,6 +45286,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180909T035635Z" creationid="elaine" creationdate="20180909T035635Z">
         <seg>If only it wasn't because it had happened so long ago, this matter would've long since been unearthed by someone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>若不是要进去只有&lt;t0/&gt;破除结界这一&lt;t1/&gt;招，他们其实也不想这样做，宫殿跌落海底，里面的宝贝也不知道能不能见水，找起来也颇为麻烦。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181030T235957Z" creationid="Lilly" creationdate="20181030T235957Z">
+        <seg>If it wasn't for the fact that they had to break the barrier to get inside, they honestly wouldn't want to do this. The water might not be good for the treasures inside and trying to find anything would become extremely troublesome.</seg>
       </tuv>
     </tu>
     <tu>
