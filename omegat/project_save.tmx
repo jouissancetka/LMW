@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39255,6 +39255,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默趴在膜上眼巴巴的看着他，虽然不知道刚刚发生了什么事，但是他们现在应该已经没有危险了，四周也不见黑蜘蛛和两个部落的人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T165803Z" creationid="Lilly" creationdate="20181103T165750Z">
+        <seg>.You XiaoMo leaned against the film</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默跑到湖泊边，回头看了眼刚从草地上坐起来的凌霄，忍不住叹了一口气，有个这样的爱人真不知道是他的幸还是不幸。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T142116Z" creationid="Ceti" creationdate="20180805T061334Z">
@@ -49498,6 +49506,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180728T161448Z" creationid="Ceti" creationdate="20180728T161448Z">
         <seg>Chili paste?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>边上，凌霄闭着眼睛正在打坐，脸色似乎不大好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T165532Z" creationid="Lilly" creationdate="20181103T165532Z">
+        <seg>To the side, Ling Xiao was meditating, eyes closed. He seemed rather pale.</seg>
       </tuv>
     </tu>
     <tu>
