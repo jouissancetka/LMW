@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32757,6 +32757,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默从空间里出来，发现他们已经不在海底，头顶是一碧如洗的天空，阳光明媚，灿烂得令人不能直视，远处是波光粼粼的海水，清澈透明，他们似乎来到一座无名的海域。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T165429Z" creationid="Lilly" creationdate="20181103T165429Z">
+        <seg>You XiaoMo exited the dimension and found that they were no longer at the bottom of the sea. Above them, the azure skies stretched on for miles and bright sunlight shone, almost blindingly so. The clear blue sea shimmered all the way to the skyline. It appeared that they had arrived at an uncharted area of the seas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默从空间里掏出几株上品灵草，其中一株还是柜子里没有的，然后挑出几株自己需要的灵草，虽然是不问自取，但是用上品灵草换中级灵草，相信就算丹房主人知道也不会说什么了吧？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180823T180151Z" creationid="yun" creationdate="20180823T180151Z">
@@ -44285,8 +44293,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>第595章 无名小岛</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T164704Z" creationid="Lilly" creationdate="20181103T164704Z">
-        <seg>Chapter 595: Unnamed Island</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T165140Z" creationid="Lilly" creationdate="20181103T164704Z">
+        <seg>Chapter 595: Uncharted Island</seg>
       </tuv>
     </tu>
     <tu>
