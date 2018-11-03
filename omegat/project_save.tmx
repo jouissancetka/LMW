@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44279,6 +44279,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181031T153239Z" creationid="elaine" creationdate="20181031T153239Z">
         <seg>Chapter 593: Trapped</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第595章 无名小岛</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T164704Z" creationid="Lilly" creationdate="20181103T164704Z">
+        <seg>Chapter 595: Unnamed Island</seg>
       </tuv>
     </tu>
     <tu>
