@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39257,8 +39257,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默趴在膜上眼巴巴的看着他，虽然不知道刚刚发生了什么事，但是他们现在应该已经没有危险了，四周也不见黑蜘蛛和两个部落的人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T165803Z" creationid="Lilly" creationdate="20181103T165750Z">
-        <seg>.You XiaoMo leaned against the film</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181103T165916Z" creationid="Lilly" creationdate="20181103T165750Z">
+        <seg>You XiaoMo leaned against the film separating them and watching the other with wide eyes. Though he didn't know what happened just now, they were probably out of danger now. There was no sign of Black Spider or the people from the two tribes.</seg>
       </tuv>
     </tu>
     <tu>
