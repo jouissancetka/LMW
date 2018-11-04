@@ -7904,6 +7904,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这是什么鸡？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181104T184641Z" creationid="yun" creationdate="20181104T184641Z">
+        <seg>"What's this chicken?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这是你做的？”凌霄问道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180904T213105Z" creationid="Lilly" creationdate="20180904T213105Z">
@@ -20782,6 +20790,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181104T043651Z" creationid="Ceti" creationdate="20181104T043403Z">
         <seg>They did not see that person make any big actions, he only gently waved his hand at the black lightning. It was as if the black lightning had crashed into a piece of soft and velvety cotton. A silver light suddenly appeared in the shape of a half-moon, it flashed a few times and then it blocked the black lightning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>叫花鸡的量比较足，所以他今天不打算做其他菜，因为有些调料快要没了，必须省着点用。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181104T184631Z" creationid="yun" creationdate="20181104T184631Z">
+        <seg>The size of the turkey was quite impressive, so he didn't plan on making any other dishes. They were running out of certain spices so he was taking care using them. </seg>
       </tuv>
     </tu>
     <tu>
