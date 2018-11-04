@@ -36301,6 +36301,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默按照配方上的步骤将所有的灵草都塞进坛子里，再按比例对一些灵水进去，配方上并没有说要用灵水，毕竟灵水是极其稀缺的东西，他只说要用普通的水就可以了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T080326Z" creationid="Ceti" creationdate="20181104T080326Z">
+        <seg>You XiaoMo stuffed all the magic herbs into the jar according to the steps of the recipe, and then proportionally poured some spiritual water into the jar. The recipe did not say that spiritual water should be used. After all, spiritual water was an extremely scarce good. It only stated that ordinary water can be used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默挑了一套勉强能入眼的蓝色衣服，白色那套则是给凌霄的，然后才请老板娘结账。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181003T032919Z" creationid="elaine" creationdate="20181003T032755Z">
@@ -52279,6 +52287,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180921T172403Z" creationid="yun" creationdate="20180921T172403Z">
         <seg>Even now you’re still trying to look cool?! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>配方上记载的东西他以前就已经买好了，只不过一直没时间酿而已，如今有了时间，他全部都搬了出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T080057Z" creationid="Ceti" creationdate="20181104T080057Z">
+        <seg>He had already bought the items on the recipe, it was just that he had no time to brew it. Now that he had time, he moved everything out.</seg>
       </tuv>
     </tu>
     <tu>
