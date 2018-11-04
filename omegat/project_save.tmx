@@ -14466,8 +14466,8 @@
       <tuv lang="ZH-CN">
         <seg>他极其钟爱吃火鸡，被游小默猎杀的火鸡就是他的手下特意放养的，以便大王想吃火鸡时可以随时抓来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181104T034055Z" creationid="elaine" creationdate="20181104T034055Z">
-        <seg>He extremely loved eating turkeys,</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181104T034133Z" creationid="elaine" creationdate="20181104T034055Z">
+        <seg>He extremely loved eating turkeys. The turkeys that You XiaoMo massacred were the ones that his subordinates had specially raised for him, so that it was easy for them to catch one whenever their king wanted to eat a turkey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19790,6 +19790,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T082854Z" creationid="Lilly" creationdate="20180609T082733Z">
         <seg>Half a month ago, the geezer had said he needed to go somewhere, he didn’t specify where exactly or when he would return, but he had yet to come back. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>半个月前，黄鼠兽突然想吃火鸡宴。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181104T034242Z" creationid="elaine" creationdate="20181104T034154Z">
+        <seg>Half a month before, the ground squirrel beast suddenly wanted to have a turkey feast. (火鸡宴)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40891,6 +40899,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180912T232426Z" creationid="Lilly" creationdate="20180912T232426Z">
         <seg>The burning sun rose to the middle of the sky. The blinding sunlight was like embers, raining down on the people crowded at the city gates, adding oil to the fires that burned in their hearts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>火鸡宴和平时吃一只两只不一样，一桌火鸡宴需要十只左右才能做得出来，结果可想而知。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181104T034310Z" creationid="elaine" creationdate="20181104T034239Z">
+        <seg>A turkey feast was different from just eating one or two turkeys like normal. One table at the turkey feast required at least ten or so turkeys, so the results were easy to imagine.</seg>
       </tuv>
     </tu>
     <tu>
