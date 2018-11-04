@@ -36351,8 +36351,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默拿着灵酒重新出现在房屋前，鼻子特别灵敏的吞金兽立刻从屋顶滚下来，朝他怀里的灵酒扑过来，千钧一发之际被他躲开，吞金兽扑了个空，四肢着地。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T083012Z" creationid="Ceti" creationdate="20181104T083012Z">
-        <seg>You XiaoMo reappeared in front of the house with the spirit wine. The Metal Swallowing Beast with a particularly keen nose immediately rolled down from the roof and pounced towards the spirit wine in his arms. He dodged at the eleventh hour, and the Metal Swallowing Beast jumped towards an empty space and landed on all fours.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T083301Z" creationid="Ceti" creationdate="20181104T083012Z">
+        <seg>You XiaoMo reappeared in front of the house with the spirit wine. The Metal Swallowing Beast with a particularly keen nose immediately rolled down from the roof and pounced towards the spirit wine in his arms. You XiaoMo dodged at the eleventh hour, and the Metal Swallowing Beast closed in on empty air before it landed on all fours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37809,6 +37809,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180911T124332Z" creationid="Ceti" creationdate="20180909T071358Z">
         <seg>You XiaoMo rolled his eyes. He was not the least bit surprised by his answer. In actual fact, he had specially wrote down all these things in a small book which had been prepared for his Qiu team members. When they left for the Weeping Ghost Shore, he put the book away and only showed it to Ling Xiao once.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默白了他们一眼，五十步还有脸笑人家一百步，明明就是一丘之貉，“好了，别争了，人人都有份。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T083547Z" creationid="Ceti" creationdate="20181104T083547Z">
+        <seg>You XiaoMo rolled his eyes at them, they had already taken fifty steps and still had the face to laugh at someone who had already taken a hundred steps. They were all clearly birds of the same feather, "All right, don't fight, everyone has a share."</seg>
       </tuv>
     </tu>
     <tu>
