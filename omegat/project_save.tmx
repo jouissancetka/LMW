@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不着急，但是也不能在这里呆太久，外面现在应该已经乱成一团了。”凌霄淡淡的说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T091437Z" creationid="Ceti" creationdate="20181104T091326Z">
+        <seg>"No hurry, but we can't stay here too long. It's probably a mess on the outside now." Ling Xiao indifferently stated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不知道！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180907T144510Z" creationid="Ceti" creationdate="20180907T144510Z">
@@ -4936,8 +4944,8 @@
       <tuv lang="ZH-CN">
         <seg>“很着急？”游小默道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T090947Z" creationid="Ceti" creationdate="20181104T090947Z">
-        <seg>"You're very anxious?" You XiaoMo asked.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T091353Z" creationid="Ceti" creationdate="20181104T090947Z">
+        <seg>"You're in hurry?" You XiaoMo asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14060,6 +14068,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180806T143726Z" creationid="Ceti" creationdate="20180805T092336Z">
         <seg>Dawn had arrived on the outside while they were fiddling with the sealed jade drive in their dimension. One after another, the people on the sixtieth level people hurried to the Cultivation Institute to cultivate, leaving only a few scattered figures in the corridor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他们在这座小岛已经呆了不止两个月，外面的情形什么都不知道，虽然他不着急，但是若能知道一些外面的情况就好了，毕竟他们也不是完全无牵无挂。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181104T091307Z" creationid="Ceti" creationdate="20181104T091307Z">
+        <seg>They have been on this island for more than two months. They did not know the situation in the outside world. Although he was not in a hurry, it would be nice to know some news about the outside world. After all, they were not completely free of all constraints and attachments.</seg>
       </tuv>
     </tu>
     <tu>
