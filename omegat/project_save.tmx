@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“主人！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181105T144720Z" creationid="Ceti" creationdate="20181105T144720Z">
+        <seg>"Master!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“主人，我想跟你们一起去。”皮球撅着嘴，眼巴巴的看着他，他的外表虽然长大了，但是心性却还是跟以前一样。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180902T004815Z" creationid="elaine" creationdate="20180902T004815Z">
@@ -20374,6 +20382,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T135329Z" creationid="Ceti" creationdate="20180725T123129Z">
         <seg>They had assumed that she was dead and did not expect her to be alive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>原以为黄鼠狼不会再来，但是游小默发现他低估了这货的脸皮，那不是一般的厚，就在他进行到最后一天的时候，黄鼠狼又出现了，不同的是，这次他带来的人比较少。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181105T144716Z" creationid="Ceti" creationdate="20181105T144716Z">
+        <seg>Originally he thought that the ground squrriel would not come back, but You XiaoMo found that he had underestimated its face. It was not that of a general thickness. Just as he had progressed till the last day, the ground squirrel appeared again, the difference was, this time he brought fewer people.</seg>
       </tuv>
     </tu>
     <tu>
