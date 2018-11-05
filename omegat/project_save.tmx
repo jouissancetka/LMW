@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“主人，小人有眼不识泰山，前几天冒犯了您，今日特地来赔罪，小人愿意与您签订永久契约，终身服侍您，希望主&lt;t0/&gt;人能收下小人，给小人一个弥补过错的机会，小人发誓永远也不会背叛您。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181105T145940Z" creationid="Ceti" creationdate="20181105T145940Z">
+        <seg>"Master, this lowly one has eyes but fail to recognize Mt Tai and had offended you a few days ago. Today this one has comes to make amends. I am willing to sign a permanent contract with you and serve you for life. I hopes that Master will accept this lowly one and give me a chance to make up for my mistakes. I vow that I will never betray you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“主人，我想跟你们一起去。”皮球撅着嘴，眼巴巴的看着他，他的外表虽然长大了，但是心性却还是跟以前一样。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180902T004815Z" creationid="elaine" creationdate="20180902T004815Z">
@@ -8924,6 +8932,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180621T095853Z" creationid="Lilly" creationdate="20180621T095853Z">
         <seg>"Could you evaluate them for me, please?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“黄鼠兽？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181105T150003Z" creationid="Ceti" creationdate="20181105T150003Z">
+        <seg>"A ground squirrel beast?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26913,6 +26929,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181104T033152Z" creationid="elaine" creationdate="20181104T033152Z">
         <seg>A mouse spirit (鼠精) kneeled in front of the curtain. Even though he had already transformed, characteristics of the mouse beast still remained on his body. You could tell from one glance that his original shape was that of the mouse beast. When he heard this, he instantly responded, "Yes, my king. This subordinate saw that person take out many magic herbs from a cauldron with my own eyes. He's already sat in front of that cauldron, unmoving, for a whole day and night. He's definitely refining pills."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>带着淡淡轻嘲味道的声音突然传到黄鼠兽耳朵里。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181105T150055Z" creationid="Ceti" creationdate="20181105T150055Z">
+        <seg>The voice with a slight ridiculing tone suddenly spread to the ground squirrel's ears.</seg>
       </tuv>
     </tu>
     <tu>
