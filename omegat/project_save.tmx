@@ -5582,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我知道了，你一定是主人的手下，对不起，我是黄鼠兽，过不了多久也会成为主人的一员手下，请多多指教！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181105T151430Z" creationid="Ceti" creationdate="20181105T151430Z">
+        <seg>"I got it! You must be the Master's subordinate. I apologies, I am the ground squirrel beast who will soon become the Master's subordinate too. I will resign myself to your guidance!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我知道了，你也要小心。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180629T062030Z" creationid="Lilly" creationdate="20180629T062030Z">
