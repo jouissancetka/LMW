@@ -386,3 +386,4 @@ xx 家	xx Family/Clan
 伏子林	Fu ZiLin
 红冠鸡	Red-Crowned Turkey
 黄鼠兽	Ground Squirrel Beast
+黄鼠獣	Ground Squirrel Beast
