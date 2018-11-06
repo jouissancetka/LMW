@@ -387,3 +387,4 @@ xx 家	xx Family/Clan
 红冠鸡	Red-Crowned Turkey
 黄鼠兽	Ground Squirrel Beast
 黄鼠獣	Ground Squirrel Beast
+心脉丹	Heart Meridian Pill
