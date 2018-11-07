@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27207,8 +27207,8 @@
       <tuv lang="ZH-CN">
         <seg>异想天开？”凌霄淡淡的说道，语气中带着非常明显的轻视，不论是他，还是游小默，普通妖兽跟着他们只会成为累赘。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T190818Z" creationid="Lilly" creationdate="20181107T190818Z">
-        <seg>You must be dreaming," Ling Xiao spoke mildly, yet there was clear contempt in his tone. No matter him or You XiaoMo, any normal demon beast that followed them would only become a burden.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T222946Z" creationid="Lilly" creationdate="20181107T190818Z">
+        <seg>Are you for real?" Ling Xiao spoke mildly, yet there was clear contempt in his tone. No matter him or You XiaoMo, any normal demon beast that followed them would only become a burden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55471,6 +55471,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180727T135252Z" creationid="Ceti" creationdate="20180725T123122Z">
         <seg>The person in the sack was a beautiful young lady. Her mouth had been stuffed with a piece of cloth and her head was bleeding, but the blood had already clotted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黄鼠&lt;t0/&gt;兽虽然&lt;t1/&gt;是高阶妖兽，而且还是变异的妖兽，但是他的战斗力在高阶妖兽中却明显偏低，属于可有可无的战斗力，他能在这座小岛称王称霸，应该庆幸这里没有太多战斗力强大的高阶妖兽。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T222936Z" creationid="Lilly" creationdate="20181107T222936Z">
+        <seg>The Ground Squirrel Beast</seg>
       </tuv>
     </tu>
     <tu>
