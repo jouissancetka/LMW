@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2850,6 +2850,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181023T175930Z" creationid="elaine" creationdate="20181023T162305Z">
         <seg>"The difference is that that's my Godfire."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“区区一只黄鼠兽？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T190623Z" creationid="Lilly" creationdate="20181107T190623Z">
+        <seg>"Just a Ground Squirrel Beast?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19132,6 +19140,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181023T175916Z" creationid="elaine" creationdate="20181023T175916Z">
         <seg>Ling Xiao picked up his cup of tea and took a sip before saying blandly, "You can't!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>凌霄笑&lt;t0/&gt;了起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T182146Z" creationid="Lilly" creationdate="20181107T182146Z">
+        <seg>Ling Xiao started laughing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55455,6 +55471,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181106T154542Z" creationid="Ceti" creationdate="20181105T150655Z">
         <seg>The Ground Squirrel Beast was stunned. He looked up and saw the aloof (长身玉立) man under the eaves. He was wearing a gorgeous white brocade robe and had handsome features. He was adopting a casual posture, but a noble temperament emanated from his whole body. After a few seconds, the Ground Squirrel Beast reacted and immediately shouted (喝道), "Who are you?!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黄鼠兽不明所以，跟着嘿嘿的傻笑起来，只是下一秒他就笑不出来了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T190609Z" creationid="Lilly" creationdate="20181107T190609Z">
+        <seg>The Ground Squirrel Beast didn't understand why he was laughing, and started laughing as well, but soon enough, he wasn't able to laugh anymore.</seg>
       </tuv>
     </tu>
     <tu>
