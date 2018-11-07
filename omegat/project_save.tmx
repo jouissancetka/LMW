@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -55475,10 +55475,18 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>黄鼠&lt;t0/&gt;兽显然&lt;t1/&gt;觉得他侮辱了自己，愤怒得眼睛都红了，区区一只黄鼠&lt;t2/&gt;兽怎么&lt;t3/&gt;了，他还以自己身为黄鼠兽为荣呢！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T223251Z" creationid="Lilly" creationdate="20181107T223251Z">
+        <seg>The Ground Squirrel Beast clearly felt that the other was insulting him, his eyes red with anger. So what if he was a Ground Squirrel Beast? He was proud of being one!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>黄鼠&lt;t0/&gt;兽虽然&lt;t1/&gt;是高阶妖兽，而且还是变异的妖兽，但是他的战斗力在高阶妖兽中却明显偏低，属于可有可无的战斗力，他能在这座小岛称王称霸，应该庆幸这里没有太多战斗力强大的高阶妖兽。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T222936Z" creationid="Lilly" creationdate="20181107T222936Z">
-        <seg>The Ground Squirrel Beast</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T223159Z" creationid="Lilly" creationdate="20181107T222936Z">
+        <seg>The Ground Squirrel Beast might be a high level demon beast, and even a mutated variant, but his combative ability was relatively low amongst high level demon beasts. He wouldn't be much of an asset in a battle to them. The only reason he could rule this island was because he was lucky enough that there were no powerful high level demon beasts.</seg>
       </tuv>
     </tu>
     <tu>
