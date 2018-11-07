@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2856,8 +2856,8 @@
       <tuv lang="ZH-CN">
         <seg>“区区一只黄鼠兽？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T190623Z" creationid="Lilly" creationdate="20181107T190623Z">
-        <seg>"Just a Ground Squirrel Beast?</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T190729Z" creationid="Lilly" creationdate="20181107T190623Z">
+        <seg>"A Ground Squirrel Beast like you?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27201,6 +27201,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180824T205052Z" creationid="Lilly" creationdate="20180824T205052Z">
         <seg>The tension that had thickened the air began to dissipate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>异想天开？”凌霄淡淡的说道，语气中带着非常明显的轻视，不论是他，还是游小默，普通妖兽跟着他们只会成为累赘。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181107T190818Z" creationid="Lilly" creationdate="20181107T190818Z">
+        <seg>You must be dreaming," Ling Xiao spoke mildly, yet there was clear contempt in his tone. No matter him or You XiaoMo, any normal demon beast that followed them would only become a burden.</seg>
       </tuv>
     </tu>
     <tu>
