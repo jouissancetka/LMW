@@ -389,3 +389,4 @@ xx 家	xx Family/Clan
 黄鼠獣	Ground Squirrel Beast
 心脉丹	Heart Meridian Pill
 叫花鸡	Beggar's Chicken
+鼠兽	Rat Beast
