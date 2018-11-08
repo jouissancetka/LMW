@@ -391,3 +391,4 @@ xx 家	xx Family/Clan
 叫花鸡	Beggar's Chicken
 鼠兽	Rat Beast
 黄鼠兽	Weasel Beast
+适应期	adjustment period
