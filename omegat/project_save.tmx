@@ -15362,8 +15362,8 @@
       <tuv lang="ZH-CN">
         <seg>令它们感到惊喜的是，这里似乎没有任何防御，可是接下来却又使它们犯难了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="elaine" changedate="20181108T013046Z" creationid="elaine" creationdate="20181108T013046Z">
-        <seg>To their pleasant surprise, there seemed to be no defenses up here. But what happened next made them uneasy again.</seg>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181108T013215Z" creationid="elaine" creationdate="20181108T013046Z">
+        <seg>To their pleasant surprise, there seemed to be no defenses up here. But what deciding what to do next made them uneasy again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28237,6 +28237,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>想要拿下小岛，除非像以前一样直接攻击小岛，这样一来，整座小岛势必会毁于一旦。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181108T013241Z" creationid="elaine" creationdate="20181108T013200Z">
+        <seg>If they wanted to seize the small island, there wasn't much they could do besides directly attacking the small island like before. If they did this, the entire island would be destroyed in an instant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>意见可大了！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180913T033723Z" creationid="elaine" creationdate="20180913T033723Z">
@@ -31249,6 +31257,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180627T135554Z" creationid="Ceti" creationdate="20180625T140256Z">
         <seg>Just as the two parties brushed past each other, a snake suddenly appeared in the underbrush by the side. It bit into the youth's leg with sharp teeth that was coated in venom. The youth cried out in fright as the snake slithered back into the underbrush and disappeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>正当变异首领感到为难之际，一种危险的感觉霎时笼上心头。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181108T013322Z" creationid="elaine" creationdate="20181108T013322Z">
+        <seg>Just when the mutant leader was at a loss for what to do, a sense of danger loomed over its mind in a heartbeat.</seg>
       </tuv>
     </tu>
     <tu>
