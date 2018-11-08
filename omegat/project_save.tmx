@@ -7568,6 +7568,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“要要要！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181108T075000Z" creationid="yun" creationdate="20181108T075000Z">
+        <seg>"Yes, yes, yes!!!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“要进去吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180907T131943Z" creationid="Ceti" creationdate="20180907T124137Z">
@@ -8700,6 +8708,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180916T171453Z" creationid="Lilly" creationdate="20180916T171453Z">
         <seg>"Then we aren't going?" You XiaoMo was a little disappointed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那我就等你的好消息。”游小默很满意他的速度，一开始他以为需要半个月以上，这个速度确实出乎他的意料，“对了，我做了两只叫化鸡，你要不要……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181108T074954Z" creationid="yun" creationdate="20181108T074954Z">
+        <seg>"Then I'll be waiting for your good news." You XiaoMo was very satisfied with his speed, at first he thought it was going to take at least half a month. This speed was really unexpected, so he asked, "Right, I made two Beggar's Chicken, do you want some?" </seg>
       </tuv>
     </tu>
     <tu>
