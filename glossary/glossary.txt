@@ -385,8 +385,6 @@ xx 家	xx Family/Clan
 玄龟	Black Tortoise
 伏子林	Fu ZiLin
 红冠鸡	Red-Crowned Turkey
-黄鼠兽	Ground Squirrel Beast
-黄鼠獣	Ground Squirrel Beast
 心脉丹	Heart Meridian Pill
 叫花鸡	Beggar's Chicken
 鼠兽	Rat Beast
