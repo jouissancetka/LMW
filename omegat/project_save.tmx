@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10804,6 +10804,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180917T143816Z" creationid="Ceti" creationdate="20180916T062906Z">
         <seg>The restriction array of Heavenly Cauldron was unable to give a hundred percent guarantee that a Rainbow Level magic pill would not fly away. Therefore, every time You XiaoMo formed a pill he would have to split some of his attention to monitor it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不&lt;t0/&gt;过程向荣的部下就没那么好命了，一对&lt;t1/&gt;二尤其&lt;t2/&gt;吃力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181111T142520Z" creationid="Lilly" creationdate="20181111T142438Z">
+        <seg>However, Cheng XiangRong's subordinate weren't having such a good time. It was exceptionally tiring to fight one against two.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46480,6 +46488,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>程向荣虽然有潜力，但是他现在也不过是一品修为而已，而颜辉却是二品，不过好在程向荣不是普通的丹师，万俟西元的儿子肯定有些保命手段，凭借这点，两人反倒是僵持下来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181111T142407Z" creationid="Lilly" creationdate="20181111T142407Z">
+        <seg>Cheng XiangRong might have potential, but right now, he was only grade one, while Yan Hui was grade two. Luckily, Cheng XiangRong wasn't a normal mage. As the son of MoQi XiYuan, he had plenty of tricks up his sleeves. With that, the two were at a deadlock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>程向荣说：“这种事以后还是少开玩笑比较好，不然被听到会给他留下不好的印象。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T145909Z" creationid="Lilly" creationdate="20180609T145909Z">
@@ -54853,6 +54869,14 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>那名护卫一脸愤恨与不甘，眼看着对方的刀从他头顶&lt;t0/&gt;劈&lt;t1/&gt;下来，他要是死在这里，主子怎么办？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181111T142514Z" creationid="Lilly" creationdate="20181111T142514Z">
+        <seg>That </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>那名死里逃生的弟子瞪大眼睛看着他们，除了震惊，还有一丝愕然，好像认得他们，但又觉得在这里看到他们很不可思议一般。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181111T102538Z" creationid="Ceti" creationdate="20181111T102418Z">
@@ -56663,8 +56687,8 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       <tuv lang="ZH-CN">
         <seg>颜辉眼底泄露出来的杀气很清楚的告诉程向荣他心里的答案，不过他的实力明显在程向荣之上，当初在逍遥院他便可以掩饰自己的实力。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181111T142205Z" creationid="Lilly" creationdate="20181111T142205Z">
-        <seg>Yan Hui's murderous intentions were clear in his eyes, telling Cheng XiangRong his answer.</seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181111T142253Z" creationid="Lilly" creationdate="20181111T142205Z">
+        <seg>Yan Hui's murderous intentions were clear in his eyes, telling Cheng XiangRong his answer. However, his strength was clearly above Cheng XiangRong's. Back in the XiaoYao Institution, he had concealed his true strength.</seg>
       </tuv>
     </tu>
     <tu>
