@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21414,6 +21414,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180830T223441Z" creationid="Lilly" creationdate="20180830T223441Z">
         <seg>He had really learned something new today. So MaoQiu could be so cool, too! Against an arrogant woman like the owner, you could only face her with the same venom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>双方很快便打了起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181111T134009Z" creationid="Lilly" creationdate="20181111T134009Z">
+        <seg>The two sides soon engaged in battle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47343,6 +47351,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181107T230553Z" creationid="elaine" creationdate="20181107T230553Z">
         <seg>Chapter 601: Departure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第603章 桃源遗迹</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181111T133958Z" creationid="Lilly" creationdate="20181111T133958Z">
+        <seg>Chapter 603: The Ruins of the Peach Blossom Spring</seg>
       </tuv>
     </tu>
     <tu>
