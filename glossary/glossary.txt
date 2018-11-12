@@ -397,3 +397,4 @@ xx 家	xx Family/Clan
 水妖	Water Demon
 琉璃手	Azure Palm 
 散修	lone practitioner
+八府	Eight Mansions
