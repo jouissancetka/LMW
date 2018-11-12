@@ -32239,8 +32239,8 @@
       <tuv lang="ZH-CN">
         <seg>桃源遗迹整体是一座灵山，地势越高，洞府主人的修为就越高，宝贝也就越多，凶险便成倍增长的，不过也有例外的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="yun" changedate="20181112T022708Z" creationid="yun" creationdate="20181112T022708Z">
-        <seg>The Peach Blossom Ruins, as a whole, was a spiritual mountain (灵山). The higher the altitude, the stronger the owner's cultivation base. That meant more treasures and more threats, however, there was some exceptions.  </seg>
+      <tuv lang="EN-US" changeid="yun" changedate="20181112T022750Z" creationid="yun" creationdate="20181112T022708Z">
+        <seg>The Peach Blossom Ruins, as a whole, was a spirit mountain (灵山). The higher the altitude, the stronger the owner's cultivation base. That meant more treasures and more threats, however, there was some exceptions.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -33073,6 +33073,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180823T192636Z" creationid="Lilly" creationdate="20180823T192636Z">
         <seg>For example, that Tian Hen guy looked like he had just been scammed, knowing that Ling Xiao left with that Uncle Gu. He suddenly harrumphed and set his feet on the table in s displeased manner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>比方说灵山八府。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181112T022747Z" creationid="yun" creationdate="20181112T022747Z">
+        <seg>For example, the Eight Mansions of the Spirit Mountain (灵山八府). </seg>
       </tuv>
     </tu>
     <tu>
