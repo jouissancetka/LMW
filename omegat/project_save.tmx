@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你莫不是怕了他们？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181112T011213Z" creationid="yun" creationdate="20181112T011213Z">
+        <seg>"Could it be you're afraid?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你要干什么？”翁公警惕了起来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180701T091919Z" creationid="Ceti" creationdate="20180701T090905Z">
@@ -28353,6 +28361,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181012T144151Z" creationid="Ceti" creationdate="20181010T050255Z">
         <seg>There were only five men on the bandit chief's side. Although their overall numerical strength was high, the members of the expedition team were double theirs and the strength of the captain seemed to be on par with his.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>强者乙扯出一抹僵硬的笑容，“他们想进去我没意见。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181112T011244Z" creationid="yun" creationdate="20181112T011244Z">
+        <seg>The expert^2 made a stiff smile, "I don't mind them going in."</seg>
       </tuv>
     </tu>
     <tu>
