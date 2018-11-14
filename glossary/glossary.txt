@@ -399,3 +399,4 @@ xx 家	xx Family/Clan
 散修	lone practitioner
 八府	Eight Mansions
 麟少逸	Lin ShaoYi
+丹师大会	Mage Assemblage
