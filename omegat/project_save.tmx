@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“他说的万年前的约定是什么，还有他到底是什么人？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181114T133031Z" creationid="Ceti" creationdate="20181114T133031Z">
+        <seg>"What was the promise made ten thousand years ago about? And what kind of person is he?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“他身上怎么会有玄龟族的血脉？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180913T033554Z" creationid="elaine" creationdate="20180913T033554Z">
@@ -48328,8 +48336,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>第&lt;t0/&gt;610&lt;t1/&gt;章&lt;t2/&gt; &lt;t3/&gt;约定</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181114T132658Z" creationid="Ceti" creationdate="20181114T132658Z">
-        <seg>[fuzzy]Chapter 594: Underestimating the Enemy
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181114T132755Z" creationid="Ceti" creationdate="20181114T132658Z">
+        <seg>Chapter 610: Promise
 Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
     </tu>
