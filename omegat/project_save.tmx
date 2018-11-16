@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6410,6 +6410,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181010T070741Z" creationid="Ceti" creationdate="20181010T062316Z">
         <seg>"It's you!" Mo Xue gnashed her teeth in anger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“是你？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181116T140519Z" creationid="Lilly" creationdate="20181116T140519Z">
+        <seg>"It's you?"</seg>
       </tuv>
     </tu>
     <tu>
