@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10320,6 +10320,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一道惊呼声打破现场沉寂的气氛，霎时把众人的理智拉回来，看着面前狰狞的水妖，顿时冒出一身冷汗，关键时刻走神可是要人命的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181116T140717Z" creationid="Lilly" creationdate="20181116T140717Z">
+        <seg>A shocked cry broke through the heavy atmosphere and snapped everyone out of their stupor. Seeing the terrifying Water Demons, they felt cold sweat forming on their skin. Getting distracted at a crucial moment could be fatal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一道洪亮的笑声自人群中传出来，众人循声望过去，发现发出笑声的人是一名胡须花白，头发亦白如雪的老者，珠圆玉润的脸庞挂着笑盈盈的微笑，颇有几分老顽童的感觉。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180731T134816Z" creationid="Ceti" creationdate="20180731T134816Z">
@@ -16604,6 +16612,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T140814Z" creationid="Lilly" creationdate="20180707T140814Z">
         <seg>Everyone put turned their gazes to him immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>众人没再理会是不是有人要叙旧，专心对付眼前的水妖。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181116T140750Z" creationid="Lilly" creationdate="20181116T140750Z">
+        <seg>The crowd ignored this and focused on dealing with the Water Demons.</seg>
       </tuv>
     </tu>
     <tu>
