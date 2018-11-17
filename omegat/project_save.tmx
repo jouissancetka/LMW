@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11738,8 +11738,8 @@
       <tuv lang="ZH-CN">
         <seg>不过他们没有到上面，而是在灵山半山腰找了一座已经被光顾过的洞府。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181117T134420Z" creationid="Ceti" creationdate="20181117T134412Z">
-        <seg>But instead of going to the top, they found an Immortal’s Cave that had been patronized/they had visited halfway up the spirit mountain.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181117T134454Z" creationid="Ceti" creationdate="20181117T134412Z">
+        <seg>But instead of going to the top, they found an Immortal’s Cave that had been patronized/they had visited/had already been used halfway up the spirit mountain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34857,6 +34857,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181018T223927Z" creationid="Lilly" creationdate="20181018T223659Z">
         <seg>Dong Yu was vast and there were few people living here. However, there were would be people coming here to explore the many caverns here everyday. As time went by, small towns cropped up, especially around paths that led into other more populated areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>洞府外面的灵草田已经被挖得坑坑洼洼一片，只要有人靠近也会发现洞府已经空了，届时就会自行离去了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181117T134616Z" creationid="Ceti" creationdate="20181117T134447Z">
+        <seg>The magic herb field outside the cave had been dug until it was full of pits and depressions. If someone came close, they would find that the cave was already emptied and would voluntarily leave by himself.</seg>
       </tuv>
     </tu>
     <tu>
