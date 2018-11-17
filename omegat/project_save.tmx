@@ -3342,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“吱吱！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181117T042036Z" creationid="yun" creationdate="20181117T042036Z">
+        <seg>"Chirp, chirp!!" (吱吱-I'm sorry, it's a scratchy, high-pitched squeak or smt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“吸引你的东西在哪个方向？”凌霄停下步伐。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180827T212439Z" creationid="elaine" creationdate="20180827T212439Z">
