@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8112,6 +8112,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这不是废话吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181117T003815Z" creationid="Lilly" creationdate="20181117T003815Z">
+        <seg>"No shit."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这东西你拿着。”凌霄扔给他一瓶装着几滴散发着金灿灿光芒的血液，这是他从白虎的尸体提炼出来的精血，因为白虎和四灵一样没有内丹，所以他们的精血蕴含着一股庞大的能量，和修为直接挂钩。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181104T191034Z" creationid="yun" creationdate="20181104T191034Z">
@@ -8548,6 +8556,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180730T184516Z" creationid="Lilly" creationdate="20180730T184516Z">
         <seg>"It appears that it was someone Jiang Liu was familiar with..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那个人应该不是彩级丹师，十之八九是名圣境强者。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181117T003807Z" creationid="Lilly" creationdate="20181117T003807Z">
+        <seg>"That person probably isn't a rainbow mage, but most likely a sacred realm practitioner."</seg>
       </tuv>
     </tu>
     <tu>
