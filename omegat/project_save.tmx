@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3314,6 +3314,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180707T125508Z" creationid="Lilly" creationdate="20180707T125508Z">
         <seg>"Heard of what?" You XiaoMo was confused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“听说最近有个圣境强者一直在搜刮灵山的洞府，已经有六七个洞府被他扫荡过，速度非常快，连杂草都没留下。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181117T003640Z" creationid="Lilly" creationdate="20181117T003619Z">
+        <seg>"I hear that there's been a sacred level practitioner clearing out Spirit Mountain's cave swellings. Six or seven have already been swept. They're extremely fast and don't leave even weeds behind."</seg>
       </tuv>
     </tu>
     <tu>
@@ -30477,6 +30485,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>所谓的杂草是指灵草田附近生长的杂草，&lt;t0/&gt;凌霄收&lt;t1/&gt;灵草的时候是将整块灵草田都拔起，所以不可避免连杂草也一并收了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181117T003724Z" creationid="Lilly" creationdate="20181117T003724Z">
+        <seg>These weeds were the weeds that often grew near magic herb fields. When Ling Xiao gathered magic herbs, he'd take the entire field of magic herbs, so he'd often end up taking the weeds as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>手、手抖？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180929T153916Z" creationid="Lilly" creationdate="20180929T153916Z">
@@ -48671,6 +48687,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181116T002028Z" creationid="elaine" creationdate="20181115T184644Z">
         <seg>Chapter 609: Blood Figure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第611章 那道坎</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181117T003508Z" creationid="Lilly" creationdate="20181117T003508Z">
+        <seg>Chapter 611: That Road</seg>
       </tuv>
     </tu>
     <tu>
