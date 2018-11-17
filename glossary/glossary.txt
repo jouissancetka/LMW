@@ -403,3 +403,4 @@ xx 家	xx Family/Clan
 桃源遗迹	Peach Blossom Ruins
 桃园遗迹	Peach Blossom Ruins
 第六府	sixth mansion
+结界	barrier
