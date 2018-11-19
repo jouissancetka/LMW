@@ -2550,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你说的没错，但是我还是想试一试。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181119T142742Z" creationid="Ceti" creationdate="20181119T142742Z">
+        <seg>"You are right, but I still want to have a try."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你说谁有病？”麟昊武嚯的站起来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180626T153735Z" creationid="Ceti" creationdate="20180626T153709Z">
@@ -15972,6 +15980,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181026T155005Z" creationid="Lilly" creationdate="20181026T155005Z">
         <seg>He had eaten two bowls of tofu pudding that morning and the current scene really was too alike, making him sick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他是个独断霸道的人，活了那么久，这不是第一次有人跟他说这句话，但是却是唯一一个让他相信这句话的人，因为他说的没错，现在的他确实不是他的对手。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181119T142730Z" creationid="Ceti" creationdate="20181119T142721Z">
+        <seg>He's was an arbitrary and tyrannical man who had lived for a long time. This Was not the first time someone had said this to him, but he was the only one who made him believe his words. This was because he was right - his current self was really not his match.</seg>
       </tuv>
     </tu>
     <tu>
