@@ -25132,8 +25132,8 @@
       <tuv lang="ZH-CN">
         <seg>地面上洒满了鲜血，血淋淋的肉块昭示着这里不久前才经历了一场单方面的虐待，两具尸体没有一具是完整的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181119T135343Z" creationid="Ceti" creationdate="20181119T135343Z">
-        <seg>The ground was completely covered with fresh blood, and the bloody lumps of meat showed that there had recently been a scene of a one-sided abuse here. Of the two corpses here, none of the two were complete.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181119T135359Z" creationid="Ceti" creationdate="20181119T135343Z">
+        <seg>The ground was completely covered with fresh blood, and the bloody lumps of meat showed that there had recently been a scene of a one-sided abuse here. Of the two corpses here, none of the two were complete/intact.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51196,6 +51196,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180609T094011Z" creationid="Lilly" creationdate="20180609T094011Z">
         <seg>And the winning conditions for the second round was to stay in there the longest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>而这一切全是男人的杰作，要不是他手上的刀还沾着鲜血，以他一身干净不沾丁点灰尘的白衣很难想象就在刚刚他虐杀了两个人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181119T135627Z" creationid="Ceti" creationdate="20181119T135610Z">
+        <seg>And all this was the masterpiece of a single man. If not for the blood-stained blade in his hands, it was hard to imagine that he had just tortured two people to death with his clean, white robes that did not have a hint of dust.</seg>
       </tuv>
     </tu>
     <tu>
