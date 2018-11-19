@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“哈哈！”黑袍男子不怒反笑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181119T142400Z" creationid="Ceti" creationdate="20181119T142400Z">
+        <seg>"Ha ha!" The man in black laughed instead of getting angry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哈？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180804T071302Z" creationid="Ceti" creationdate="20180804T071302Z">
@@ -46883,6 +46891,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181002T153429Z" creationid="Lilly" creationdate="20181002T153429Z">
         <seg>The man glanced at him silently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>男人淡淡的瞥他一眼，“你不是我的对手。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181119T142322Z" creationid="Ceti" creationdate="20181119T142322Z">
+        <seg>The man glanced at him indifferently, "You are no match for me."</seg>
       </tuv>
     </tu>
     <tu>
