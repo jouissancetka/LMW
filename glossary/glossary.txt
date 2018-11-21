@@ -414,3 +414,4 @@ xx 家	xx Family/Clan
 浴火宝丹	Fire Baptism Pill
 上品	high grade
 下品	lower grade
+邪物	evil spirit
