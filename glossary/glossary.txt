@@ -419,3 +419,4 @@ xx 家	xx Family/Clan
 神火	Godfire
 龙息	Dragon's Breath
 寒潭	cold lake
+晶石	spirit stone
