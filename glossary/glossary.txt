@@ -418,3 +418,4 @@ xx 家	xx Family/Clan
 真龙之息	The Breathe of the True Dragon
 神火	Godfire
 龙息	Dragon's Breath
+寒潭	cold lake
