@@ -38333,6 +38333,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默将一瓶高级灵丹举到凌霄面前。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181121T040707Z" creationid="yun" creationdate="20181121T040707Z">
+        <seg>You XiaoMo raised a bottle of high level magic pills towards Ling Xiao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默将他推离火堆，“你还是站着看就好，我一个就行了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181004T150012Z" creationid="Ceti" creationdate="20181004T130623Z">
