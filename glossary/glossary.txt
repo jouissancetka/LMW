@@ -415,3 +415,6 @@ xx 家	xx Family/Clan
 上品	high grade
 下品	lower grade
 邪物	evil spirit
+真龙之息	The Breathe of the True Dragon
+神火	Godfire
+龙息	Dragon's Breath
