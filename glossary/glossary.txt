@@ -412,3 +412,5 @@ xx 家	xx Family/Clan
 瘴气	miasma
 三大凶门	'three bad luck doors'
 浴火宝丹	Fire Baptism Pill
+上品	high grade
+下品	lower grade
