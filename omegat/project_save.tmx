@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12562,8 +12562,8 @@
       <tuv lang="ZH-CN">
         <seg>不过有一点可以肯定，黑袍男子看着他们时没有一丝杀气。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T125117Z" creationid="Ceti" creationdate="20181123T125117Z">
-        <seg>However, one thing was certain, the black-robed man did not have a hint of killing intent when looking at them.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T134406Z" creationid="Ceti" creationdate="20181123T125117Z">
+        <seg>However, one thing was certain. The black-robed man did not have a hint of killing intent when looking at them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20066,8 +20066,8 @@
       <tuv lang="ZH-CN">
         <seg>凌霄擦掉大刀上的血迹，然后放回刀鞘，目前这把大刀他用得还挺顺手的，所以暂时不打算扔了，听到他的话才回道：“很显然，他对我们的认识不浅。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T125408Z" creationid="Ceti" creationdate="20181123T125408Z">
-        <seg>Ling Xiao wiped off the bloodstains on the scimitar and put it back into the scabbard. At present, the scimitar was rather handy to use, so he did not intend to throw it away for the time being. He only replied after hearing You XiaoMo's question, "It is obvious that he knows us quite well."</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T134434Z" creationid="Ceti" creationdate="20181123T125408Z">
+        <seg>Ling Xiao wiped off the bloodstains on the scimitar and put it back into the scabbard. The scimitar was rather handy to use, so he did not intend to throw it away for the time being. He only replied after hearing You XiaoMo's question, "It is obvious that he knows us quite well."</seg>
       </tuv>
     </tu>
     <tu>
@@ -23324,8 +23324,8 @@
       <tuv lang="ZH-CN">
         <seg>只是走前看着他们的眼神还是显得意味深长，特别是看向凌霄时的眼神，总感觉里面似乎藏着某些他们不知道的趣味一样。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T125018Z" creationid="Ceti" creationdate="20181123T125018Z">
-        <seg>It was just that the gaze he directed at them before he appeared rather significant. Especially when looking at Ling Xiao, it always felt as if there were some interesting things they did not know hidden inside.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T134358Z" creationid="Ceti" creationdate="20181123T125018Z">
+        <seg>It was just that the gaze he directed at them before he left appeared rather significant. It gave them the feeling as if there were some interesting things they did not know hidden away, especially when he was looking at Ling Xiao.</seg>
       </tuv>
     </tu>
     <tu>
