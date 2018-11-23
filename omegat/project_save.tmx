@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9978,8 +9978,8 @@
       <tuv lang="ZH-CN">
         <seg>一个小时后，空中两道纠缠的身影终于分开了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181121T140733Z" creationid="Ceti" creationdate="20181121T140733Z">
-        <seg>An hour later, the two figures tangled together in the air finally separated.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T133540Z" creationid="Ceti" creationdate="20181121T140733Z">
+        <seg>The two figures tangled together in the air finally separated an hour later.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33207,8 +33207,8 @@
       <tuv lang="ZH-CN">
         <seg>曾经有一段时间，有人一直在他耳边念叨着这个名字，那时他就很想会一会此人，只是一直没机会碰到而已。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181121T142417Z" creationid="Ceti" creationdate="20181121T142417Z">
-        <seg>There was a period of time when someone kept talking about the person with this name. At that time, he had wanted to meet the person, it was just that he did not have the opportunity to encounter him.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T133804Z" creationid="Ceti" creationdate="20181121T142417Z">
+        <seg>There was a period of time when someone kept talking about the person with this name. He had wanted to meet the person at that time, it was just that he did not have the opportunity to encounter this person.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57725,8 +57725,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>这种情形如果是在平时，肯定会将前来灵山探宝的人都吸引过来，毕竟战斗的人是两名十二阶强者，不过这个时候大家的目标都是灵山山顶，结果观众反而只有游小默一个。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181121T140659Z" creationid="Ceti" creationdate="20181121T140659Z">
-        <seg>If this situation happened in normal times, it would certainly attract the people who came to the Spirit Mountain for treasure-hunting. After all, the ones fighting were two Level Twelve experts. However, at this time, everyone's goal was the peak of the Spirit Mountain, so the audience only consisted of You XiaoMo.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T133517Z" creationid="Ceti" creationdate="20181121T140659Z">
+        <seg>If this situation happened in normal times, it would certainly attract the people who came to the Spirit Mountain for treasure-hunting. After all, the ones fighting were two Level Twelve experts. However, everyone's goal was the peak of the Spirit Mountain at this time, so the audience only consisted of You XiaoMo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62025,8 +62025,8 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       <tuv lang="ZH-CN">
         <seg>黑袍男子伸出猩红的舌头舔了舔干燥的嘴唇，“当然，你的名字我可是如雷贯耳，怎么也忘不了啊，很久以前我就想会一会你了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181121T142117Z" creationid="Ceti" creationdate="20181121T142117Z">
-        <seg>The black man flicked out his scarlet tongue and licked his dry lips. "Of course, your name is like thunder piercing the ears to me. I can't forget your name no matter what. I've wanted to meet you for a long time now."</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T133742Z" creationid="Ceti" creationdate="20181121T142117Z">
+        <seg>The black robed man flicked out his scarlet tongue and licked his dry lips. "Of course, your name is like thunder piercing the ears to me. I can't forget your name no matter what. I've wanted to meet you for a long time now."</seg>
       </tuv>
     </tu>
     <tu>
@@ -62041,8 +62041,8 @@ Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a 
       <tuv lang="ZH-CN">
         <seg>黑袍男子手上的烧火棍正绽放着紫色的光芒，好像蠢蠢欲动一样，凌霄手上则是从其他洞府搜刮来的大刀，大刀刀刃是罕见的黑色，上面的红色血迹还没来得及擦干净。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181121T141335Z" creationid="Ceti" creationdate="20181121T141335Z">
-        <seg>The fire stick in the black robed man's hand was shining with a purple radiance, as if he was getting ready to make a big move. On the other hand, Ling Xiao was gripping the scimitar he had plundered from the other Immortal’s Caves. The edge of the blade that was black in color - which was a rarely seen feature - was stained with red blood that had not been cleaned up/had red bloodstains.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T133715Z" creationid="Ceti" creationdate="20181121T141335Z">
+        <seg>The fire stick in the black robed man's hand was shining with a purple radiance, as if he was getting ready to make a big move. On the other hand, Ling Xiao was gripping the scimitar he had plundered from another Immortal’s Cave. The edge of the blade that was black in color - which was a rarely seen feature - was stained with red blood that had not been cleaned up.</seg>
       </tuv>
     </tu>
     <tu>
