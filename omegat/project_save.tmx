@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43915,6 +43915,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180823T142058Z" creationid="yun" creationdate="20180823T142058Z">
         <seg>You XiaoMo slowly turned his head and the sudden appearance of a certain someone scared him to death as he fell onto the table. His heart was pounding and no words came out. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默缠了他三天也没能让他松口，最后只好放弃，用不太灵光的脑袋瓜子自己想，至于转生丹，他已经交给凌霄了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181123T133508Z" creationid="Lilly" creationdate="20181123T133508Z">
+        <seg>You XiaoMo didn't manage to get him to speak even after three days of pestering and could only give up and try and figure it out with his own not-as-bright mind. As for the Reincarnation Pill, he had handed that over to Ling Xiao already.</seg>
       </tuv>
     </tu>
     <tu>
