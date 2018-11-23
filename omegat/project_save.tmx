@@ -1894,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你以后一定是蠢死的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T131045Z" creationid="Ceti" creationdate="20181123T131045Z">
+        <seg>"You'll definitely die of stupidity in the future." (你以后一定是蠢死的)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你们不是第一批人。”老人略不耐烦的说道，“每年都有很多外来者想出海去寻找通灵玄龟，但是很多人都是出海后就再也没有回来，偶尔也就只有一两个能幸运的活着回来。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180901T134232Z" creationid="Ceti" creationdate="20180830T131313Z">
@@ -41105,6 +41113,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180905T035758Z" creationid="elaine" creationdate="20180905T035758Z">
         <seg>You XiaoMo pouted and ignored him. He lifted the cup and fed the baby turtle some tea, and the Metal Swallowing Beast also came over to join the fun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默撇撇嘴，苦恼道：“我印象中四灵之中真龙族和玄龟族对我们还挺友好的，那个人既然有十二阶修为，应该是这两族的人吧，可是我不知道他们族中谁是十二阶强者啊，你让我怎么猜啊！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181123T130952Z" creationid="Ceti" creationdate="20181123T130952Z">
+        <seg>You XiaoMo pouted and said in vexation, "I remember that among the Four Ancient Beast Clans, the True Dragon Clan and the Black Turtle Clan are quite friendly to us. Since that person has a cultivation base of Level Twelve, he should be from these two clans. But I don't know who are the Level Twelve experts in their clans. How in the world can I guess who he is?!"</seg>
       </tuv>
     </tu>
     <tu>
