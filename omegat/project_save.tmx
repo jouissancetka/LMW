@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33269,6 +33269,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>最后游小默还是没能从凌霄那里得到答案，要么自己想，要么等到答案的主人自己出来公布的那一天。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181123T133033Z" creationid="Lilly" creationdate="20181123T133033Z">
+        <seg>In the end, You XiaoMo didn't manage to get an answer from Ling Xiao. He could only figure it out himself or wait for someone to tell him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>最后游小默还是累倒在凌霄怀里，那动作和力道分明就是要把那一阵子没做的都攒在这一次，他身体条件再怎会好也经不起那样的折磨，等他醒过来已经日上三竿了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181121T032522Z" creationid="yun" creationdate="20181121T032522Z">
@@ -50740,6 +50748,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181123T132203Z" creationid="Ceti" creationdate="20181119T135048Z">
         <seg>Chapter 614: Identity Guessing
 Translated by Kollumceti of Exiled Rebels Scanlations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第&lt;t0/&gt;615章 闯祸</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181123T124117Z" creationid="Lilly" creationdate="20181123T124117Z">
+        <seg>Chapter 615: Causing Trouble</seg>
       </tuv>
     </tu>
     <tu>
