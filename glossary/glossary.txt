@@ -420,3 +420,4 @@ xx 家	xx Family/Clan
 龙息	Dragon's Breath
 寒潭	cold lake
 晶石	spirit stone
+天梯	heavenly stairs
