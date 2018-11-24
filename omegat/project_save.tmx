@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50463,6 +50463,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181121T043518Z" creationid="elaine" creationdate="20181121T043518Z">
         <seg>Chapter 613: Unexpected Man</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第616章 意外的惊喜</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="yun" changedate="20181124T020752Z" creationid="yun" creationdate="20181124T020752Z">
+        <seg>Chapter 616 An Unexpected Surprise</seg>
       </tuv>
     </tu>
     <tu>
