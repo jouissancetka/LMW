@@ -14744,6 +14744,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>乌鸦外表看起来伤得不重，但是内伤却很严重。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181125T034625Z" creationid="Ceti" creationdate="20181125T034625Z">
+        <seg>Crow did not look heavily injured, but his internal injuries were quite serious.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>乍一看像个飘飘，实际上是个帅哥。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20180828T032651Z" creationid="elaine" creationdate="20180828T032651Z">
@@ -16874,8 +16882,8 @@
       <tuv lang="ZH-CN">
         <seg>他的小师弟正在和一名神境七星的强者战斗，而且明显人一看就知道他处于绝对的上风，那名叫乌鸦的男子在刚照面的时候就已经受伤了，最后不得不退回战斗圈。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181125T034145Z" creationid="Ceti" creationdate="20181125T034145Z">
-        <seg>His little-shidi was fighting with a seven star Divine Realm expert, and it was obvious that he had the upper hand. The man called Crow was already injured when they first met, and finally had no choice but to return to the battle ring.</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181125T034601Z" creationid="Ceti" creationdate="20181125T034145Z">
+        <seg>His little-shidi was fighting with a seven star Divine Realm expert, and it was obvious that he had the upper hand. The man called Crow was already injured when they first met, and finally had no choice but to retreat from the battle ring.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17476,6 +17484,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181124T072115Z" creationid="yun" creationdate="20181124T072115Z">
         <seg>After Fu ZiLin was saved by the Metal Swallowing Beast, he was temporarily safe but because the Metal Swallowing Beast's identity was exposed as You XiaoMo's contracted demon beast, the two faced even stronger attacks.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>伏子林还以为他们准备加入战斗圈，他觉得他们过去只会给小师弟添麻烦，正想把他们叫回来，就看到他们悄悄的跑向那名叫乌鸦的男子。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181125T034544Z" creationid="Ceti" creationdate="20181125T034544Z">
+        <seg>Fu Zilin thought they were going to enter the battle ring. He thought they would only cause trouble to his little-shidi if they went over and was about to call them back when he saw them stealthily running towards that man called Crow.</seg>
       </tuv>
     </tu>
     <tu>
