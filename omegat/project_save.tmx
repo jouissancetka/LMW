@@ -1270,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“二师兄，你怎么会一个人在这里，之前是不是有两只小妖兽救了你？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181125T022441Z" creationid="elaine" creationdate="20181125T022441Z">
+        <seg>"Second-shixiong, why are you here by yourself? Weren't there two demon beasts who saved you before?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“二师兄，是我，可是你怎么会在这里，你跟大师兄？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181124T192043Z" creationid="elaine" creationdate="20181124T192043Z">
@@ -42309,6 +42317,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默没有看地上的尸体，比起凌霄的血腥，他杀的几个人根本不算什么，小巫见大巫，没法比的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181125T022420Z" creationid="elaine" creationdate="20181125T022420Z">
+        <seg>You XiaoMo didn't look at the corpses on the ground. Compared to Ling Xiao's bloodlust, these few people he killed didn't count for anything much. There was simply no way to compare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默没有选择特殊石室，他现在需要的是巩固修为，而不是快速的提升实力，不然对他将来的发展僵尸一个巨大的阻碍。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180921T144310Z" creationid="Lilly" creationdate="20180921T144310Z">
@@ -45547,6 +45563,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180722T095848Z" creationid="Ceti" creationdate="20180722T060427Z">
         <seg>His 'teammates' had rushed out before You XiaoMo could react.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游小默还没忘记他是来找那两只闯祸精的，虽然他们救了二师兄让他气消了九成，但是还有一成绝对不能就这么算了，如果小乒认出二师兄，应该早点跟他说才对。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181125T022611Z" creationid="elaine" creationdate="20181125T022611Z">
+        <seg>You XiaoMo hadn't forgotten that he came to find those two troublemakers. Even though them saving second-shixiong made his anger vanish almost completely, but there was still that little portion that he absolutely couldn't just let go of like this. If Xiao Ping had recognized second-shixiong, he should've told him sooner.</seg>
       </tuv>
     </tu>
     <tu>
