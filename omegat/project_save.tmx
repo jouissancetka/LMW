@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你逃不掉的，乖乖就擒吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181125T080845Z" creationid="Ceti" creationdate="20181125T080845Z">
+        <seg>"If you can't escape. Obediently be taken prisoner."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你逃不掉的，束手就擒，我可以优待你。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181125T051810Z" creationid="Ceti" creationdate="20181125T051810Z">
@@ -46795,6 +46803,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180810T134308Z" creationid="Ceti" creationdate="20180809T110722Z">
         <seg>You ZhenTian suddenly swept off the chinaware on the table onto the floor. The wrath bubbling up after he had been fooled was impossible to rid from his mind. Especially when he though of how they had actually let them openly slip away during the birthday banquet organized by the Cang Alliance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>游震天的声音突然在他耳边响起。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181125T080909Z" creationid="Ceti" creationdate="20181125T080904Z">
+        <seg>You ZhenTian's voice suddenly sounded beside his ear.</seg>
       </tuv>
     </tu>
     <tu>
