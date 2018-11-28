@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18482,8 +18482,8 @@
       <tuv lang="ZH-CN">
         <seg>傅苍穹摆摆手让自己的弟子不用紧张，微笑的走出来说道：“不知莫部长有何指教？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T135701Z" creationid="Ceti" creationdate="20181128T135701Z">
-        <seg>Fu CangQiong waved his hands and signaled to his disciples that there was no need to be nervous. He walked out with a smile and said, "I wonder what advice Chief Mo has for me?"</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T140149Z" creationid="Ceti" creationdate="20181128T135701Z">
+        <seg>Fu CangQiong waved his hands and signaled to his disciples that there was no need to be nervous. He walked out with a smile and said, "I wonder what comments/advice Chief Mo has for me?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -54990,6 +54990,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180913T010430Z" creationid="yun" creationdate="20180913T010430Z">
         <seg>Mo Jing blocked with ease.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莫玛冷哼一声，“指教倒不敢当，老夫只希望傅盟主不要阻挡古玛部落找仇人算账，这是老夫和他们的恩怨，老夫敬重傅盟主的为人，想来你应该不是那种会随便插手别人私事的人。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T140300Z" creationid="Ceti" creationdate="20181128T140124Z">
+        <seg>Mo Ma snorted, "I dare not give any comments. This old man only hopes that Alliance Head Fu would not obstruct the Guma Tribe from getting revenge on their enemies. This is an old score between them and this old man. The old man respects the man of the old man and thinks that you should not be the kind of person who will interfere in other people's private affairs casually."</seg>
       </tuv>
     </tu>
     <tu>
