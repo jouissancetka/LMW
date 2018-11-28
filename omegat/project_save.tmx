@@ -42037,6 +42037,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默接收了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T144518Z" creationid="Ceti" creationdate="20181128T144518Z">
+        <seg>You XiaoMo accepted it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默接过地形图，想到老板之前赠送的茶跟酒，他不懂酒，但是稍微懂点茶，那半斤确实是极品，当即从怀里掏出一枚十级灵丹递给他。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180819T061338Z" creationid="yun" creationdate="20180819T061338Z">
