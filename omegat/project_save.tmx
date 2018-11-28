@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5106,6 +5106,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180929T175610Z" creationid="Lilly" creationdate="20180929T175610Z">
         <seg>"Little martial brother, do you not know the procedures here?" Wei Bai's low voice sounded, tone a little shocked and a little worried.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“小师弟，你怎么样？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181128T140627Z" creationid="Lilly" creationdate="20181128T140627Z">
+        <seg>"Little-shidi, are you alright?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17556,6 +17564,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181002T151629Z" creationid="elaine" creationdate="20181002T151629Z">
         <seg>Considering JiJiu Town's circumstances, there was no way the concierge would dare to chop up the people from JiJiu Town and turn them into stuffing. So if his guess was correct, it was very likely that those two foreigners had been murdered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>伏子林&lt;t0/&gt;急忙跑过来将他扶起来，这一探发现他受了点内伤，所幸不是很严重。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181128T140707Z" creationid="Lilly" creationdate="20181128T140707Z">
+        <seg>Fu ZiLin hurriedly ran over to support him and realized that the other had some internal injuries, though luckily they weren't too serious.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42469,6 +42485,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>游小默朝他摆了下手，掏出一枚灵丹吞下，几乎入口即化，没一会，伤势&lt;t0/&gt;顿时好&lt;t1/&gt;了七八成，也难怪，他吃的是十一级灵丹，这种灵丹的药效&lt;t2/&gt;拿来治普通&lt;t3/&gt;的内伤确实有点暴殄天物。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181128T140748Z" creationid="Lilly" creationdate="20181128T140748Z">
+        <seg>You XiaoMo waved a hand at him, taking out a magic pill and ingesting it. It melted nigh instantly in his mouth and his injuries </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>游小默朝他笑了笑。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180830T131445Z" creationid="Ceti" creationdate="20180830T131445Z">
@@ -50908,6 +50932,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T010228Z" creationid="Lilly" creationdate="20180909T010228Z">
         <seg>Inside the dimension, You JunQiwas sighing as he sat by the lake. During this period of time, he had been troubled over how he was to get his son to accept him, since it seemed like his son didn;t like him, always treating him like air.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>空间里，游小默满嘴鲜血的出现&lt;t0/&gt;在伏子林&lt;t1/&gt;面前，把他吓了一跳，前一秒还在震惊，下一秒就无暇顾及这些了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181128T140613Z" creationid="Lilly" creationdate="20181128T140548Z">
+        <seg>Inside the dimension, You XiaoMo appeared in front of Fu ZiLin, blood pouring from his mouth, giving the other quite the scare. However, his surprise didn't last long.</seg>
       </tuv>
     </tu>
     <tu>
