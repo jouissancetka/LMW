@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5970,6 +5970,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180924T131718Z" creationid="Lilly" creationdate="20180924T131718Z">
         <seg>"I won't go down with you guys," You JunQi suddenly said, halfway down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我已经没什么大碍，不过我们现在的处境有些不妙！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181128T142557Z" creationid="Lilly" creationdate="20181128T142557Z">
+        <seg>"I'm fine, but our current situation definitely isn't!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -42511,8 +42519,8 @@
       <tuv lang="ZH-CN">
         <seg>游小默朝他摆了下手，掏出一枚灵丹吞下，几乎入口即化，没一会，伤势&lt;t0/&gt;顿时好&lt;t1/&gt;了七八成，也难怪，他吃的是十一级灵丹，这种灵丹的药效&lt;t2/&gt;拿来治普通&lt;t3/&gt;的内伤确实有点暴殄天物。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Lilly" changedate="20181128T140748Z" creationid="Lilly" creationdate="20181128T140748Z">
-        <seg>You XiaoMo waved a hand at him, taking out a magic pill and ingesting it. It melted nigh instantly in his mouth and his injuries </seg>
+      <tuv lang="EN-US" changeid="Lilly" changedate="20181128T142536Z" creationid="Lilly" creationdate="20181128T140748Z">
+        <seg>You XiaoMo waved a hand at him, taking out a magic pill and ingesting it. It melted nigh instantly in his mouth and it didn't take a moment before his injuries were mostly healed. Expected, considering that he had ingested a level 11 magic pill. It was rather wasteful to use this sort of magic pill to heal some minor internal injuries.</seg>
       </tuv>
     </tu>
     <tu>
