@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11764,6 +11764,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20181111T142520Z" creationid="Lilly" creationdate="20181111T142438Z">
         <seg>However, Cheng XiangRong's subordinate weren't having such a good time. It was exceptionally tiring to fight one against two.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不一会，古玛部落就充当了先锋。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T135225Z" creationid="Ceti" creationdate="20181128T135225Z">
+        <seg>Soon, the Guma Tribe acted as the vanguard.</seg>
       </tuv>
     </tu>
     <tu>
