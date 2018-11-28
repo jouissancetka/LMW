@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9500,6 +9500,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180831T182012Z" creationid="yun" creationdate="20180831T182012Z">
         <seg>"Then its fine." You XiaoMo's grievance was only towards that proprietress, although this Hei Xiong's inital attitude was rage inducing too. However, he lowered his head in front of all of ZiRan City and thinking they wouldn't be happy, he even buttered them up. (恭维) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那就要看是不是真的，如果是栽赃陷害，任何人都别想动他们。”傅苍穹可不是那种三言两语就被捧昏脑袋的年轻人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T140828Z" creationid="Ceti" creationdate="20181128T140814Z">
+        <seg>"Then it'll depend on whether it's true or not. If you're trying to incriminate them with planted evidence, no one had better think of touching them." Fu CangQiong was not the kind of young man who would be become muddled-headed with just a few words.</seg>
       </tuv>
     </tu>
     <tu>
