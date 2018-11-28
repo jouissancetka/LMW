@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -51024,6 +51024,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>空间里，游小默被凌霄送进来后并没有抱怨，他还是有点自知之明的，留在那里只会妨碍到凌霄，不过想到游震天的实力，他就忍不住担心他。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T181941Z" creationid="elaine" creationdate="20181128T181941Z">
+        <seg>After You XiaoMo was sent by Ling Xiao into the dimension, he didn't complain. He was still at least a little self-aware that staying there would only hinder Ling Xiao, but when he thought of You ZhenTian's strength, he couldn't help but worry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>突如其来的咆哮声吓得鼠兽们果真不敢再靠近，不过黄鼠兽毕竟是高阶妖兽，而且还是变异体，这声警告他并没有放在眼里，只是意外房屋竟然妖兽守着。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181104T035919Z" creationid="elaine" creationdate="20181104T035919Z">
@@ -51855,6 +51863,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181124T190220Z" creationid="elaine" creationdate="20181124T190220Z">
         <seg>Chapter 617: Help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第621章 结束</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T181841Z" creationid="elaine" creationdate="20181128T181841Z">
+        <seg>Chapter 621: Finish</seg>
       </tuv>
     </tu>
     <tu>
