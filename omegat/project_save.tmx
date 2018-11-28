@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58263,8 +58263,8 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       <tuv lang="ZH-CN">
         <seg>这下轮到游小默笑了，“毁你大女儿的容貌我们承认，谁让她对我们出言不逊，说起来这是你的责任，身为人父却教出两个目中无人狂妄自大水性杨花的女儿，都说子不教父之过，真要追究起来，你应该自罚才对！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T143831Z" creationid="Ceti" creationdate="20181128T143348Z">
-        <seg>This time, it was You XiaoMo's turn to laugh, "We admit that we destroyed your eldest daughter's looks. Who asked her speak so rudely to us? Speaking of this, the responsibility for this incident should lie with you. You're a father, yet you brought up two she has taught two daughters who are arrogant and arrogant. They all say that they are not godfathers. They really need to be investigated. You should punish yourself!"</seg>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T144335Z" creationid="Ceti" creationdate="20181128T143348Z">
+        <seg>This time, it was You XiaoMo's turn to laugh, "We admit that we destroyed your eldest daughter's looks. Who asked her speak so rudely to us? Speaking of this, the responsibility for this incident should lie with you. You're a father, yet you brought up two daughters who put on airs and look down on other people/treat others in contempt, are arrogant and conceited, and have loose morals/wanton/fickle and lascivious. It is said that a child that untaught is better unborned (子不教父之过). If you really want to purse this, you should be punishing yourself!"</seg>
       </tuv>
     </tu>
     <tu>
