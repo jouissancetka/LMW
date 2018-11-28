@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58653,6 +58653,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>这些都是游震天看不到的，否则他一定会很震惊凌霄为什么能使出通灵玄龟的绝对防御，到时他身具四种血脉的事情很可能会曝光了，对凌霄绝对不是好事，因为关于四灵的血脉从远古就有一个传说。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T183430Z" creationid="elaine" creationdate="20181128T183430Z">
+        <seg>You ZhenTian couldn't see any of this, or else he would definitely be very surprised that Ling Xiao could use the Psychic Black Turtle's absolute defense. If that came to be, the truth about the four bloodlines in Ling Xiao's body would very likely be exposed, which wouldn't be good for him at all, since there was an ancient legend concerning the Four Ancient Beast Clans' bloodline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>这件事也很好理解。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180827T140352Z" creationid="Ceti" creationdate="20180826T065835Z">
@@ -59161,6 +59169,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180917T045702Z" creationid="yun" creationdate="20180917T045702Z">
         <seg>This was his biggest transaction ever, although Wu Cheng questioned if You XiaoMo had this much spirit gems to offer, especially before the aution. After all, the Top Ten (十神榜) were invited too.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这是通灵玄龟的绝对防御。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T183125Z" creationid="elaine" creationdate="20181128T183125Z">
+        <seg>This was the Psychic Black Turtle's absolute defense.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59971,6 +59987,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
         <seg>Although the Psychic Black Turtle had many side families, the Black Turtle Clan (玄龟族) was just as rare as the Qilin, Demon Phoenix, and Dragon Clans. In total, the clan had around several dozen members, and so they greatly valued their descendants. 
 
 Baby Turtle (小乌龟) was a part of the Black Turtle Clan and was only half a year old. It hadn't even fully gained its Intelligence (灵智) yet, so it would be easy to form a contract with it. Because of these reasons, Mo Jing was worried that the two people in front of him had a similar idea towards the Baby Turtle. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>通灵玄龟的防御号称通天大陆第一，随着修为的提升，防御之力自然越来越强大，以凌霄现在的修为，虽然无法阻挡太长时间，但是为他争取一点时间却是可以的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T183301Z" creationid="elaine" creationdate="20181128T183301Z">
+        <seg>The Psychic Black Turtle's defense was number one on TongTian Continent. As one's cultivation base increased, their ability to defend would naturally grow stronger and stronger as well. With Ling Xiao's current cultivation base, even though he couldn't maintain it for very long, it was enough for him to steal a bit of time.</seg>
       </tuv>
     </tu>
     <tu>
