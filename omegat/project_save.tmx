@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13556,6 +13556,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181010T021218Z" creationid="Ceti" creationdate="20181009T054350Z">
         <seg>At the same time, in a bamboo stilt house (竹楼) located in the Hundred Birds Valley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>与此同时，透明的障壁在黑蛇的攻击下终于出现一道裂缝，裂缝迅速的蔓延，当不堪重负的时候，障壁立刻被攻破了，透明的琉璃片像雪花一样散落。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T184456Z" creationid="elaine" creationdate="20181128T184456Z">
+        <seg>At the same time, under the black snakes' attack, a crack finally appeared in the transparent wall. The cracks spread swiftly, and when it couldn't endure it any longer, the wall immediately split apart as the transparent glass crystals fell like snowflakes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36753,6 +36761,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Lilly" changedate="20180909T013432Z" creationid="Lilly" creationdate="20180909T013432Z">
         <seg>He didn't have a water-parting bead, so he had to use his soul power to part the water and create a bubble of air about half a meter in diameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>没有阻碍，大片的黑蛇立刻嘶吼着扑向凌霄，千钧一发之际，凌霄脚底轰然一声冒出炽热的火焰，紫红色的火焰反扑向在浓雾中翻滚的黑蛇。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T184641Z" creationid="elaine" creationdate="20181128T184641Z">
+        <seg>Without a barrier in their way, the black snakes instantly hissed and threw themselves at Ling Xiao. In a moment of life or death, blazing flames erupted with a bang under Ling Xiao's feet, and the purple flames rushed towards the black snakes that were roiling in the thick fog.</seg>
       </tuv>
     </tu>
     <tu>
