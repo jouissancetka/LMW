@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32481,6 +32481,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="elaine" changedate="20181003T035101Z" creationid="elaine" creationdate="20181003T035101Z">
         <seg>So the moment he asked about the price, the proprietress instantly started running her mouth like a train. Moreover, she seemed to be very adept at spewing nonsense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>所以他在闭关的时候不断尝试如何让四种力量趋向平衡，后来他的实验成功了，但是时间却很短暂，至于上次为什么会成功，大概是因为运气。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="elaine" changedate="20181128T183921Z" creationid="elaine" creationdate="20181128T183921Z">
+        <seg>So while he was secluded, he had tested endlessly how to balance the four different bloodlines. Afterwards, his experiments succeeded, but he could only maintain it for a very short amount of time. The reason it had succeeded last time was most likely because of luck.</seg>
       </tuv>
     </tu>
     <tu>
