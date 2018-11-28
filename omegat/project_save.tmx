@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10636,6 +10636,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181112T005753Z" creationid="yun" creationdate="20181112T005753Z">
         <seg>Being able to shake off multiple Emperor Realm practitioners needed at least a divine realm level. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一旁听到他们对话的凌霄转过身来，嘴角一勾，轻笑道：“老家伙，你倒是说说，你要和我们对质什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T142643Z" creationid="Ceti" creationdate="20181128T142643Z">
+        <seg>lx who had overheard their conversation turned around. The corner of his mouth lifed as he lightly smiled, "You old fart, why don't you tell us what you're going to confront us about?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -55054,6 +55062,14 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181128T135437Z" creationid="Ceti" creationdate="20181128T135412Z">
         <seg>Mo Ma lead her men to/before the Cang Alliance fraction/camp. Her chilly and gloomy gaze fell directly on You XiaoMo and Ling Xiao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莫玛脸色微沉，“你们杀了我两个女儿。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T142653Z" creationid="Ceti" creationdate="20181128T142653Z">
+        <seg>Mo Ma's expression darkened slightly, "You guys killed my two daughters."</seg>
       </tuv>
     </tu>
     <tu>
