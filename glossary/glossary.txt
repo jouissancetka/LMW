@@ -426,3 +426,4 @@ xx 家	xx Family/Clan
 须印	Xu Seal
 须弥印	Sumeru Seal
 万沙部落	WanSha Tribe
+傅盟主	Alliance Head Fu
