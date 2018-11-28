@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6722,6 +6722,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20180921T232810Z" creationid="yun" creationdate="20180921T232810Z">
         <seg>"If you want to die, then i'll grant your wish."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“既然傅盟主认为老夫是栽赃陷害，那么就让他们出来跟老夫对质。”莫玛顺着杆子说道，他知道要过傅苍穹这关很难，但如今各大势力都在，赤血家族是他们的同盟，妖凰族与两人也有仇怨，这个时候找茬正是好时机。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T141731Z" creationid="Ceti" creationdate="20181128T141731Z">
+        <seg>"Since Alliance Head Fu believes that this old man is trying to incriminate them with planted evidence, you should let them come out and confront me." Mo Ma went with the flow and said (顺着杆子). He knew it would be difficult to cross over his hurdle called Fu CangQiong, but now all the major forces were present. The  Vermillion Blood Clan was their allies, and the Demon Phoenix Clan also had enmity with those two. This was a good time to pick a quarrel.</seg>
       </tuv>
     </tu>
     <tu>
