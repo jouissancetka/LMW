@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5826,6 +5826,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20180825T133924Z" creationid="kollumceti" creationdate="20180822T075800Z">
         <seg>"Let's destroy them one by one."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我们没有杀你两个女儿。”凌霄气定神闲的回道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T142659Z" creationid="Ceti" creationdate="20181128T142659Z">
+        <seg>"We did not kill your two daughters." lx gaave a calm and composed reply.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20576,6 +20584,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>凌霄摆手，“证据呢？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T142713Z" creationid="Ceti" creationdate="20181128T142713Z">
+        <seg>lx shrugged and spread his hands (摆手), "Where's your evidence?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>凌霄摇摇头，这点程度还不至于让他的内伤加重，不然他岂不白调养几个月，而且离开小岛之前他就知道不可避免要动手。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181117T065220Z" creationid="yun" creationdate="20181117T065220Z">
@@ -25718,6 +25734,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="yun" changedate="20181121T040631Z" creationid="yun" creationdate="20181121T040631Z">
         <seg>Since Ling Xiao didn't like to eat pills refined by other people, You XiaoMo never paid much attention to magic pills they scavenged. Other than that, soul/skill training manuals weren't all that useful either, so he picked out the higher leveled ones and left the others in the corner. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>因为只杀了一个，游小默在心里帮忙补充。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T142704Z" creationid="Ceti" creationdate="20181128T142704Z">
+        <seg>Because we only killed one, momo helped to supplement lx's words in his heart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55070,6 +55094,22 @@ Translated by Kollumceti of Exiled Rebels Scanlations</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ceti" changedate="20181128T135437Z" creationid="Ceti" creationdate="20181128T135412Z">
         <seg>Mo Ma lead her men to/before the Cang Alliance fraction/camp. Her chilly and gloomy gaze fell directly on You XiaoMo and Ling Xiao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莫玛怒斥道：“你胡说，人分明就是你们杀的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T142709Z" creationid="Ceti" creationdate="20181128T142709Z">
+        <seg>"You're talking nonsense," Mo Ma  indignantly denounced, "You're clealy the one who killed them."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莫玛脸上的怒火一滞，眉毛反深深的皱起来，阴沉的目光在凌霄和游小默身上来回扫射，“有人亲眼看到你毁了我大女儿的容貌，你敢不承认？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ceti" changedate="20181128T142918Z" creationid="Ceti" creationdate="20181128T142918Z">
+        <seg>Mo Ma's anger , her eyebrows wrinkled deeply, and her gloomy eyes swept up and down the sky and over Xiaomo.'Somebody saw you destroy my eldest daughter's appearance. Do you dare to admit it?'</seg>
       </tuv>
     </tu>
     <tu>
