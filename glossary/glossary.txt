@@ -32,7 +32,7 @@
 空间符	teleportation talisman
 灵晶	spirit gem
 丹师工会	Mage Association
-驭兽工会	Beast Transfiguration Guild/Association
+驭兽工会	Beast Transfiguration Guild
 闭关	secluded cultivation 
 本命契约	lifebound contract
 晋级	advance
