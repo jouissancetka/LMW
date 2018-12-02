@@ -430,3 +430,4 @@ xx 家	xx Family/Clan
 黑蛇狂舞	Black Snakes' Frenzy
 小三	Xiao San
 蓬莱书馆	PengLai Bookstore
+龙越	Long Yue
