@@ -429,3 +429,4 @@ xx 家	xx Family/Clan
 傅盟主	Alliance Head Fu
 黑蛇狂舞	Black Snakes' Frenzy
 小三	Xiao San
+蓬莱书馆	PengLai Bookstore
