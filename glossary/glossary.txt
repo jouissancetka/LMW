@@ -431,3 +431,5 @@ xx 家	xx Family/Clan
 小三	Xiao San
 蓬莱书馆	PengLai Bookstore
 龙越	Long Yue
+张澜宇	Zhang LanYu
+婉雅	Wan Ya
