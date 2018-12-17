@@ -440,3 +440,4 @@ xx 家	xx Family/Clan
 绝灵阵	spirit-locking circle
 噬铁兽	Iron Devouring Beast
 时光壁	Time Wall
+阵眼	core
