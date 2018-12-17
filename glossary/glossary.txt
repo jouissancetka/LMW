@@ -437,3 +437,4 @@ xx 家	xx Family/Clan
 通天帝	TongTian Emperor
 白袍人	white-robed 
 复灵丹	Spiritual-Replenishing Pill
+绝灵阵	spirit-locking circle
