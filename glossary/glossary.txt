@@ -439,3 +439,4 @@ xx 家	xx Family/Clan
 复灵丹	Spiritual-Replenishing Pill
 绝灵阵	spirit-locking circle
 噬铁兽	Iron Devouring Beast
+时光壁	Time Wall
