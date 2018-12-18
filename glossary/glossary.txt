@@ -442,3 +442,4 @@ xx 家	xx Family/Clan
 时光壁	Time Wall
 阵眼	core
 阵	array
+绝杀阵	Absolute Death Array
