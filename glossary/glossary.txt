@@ -458,3 +458,4 @@ xx 家	xx Family/Clan
 极品灵眼	transcendent level Spirit Eye
 宗祠	Ancestral Shrine
 灵犀	Resonance Bullet
+麒麟主	Qilin Lord
