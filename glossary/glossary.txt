@@ -460,3 +460,5 @@ xx 家	xx Family/Clan
 灵犀	Resonance Bullet
 麒麟主	Qilin Lord
 参龙草	Dragon Ginseng Grass
+程义	Cheng Yi
+柯于明	Ke YuMing
