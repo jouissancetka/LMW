@@ -466,3 +466,5 @@ xx 家	xx Family/Clan
 天易	Tian Yi
 品水	Grade Water
 玉露丹	Jade Dew Pill
+姚森	Yao Sen
+姚林	Yao Lin
