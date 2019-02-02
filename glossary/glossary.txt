@@ -1,4 +1,4 @@
-﻿灵水	spiritual water
+灵水	spiritual water
 游小默	You XiaoMo
 灵水	spiritual water
 丹	pill
