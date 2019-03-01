@@ -490,3 +490,4 @@ xx 家	xx Family/Clan
 阴阳神丹	Yin Yang God's Pill
 白骨城	White Bone City
 何平	He Ping
+白鲨	White Shark
