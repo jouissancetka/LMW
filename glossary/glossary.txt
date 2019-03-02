@@ -493,3 +493,4 @@ xx 家	xx Family/Clan
 白鲨	White Shark
 乔森	Johnson
 贺一鸣	He YiMing
+修真者	cultivator
