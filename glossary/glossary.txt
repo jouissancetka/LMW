@@ -498,3 +498,4 @@ xx 家	xx Family/Clan
 雷霆学院	Thunderclap University
 游家	You family
 游容	You Rong
+明静	Ming Jing
