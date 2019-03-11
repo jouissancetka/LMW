@@ -502,3 +502,4 @@ xx 家	xx Family/Clan
 低级位面	Lower Level Realm
 栗宏	Li Hong
 人狼	Lycan
+雷霆学院	Thunderclap Academy
