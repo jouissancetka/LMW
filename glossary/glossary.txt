@@ -503,3 +503,4 @@ xx 家	xx Family/Clan
 栗宏	Li Hong
 人狼	Lycan
 雷霆学院	Thunderclap Academy
+栗林	Li Lin
